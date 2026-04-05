@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The AI Digest</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #fff1e5;
+      --surface: rgba(255, 255, 255, 0.58);
+      --surface-strong: rgba(255, 255, 255, 0.76);
+      --ink: #1f1a17;
+      --muted: #6f6359;
+      --border: rgba(79, 59, 42, 0.22);
+      --accent: #9e2f17;
+      --accent-soft: rgba(158, 47, 23, 0.08);
+      --shadow: 0 18px 40px rgba(78, 57, 39, 0.08);
+      --content-width: 760px;
+      --sidebar-width: 280px;
+      --header-height: 76px;
+    }
+
+    body.dark {
+      color-scheme: dark;
+      --bg: #1a1411;
+      --surface: rgba(38, 30, 26, 0.92);
+      --surface-strong: rgba(45, 37, 32, 0.96);
+      --ink: #f4e9de;
+      --muted: #c9b8aa;
+      --border: rgba(244, 233, 222, 0.14);
+      --accent: #f4a261;
+      --accent-soft: rgba(244, 162, 97, 0.14);
+      --shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+      overflow-x: hidden;
+    }
+
+    body {
+      line-height: 1.7;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-color: rgba(158, 47, 23, 0.35);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.12em;
+      transition: color 0.2s ease, text-decoration-color 0.2s ease;
+    }
+
+    a:hover,
+    a:focus-visible {
+      color: var(--accent);
+      text-decoration-color: currentColor;
+    }
+
+    button {
+      font: inherit;
+    }
+
+    .page {
+      min-height: 100vh;
+    }
+
+    .masthead {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      min-height: var(--header-height);
+      padding: 1rem 1.5rem;
+      background: color-mix(in srgb, var(--bg) 88%, white 12%);
+      border-bottom: 1px solid var(--border);
+      backdrop-filter: blur(14px);
+    }
+
+    .masthead-left,
+    .masthead-right {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .menu-toggle,
+    .theme-toggle {
+      appearance: none;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--ink);
+      border-radius: 999px;
+      padding: 0.5rem 0.9rem;
+      cursor: pointer;
+    }
+
+    .brand {
+      text-align: center;
+    }
+
+    .brand-kicker {
+      margin: 0 0 0.2rem;
+      font-size: 0.73rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .brand-title {
+      margin: 0;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: clamp(2rem, 4vw, 3.4rem);
+      line-height: 0.95;
+      letter-spacing: -0.04em;
+      font-weight: 900;
+    }
+
+    .brand-rule {
+      width: min(240px, 42vw);
+      height: 4px;
+      border: 0;
+      background: var(--accent);
+      margin: 0.65rem auto 0;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(220px, var(--sidebar-width)) minmax(0, 1fr);
+      align-items: start;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: var(--header-height);
+      height: calc(100vh - var(--header-height));
+      overflow-y: auto;
+      padding: 1.5rem;
+      border-right: 1px solid var(--border);
+      background: color-mix(in srgb, var(--bg) 82%, white 18%);
+    }
+
+    .sidebar h2 {
+      margin: 0 0 1rem;
+      font-size: 0.88rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .archive-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 0.55rem;
+    }
+
+    .archive-link {
+      display: block;
+      width: 100%;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: inherit;
+      text-align: left;
+      padding: 0.75rem 0.9rem;
+      border-radius: 0.6rem;
+      cursor: pointer;
+      transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+    }
+
+    .archive-link:hover,
+    .archive-link:focus-visible {
+      background: var(--surface);
+      border-color: rgba(158, 47, 23, 0.34);
+      transform: translateY(-1px);
+    }
+
+    .archive-link.active {
+      background: var(--surface-strong);
+      border-color: rgba(158, 47, 23, 0.5);
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    .content {
+      padding: clamp(1.5rem, 2vw, 2.5rem);
+    }
+
+    .article-shell {
+      max-width: var(--content-width);
+      margin: 0 auto;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      padding: clamp(1.25rem, 4vw, 3rem);
+      overflow-wrap: break-word;
+      word-break: break-word;
+    }
+
+    .article-meta {
+      margin-bottom: 1.25rem;
+      color: var(--muted);
+      font-size: 0.92rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .article-title {
+      margin: 0 0 1.5rem;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: clamp(2.4rem, 6vw, 4.6rem);
+      line-height: 0.95;
+      letter-spacing: -0.04em;
+      font-weight: 700;
+    }
+
+    .article-body {
+      font-size: clamp(1.08rem, 1.25vw, 1.22rem);
+      overflow-wrap: break-word;
+      word-break: break-word;
+    }
+
+    .article-body a {
+      word-break: break-all;
+    }
+
+    .article-body > :first-child {
+      margin-top: 0;
+    }
+
+    .article-body p {
+      margin: 1rem 0 1.15rem;
+    }
+
+    .article-body ul,
+    .article-body ol {
+      margin: 1rem 0 1.2rem 1.3rem;
+      padding: 0;
+    }
+
+    .article-body li + li {
+      margin-top: 0.7rem;
+    }
+
+    .article-body blockquote {
+      margin: 1.5rem 0;
+      padding: 0.1rem 0 0.1rem 1.2rem;
+      border-left: 3px solid var(--accent);
+      color: var(--muted);
+    }
+
+    .article-body hr {
+      border: 0;
+      border-top: 1px solid var(--border);
+      margin: 2rem 0;
+    }
+
+    .story-heading {
+      margin: 2.25rem 0 0.9rem;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 1.16rem;
+      line-height: 1.3;
+      letter-spacing: 0.01em;
+    }
+
+    .story-heading strong {
+      font-weight: 700;
+    }
+
+    .also-notable {
+      margin: 2.4rem 0 0;
+      padding: 1.1rem 1.2rem 0.2rem;
+      border: 1px solid var(--border);
+      background: var(--accent-soft);
+    }
+
+    .also-notable .story-heading {
+      margin-top: 0;
+    }
+
+    .status,
+    .empty-state {
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    .status.error,
+    .empty-state.error {
+      color: var(--accent);
+    }
+
+    @media (max-width: 900px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: sticky;
+        top: var(--header-height);
+        z-index: 15;
+        height: auto;
+        max-height: 0;
+        overflow: hidden;
+        padding-top: 0;
+        padding-bottom: 0;
+        border-right: 0;
+        border-bottom: 1px solid var(--border);
+        transition: max-height 0.25s ease, padding 0.25s ease;
+      }
+
+      body.nav-open .sidebar {
+        max-height: 60vh;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+      }
+    }
+
+    @media (min-width: 901px) {
+      .menu-toggle {
+        display: none;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .masthead {
+        padding-inline: 1rem;
+      }
+
+      .brand-kicker {
+        font-size: 0.66rem;
+      }
+
+      .theme-toggle,
+      .menu-toggle {
+        padding-inline: 0.72rem;
+      }
+
+      .article-shell {
+        padding-inline: 1rem;
+      }
+
+      .article-title {
+        margin-bottom: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="masthead">
+      <div class="masthead-left">
+        <button class="menu-toggle" id="menuToggle" type="button" aria-expanded="false" aria-controls="sidebar">Archive</button>
+      </div>
+      <div class="brand" aria-label="The AI Digest masthead">
+        <p class="brand-kicker">Daily briefings in artificial intelligence</p>
+        <h1 class="brand-title">The AI Digest</h1>
+        <hr class="brand-rule">
+      </div>
+      <div class="masthead-right">
+        <button class="theme-toggle" id="themeToggle" type="button" aria-pressed="false">Dark mode</button>
+      </div>
+    </header>
+
+    <div class="layout">
+      <aside class="sidebar" id="sidebar">
+        <h2>Archive</h2>
+        <ul class="archive-list" id="archiveList">
+          <li class="status">Loading archive...</li>
+        </ul>
+      </aside>
+
+      <main class="content">
+        <article class="article-shell">
+          <div class="article-meta" id="articleMeta">Edition</div>
+          <div id="articleContent">
+            <p class="status">Loading digest...</p>
+          </div>
+        </article>
+      </main>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const archiveList = document.getElementById("archiveList");
+    const articleMeta = document.getElementById("articleMeta");
+    const articleContent = document.getElementById("articleContent");
+    const menuToggle = document.getElementById("menuToggle");
+    const themeToggle = document.getElementById("themeToggle");
+    const manifestUrl = "manifest.json";
+    const digestDir = "digests/";
+    const dateFormatter = new Intl.DateTimeFormat("en-GB", {
+      day: "numeric",
+      month: "long",
+      year: "numeric"
+    });
+
+    function isValidDigestFile(file) {
+      return /^\d{4}-\d{2}-\d{2}\.md$/.test(file);
+    }
+
+    function formatDigestDate(file) {
+      const datePart = file.replace(/\.md$/, "");
+      const parsed = new Date(datePart + "T12:00:00Z");
+      if (Number.isNaN(parsed.getTime())) {
+        return datePart;
+      }
+      return dateFormatter.format(parsed);
+    }
+
+    function setTheme(theme) {
+      const dark = theme === "dark";
+      document.body.classList.toggle("dark", dark);
+      themeToggle.setAttribute("aria-pressed", String(dark));
+      themeToggle.textContent = dark ? "Light mode" : "Dark mode";
+      localStorage.setItem("ai-digest-theme", dark ? "dark" : "light");
+    }
+
+    function closeNav() {
+      document.body.classList.remove("nav-open");
+      menuToggle.setAttribute("aria-expanded", "false");
+    }
+
+    function openNav() {
+      document.body.classList.add("nav-open");
+      menuToggle.setAttribute("aria-expanded", "true");
+    }
+
+    function toggleNav() {
+      if (document.body.classList.contains("nav-open")) {
+        closeNav();
+      } else {
+        openNav();
+      }
+    }
+
+    function setLoadingState(message) {
+      articleContent.innerHTML = '<p class="status">' + message + "</p>";
+    }
+
+    function setErrorState(message) {
+      articleContent.innerHTML = '<p class="status error">' + message + "</p>";
+    }
+
+    function enhanceArticleMarkup(container) {
+      const paragraphs = Array.from(container.querySelectorAll("p"));
+      const headingParagraphs = paragraphs.filter((paragraph) => {
+        const text = paragraph.textContent.trim();
+        return paragraph.children.length === 1 &&
+          paragraph.firstElementChild &&
+          paragraph.firstElementChild.tagName === "STRONG" &&
+          paragraph.firstElementChild.textContent.trim() === text;
+      });
+
+      headingParagraphs.forEach((paragraph) => {
+        paragraph.classList.add("story-heading");
+      });
+
+      const alsoHeading = headingParagraphs.find((paragraph) => paragraph.textContent.trim().toLowerCase() === "also notable");
+      if (alsoHeading) {
+        const box = document.createElement("section");
+        box.className = "also-notable";
+        alsoHeading.parentNode.insertBefore(box, alsoHeading);
+        let node = alsoHeading;
+        while (node) {
+          const current = node;
+          node = node.nextSibling;
+          box.appendChild(current);
+        }
+      }
+
+      container.querySelectorAll("a").forEach((link) => {
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+      });
+    }
+
+    function stripLeadingTitle(markdown) {
+      return markdown.replace(/^\s*#\s+.+\n+/, "");
+    }
+
+    function buildArticle(title, markdown) {
+      const cleaned = stripLeadingTitle(markdown.trim());
+      const body = marked.parse(cleaned);
+      articleMeta.textContent = "Digest";
+      articleContent.innerHTML = '<h2 class="article-title">' + title + '</h2><div class="article-body">' + body + "</div>";
+      enhanceArticleMarkup(articleContent.querySelector(".article-body"));
+    }
+
+    function markActiveDigest(file) {
+      Array.from(archiveList.querySelectorAll(".archive-link")).forEach((button) => {
+        button.classList.toggle("active", button.dataset.file === file);
+      });
+    }
+
+    async function loadDigest(file) {
+      markActiveDigest(file);
+      setLoadingState("Loading digest...");
+      try {
+        const response = await fetch(digestDir + file, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error("Digest could not be loaded.");
+        }
+        const markdown = await response.text();
+        const title = formatDigestDate(file);
+        buildArticle(title, markdown);
+        const params = new URLSearchParams(window.location.search);
+        params.set("date", file.replace(/\.md$/, ""));
+        history.replaceState({}, "", window.location.pathname + "?" + params.toString());
+        if (window.innerWidth <= 900) {
+          closeNav();
+        }
+      } catch (error) {
+        articleMeta.textContent = "Digest";
+        setErrorState(error.message || "Digest could not be loaded.");
+      }
+    }
+
+    function renderArchive(files) {
+      if (!files.length) {
+        archiveList.innerHTML = '<li class="empty-state">No digests available yet.</li>';
+        setErrorState("No digests are listed in manifest.json.");
+        return;
+      }
+
+      const sorted = files.slice().sort().reverse();
+      archiveList.innerHTML = "";
+
+      sorted.forEach((file) => {
+        const item = document.createElement("li");
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "archive-link";
+        button.dataset.file = file;
+        button.textContent = formatDigestDate(file);
+        button.addEventListener("click", () => loadDigest(file));
+        item.appendChild(button);
+        archiveList.appendChild(item);
+      });
+
+      const params = new URLSearchParams(window.location.search);
+      const requested = params.get("date");
+      const requestedFile = requested ? requested + ".md" : null;
+      const initialFile = requestedFile && sorted.includes(requestedFile) ? requestedFile : sorted[0];
+      loadDigest(initialFile);
+    }
+
+    async function loadManifest() {
+      try {
+        const response = await fetch(manifestUrl, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error("Archive manifest could not be loaded.");
+        }
+
+        const manifest = await response.json();
+        const files = Array.isArray(manifest.digests) ? manifest.digests.filter(isValidDigestFile) : [];
+        renderArchive(files);
+      } catch (error) {
+        archiveList.innerHTML = '<li class="empty-state error">' + (error.message || "Archive manifest could not be loaded.") + "</li>";
+        setErrorState(error.message || "Archive manifest could not be loaded.");
+      }
+    }
+
+    menuToggle.addEventListener("click", toggleNav);
+    themeToggle.addEventListener("click", () => {
+      const nextTheme = document.body.classList.contains("dark") ? "light" : "dark";
+      setTheme(nextTheme);
+    });
+
+    const savedTheme = localStorage.getItem("ai-digest-theme");
+    setTheme(savedTheme === "dark" ? "dark" : "light");
+    marked.setOptions({
+      breaks: false,
+      gfm: true
+    });
+
+    loadManifest();
+  </script>
+</body>
+</html>
