@@ -304,6 +304,50 @@
       color: var(--accent);
     }
 
+    /* Deep-link highlight */
+    .article-body [id^="p"] {
+      scroll-margin-top: calc(var(--header-height) + 2rem);
+      position: relative;
+      transition: background 2s ease, box-shadow 2s ease;
+    }
+
+    .article-body [id^="p"].hl {
+      background: var(--accent-soft);
+      box-shadow: inset 3px 0 0 var(--accent);
+    }
+
+    .article-body [id^="p"] .p-link {
+      position: absolute;
+      left: -1.6rem;
+      top: 0.15em;
+      opacity: 0;
+      font-size: 0.82em;
+      color: var(--muted);
+      cursor: pointer;
+      text-decoration: none;
+      user-select: none;
+      transition: opacity 0.15s ease;
+    }
+
+    .article-body [id^="p"]:hover .p-link {
+      opacity: 0.6;
+    }
+
+    .article-body [id^="p"] .p-link:hover {
+      opacity: 1;
+      color: var(--accent);
+    }
+
+    ::target-text {
+      background: color-mix(in srgb, var(--accent) 18%, transparent);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .article-body [id^="p"] {
+        transition: none;
+      }
+    }
+
     @media (max-width: 900px) {
       .layout {
         grid-template-columns: 1fr;
@@ -488,6 +532,31 @@
         link.target = "_blank";
         link.rel = "noopener noreferrer";
       });
+
+      // Assign paragraph IDs for deep-linking
+      let pIdx = 0;
+      container.querySelectorAll("p, li, blockquote").forEach((el) => {
+        if (!el.closest("[id^='p']") && el.textContent.trim()) {
+          pIdx++;
+          el.id = "p" + pIdx;
+          const anchor = document.createElement("a");
+          anchor.className = "p-link";
+          anchor.href = "#p" + pIdx;
+          anchor.textContent = "\u00B6";
+          anchor.title = "Copy link to this paragraph";
+          anchor.addEventListener("click", (e) => {
+            e.preventDefault();
+            const params = new URLSearchParams(window.location.search);
+            const url = window.location.origin + window.location.pathname + "?" + params.toString() + "#" + el.id;
+            navigator.clipboard.writeText(url).then(() => {
+              anchor.textContent = "\u2713";
+              setTimeout(() => { anchor.textContent = "\u00B6"; }, 1200);
+            });
+          });
+          el.style.position = "relative";
+          el.prepend(anchor);
+        }
+      });
     }
 
     function stripLeadingTitle(markdown) {
@@ -525,6 +594,8 @@
         if (window.innerWidth <= 900) {
           closeNav();
         }
+        // Deep-link scroll + highlight
+        scrollToHash();
       } catch (error) {
         articleMeta.textContent = "Digest";
         setErrorState(error.message || "Digest could not be loaded.");
@@ -588,6 +659,20 @@
       breaks: false,
       gfm: true
     });
+
+    function scrollToHash() {
+      const hash = window.location.hash.replace(/^#/, "");
+      if (!hash) return;
+      const target = document.getElementById(hash);
+      if (!target) return;
+      target.classList.add("hl");
+      requestAnimationFrame(() => {
+        target.scrollIntoView({ behavior: "smooth", block: "center" });
+      });
+      setTimeout(() => { target.classList.remove("hl"); }, 3000);
+    }
+
+    window.addEventListener("hashchange", scrollToHash);
 
     loadManifest();
   </script>
