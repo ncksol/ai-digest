@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-14",
+  "searches": [
+    {
+      "query": "AI news today April 14 2026",
+      "resultCount": 10,
+      "source": "web_search (autocli unavailable - Chrome extension not connected)",
+      "tweets": []
+    },
+    {
+      "query": "OpenAI GPT-6 launch April 2026",
+      "resultCount": 10,
+      "source": "web_search",
+      "tweets": []
+    },
+    {
+      "query": "Claude Anthropic news April 14 2026",
+      "resultCount": 10,
+      "source": "web_search",
+      "tweets": []
+    },
+    {
+      "query": "Stanford HAI AI Index 2026 report findings",
+      "resultCount": 10,
+      "source": "web_search",
+      "tweets": []
+    },
+    {
+      "query": "Anthropic Claude cache TTL prompt cache five minutes quota",
+      "resultCount": 10,
+      "source": "web_search",
+      "tweets": []
+    },
+    {
+      "query": "GPT-6 Spud April 16 release date OpenAI",
+      "resultCount": 7,
+      "source": "web_search",
+      "tweets": []
+    },
+    {
+      "query": "AI agent open source LLM news April 14 2026",
+      "resultCount": 10,
+      "source": "web_search",
+      "tweets": []
+    },
+    {
+      "query": "Anthropic Christian leaders morals Claude Washington Post",
+      "resultCount": 10,
+      "source": "web_search",
+      "tweets": []
+    },
+    {
+      "query": "Sam Altman Molotov cocktail home attack blog post",
+      "resultCount": 5,
+      "source": "web_search",
+      "tweets": []
+    }
+  ],
+  "note": "Twitter searches via autocli failed (Chrome extension not connected to daemon). All data gathered via web_search and web_fetch instead.",
+  "selected": [
+    {"id": "stanford-hai-2026", "author": "Stanford HAI", "reason": "Major annual report - China erasing US AI lead, trust at new lows"},
+    {"id": "altman-attacks", "author": "Multiple sources", "reason": "Two attacks on Altman's home in 48 hours - Molotov + gunfire"},
+    {"id": "openai-dresser-memo", "author": "The Verge/Gizmodo", "reason": "Leaked OpenAI CRO memo attacking Anthropic, confirming Spud previews"},
+    {"id": "claude-cache-ttl", "author": "The Register/Reddit", "reason": "Cache TTL reduction from 1h to 5m causing quota burns"},
+    {"id": "anthropic-christian-summit", "author": "Washington Post", "reason": "Anthropic hosting Christian leaders for Claude moral development"},
+    {"id": "brad-gerstner-spud", "author": "All-In Podcast", "reason": "Altimeter CEO says Spud 'on par with Mythos'"},
+    {"id": "minimax-mmx-cli", "author": "MarkTechPost", "reason": "MiniMax agent CLI for multimodal capabilities"}
+  ],
+  "rejected_notable": []
+}
