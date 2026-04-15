@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-15",
+  "searches": [
+    {
+      "query": "AI",
+      "resultCount": 7,
+      "tweets": [
+        {"id": "2043713987171492224", "author": "@HowToAI_", "text": "RAG is broken and nobody's talking about it. Stanford researchers exposed the fatal flaw killing every AI that reads your docs product...", "likes": 2600, "views": 283000, "timestamp": "2026-04-14T00:00:00Z"},
+        {"id": "2042875513492947286", "author": "@DeRonin_", "text": "IMPORTANT: Anthropic's CEO predicted that software engineers will be fully automated in 12 months...", "likes": 1400, "views": 777000, "timestamp": "2026-04-12T00:00:00Z"},
+        {"id": "2042553489037910124", "author": "@steipete", "text": "but why. it runs on a raspberry pi.", "likes": 3100, "views": 164000, "timestamp": "2026-04-13T00:00:00Z"},
+        {"id": "2042341482531864741", "author": "@karpathy", "text": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people...", "likes": 3400, "views": 306000, "timestamp": "2026-04-13T00:00:00Z"}
+      ]
+    },
+    {
+      "query": "Sam Altman",
+      "resultCount": 7,
+      "tweets": [
+        {"id": "2043732699429625999", "author": "@CollinRugg", "text": "JUST IN: FBI agents have just raided the home belonging to the suspect accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's home...", "likes": 5100, "views": 771000, "timestamp": "2026-04-14T00:00:00Z"},
+        {"id": "2043452771656245421", "author": "@kloss_xyz", "text": "somewhere out there rn Sam Altman is screaming at the top of his lungs...", "likes": 34000, "views": 2700000, "timestamp": "2026-04-14T00:00:00Z"},
+        {"id": "2044220010156179691", "author": "@birdabo", "text": "ANTHROPIC JUST SHIFTED TO USAGE BASED BILLING FOR ENTERPRISE USERS...", "likes": 817, "views": 80000, "timestamp": "2026-04-15T00:00:00Z"}
+      ]
+    },
+    {
+      "query": "open source AI model",
+      "resultCount": 7,
+      "tweets": []
+    },
+    {
+      "query": "AI agent",
+      "resultCount": 0,
+      "tweets": []
+    },
+    {
+      "query": "from:karpathy",
+      "resultCount": 7,
+      "tweets": [
+        {"id": "2040511542500970760", "author": "@karpathy", "text": "Interesting.. Chain of thought is a reduce...", "likes": 483, "views": 57000, "timestamp": "2026-04-11T00:00:00Z"}
+      ]
+    },
+    {
+      "query": "from:AnthropicAI",
+      "resultCount": 5,
+      "tweets": [
+        {"id": "2041275563466502560", "author": "@AnthropicAI", "text": "Our run-rate revenue has surpassed $30 billion...", "likes": 7800, "views": 6000000, "timestamp": "2026-04-07T00:00:00Z"}
+      ]
+    }
+  ],
+  "selected": [
+    {"id": "web-gpt54cyber", "author": "OpenAI", "reason": "Major product launch: GPT-5.4-Cyber cybersecurity model"},
+    {"id": "web-anthropic-billing", "author": "Anthropic", "reason": "Enterprise pricing restructured to usage-based billing"},
+    {"id": "web-moreno-gama", "author": "DOJ/Fortune/CNBC", "reason": "Altman attacker charged with attempted murder, kill list revealed"},
+    {"id": "web-deepmind-philosopher", "author": "DeepMind", "reason": "DeepMind hires philosopher Henry Shevlin for consciousness research"},
+    {"id": "web-hassabis-yegge", "author": "VentureBeat", "reason": "Hassabis publicly attacks Steve Yegge over Google AI adoption claims"},
+    {"id": "web-spud-no-launch", "author": "FindSkill/ainvest", "reason": "GPT-6/Spud did not launch on rumoured April 14 date"}
+  ],
+  "rejected_notable": [
+    {"id": "2026731645169185220", "author": "@karpathy", "reason": "Outside 24h window - from weeks ago (37k likes)"},
+    {"id": "2043452771656245421", "author": "@kloss_xyz", "reason": "Meme tweet about Altman, 34k likes but no news value"},
+    {"id": "2041275563466502560", "author": "@AnthropicAI", "reason": "Outside 24h - from April 7 (7.8k likes)"}
+  ]
+}
