@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-16",
+  "searches": [
+    {
+      "query": "AI since:2026-04-15",
+      "resultCount": 9,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044599228438028671","author":"@demishassabis","text":"more info here:","likes":110,"views":19000,"derived_timestamp":"2026-04-16T02:10:17.533Z","age_hours":7.2},
+        {"id":"2044599020690010217","author":"@demishassabis","text":"Our most expressive and steerable TTS model yet! Designed to give builders granular control over AI-generated speech, Gemini 3.1 Flash TTS...","likes":888,"views":69000,"derived_timestamp":"2026-04-16T02:09:28.002Z","age_hours":7.2},
+        {"id":"2044436998648193333","author":"@gdb","text":"More on GPT-5.4 Pro's latest mathematical contribution...","likes":1000,"views":125000,"derived_timestamp":"2026-04-15T15:25:38.937Z","age_hours":18.0},
+        {"id":"2044672981641937126","author":"@arrakis_ai","text":"BREAKING : GPT-IMAGE-2 IS ROLLINGOUT!","likes":159,"views":9500,"derived_timestamp":"2026-04-16T07:03:21.667Z","age_hours":2.3},
+        {"id":"2044667428509188340","author":"@shiri_shh","text":"But how many GPUS do you get for $50M in 2026?...Allbirds sold its entire shoe business...rebranded to NewBird AI","likes":29,"views":1900,"derived_timestamp":"2026-04-16T06:49:39.960Z","age_hours":2.6},
+        {"id":"2044481727738089548","author":"@OpenAINewsroom","text":"When ChatGPT first launched, there was an enormous gender gap...That gap is now gone.","likes":3000,"views":270000,"derived_timestamp":"2026-04-15T18:23:23.183Z","age_hours":15.0},
+        {"id":"2044468295957635392","author":"@dwarkesh_sp","text":"I asked Jensen: 2 out of the top 3 models in the world, Claude and Gemini, were trained on TPU...","likes":1800,"views":326000,"derived_timestamp":"2026-04-15T17:30:00.797Z","age_hours":15.9},
+        {"id":"2044460211893661801","author":"@MKBHD","text":"Shoe company pivots overnight to AI company, stock price spikes. It's not April Fool's Day? This isn't The Onion?","likes":10000,"views":772000,"derived_timestamp":"2026-04-15T16:57:53.406Z","age_hours":16.4},
+        {"id":"2044675483267166430","author":"@business","text":"Big Tech companies say northern Spain's AI buildout is going so well...","likes":82,"views":14000,"derived_timestamp":"2026-04-16T07:13:18.101Z","age_hours":2.2}
+      ]
+    },
+    {
+      "query": "LLM since:2026-04-15",
+      "resultCount": 5,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044279595692896509","author":"@aakashgupta","text":"Karpathy's LLM Wiki pattern replaces the entire RAG pipeline with a folder of markdown files...","likes":0,"views":8000,"derived_timestamp":"2026-04-15T05:02:28Z","age_hours":22.0},
+        {"id":"2044529044088029312","author":"@cremieuxrecueil","text":"If you write a bunch of one-sentence paragraphs to sound 'punchy', then it doesn't matter if you didn't have an LLM write it...","likes":1100,"views":26000,"derived_timestamp":"2026-04-15T21:31:24.280Z","age_hours":11.9},
+        {"id":"2044449229041815965","author":"@rohitshinde121","text":"I DM'd @kavashivani about my disagreements...LLM water use is non-consumptive...","likes":137,"views":4700,"derived_timestamp":"2026-04-15T16:14:00Z","age_hours":17.2},
+        {"id":"2044509424987914269","author":"@LLMJunky","text":"PRO TIP: You don't have to spend a fortune on AI coding tools. Bookmark this...","likes":338,"views":26000,"derived_timestamp":"2026-04-15T20:12:00Z","age_hours":13.2},
+        {"id":"2044404121336250431","author":"@RoundtableSpace","text":"THIS IS A FULLY LLM DRIVEN MULTIPLAYER GAME WHERE YOU MANAGE AI AGENTS INSTEAD OF CLICKING","likes":73,"views":45000,"derived_timestamp":"2026-04-15T13:17:00Z","age_hours":20.2}
+      ]
+    },
+    {
+      "query": "machine learning since:2026-04-15",
+      "resultCount": 5,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044618807608500316","author":"@StatsPapers","text":"Joint Representation Learning and Clustering via Gradient-Based Manifold Optimization","likes":2,"views":124,"derived_timestamp":"2026-04-16T03:28:00Z","age_hours":6.0},
+        {"id":"2044391158592217539","author":"@QuantumDaily","text":"Study Finds Exponential Quantum Advantage in Machine Learning Tasks","likes":11,"views":1400,"derived_timestamp":"2026-04-15T12:25:00Z","age_hours":21.0},
+        {"id":"2044703249987760302","author":"@Kiet_edu","text":"The CSE Department conducted an ANN & ML Project Exhibition...","likes":0,"views":1,"derived_timestamp":"2026-04-16T09:14:00Z","age_hours":0.2},
+        {"id":"2044612934467240248","author":"@StatsPapers","text":"Adaptive Learning via Off-Model Training...","likes":2,"views":132,"derived_timestamp":"2026-04-16T03:04:00Z","age_hours":6.3},
+        {"id":"2044400384798519470","author":"@ML_Chem","text":"Design of Single-Atom Nanozymes...with Machine Learning","likes":3,"views":165,"derived_timestamp":"2026-04-15T13:02:00Z","age_hours":20.4}
+      ]
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-04-15",
+      "resultCount": 5,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044447030353752349","author":"@GoogleDeepMind","text":"Gemini 3.1 Flash TTS...our most controllable text-to-speech model yet...","likes":0,"views":324000,"derived_timestamp":"2026-04-15T16:05:00Z","age_hours":17.3},
+        {"id":"2044555970920288444","author":"@GeminiApp","text":"We've got a special surprise for our Gemini power users. 50% off YouTube Premium...","likes":1900,"views":205000,"derived_timestamp":"2026-04-15T23:18:24.137Z","age_hours":10.1},
+        {"id":"2044491861125996617","author":"@RyanSAdams","text":"AI KYC is here. New claude subscribers asked for gov ID & photo...","likes":809,"views":98000,"derived_timestamp":"2026-04-15T19:03:39.171Z","age_hours":14.3},
+        {"id":"2044437095025140188","author":"@wongmjane","text":"Claude Status Page vs Whole Foods Three Pepper Blend. Who wore it better?","likes":8600,"views":336000,"derived_timestamp":"2026-04-15T15:26:01.915Z","age_hours":18.0},
+        {"id":"2044445911716090212","author":"@GeminiApp","text":"The Gemini app is now on Mac. Option + Space...share your window...","likes":6400,"views":579000,"derived_timestamp":"2026-04-15T16:01:03.978Z","age_hours":17.4}
+      ]
+    },
+    {
+      "query": "open source AI model since:2026-04-15",
+      "resultCount": 5,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044454344347865532","author":"@BrianRoemmele","text":"...on a laptop.","likes":0,"views":5700,"derived_timestamp":"2026-04-15T16:34:00Z","age_hours":16.9},
+        {"id":"2044451770131271871","author":"@atomicbot_ai","text":"Running OpenClaw with Minimax 2.7...recreate Flappy Bird, but with a lobster","likes":43,"views":18000,"derived_timestamp":"2026-04-15T16:24:00Z","age_hours":17.0},
+        {"id":"2044507898177589347","author":"@jayvaidya30","text":"Open source is dead. Bro... what? That's complete BS...","likes":4,"views":222,"derived_timestamp":"2026-04-15T20:06:00Z","age_hours":13.3},
+        {"id":"2044462665129726406","author":"@srcooley3","text":"NVIDIA announced Ising, the first open-source AI model family for quantum computing...","likes":0,"views":29,"derived_timestamp":"2026-04-15T16:58:00Z","age_hours":16.5},
+        {"id":"2044402403370287231","author":"@TeksEdge","text":"MiniMax 2.7 is a top open-source model...non commercial license...","likes":10,"views":1200,"derived_timestamp":"2026-04-15T13:10:00Z","age_hours":20.3}
+      ]
+    },
+    {
+      "query": "AI agent since:2026-04-15",
+      "resultCount": 5,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044521280213307393","author":"@signulll","text":"...agent that is","likes":0,"views":14000,"derived_timestamp":"2026-04-15T20:59:00Z","age_hours":12.5},
+        {"id":"2044436700018139324","author":"@emiratli_","text":"We raised $50M to build the First AI Revenue Agent...","likes":1300,"views":1300000,"derived_timestamp":"2026-04-15T15:24:27.738Z","age_hours":18.0},
+        {"id":"2044366570194190446","author":"@servasyy_ai","text":"Yesterday, a massive drama exploded in the AI circle...EvoMapAI team open-sourced Evolver...","likes":127,"views":36000,"derived_timestamp":"2026-04-15T08:36:00Z","age_hours":24.8},
+        {"id":"2044370455260176713","author":"@DataChaz","text":"SOMEONE PUT AN OPENCLAW-RUN VENDING MACHINE IN SAN FRANCISCO...","likes":322,"views":43000,"derived_timestamp":"2026-04-15T11:01:13.757Z","age_hours":22.4},
+        {"id":"2044300621482705079","author":"@peaq","text":"peaq's first non-human team member just clocked in...Woon, a tokenized AI agent...","likes":387,"views":64000,"derived_timestamp":"2026-04-15T03:24:00Z","age_hours":23.0}
+      ]
+    },
+    {
+      "query": "Sam Altman since:2026-04-15",
+      "resultCount": 5,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044669535152648434","author":"@KatieMiller","text":"The AI doomer that Chris Lehane should take a look at is his own boss Sam Altman...","likes":26,"views":8700,"derived_timestamp":"2026-04-16T06:49:39.960Z","age_hours":2.6},
+        {"id":"2044650168491155807","author":"@the_hindu","text":"Sam Altman is seeking the dismissal of punitive damages claims in his sister's civil lawsuit...","likes":4,"views":2300,"derived_timestamp":"2026-04-16T05:32:42.588Z","age_hours":3.8},
+        {"id":"2044563448177053713","author":"@nypl","text":"The New York Public Library announced today that Karen Hao is the winner of the 2026 Helen Bernstein Book Award...Empire of AI...","likes":7,"views":869,"derived_timestamp":"2026-04-15T23:48:06.854Z","age_hours":9.6},
+        {"id":"2044641948959457478","author":"@CNBCi","text":"Public opinion is negative on AI, which could have major implications for OpenAI and Anthropic...","likes":1,"views":464,"derived_timestamp":"2026-04-16T05:00:02.899Z","age_hours":4.4},
+        {"id":"2044641729400475749","author":"@QoreTech","text":"Dario and Daniela Amodei of Anthropic enter the TIME100 2026 list...","likes":1,"views":15,"derived_timestamp":"2026-04-16T04:59:10.552Z","age_hours":4.4}
+      ]
+    },
+    {
+      "query": "Dario Amodei since:2026-04-15",
+      "resultCount": 6,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044433167289843780","author":"@lavigi","text":"I'm reading The Adolescence of Technology by Dario Amodei...","likes":0,"views":14,"derived_timestamp":"2026-04-15T15:10:00Z","age_hours":18.3},
+        {"id":"2044641729400475749","author":"@QoreTech","text":"Dario and Daniela Amodei of Anthropic enter the TIME100 2026 list...","likes":1,"views":15,"derived_timestamp":"2026-04-16T04:59:10.552Z","age_hours":4.4},
+        {"id":"2044669879068901802","author":"@business_today","text":"Sundar Pichai, Dario Amodei, Neal Mohan are among top tech leaders on Time 100 2026 list","likes":1,"views":203,"derived_timestamp":"2026-04-16T06:51:00Z","age_hours":2.6},
+        {"id":"2044590068770443563","author":"@CtrlAltDwayne","text":"I was at Dario Amodei's house on Saturday...","likes":0,"views":34,"derived_timestamp":"2026-04-16T01:33:00Z","age_hours":7.8},
+        {"id":"2044674267590148510","author":"@_devJNS","text":"SOFTWARE ENGINEERING WILL BE COMPLETELY OBSOLETE IN 6-12 MONTHS - DARIO AMODEI CEO, Anthropic","likes":5,"views":218,"derived_timestamp":"2026-04-16T07:08:00Z","age_hours":2.3}
+      ]
+    },
+    {
+      "query": "Demis Hassabis since:2026-04-15",
+      "resultCount": 5,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044386860365938925","author":"@JonathanBCrabb","text":"I am listening to the new biography of Demis Hassabis...","likes":0,"views":24,"derived_timestamp":"2026-04-15T12:08:00Z","age_hours":21.3},
+        {"id":"2044636840263827516","author":"@yokotf4yur","text":"Adam's concern...Demis Hassabis...massive AI infrastructure...","likes":0,"views":32,"derived_timestamp":"2026-04-16T04:40:00Z","age_hours":4.8},
+        {"id":"2044340970007740697","author":"@futuristufuk","text":"Demis Hassabis says Learning AI Tools Is More Important Than Internships...","likes":3,"views":1000,"derived_timestamp":"2026-04-15T09:06:00Z","age_hours":24.3},
+        {"id":"2044704064311615861","author":"@itshymee","text":"O Living, O Self-Subsisting...","likes":0,"views":7,"derived_timestamp":"2026-04-16T09:18:00Z","age_hours":0.1},
+        {"id":"2044661287544582392","author":"@Corbyn42","text":"The world is really lucky to have Demis Hassabis as the leader...","likes":0,"views":11,"derived_timestamp":"2026-04-16T05:56:00Z","age_hours":3.5}
+      ]
+    },
+    {
+      "query": "from:karpathy since:2026-04-15",
+      "resultCount": 0,
+      "attempts": 4,
+      "tweets": []
+    },
+    {
+      "query": "from:sama since:2026-04-15",
+      "resultCount": 0,
+      "attempts": 4,
+      "tweets": []
+    },
+    {
+      "query": "from:OpenAI since:2026-04-15",
+      "resultCount": 0,
+      "attempts": 4,
+      "tweets": []
+    },
+    {
+      "query": "from:AnthropicAI since:2026-04-15",
+      "resultCount": 1,
+      "attempts": 1,
+      "tweets": [
+        {"id":"2044493337835802948","author":"@AnthropicAI","text":"Research we co-authored on subliminal learning - how LLMs can pass on traits like preferences or misalignment through hidden signals in data - was published today in Nature.","likes":1900,"views":238000,"derived_timestamp":"2026-04-15T19:09:31.246Z","age_hours":14.2}
+      ]
+    }
+  ],
+  "selected": [
+    {"id":"2044460211893661801","author":"@MKBHD","derived_timestamp":"2026-04-15T16:57:53.406Z","age_hours":16.4,"reason":"Viral Allbirds/NewBird AI pivot commentary, 10k likes, 772k views"},
+    {"id":"2044437095025140188","author":"@wongmjane","derived_timestamp":"2026-04-15T15:26:01.915Z","age_hours":18.0,"reason":"Viral Claude status page meme, 8.6k likes, 336k views - Claude outage context"},
+    {"id":"2044445911716090212","author":"@GeminiApp","derived_timestamp":"2026-04-15T16:01:03.978Z","age_hours":17.4,"reason":"Gemini Mac desktop app launch, 6.4k likes, 579k views - major product launch"},
+    {"id":"2044481727738089548","author":"@OpenAINewsroom","derived_timestamp":"2026-04-15T18:23:23.183Z","age_hours":15.0,"reason":"ChatGPT gender gap closure data, 3k likes, 270k views"},
+    {"id":"2044555970920288444","author":"@GeminiApp","derived_timestamp":"2026-04-15T23:18:24.137Z","age_hours":10.1,"reason":"Gemini AI Pro YouTube Premium bundle, 1.9k likes, 205k views"},
+    {"id":"2044493337835802948","author":"@AnthropicAI","derived_timestamp":"2026-04-15T19:09:31.246Z","age_hours":14.2,"reason":"Subliminal learning paper in Nature, 1.9k likes, 238k views - major research"},
+    {"id":"2044468295957635392","author":"@dwarkesh_sp","derived_timestamp":"2026-04-15T17:30:00.797Z","age_hours":15.9,"reason":"Dwarkesh/Jensen interview on TPU vs GPU, 1.8k likes, 326k views"},
+    {"id":"2044436700018139324","author":"@emiratli_","derived_timestamp":"2026-04-15T15:24:27.738Z","age_hours":18.0,"reason":"$50M AI revenue agent raise, 1.3k likes, 1.3M views"},
+    {"id":"2044436998648193333","author":"@gdb","derived_timestamp":"2026-04-15T15:25:38.937Z","age_hours":18.0,"reason":"GPT-5.4 Pro mathematical discovery, 1k likes, 125k views"},
+    {"id":"2044599020690010217","author":"@demishassabis","derived_timestamp":"2026-04-16T02:09:28.002Z","age_hours":7.2,"reason":"Hassabis announces Gemini 3.1 Flash TTS, 888 likes, 69k views"},
+    {"id":"2044491861125996617","author":"@RyanSAdams","derived_timestamp":"2026-04-15T19:03:39.171Z","age_hours":14.3,"reason":"Claude KYC/ID verification controversy, 809 likes, 98k views"},
+    {"id":"2044529044088029312","author":"@cremieuxrecueil","derived_timestamp":"2026-04-15T21:31:24.280Z","age_hours":11.9,"reason":"Viral LLM writing style observation, 1.1k likes"},
+    {"id":"2044370455260176713","author":"@DataChaz","derived_timestamp":"2026-04-15T11:01:13.757Z","age_hours":22.4,"reason":"OpenClaw-run AI vending machine in SF, 322 likes, 43k views"},
+    {"id":"2044672981641937126","author":"@arrakis_ai","derived_timestamp":"2026-04-16T07:03:21.667Z","age_hours":2.3,"reason":"GPT-image-2 rolling out"},
+    {"id":"2044563448177053713","author":"@nypl","derived_timestamp":"2026-04-15T23:48:06.854Z","age_hours":9.6,"reason":"Karen Hao wins Bernstein Award for Empire of AI book"},
+    {"id":"2044669879068901802","author":"@business_today","derived_timestamp":"2026-04-16T06:51:00Z","age_hours":2.6,"reason":"TIME100 2026 list includes Pichai, Amodei siblings"}
+  ],
+  "rejected_notable": [
+    {"id":"2044161906936791179","author":"@OpenAI","derived_timestamp":"2026-04-14T21:12:31.962Z","age_hours":36.2,"reason":"Older than 24h - GPT-5.4-Cyber announcement covered in yesterday's digest"},
+    {"id":"2044366570194190446","author":"@servasyy_ai","derived_timestamp":"2026-04-15T08:36:00Z","age_hours":24.8,"reason":"Older than 24h - EvoMapAI drama"},
+    {"id":"2044340970007740697","author":"@futuristufuk","derived_timestamp":"2026-04-15T09:06:00Z","age_hours":24.3,"reason":"Older than 24h - Hassabis internship quote"}
+  ]
+}
