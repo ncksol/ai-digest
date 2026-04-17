@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-17",
+  "searches": [
+    {
+      "query": "AI since:2026-04-16",
+      "resultCount": 10,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "LLM since:2026-04-16",
+      "resultCount": 10,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "machine learning since:2026-04-16",
+      "resultCount": 8,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-04-16",
+      "resultCount": 10,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "open source AI model since:2026-04-16",
+      "resultCount": 8,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "AI agent since:2026-04-16",
+      "resultCount": 10,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "Sam Altman since:2026-04-16",
+      "resultCount": 10,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "Dario Amodei since:2026-04-16",
+      "resultCount": 8,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "Demis Hassabis since:2026-04-16",
+      "resultCount": 6,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "from:karpathy since:2026-04-16",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    },
+    {
+      "query": "from:sama since:2026-04-16",
+      "resultCount": 3,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "from:OpenAI since:2026-04-16",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "from:AnthropicAI since:2026-04-16",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    }
+  ],
+  "selected": [
+    {
+      "id": "2044780198722498580",
+      "author": "@ClaudeDevs",
+      "derived_timestamp": "2026-04-16T14:09:24+00:00",
+      "age_hours": 16.8,
+      "reason": "Anthropic launches ClaudeDevs account - 18k likes, 6.1M views"
+    },
+    {
+      "id": "2044827705406062670",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-04-16T17:18:10+00:00",
+      "age_hours": 13.7,
+      "reason": "Codex major update with computer use - 11k likes, 1.7M views"
+    },
+    {
+      "id": "2044861690911850863",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-04-16T19:33:13+00:00",
+      "age_hours": 11.4,
+      "reason": "GPT-Rosalind launch - 10k likes, 1.1M views"
+    },
+    {
+      "id": "2044858862042591378",
+      "author": "@sama",
+      "derived_timestamp": "2026-04-16T19:21:59+00:00",
+      "age_hours": 11.6,
+      "reason": "Altman personal endorsement of Codex updates"
+    },
+    {
+      "id": "2044921348540264614",
+      "author": "@sama",
+      "derived_timestamp": "2026-04-16T23:30:16+00:00",
+      "age_hours": 7.5,
+      "reason": "Altman joke about switching to Codex - 6.3k likes"
+    },
+    {
+      "id": "2044814640471810346",
+      "author": "@GergelyOrosz",
+      "derived_timestamp": "2026-04-16T16:26:15+00:00",
+      "age_hours": 14.6,
+      "reason": "Claude regression complaints - 1.7k likes"
+    },
+    {
+      "id": "2044998120287736230",
+      "author": "@FT",
+      "derived_timestamp": "2026-04-17T04:35:20+00:00",
+      "age_hours": 2.4,
+      "reason": "FT: AI threatens banking system"
+    },
+    {
+      "id": "2044944918150324663",
+      "author": "@WSJ",
+      "derived_timestamp": "2026-04-17T01:03:56+00:00",
+      "age_hours": 5.9,
+      "reason": "WSJ: Altman finances murky ahead of IPO"
+    },
+    {
+      "id": "2044745282785886469",
+      "author": "@MiniMax_AI",
+      "derived_timestamp": "2026-04-16T11:50:39+00:00",
+      "age_hours": 19.2,
+      "reason": "MiniMax x Nous Research M2.7 agent collab"
+    },
+    {
+      "id": "2044873497197887757",
+      "author": "@peterottsjo",
+      "derived_timestamp": "2026-04-16T20:20:08+00:00",
+      "age_hours": 10.7,
+      "reason": "Isomorphic Labs interview - Hassabis disease claim"
+    },
+    {
+      "id": "2044869257310396506",
+      "author": "@MacRumors",
+      "derived_timestamp": "2026-04-16T20:03:17+00:00",
+      "age_hours": 10.9,
+      "reason": "Perplexity Personal Computer for Mac"
+    },
+    {
+      "id": "2044709885728989306",
+      "author": "@Reuters",
+      "derived_timestamp": "2026-04-16T09:30:00+00:00",
+      "age_hours": 21.5,
+      "reason": "Altman seeking dismissal of punitive damages"
+    },
+    {
+      "id": "2044856117801685333",
+      "author": "@milesdeutscher",
+      "derived_timestamp": "2026-04-16T19:11:04+00:00",
+      "age_hours": 11.8,
+      "reason": "Claude Code x TradingView setup"
+    },
+    {
+      "id": "2044925053545156905",
+      "author": "@RoundtableSpace",
+      "derived_timestamp": "2026-04-16T23:45:00+00:00",
+      "age_hours": 7.2,
+      "reason": "Comprehensive 2026 model list"
+    }
+  ],
+  "rejected_notable": []
+}
