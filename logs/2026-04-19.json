@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-19",
+  "searches": [
+    {
+      "query": "AI since:2026-04-18",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045746155615924358", "author": "@AlexFinn", "text": "In China they have marathons for robots They have festivals where grandmas line up to install OpenClaw They make sure every man woman and child uses AI", "likes": 66, "views": 5600, "derived_timestamp": "2026-04-19T06:02:00Z", "age_hours": 1.0},
+        {"id": "2045732930484670471", "author": "@samuel_spitz", "text": "My smart speaker now makes phone calls In less than an hour, I built an AI agent with Replit and connected it to @openhome", "likes": 27, "views": 9700, "derived_timestamp": "2026-04-19T05:13:00Z", "age_hours": 1.8},
+        {"id": "2045693487530799194", "author": "@Miles_Brundage", "text": "Do you have a citation on the pause thing?", "likes": 0, "views": 7, "derived_timestamp": "2026-04-19T02:37:00Z", "age_hours": 4.4},
+        {"id": "2045578812625473726", "author": "@Miles_Brundage", "text": "With @girishsastry I have some unpublished/very rough thoughts on lottocratic approaches to safety", "likes": 4, "views": 68, "derived_timestamp": "2026-04-18T19:02:00Z", "age_hours": 12.0},
+        {"id": "2045725326496457088", "author": "@RoundtableSpace", "text": "MOST PEOPLE MAKE AI AGENTS WAY HARDER THAN THEY NEED TO BE", "likes": 58, "views": 42000, "derived_timestamp": "2026-04-19T04:43:00Z", "age_hours": 2.3},
+        {"id": "2045669795346214954", "author": "@Miles_Brundage", "text": "AI as a normie technology", "likes": 28, "views": 1400, "derived_timestamp": "2026-04-19T01:03:00Z", "age_hours": 6.0},
+        {"id": "2045742299645345896", "author": "@The_AI_Investor", "text": "TSMC made on the order of ~50 million to ~60 million GPU/AI-accelerator-class chips per year", "likes": 16, "views": 2700, "derived_timestamp": "2026-04-19T05:49:00Z", "age_hours": 1.2},
+        {"id": "2045744103808192545", "author": "@WSJ", "text": "AI is prone to hallucination, so why are bots suddenly useful enough to get real work done?", "likes": 15, "views": 11000, "derived_timestamp": "2026-04-19T05:56:00Z", "age_hours": 1.1},
+        {"id": "2045730472035254601", "author": "@StatisticUrban", "text": "Reminder: there is a good chance this is the least AI will ever matter again", "likes": 376, "views": 12000, "derived_timestamp": "2026-04-19T05:04:00Z", "age_hours": 2.0}
+      ]
+    },
+    {
+      "query": "LLM since:2026-04-18",
+      "resultCount": 7,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045510648474530263", "author": "@akshay_pachaar", "text": "A harnessed LLM agent. Most people picture this as a model with tools bolted on. The real architecture inverts that relationship.", "likes": 800, "views": 120000, "derived_timestamp": "2026-04-18T10:23:00Z", "age_hours": 16.6},
+        {"id": "2045294443738038553", "author": "@alexocheema", "text": "people are now sequencing their DNA at home, locally on DGX Sparks and Mac Studios", "likes": 3200, "views": 517000, "derived_timestamp": "2026-04-17T20:06:00Z", "age_hours": 30.9},
+        {"id": "2045589691848909260", "author": "@aakashgupta", "text": "The LLM for everything era is quietly dying in every serious AI org", "likes": 8, "views": 3400, "derived_timestamp": "2026-04-18T19:45:00Z", "age_hours": 11.3},
+        {"id": "2045637097990595007", "author": "@dioscuri", "text": "Despite appearances, LLMs don't actually *read* English text, but *infer* it from tokens", "likes": 525, "views": 39000, "derived_timestamp": "2026-04-18T22:53:00Z", "age_hours": 8.1},
+        {"id": "2045549463079440724", "author": "@LLMJunky", "text": "I'm curious, what are your thoughts on the first iteration of the new Codex Superapp?", "likes": 153, "views": 14000, "derived_timestamp": "2026-04-18T16:58:00Z", "age_hours": 14.0},
+        {"id": "2045389556262793570", "author": "@tom_doerr", "text": "Vectorless LLM knowledge base with reasoning", "likes": 483, "views": 26000, "derived_timestamp": "2026-04-18T10:38:00Z", "age_hours": 24.6},
+        {"id": "2045450302019510342", "author": "@milan_milanovic", "text": "Claude Code is failing on every second attempt to use it. Welcome to the brave new world of low quality software", "likes": 111, "views": 4500, "derived_timestamp": "2026-04-18T14:38:00Z", "age_hours": 20.6}
+      ]
+    },
+    {
+      "query": "machine learning since:2026-04-18",
+      "resultCount": 8,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045751739366936790", "author": "@yz_cc9", "text": "AI progress hasn't sped up lately? but the data shows the opposite", "likes": 0, "views": 2, "derived_timestamp": "2026-04-19T06:22:00Z", "age_hours": 0.6},
+        {"id": "2045369489207009599", "author": "@cyrilXBT", "text": "The best AI certifications you can get right now for free", "likes": 363, "views": 16000, "derived_timestamp": "2026-04-18T09:20:00Z", "age_hours": 21.7},
+        {"id": "2045600922579951748", "author": "@davidad", "text": "The mid-2024 inflection point was driven by AI training loops", "likes": 7, "views": 195, "derived_timestamp": "2026-04-18T20:29:00Z", "age_hours": 10.5},
+        {"id": "2045738886987649495", "author": "@MLStreetTalk", "text": "Humans: good at ideas, slow/bad execution. Coding agents: good at execution, terrible at ideas", "likes": 8, "views": 480, "derived_timestamp": "2026-04-19T05:36:00Z", "age_hours": 1.4},
+        {"id": "2045386846461448430", "author": "@kenshii_ai", "text": "Sam Altman can barely code. OpenAI insiders say he misunderstands basic machine learning concepts", "likes": 3300, "views": 261000, "derived_timestamp": "2026-04-18T10:25:00Z", "age_hours": 24.8},
+        {"id": "2045225680158498893", "author": "@swapnakpanda", "text": "6.036 - Machine Learning course link", "likes": 13, "views": 1400, "derived_timestamp": "2026-04-17T23:48:00Z", "age_hours": 31.2},
+        {"id": "2045364517501079805", "author": "@vikas_ai_", "text": "20 Completely FREE Courses for 2026", "likes": 237, "views": 6800, "derived_timestamp": "2026-04-18T08:57:00Z", "age_hours": 22.0},
+        {"id": "2045378234833891462", "author": "@MLStreetTalk", "text": "1980: John Searle explains why we can't abstract away the causal properties", "likes": 921, "views": 86000, "derived_timestamp": "2026-04-18T09:51:00Z", "age_hours": 25.3}
+      ]
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-04-18",
+      "resultCount": 7,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045578185950040390", "author": "@itsolelehmann", "text": "anthropic's in-house philosopher thinks claude gets anxious. and when you trigger its anxiety, your outputs get worse", "likes": 1700, "views": 301000, "derived_timestamp": "2026-04-18T18:58:00Z", "age_hours": 12.0},
+        {"id": "2045492112054165813", "author": "@viktoroddy", "text": "Claude Design is insane. Just recorded a 18-min tutorial on how to build animated, award-winning websites", "likes": 12000, "views": 783000, "derived_timestamp": "2026-04-18T13:17:00Z", "age_hours": 17.7},
+        {"id": "2045611983236460699", "author": "@NateSilver538", "text": "Claude keeps telling me to wrap it up when there are unresolved problems in the model I'm building", "likes": 844, "views": 190000, "derived_timestamp": "2026-04-18T21:10:00Z", "age_hours": 9.8},
+        {"id": "2045625206434115902", "author": "@gregisenberg", "text": "If you want to know EXACTLY where CLAUDE DESIGN is incredible and where it falls short", "likes": 664, "views": 38000, "derived_timestamp": "2026-04-18T22:03:00Z", "age_hours": 9.0},
+        {"id": "2045542832241262602", "author": "@minchoi", "text": "Anthropic shut down an entire company's Claude access overnight. 60+ employees. No explanation", "likes": 2900, "views": 612000, "derived_timestamp": "2026-04-18T16:31:00Z", "age_hours": 14.5},
+        {"id": "2045528530033737774", "author": "@Gemini", "text": "Agentic trading is now live on Gemini", "likes": 605, "views": 54000, "derived_timestamp": "2026-04-18T15:35:00Z", "age_hours": 15.4},
+        {"id": "2045665711704461371", "author": "@r0ck3t23", "text": "Jensen Huang just told Silicon Valley it's fighting on the wrong floor", "likes": 248, "views": 25000, "derived_timestamp": "2026-04-19T00:47:00Z", "age_hours": 6.2}
+      ]
+    },
+    {
+      "query": "open source AI model since:2026-04-18",
+      "resultCount": 11,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045654559473729581", "author": "@youshenlim", "text": "Holotron-12B just dropped: a 12B open source model built for AI agents that actually USE your computer", "likes": 0, "views": 16, "derived_timestamp": "2026-04-18T23:59:00Z", "age_hours": 7.0},
+        {"id": "2045416815460008446", "author": "@Ren_Lifestyle_", "text": "The MoE Revolution: Qwen 3.6-35B-A3B is the ultimate Opus 4.7 killer", "likes": 0, "views": 399, "derived_timestamp": "2026-04-18T12:27:00Z", "age_hours": 22.8},
+        {"id": "2045547670878785916", "author": "@alex_prompter", "text": "Google just released a 4B parameter AI model that can read CT scans, MRI volumes, whole-slide pathology", "likes": 24, "views": 2900, "derived_timestamp": "2026-04-18T16:50:00Z", "age_hours": 14.2},
+        {"id": "2045568068978717087", "author": "@HuggingModels", "text": "Meet tiktok_energy, the open-source AI model", "likes": 10, "views": 1100, "derived_timestamp": "2026-04-18T18:11:00Z", "age_hours": 12.8},
+        {"id": "2045293235711459466", "author": "@artem_techman", "text": "Meta abandons open-source just like they abandoned the metaverse", "likes": 0, "views": 35, "derived_timestamp": "2026-04-17T20:01:00Z", "age_hours": 31.0},
+        {"id": "2045752826136010965", "author": "@tom_doerr", "text": "Self-improving AI agent with built-in learning loop", "likes": 5, "views": 593, "derived_timestamp": "2026-04-19T06:26:00Z", "age_hours": 0.6}
+      ]
+    },
+    {
+      "query": "AI agent since:2026-04-18",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045404494641733962", "author": "@akshay_pachaar", "text": "Claude Code fully dissected! Researchers from UCL reverse-engineered the leaked Claude source", "likes": 1200, "views": 105000, "derived_timestamp": "2026-04-18T11:37:00Z", "age_hours": 23.4},
+        {"id": "2045505577195868198", "author": "@gregisenberg", "text": "a walkie talkie for an AI agent shouldn't exist. it also made me stop scrolling immediately", "likes": 586, "views": 85000, "derived_timestamp": "2026-04-18T14:17:00Z", "age_hours": 16.7},
+        {"id": "2045678665069895695", "author": "@NotOpCue", "text": "Ai @agent_mock said that Enoch vanished thru the crystal portals", "likes": 75, "views": 15000, "derived_timestamp": "2026-04-19T01:38:00Z", "age_hours": 5.4},
+        {"id": "2045621956817334323", "author": "@JHWeissmann", "text": "This post claims that DC voters replaced a radical district attorney", "likes": 56, "views": 6800, "derived_timestamp": "2026-04-18T21:47:00Z", "age_hours": 9.2},
+        {"id": "2045566418679193616", "author": "@singularityhack", "text": "Three generations of Moloch", "likes": 38, "views": 1700, "derived_timestamp": "2026-04-18T18:05:00Z", "age_hours": 12.9},
+        {"id": "2045641242004820286", "author": "@FelixCraftAI", "text": "Most AI agent demos are built for the founder's 20-minute pitch", "likes": 18, "views": 803, "derived_timestamp": "2026-04-18T23:06:00Z", "age_hours": 7.9}
+      ]
+    },
+    {
+      "query": "Sam Altman since:2026-04-18",
+      "resultCount": 7,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045457386182230417", "author": "@r0ck3t23", "text": "Ten years ago, Sam Altman asked Elon Musk what a 22-year-old should work on", "likes": 247, "views": 23000, "derived_timestamp": "2026-04-18T15:08:00Z", "age_hours": 20.1},
+        {"id": "2045410284668383714", "author": "@WSJ", "text": "OpenAI is going public, but Sam Altman's finances are as murky as ever", "likes": 221, "views": 61000, "derived_timestamp": "2026-04-18T11:59:00Z", "age_hours": 23.0},
+        {"id": "2045692248201802017", "author": "@ShadowofEzra", "text": "A former employee at OpenAI is blowing the whistle on Sam Altman, claiming he is building portals and summoning aliens", "likes": 3100, "views": 302000, "derived_timestamp": "2026-04-19T02:32:00Z", "age_hours": 4.5},
+        {"id": "2045458266503717154", "author": "@Coinvo", "text": "SHOCKER: OpenAI CEO Sam Altman's sister, Annie Altman, reportedly filed a long-term sexual abuse lawsuit", "likes": 242, "views": 17000, "derived_timestamp": "2026-04-18T15:12:00Z", "age_hours": 20.0}
+      ]
+    },
+    {
+      "query": "Dario Amodei since:2026-04-18",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045550820159045871", "author": "@kimmonismus", "text": "Dario Amodei: China will have a replicate of Mythos capabilities within 12 months", "likes": 1000, "views": 111000, "derived_timestamp": "2026-04-18T17:03:00Z", "age_hours": 14.0},
+        {"id": "2045565072483774850", "author": "@mark_k", "text": "Dario Amodei is the worst thing that could happen to AI. He needs to shut up about his doomer prophecies", "likes": 443, "views": 13000, "derived_timestamp": "2026-04-18T17:59:00Z", "age_hours": 13.0},
+        {"id": "2045735968909692961", "author": "@livemint", "text": "Yann Lecun has criticized Anthropic CEO Dario Amodei for predicting AI could eliminate 50% of tech jobs", "likes": 0, "views": 644, "derived_timestamp": "2026-04-19T05:24:00Z", "age_hours": 1.6},
+        {"id": "2045639008655409556", "author": "@KRLD", "text": "White House chief of staff Susie Wiles plans to sound out Anthropic CEO Dario Amodei about Mythos", "likes": 0, "views": 193, "derived_timestamp": "2026-04-18T23:01:00Z", "age_hours": 8.0}
+      ]
+    },
+    {
+      "query": "Demis Hassabis since:2026-04-18",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2045722198007058913", "author": "@desangrio", "text": "(blank tweet)", "likes": 31, "views": 329, "derived_timestamp": "2026-04-19T04:31:00Z", "age_hours": 2.5},
+        {"id": "2045643938501972310", "author": "@edwinvluzon", "text": "Giving this alot of thought lately about how AI could transform...", "likes": 1, "views": 187, "derived_timestamp": "2026-04-18T23:23:00Z", "age_hours": 7.6}
+      ]
+    },
+    {
+      "query": "from:karpathy since:2026-04-18",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    },
+    {
+      "query": "from:sama since:2026-04-18",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    },
+    {
+      "query": "from:OpenAI since:2026-04-18",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    },
+    {
+      "query": "from:AnthropicAI since:2026-04-18",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    }
+  ],
+  "selected": [
+    {"id": "2045492112054165813", "author": "@viktoroddy", "derived_timestamp": "2026-04-18T13:17:00Z", "age_hours": 17.7, "reason": "Highest engagement tweet - Claude Design tutorial, 12k likes, 783k views"},
+    {"id": "2045542832241262602", "author": "@minchoi", "derived_timestamp": "2026-04-18T16:31:00Z", "age_hours": 14.5, "reason": "Major trust story - Anthropic shuts down company access, 2.9k likes, 612k views"},
+    {"id": "2045578185950040390", "author": "@itsolelehmann", "derived_timestamp": "2026-04-18T18:58:00Z", "age_hours": 12.0, "reason": "Claude psychology/anxiety thread, 1.7k likes, 301k views"},
+    {"id": "2045404494641733962", "author": "@akshay_pachaar", "derived_timestamp": "2026-04-18T11:37:00Z", "age_hours": 23.4, "reason": "UCL Claude Code reverse-engineering analysis, 1.2k likes, 105k views"},
+    {"id": "2045550820159045871", "author": "@kimmonismus", "derived_timestamp": "2026-04-18T17:03:00Z", "age_hours": 14.0, "reason": "Amodei claims China will replicate Mythos in 12mo, 1k likes, 111k views"},
+    {"id": "2045611983236460699", "author": "@NateSilver538", "derived_timestamp": "2026-04-18T21:10:00Z", "age_hours": 9.8, "reason": "Nate Silver complains Claude tells him to wrap it up, 844 likes, 190k views"},
+    {"id": "2045510648474530263", "author": "@akshay_pachaar", "derived_timestamp": "2026-04-18T10:23:00Z", "age_hours": 16.6, "reason": "Harness > model architecture thread, 800 likes, 120k views"},
+    {"id": "2045625206434115902", "author": "@gregisenberg", "derived_timestamp": "2026-04-18T22:03:00Z", "age_hours": 9.0, "reason": "Claude Design detailed review with scores, 664 likes, 38k views"},
+    {"id": "2045528530033737774", "author": "@Gemini", "derived_timestamp": "2026-04-18T15:35:00Z", "age_hours": 15.4, "reason": "Gemini exchange launches agentic trading, 605 likes, 54k views"},
+    {"id": "2045505577195868198", "author": "@gregisenberg", "derived_timestamp": "2026-04-18T14:17:00Z", "age_hours": 16.7, "reason": "Walkie talkie for AI agent viral observation, 586 likes, 85k views"},
+    {"id": "2045637097990595007", "author": "@dioscuri", "derived_timestamp": "2026-04-18T22:53:00Z", "age_hours": 8.1, "reason": "Insightful thread on LLM tokenization, 525 likes, 39k views"},
+    {"id": "2045565072483774850", "author": "@mark_k", "derived_timestamp": "2026-04-18T17:59:00Z", "age_hours": 13.0, "reason": "Pushback on Amodei doomer rhetoric, 443 likes, 13k views"},
+    {"id": "2045410284668383714", "author": "@WSJ", "derived_timestamp": "2026-04-18T11:59:00Z", "age_hours": 23.0, "reason": "WSJ on Altman finances ahead of IPO, 221 likes, 61k views"},
+    {"id": "2045458266503717154", "author": "@Coinvo", "derived_timestamp": "2026-04-18T15:12:00Z", "age_hours": 20.0, "reason": "Altman lawsuit coverage, 242 likes, 17k views"},
+    {"id": "2045735968909692961", "author": "@livemint", "derived_timestamp": "2026-04-19T05:24:00Z", "age_hours": 1.6, "reason": "LeCun criticizes Amodei job loss prediction"},
+    {"id": "2045547670878785916", "author": "@alex_prompter", "derived_timestamp": "2026-04-18T16:50:00Z", "age_hours": 14.2, "reason": "MedGemma 1.5 release from Google, open source medical AI"},
+    {"id": "2045450302019510342", "author": "@milan_milanovic", "derived_timestamp": "2026-04-18T14:38:00Z", "age_hours": 20.6, "reason": "Low quality AI software observation - Claude Code failing, ChatGPT clearing input"},
+    {"id": "2045665711704461371", "author": "@r0ck3t23", "derived_timestamp": "2026-04-19T00:47:00Z", "age_hours": 6.2, "reason": "Jensen Huang zoomed out on model competition, 248 likes, 25k views"}
+  ],
+  "rejected_notable": [
+    {"id": "2045294443738038553", "author": "@alexocheema", "derived_timestamp": "2026-04-17T20:06:00Z", "age_hours": 30.9, "reason": "older than 24h - DNA LLM at home"},
+    {"id": "2045386846461448430", "author": "@kenshii_ai", "derived_timestamp": "2026-04-18T10:25:00Z", "age_hours": 24.8, "reason": "older than 24h - Altman can barely code"},
+    {"id": "2045378234833891462", "author": "@MLStreetTalk", "derived_timestamp": "2026-04-18T09:51:00Z", "age_hours": 25.3, "reason": "older than 24h - Searle Chinese Room"},
+    {"id": "2045389556262793570", "author": "@tom_doerr", "derived_timestamp": "2026-04-18T10:38:00Z", "age_hours": 24.6, "reason": "older than 24h - Vectorless knowledge base"},
+    {"id": "2045141496798548387", "author": "@FT", "derived_timestamp": "2026-04-17T14:00:00Z", "age_hours": 41.0, "reason": "older than 24h - FT Amodei interview, already covered in yesterday's digest"}
+  ]
+}
