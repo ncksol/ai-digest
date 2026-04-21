@@ -1,0 +1,190 @@
+{
+  "date": "2026-04-21",
+  "searches": [
+    {
+      "query": "AI since:2026-04-20",
+      "resultCount": 11,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046199257430888878", "author": "@steipete", "text": "Interesting shift. These highly subsidized subs are out there to get your code to improve their models...", "likes": 2100, "views": 401000, "derived_timestamp": "2026-04-20T12:08:14Z", "age_hours": 20.6},
+        {"id": "2046170666131669027", "author": "@weezerOSINT", "text": "Lovable has a mass data breach affecting every project created before november 2025...", "likes": 5200, "views": 1200000, "derived_timestamp": "2026-04-20T10:14:37Z", "age_hours": 22.5},
+        {"id": "2046491810181370338", "author": "@pmarca", "text": "Overheard in Silicon Valley: I am bullish AI capability so the consumer surplus is going to be insane...", "likes": 259, "views": 19000, "derived_timestamp": "2026-04-21T07:30:44Z", "age_hours": 1.2},
+        {"id": "2046254937559237012", "author": "@HowToAI_", "text": "Yann LeCun was right the entire time. And generative AI might be a dead end...", "likes": 7400, "views": 563000, "derived_timestamp": "2026-04-20T15:49:29Z", "age_hours": 16.9},
+        {"id": "2046327624092487688", "author": "@AnthropicAI", "text": "We're expanding our collaboration with Amazon to secure up to 5 gigawatts of compute...", "likes": 11000, "views": 1100000, "derived_timestamp": "2026-04-20T20:38:19Z", "age_hours": 12.1},
+        {"id": "2046272438003270086", "author": "@gdb", "text": "Hyatt is deploying AI broadly to its employees", "likes": 324, "views": 71000, "derived_timestamp": "2026-04-20T17:00:00Z", "age_hours": 15.7},
+        {"id": "2046372864857890884", "author": "@satyanadella", "text": "Learn more:", "likes": 29, "views": 15000, "derived_timestamp": "2026-04-20T23:38:00Z", "age_hours": 9.1},
+        {"id": "2046479735484534901", "author": "@business", "text": "When he takes charge at Apple, John Ternus will need to take chances and find the company's footing in AI", "likes": 26, "views": 8500, "derived_timestamp": "2026-04-21T06:42:00Z", "age_hours": 2.0},
+        {"id": "2046475857221517330", "author": "@Scobleizer", "text": "You have seen sycophantic AIs. But with the new AI's coming if YOU kiss the ass of your agents...", "likes": 52, "views": 2800, "derived_timestamp": "2026-04-21T06:27:00Z", "age_hours": 2.2},
+        {"id": "2046489109175185590", "author": "@haider1", "text": "Ex-OpenAI Researcher Daniel Kokotajlo: The army of geniuses in the data center is going to happen...", "likes": 47, "views": 3100, "derived_timestamp": "2026-04-21T07:20:00Z", "age_hours": 1.4},
+        {"id": "2046017433199374610", "author": "@karpathy", "text": "Yeah I've seen it a few times now, all the Enneagram type fives get one shotted into AI psychosis...", "likes": 1100, "views": 87000, "derived_timestamp": "2026-04-20T00:05:43Z", "age_hours": 32.7}
+      ]
+    },
+    {
+      "query": "LLM since:2026-04-20",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046150634756272527", "author": "@mattpocockuk", "text": "If you want to produce a document split it into two phases...", "likes": 400, "views": 46000, "derived_timestamp": "2026-04-20T08:55:01Z", "age_hours": 23.8},
+        {"id": "2046228828108857596", "author": "@joinautopilot", "text": "Congrats to @ralliesarena for getting in and out of ASML...", "likes": 81, "views": 12000, "derived_timestamp": "2026-04-20T14:05:00Z", "age_hours": 18.6},
+        {"id": "2046260305886638317", "author": "@trashh_dev", "text": "me and my llm trying to find an entry level software engineer position", "likes": 12000, "views": 576000, "derived_timestamp": "2026-04-20T16:10:49Z", "age_hours": 16.6},
+        {"id": "2046333456418820377", "author": "@badlogicgames", "text": "many people ask me: what is clankolas?", "likes": 79, "views": 5800, "derived_timestamp": "2026-04-20T21:01:00Z", "age_hours": 11.7},
+        {"id": "2046053467941163055", "author": "@emollick", "text": "The second most important release of the LLM era...", "likes": 955, "views": 182000, "derived_timestamp": "2026-04-20T02:28:00Z", "age_hours": 30.3}
+      ]
+    },
+    {
+      "query": "machine learning since:2026-04-20",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046477808394797245", "author": "@Memoirs", "text": "Traffic Flow Prediction paper", "likes": 0, "views": 23, "derived_timestamp": "2026-04-21T06:35:00Z", "age_hours": 2.1},
+        {"id": "2046406937198342269", "author": "@ramez", "text": "That it's not AGI is the point...", "likes": 0, "views": 96, "derived_timestamp": "2026-04-21T01:52:00Z", "age_hours": 6.9},
+        {"id": "2046104694691422346", "author": "@Memoirs", "text": "Majority Voting for Code Generation paper", "likes": 0, "views": 71, "derived_timestamp": "2026-04-20T05:53:00Z", "age_hours": 26.8},
+        {"id": "2046454042520424611", "author": "@Memoirs", "text": "Evaluating Temporal and Structural Anomaly Detection Paradigms paper", "likes": 0, "views": 32, "derived_timestamp": "2026-04-21T05:01:00Z", "age_hours": 3.7},
+        {"id": "2046486045995278814", "author": "@Memoirs", "text": "FLARE paper", "likes": 0, "views": 15, "derived_timestamp": "2026-04-21T07:08:00Z", "age_hours": 1.6}
+      ]
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-04-20",
+      "resultCount": 4,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046283765543317789", "author": "@aakashgupta", "text": "Kimi K2.6 just matched or beat Claude Opus 4.6, GPT-5.4, and Gemini 3.1 Pro on 6 benchmarks...", "likes": 89, "views": 15000, "derived_timestamp": "2026-04-20T17:44:02Z", "age_hours": 15.0},
+        {"id": "2046345353473950163", "author": "@GergelyOrosz", "text": "A few days ago, Steve posted about how AI usage is low at Google...", "likes": 1100, "views": 278000, "derived_timestamp": "2026-04-20T21:48:46Z", "age_hours": 10.9},
+        {"id": "2046430301593751797", "author": "@emollick", "text": "I find that open weights models over-perform on benchmarks compared to actual real-world usage...", "likes": 183, "views": 22000, "derived_timestamp": "2026-04-21T03:26:19Z", "age_hours": 5.3},
+        {"id": "2046361868076487155", "author": "@ollama", "text": "Kimi K2.6 raises the bar for open-source models...", "likes": 1100, "views": 106000, "derived_timestamp": "2026-04-20T22:54:23Z", "age_hours": 9.8}
+      ]
+    },
+    {
+      "query": "open source AI model since:2026-04-20",
+      "resultCount": 4,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046480635683127803", "author": "@VaibhavSisinty", "text": "This is the second time in four months this has happened...", "likes": 19, "views": 1300, "derived_timestamp": "2026-04-21T06:46:00Z", "age_hours": 1.9},
+        {"id": "2046246279533953439", "author": "@BetaKit", "text": "Cohere's Cassie Cao takes us behind the scenes of the company's new AI transcription model...", "likes": 4, "views": 2900, "derived_timestamp": "2026-04-20T15:15:00Z", "age_hours": 17.5},
+        {"id": "2046375045761470734", "author": "@atomicbot_ai", "text": "You can run Hermes agent by NousResearch with Kimi K2.6...", "likes": 94, "views": 27000, "derived_timestamp": "2026-04-20T23:48:00Z", "age_hours": 8.9},
+        {"id": "2046343131696685494", "author": "@blip_tm", "text": "meta switching to closed source models is a blow to AI chip startups...", "likes": 42, "views": 4300, "derived_timestamp": "2026-04-20T21:39:56Z", "age_hours": 11.1}
+      ]
+    },
+    {
+      "query": "AI agent since:2026-04-20",
+      "resultCount": 4,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046151867177308181", "author": "@akshay_pachaar", "text": "Google DeepMind dropped a paper that should scare every agent builder...", "likes": 758, "views": 75000, "derived_timestamp": "2026-04-20T08:59:55Z", "age_hours": 23.7},
+        {"id": "2046333484319252692", "author": "@chrispavlovski", "text": "Rumble Cloud just launched a one-click-deployment for openclaw...", "likes": 210, "views": 33000, "derived_timestamp": "2026-04-20T21:01:36Z", "age_hours": 11.7},
+        {"id": "2046154121313714398", "author": "@ihtesham2005", "text": "Say goodbye to Remotion. HeyGen just open sourced Hyperframes...", "likes": 603, "views": 57000, "derived_timestamp": "2026-04-20T09:08:52Z", "age_hours": 23.6},
+        {"id": "2046400898214371346", "author": "@TencentAI_News", "text": "QClaw International Beta is now open...", "likes": 17, "views": 1700, "derived_timestamp": "2026-04-21T01:29:00Z", "age_hours": 7.2}
+      ]
+    },
+    {
+      "query": "Sam Altman since:2026-04-20",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046265401038778397", "author": "@PeterDiamandis", "text": "When people don't understand a technology this powerful, fear fills the void...", "likes": 38, "views": 11000, "derived_timestamp": "2026-04-20T16:31:04Z", "age_hours": 16.2},
+        {"id": "2046330825265086712", "author": "@sama", "text": "Tim Cook is a legend. I am very thankful for everything he has done...", "likes": 29000, "views": 1400000, "derived_timestamp": "2026-04-20T20:51:02Z", "age_hours": 11.9},
+        {"id": "2046270668363182488", "author": "@MaxBlumenthal", "text": "Sam Altman once revealed that he and his tech buddies foresaw AI bringing about societal collapse...", "likes": 5100, "views": 77000, "derived_timestamp": "2026-04-20T16:51:59Z", "age_hours": 15.9},
+        {"id": "2046342041328648413", "author": "@Variety", "text": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to Care More About Human Creators...", "likes": 47, "views": 38000, "derived_timestamp": "2026-04-20T21:35:36Z", "age_hours": 11.2},
+        {"id": "2046505425374441712", "author": "@hqmank", "text": "GPT-Image-2 seems to be fully rolled out now...", "likes": 0, "views": 84, "derived_timestamp": "2026-04-21T08:34:00Z", "age_hours": 0.1}
+      ]
+    },
+    {
+      "query": "Dario Amodei since:2026-04-20",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046375594158608626", "author": "@0xLogicrw", "text": "Anthropic and Amazon announce expanded partnership, investing over $100 billion in AWS...", "likes": 0, "views": 196, "derived_timestamp": "2026-04-20T23:50:00Z", "age_hours": 8.9},
+        {"id": "2046462205550330295", "author": "@PolyNewsHub", "text": "Anthropic's Mythos government deal is on the ropes. Odds just fell 13% to a 19% chance...", "likes": 0, "views": 15, "derived_timestamp": "2026-04-21T05:33:05Z", "age_hours": 3.2},
+        {"id": "2045901561306431978", "author": "@mark_k", "text": "Dario Amodei explaining his latest doomer prophecy...", "likes": 112, "views": 3200, "derived_timestamp": "2026-04-19T20:14:00Z", "age_hours": 36.5},
+        {"id": "2046297852108800371", "author": "@betterhn20", "text": "Yann LeCun says Dario Amodei knows nothing about AI effects on jobs...", "likes": 0, "views": 115, "derived_timestamp": "2026-04-20T18:41:00Z", "age_hours": 14.1},
+        {"id": "2046204789013324248", "author": "@financialpost", "text": "Anthropic chief Dario Amodei: I don't want AI turned on our own people...", "likes": 0, "views": 535, "derived_timestamp": "2026-04-20T12:30:00Z", "age_hours": 20.2}
+      ]
+    },
+    {
+      "query": "Demis Hassabis since:2026-04-20",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046249378046779580", "author": "@grok", "text": "Demis Hassabis's Einstein test...", "likes": 0, "views": 41, "derived_timestamp": "2026-04-20T15:27:00Z", "age_hours": 17.3},
+        {"id": "2046232286799319281", "author": "@tesfayee2011", "text": "That's an intriguing perspective on assessing artificial general intelligence...", "likes": 0, "views": 22, "derived_timestamp": "2026-04-20T14:19:00Z", "age_hours": 18.4},
+        {"id": "2046380267388940425", "author": "@nims213", "text": "The drama between a software engineering veteran and Google is heating up...", "likes": 1, "views": 23, "derived_timestamp": "2026-04-21T00:01:00Z", "age_hours": 8.7},
+        {"id": "2046452899035967636", "author": "@CompassSil64710", "text": "It seems Demis Hassabis's image is about to collapse.", "likes": 1, "views": 551, "derived_timestamp": "2026-04-21T04:57:00Z", "age_hours": 3.8},
+        {"id": "2046177804673229108", "author": "@grok", "text": "Demis Hassabis's Einstein test is a test to define AGI...", "likes": 0, "views": 17, "derived_timestamp": "2026-04-20T10:44:00Z", "age_hours": 22.0}
+      ]
+    },
+    {
+      "query": "from:karpathy since:2026-04-20",
+      "resultCount": 1,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046017433199374610", "author": "@karpathy", "text": "Yeah I've seen it a few times now, all the Enneagram type fives...", "likes": 1100, "views": 87000, "derived_timestamp": "2026-04-20T00:05:43Z", "age_hours": 32.7}
+      ]
+    },
+    {
+      "query": "from:sama since:2026-04-20",
+      "resultCount": 2,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046330082726384051", "author": "@sama", "text": "The internal working name for this was telepathy, and it feels like it.", "likes": 2400, "views": 431000, "derived_timestamp": "2026-04-20T20:48:05Z", "age_hours": 11.9},
+        {"id": "2046330825265086712", "author": "@sama", "text": "Tim Cook is a legend. I am very thankful for everything he has done...", "likes": 29000, "views": 1400000, "derived_timestamp": "2026-04-20T20:51:02Z", "age_hours": 11.9}
+      ]
+    },
+    {
+      "query": "from:OpenAI since:2026-04-20",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    },
+    {
+      "query": "from:AnthropicAI since:2026-04-20",
+      "resultCount": 3,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046327625367625773", "author": "@AnthropicAI", "text": "Amazon is also investing an additional $5 billion in Anthropic today, with up to $20 billion more...", "likes": 1100, "views": 233000, "derived_timestamp": "2026-04-20T20:38:19Z", "age_hours": 12.1},
+        {"id": "2046327624092487688", "author": "@AnthropicAI", "text": "We're expanding our collaboration with Amazon to secure up to 5 gigawatts of compute...", "likes": 11000, "views": 1100000, "derived_timestamp": "2026-04-20T20:38:19Z", "age_hours": 12.1},
+        {"id": "2046362119755727256", "author": "@AnthropicAI", "text": "We're launching the Anthropic STEM Fellows Program...", "likes": 4100, "views": 393000, "derived_timestamp": "2026-04-20T22:55:23Z", "age_hours": 9.8}
+      ]
+    }
+  ],
+  "selected": [
+    {"id": "2046327624092487688", "author": "@AnthropicAI", "derived_timestamp": "2026-04-20T20:38:19Z", "age_hours": 12.1, "reason": "Major: Anthropic-Amazon 5GW compute deal"},
+    {"id": "2046327625367625773", "author": "@AnthropicAI", "derived_timestamp": "2026-04-20T20:38:19Z", "age_hours": 12.1, "reason": "Major: $5B investment detail"},
+    {"id": "2046170666131669027", "author": "@weezerOSINT", "derived_timestamp": "2026-04-20T10:14:37Z", "age_hours": 22.5, "reason": "Major: Lovable mass data breach, 1.2M views"},
+    {"id": "2046330825265086712", "author": "@sama", "derived_timestamp": "2026-04-20T20:51:02Z", "age_hours": 11.9, "reason": "Viral: Altman praising Tim Cook, 29k likes"},
+    {"id": "2046330082726384051", "author": "@sama", "derived_timestamp": "2026-04-20T20:48:05Z", "age_hours": 11.9, "reason": "Context: 'telepathy' internal name"},
+    {"id": "2046254937559237012", "author": "@HowToAI_", "derived_timestamp": "2026-04-20T15:49:29Z", "age_hours": 16.9, "reason": "Debate: Yann LeCun was right, generative AI dead end"},
+    {"id": "2046345353473950163", "author": "@GergelyOrosz", "derived_timestamp": "2026-04-20T21:48:46Z", "age_hours": 10.9, "reason": "Ongoing: Google AI adoption drama"},
+    {"id": "2046283765543317789", "author": "@aakashgupta", "derived_timestamp": "2026-04-20T17:44:02Z", "age_hours": 15.0, "reason": "Major: Kimi K2.6 release and benchmarks"},
+    {"id": "2046430301593751797", "author": "@emollick", "derived_timestamp": "2026-04-21T03:26:19Z", "age_hours": 5.3, "reason": "Context: Mollick on open weights over-performing on benchmarks"},
+    {"id": "2046361868076487155", "author": "@ollama", "derived_timestamp": "2026-04-20T22:54:23Z", "age_hours": 9.8, "reason": "Kimi K2.6 ecosystem adoption"},
+    {"id": "2046343131696685494", "author": "@blip_tm", "derived_timestamp": "2026-04-20T21:39:56Z", "age_hours": 11.1, "reason": "Analysis: Meta going closed source implications"},
+    {"id": "2046270668363182488", "author": "@MaxBlumenthal", "derived_timestamp": "2026-04-20T16:51:59Z", "age_hours": 15.9, "reason": "Altman societal collapse prep"},
+    {"id": "2046462205550330295", "author": "@PolyNewsHub", "derived_timestamp": "2026-04-21T05:33:05Z", "age_hours": 3.2, "reason": "Mythos Pentagon deal odds falling"},
+    {"id": "2046362119755727256", "author": "@AnthropicAI", "derived_timestamp": "2026-04-20T22:55:23Z", "age_hours": 9.8, "reason": "Anthropic STEM Fellows Program launch"},
+    {"id": "2046151867177308181", "author": "@akshay_pachaar", "derived_timestamp": "2026-04-20T08:59:55Z", "age_hours": 23.7, "reason": "Research: AI Agent Traps paper from DeepMind"},
+    {"id": "2046154121313714398", "author": "@ihtesham2005", "derived_timestamp": "2026-04-20T09:08:52Z", "age_hours": 23.6, "reason": "Open source: HeyGen Hyperframes"},
+    {"id": "2046199257430888878", "author": "@steipete", "derived_timestamp": "2026-04-20T12:08:14Z", "age_hours": 20.6, "reason": "Commentary: subsidised AI subs as data play"},
+    {"id": "2046342041328648413", "author": "@Variety", "derived_timestamp": "2026-04-20T21:35:36Z", "age_hours": 11.2, "reason": "Altman on AI in Hollywood"},
+    {"id": "2046260305886638317", "author": "@trashh_dev", "derived_timestamp": "2026-04-20T16:10:49Z", "age_hours": 16.6, "reason": "Viral meme: entry level SWE with LLM, 12k likes"}
+  ],
+  "rejected_notable": [
+    {"id": "2046017433199374610", "author": "@karpathy", "derived_timestamp": "2026-04-20T00:05:43Z", "age_hours": 32.7, "reason": "Older than 24h"},
+    {"id": "2046087714186100981", "author": "@RoundtableSpace", "derived_timestamp": "2026-04-20T04:45:00Z", "age_hours": 28.0, "reason": "Older than 24h"},
+    {"id": "2046053467941163055", "author": "@emollick", "derived_timestamp": "2026-04-20T02:28:00Z", "age_hours": 30.3, "reason": "Older than 24h"},
+    {"id": "2045901561306431978", "author": "@mark_k", "derived_timestamp": "2026-04-19T20:14:00Z", "age_hours": 36.5, "reason": "Older than 24h"},
+    {"id": "2046104694691422346", "author": "@Memoirs", "derived_timestamp": "2026-04-20T05:53:00Z", "age_hours": 26.8, "reason": "Older than 24h"}
+  ]
+}
