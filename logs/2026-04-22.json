@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-22",
+  "searches": [
+    {"query": "AI since:2026-04-21", "resultCount": 11, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046670977145372771", "author": "@OpenAI", "text": "Introducing ChatGPT Images 2.0 A state-of-the-art image model that can take on complex visual tasks...", "likes": 15000, "views": 2200000, "derived_timestamp": "2026-04-21T19:22:40.916Z", "age_hours": 11.7},
+      {"id": "2046607480285958418", "author": "@ideologix", "text": "@grok, make a prediction: what does Sam have in store for us at 12 PM PT today?", "likes": 3, "views": 17000, "derived_timestamp": "2026-04-21T15:10:00Z", "age_hours": 15.9},
+      {"id": "2046670980358266923", "author": "@OpenAI", "text": "Greater Precision and Control ChatGPT Images 2.0 can conceptualize more sophisticated images...", "likes": 1000, "views": 106000, "derived_timestamp": "2026-04-21T19:22:41Z", "age_hours": 11.7},
+      {"id": "2046713419978453374", "author": "@SpaceX", "text": "SpaceXAI and @cursor_ai are now working closely together to create the world's best coding...", "likes": 28000, "views": 6000000, "derived_timestamp": "2026-04-21T22:11:20.076Z", "age_hours": 8.9},
+      {"id": "2046827125249097850", "author": "@Noahpinion", "text": "This is the worst AI will ever be, and the best American politics will ever be", "likes": 46, "views": 4000, "derived_timestamp": "2026-04-22T05:43:09Z", "age_hours": 1.4},
+      {"id": "2046589828918317155", "author": "@OpenAI", "text": "This is not a screenshot.", "likes": 14000, "views": 3800000, "derived_timestamp": "2026-04-21T14:00:13Z", "age_hours": 17.1},
+      {"id": "2046821264535556143", "author": "@arrakis_ai", "text": "The Codex + GPT Image 2 pipeline is completely broken...", "likes": 102, "views": 6200, "derived_timestamp": "2026-04-22T05:19:52Z", "age_hours": 1.8},
+      {"id": "2046670989719924768", "author": "@OpenAI", "text": "A Visual Thought Partner ChatGPT Images 2.0 is our first image model with thinking capabilities...", "likes": 1000, "views": 86000, "derived_timestamp": "2026-04-21T19:22:42Z", "age_hours": 11.7},
+      {"id": "2046661795327459677", "author": "@OpenAI", "text": "Thinking... Generating... Livestreaming...", "likes": 2200, "views": 226000, "derived_timestamp": "2026-04-21T18:46:11Z", "age_hours": 12.3},
+      {"id": "2046752492093165708", "author": "@sama", "text": "We want you to have a lot of AI!", "likes": 3900, "views": 378000, "derived_timestamp": "2026-04-22T00:46:35Z", "age_hours": 6.3},
+      {"id": "2046811525118132557", "author": "@NousResearch", "text": "Step 3.5 Flash is now live for Nous Portal users, free for the next 10 days...", "likes": 221, "views": 23000, "derived_timestamp": "2026-04-22T04:41:10Z", "age_hours": 2.4}
+    ]},
+    {"query": "LLM since:2026-04-21", "resultCount": 7, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046562542202536367", "author": "@gkisokay", "text": "Best small LLMs for running locally on a personal device...", "likes": 487, "views": 84000, "derived_timestamp": "2026-04-21T12:11:48Z", "age_hours": 18.9},
+      {"id": "2046812561383866678", "author": "@LLMJunky", "text": "GPT 5.5 has been spotted in the Codex App Release imminent", "likes": 133, "views": 12000, "derived_timestamp": "2026-04-22T04:45:17Z", "age_hours": 2.3},
+      {"id": "2046757186844635282", "author": "@repligate", "text": "Common occurrence: nobody said anything about consciousness...", "likes": 55, "views": 3000, "derived_timestamp": "2026-04-22T00:49:42Z", "age_hours": 6.2},
+      {"id": "2046749924952572250", "author": "@hopes_revenge", "text": "i feel like the way that LLM chat interface assails you with large blocks of text...", "likes": 156, "views": 4600, "derived_timestamp": "2026-04-22T00:20:49Z", "age_hours": 6.7},
+      {"id": "2046802269966885254", "author": "@quantian1", "text": "Yeah great job you guys nailed it, the reason people pay $24,000 for BBG...", "likes": 213, "views": 16000, "derived_timestamp": "2026-04-22T04:04:04Z", "age_hours": 3.0}
+    ]},
+    {"query": "machine learning since:2026-04-21", "resultCount": 8, "attempts": 1, "status": "ok", "tweets": []},
+    {"query": "GPT OR Claude OR Gemini since:2026-04-21", "resultCount": 10, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046705634331025855", "author": "@TheGeorgePu", "text": "Anthropic just pulled Claude Code from the Pro plan. Pro users wanting it need Max now. $100/month minimum. 5x jump.", "likes": 8600, "views": 2800000, "derived_timestamp": "2026-04-21T21:40:23Z", "age_hours": 9.4},
+      {"id": "2046670703311884548", "author": "@arena", "text": "GPT-Image-2 by @OpenAI has claimed the #1 spot across all Image Arena leaderboards...", "likes": 4100, "views": 912000, "derived_timestamp": "2026-04-21T19:21:35Z", "age_hours": 11.7},
+      {"id": "2046693872773062834", "author": "@NousResearch", "text": "Access GPT Image 2.0 natively in Hermes Agent...", "likes": 686, "views": 50000, "derived_timestamp": "2026-04-21T20:53:39Z", "age_hours": 10.2},
+      {"id": "2046647931596390828", "author": "@theaiportfolios", "text": "Breaking: Claude just bought the dip in Reddit $RDDT...", "likes": 1200, "views": 960000, "derived_timestamp": "2026-04-21T17:51:06Z", "age_hours": 13.3},
+      {"id": "2046714718790816171", "author": "@jpschroeder", "text": "Claude pricing thread", "likes": 0, "views": 121000, "derived_timestamp": "2026-04-21T22:16:29Z", "age_hours": 8.8}
+    ]},
+    {"query": "open source AI model since:2026-04-21", "resultCount": 6, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046838944537411676", "author": "@haider1", "text": "openai is testing different models with codenames found in the codex CLI: gpt-5.5, oai-2.1, arcanine, glacier-alpha...", "likes": 17, "views": 813, "derived_timestamp": "2026-04-22T06:30:07Z", "age_hours": 0.6}
+    ]},
+    {"query": "AI agent since:2026-04-21", "resultCount": 7, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046662176661024995", "author": "@amasad", "text": "Announcing Replit Security Agent: a new approach that merges static analysis with AI reasoning...", "likes": 318, "views": 61000, "derived_timestamp": "2026-04-21T18:47:42Z", "age_hours": 12.3},
+      {"id": "2046691693936935232", "author": "@RoundtableSpace", "text": "A FREE PRIVATE AI AGENT ON YOUR LAPTOP...", "likes": 91, "views": 53000, "derived_timestamp": "2026-04-21T20:45:00Z", "age_hours": 10.4}
+    ]},
+    {"query": "Sam Altman since:2026-04-21", "resultCount": 8, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046664599697830039", "author": "@TechCrunch", "text": "Sam Altman throws shade at Anthropic's cyber model, Mythos: 'fear-based marketing'", "likes": 62, "views": 12000, "derived_timestamp": "2026-04-21T18:57:20Z", "age_hours": 12.1},
+      {"id": "2046582332136820800", "author": "@kyliebytes", "text": "sam altman is not subtle about what he thinks of anthropic's mythos", "likes": 1300, "views": 246000, "derived_timestamp": "2026-04-21T13:30:26Z", "age_hours": 17.6},
+      {"id": "2046676356663288145", "author": "@micsolana", "text": "warning about Sam Altman and AI risk", "likes": 0, "views": 28000, "derived_timestamp": "2026-04-21T19:44:03Z", "age_hours": 11.4}
+    ]},
+    {"query": "Dario Amodei since:2026-04-21", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": []},
+    {"query": "Demis Hassabis since:2026-04-21", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046787532629975365", "author": "@gomaple_world", "text": "Demis Hassabis returns to Korea for Google for Korea 2026, will play friendly match against Shin Jin-seo...", "likes": 0, "views": 17, "derived_timestamp": "2026-04-22T03:06:06Z", "age_hours": 4.0}
+    ]},
+    {"query": "from:karpathy since:2026-04-21", "resultCount": 0, "attempts": 1, "status": "empty", "tweets": []},
+    {"query": "from:sama since:2026-04-21", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2046598595869331894", "author": "@sama", "text": "Really excited for this week! Next up, we've got something to show you at 12 PM PT today.", "likes": 8400, "views": 1200000, "derived_timestamp": "2026-04-21T14:35:03Z", "age_hours": 16.5},
+      {"id": "2046672912833458597", "author": "@sama", "text": "Here is a manga made by ChatGPT Images 2.0 of @gabeeegoooh and me looking for more GPUs", "likes": 3500, "views": 319000, "derived_timestamp": "2026-04-21T19:30:22Z", "age_hours": 11.6},
+      {"id": "2046752492093165708", "author": "@sama", "text": "We want you to have a lot of AI!", "likes": 3900, "views": 378000, "derived_timestamp": "2026-04-22T00:46:35Z", "age_hours": 6.3},
+      {"id": "2046808900301975576", "author": "@sama", "text": "change urs it sucks", "likes": 1000, "views": 30000, "derived_timestamp": "2026-04-22T04:30:44Z", "age_hours": 2.6},
+      {"id": "2046809014751883483", "author": "@sama", "text": "we gotchu", "likes": 1800, "views": 51000, "derived_timestamp": "2026-04-22T04:31:11Z", "age_hours": 2.6}
+    ]},
+    {"query": "from:OpenAI since:2026-04-21", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": []},
+    {"query": "from:AnthropicAI since:2026-04-21", "resultCount": 0, "attempts": 1, "status": "empty", "tweets": []}
+  ],
+  "selected": [
+    {"id": "2046713419978453374", "author": "@SpaceX", "derived_timestamp": "2026-04-21T22:11:20Z", "age_hours": 8.9, "reason": "SpaceX-Cursor partnership, highest engagement tweet of the day"},
+    {"id": "2046670977145372771", "author": "@OpenAI", "derived_timestamp": "2026-04-21T19:22:40Z", "age_hours": 11.7, "reason": "ChatGPT Images 2.0 launch"},
+    {"id": "2046589828918317155", "author": "@OpenAI", "derived_timestamp": "2026-04-21T14:00:13Z", "age_hours": 17.1, "reason": "OpenAI teaser for Images 2.0"},
+    {"id": "2046705634331025855", "author": "@TheGeorgePu", "derived_timestamp": "2026-04-21T21:40:23Z", "age_hours": 9.4, "reason": "Claude Code pulled from Pro plan, major pricing change"},
+    {"id": "2046670703311884548", "author": "@arena", "derived_timestamp": "2026-04-21T19:21:35Z", "age_hours": 11.7, "reason": "GPT-Image-2 tops Arena leaderboard"},
+    {"id": "2046598595869331894", "author": "@sama", "derived_timestamp": "2026-04-21T14:35:03Z", "age_hours": 16.5, "reason": "Altman teasing the week ahead"},
+    {"id": "2046664599697830039", "author": "@TechCrunch", "derived_timestamp": "2026-04-21T18:57:20Z", "age_hours": 12.1, "reason": "Altman attacks Mythos as fear-based marketing"},
+    {"id": "2046582332136820800", "author": "@kyliebytes", "derived_timestamp": "2026-04-21T13:30:26Z", "age_hours": 17.6, "reason": "Altman vs Anthropic context"},
+    {"id": "2046662176661024995", "author": "@amasad", "derived_timestamp": "2026-04-21T18:47:42Z", "age_hours": 12.3, "reason": "Replit Security Agent launch"},
+    {"id": "2046812561383866678", "author": "@LLMJunky", "derived_timestamp": "2026-04-22T04:45:17Z", "age_hours": 2.3, "reason": "GPT-5.5 spotted in Codex app"},
+    {"id": "2046838944537411676", "author": "@haider1", "derived_timestamp": "2026-04-22T06:30:07Z", "age_hours": 0.6, "reason": "Multiple OpenAI codenames found including gpt-5.5"},
+    {"id": "2046647931596390828", "author": "@theaiportfolios", "derived_timestamp": "2026-04-21T17:51:06Z", "age_hours": 13.3, "reason": "AI agent trading portfolio update"},
+    {"id": "2046672912833458597", "author": "@sama", "derived_timestamp": "2026-04-21T19:30:22Z", "age_hours": 11.6, "reason": "Altman demoing Images 2.0"},
+    {"id": "2046811525118132557", "author": "@NousResearch", "derived_timestamp": "2026-04-22T04:41:10Z", "age_hours": 2.4, "reason": "Step 3.5 Flash on Nous Portal"},
+    {"id": "2046693872773062834", "author": "@NousResearch", "derived_timestamp": "2026-04-21T20:53:39Z", "age_hours": 10.2, "reason": "GPT Image 2.0 in Hermes Agent"}
+  ],
+  "rejected_notable": []
+}
