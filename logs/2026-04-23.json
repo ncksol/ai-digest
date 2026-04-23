@@ -1,0 +1,216 @@
+{
+  "date": "2026-04-23",
+  "searches": [
+    {
+      "query": "AI since:2026-04-22",
+      "resultCount": 11,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047118960941023552", "author": "@satyanadella", "text": "Thanks to Prime Minister @AlboMP for the warm welcome today. We are making our largest investment in Australia to date, committing A$25 billion...", "likes": 1300, "views": 73000, "derived_timestamp": "2026-04-23T01:02:48.576Z", "age_hours": 6.0},
+        {"id": "2047175344038494302", "author": "@OpenAIDevs", "text": "Everyone can just build things.", "likes": 1600, "views": 48000, "derived_timestamp": "2026-04-23T04:46:29.241Z", "age_hours": 2.3},
+        {"id": "2047008987665809771", "author": "@OpenAI", "text": "Introducing workspace agents in ChatGPT - shared agents that can handle complex tasks and long-running workflows across tools and teams.", "likes": 14000, "views": 3900000, "derived_timestamp": "2026-04-22T17:45:48.904Z", "age_hours": 13.3},
+        {"id": "2047205491034525867", "author": "@Peston", "text": "Is it fair that only some businesses have access to Anthropic's super powerful Mythos AI...", "likes": 0, "views": 1900, "derived_timestamp": "2026-04-23T06:46:11.897Z", "age_hours": 0.3},
+        {"id": "2047176792939860321", "author": "@yasser_elsaid_", "text": "AI promised to do the work for us so we could enjoy our time doing other things...", "likes": 96, "views": 2800, "derived_timestamp": "2026-04-23T04:52:14.508Z", "age_hours": 2.2},
+        {"id": "2047187640781541882", "author": "@HowToAI_", "text": "MIT has done the unthinkable. They built an AI that doesn't need RAG...", "likes": 45, "views": 1000, "derived_timestamp": "2026-04-23T05:35:25.720Z", "age_hours": 1.5},
+        {"id": "2047070216635482284", "author": "@steipete", "text": "Google AI model knowledge cutoff", "likes": 2, "views": 204, "derived_timestamp": "2026-04-22T21:05:10.479Z", "age_hours": 10.0},
+        {"id": "2047190578493096122", "author": "@Kimi_Moonshot", "text": "Meet Kimi K2.6 Agent Swarm. Highlights: Swarms, elevated - 300 parallel sub-agents...", "likes": 467, "views": 16000, "derived_timestamp": "2026-04-23T05:47:23.531Z", "age_hours": 1.3},
+        {"id": "2046752492093165708", "author": "@sama", "text": "We want you to have a lot of AI!", "likes": 5200, "views": 710000, "derived_timestamp": "2026-04-22T00:40:38.321Z", "age_hours": 30.4},
+        {"id": "2047198983152406816", "author": "@Cointelegraph", "text": "LATEST: Alibaba's Qwen AI app can now book China Eastern Airlines flights...", "likes": 42, "views": 4700, "derived_timestamp": "2026-04-23T06:20:24.153Z", "age_hours": 0.7},
+        {"id": "2047205569216303351", "author": "@Peston", "text": "Is it fair that only some businesses have access to Anthropic's super powerful Mythos AI...", "likes": 0, "views": 1900, "derived_timestamp": "2026-04-23T06:46:13.757Z", "age_hours": 0.3}
+      ]
+    },
+    {
+      "query": "LLM since:2026-04-22",
+      "resultCount": 8,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046935822096855379", "author": "@gkisokay", "text": "The Local LLM Cheat Sheet for your 32GB RAM device...", "likes": 1500, "views": 162000, "derived_timestamp": "2026-04-22T12:55:04.873Z", "age_hours": 18.2},
+        {"id": "2046853138871885947", "author": "@_avichawla", "text": "Finally! A Text-to-SQL solution that actually works (open-source)...", "likes": 163, "views": 12000, "derived_timestamp": "2026-04-22T07:26:38.105Z", "age_hours": 23.6},
+        {"id": "2046999846838485481", "author": "@patio11", "text": "An anecdote for you from LLM land: I sent Opus 4.7 out to do a literature survey...", "likes": 245, "views": 69000, "derived_timestamp": "2026-04-22T17:09:29.561Z", "age_hours": 13.9},
+        {"id": "2047120672523190383", "author": "@EricTopol", "text": "New @Nature To reduce LLM hallucinations they should be rewarded for admitting uncertainty", "likes": 110, "views": 13000, "derived_timestamp": "2026-04-23T01:09:36.556Z", "age_hours": 5.9},
+        {"id": "2046802269966885254", "author": "@quantian1", "text": "Yeah great job you guys nailed it, the reason people pay $24,000 for BBG is so they can talk to an 8b parameter local LLM pretending to be Ray Dalio...", "likes": 726, "views": 72000, "derived_timestamp": "2026-04-22T04:03:56.265Z", "age_hours": 27.0},
+        {"id": "2047053632810729515", "author": "@svpino", "text": "Open-source always finds a way! This is an open-source, local-first memory layer for LLM agents...", "likes": 115, "views": 20000, "derived_timestamp": "2026-04-22T20:43:14.705Z", "age_hours": 10.4},
+        {"id": "2047126414554701836", "author": "@EricTopol", "text": "Today @OpenAI introduced ChatGPT for Clinicians, provided free for credentialed HCPs...", "likes": 258, "views": 28000, "derived_timestamp": "2026-04-23T01:32:25.656Z", "age_hours": 5.6},
+        {"id": "2047044085962473560", "author": "@LLMJunky", "text": "Wow! I'm blown away by GPT-Image-2! I asked it to generate a picture perfect image of the Orion Nebula...", "likes": 182, "views": 11000, "derived_timestamp": "2026-04-22T20:05:17.862Z", "age_hours": 11.0}
+      ]
+    },
+    {
+      "query": "machine learning since:2026-04-22",
+      "resultCount": 4,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046941353506980057", "author": "@RainbowRen47330", "text": "APRIL 2026: AI'S EXPLOSIVE MONTH...", "likes": 0, "views": 13, "derived_timestamp": "2026-04-22T13:17:05.775Z", "age_hours": 17.8},
+        {"id": "2047205708748534056", "author": "@wayama_ryousuke", "text": "Nostalgic It's that AI-related paper that took the world by storm...", "likes": 0, "views": 30, "derived_timestamp": "2026-04-23T06:46:17.665Z", "age_hours": 0.3},
+        {"id": "2046928577199997065", "author": "@LearnWithBrij", "text": "AI Stack (2026 Edition)...", "likes": 85, "views": 1400, "derived_timestamp": "2026-04-22T12:26:16.877Z", "age_hours": 18.7},
+        {"id": "2047204547022758018", "author": "@adveccio", "text": "#GenerativeAI is here transforming businesses...", "likes": 3, "views": 6, "derived_timestamp": "2026-04-23T06:45:53.302Z", "age_hours": 0.3}
+      ]
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-04-22",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046985650868547851", "author": "@Google", "text": "The conversation around AI agents is no longer about how to build them - it's about how to manage thousands of them...", "likes": 787, "views": 100000, "derived_timestamp": "2026-04-22T16:13:04.978Z", "age_hours": 14.9},
+        {"id": "2047006444701274380", "author": "@dhruvtwt_", "text": "Why is no one talking about this? @nvidia is offering around 80 AI models via hosted APIs absolutely for free...", "likes": 10000, "views": 818000, "derived_timestamp": "2026-04-22T17:35:42.614Z", "age_hours": 13.5},
+        {"id": "2047047633416397076", "author": "@claudeai", "text": "Interactive charts and diagrams are now in Claude Cowork. Available in beta on all paid plans.", "likes": 5500, "views": 512000, "derived_timestamp": "2026-04-22T20:19:22.769Z", "age_hours": 10.8},
+        {"id": "2047086372666921217", "author": "@ClaudeDevs", "text": "New blog: Building agents that reach production systems with MCP...", "likes": 1700, "views": 138000, "derived_timestamp": "2026-04-22T22:53:18.926Z", "age_hours": 8.2},
+        {"id": "2047099356743168272", "author": "@AlexFinn", "text": "Claude Design is incredible It allows ANYONE to design BEAUTIFUL apps and websites...", "likes": 601, "views": 30000, "derived_timestamp": "2026-04-22T23:44:52.752Z", "age_hours": 7.3},
+        {"id": "2047086744890232958", "author": "@stocktalkweekly", "text": "I've been using LLMs every single day since the first public release of ChatGPT. Over the past month, I've noticed that the 'deep research' versions of Claude, ChatGPT & Gemini are all spending dramatically less time thinking...", "likes": 201, "views": 28000, "derived_timestamp": "2026-04-22T22:54:47.671Z", "age_hours": 8.2},
+        {"id": "2047104466512400639", "author": "@dylan522p", "text": "Claude Code spend had gotten to $10.95M runrate peak at SemiAnalysis But then Opus 4.7 saved me...", "likes": 631, "views": 69000, "derived_timestamp": "2026-04-23T00:05:12.835Z", "age_hours": 7.0},
+        {"id": "2047050271742677443", "author": "@theaiportfolios", "text": "Commentary: ServiceNow printed Q1 and the stock is down 13 percent after hours...", "likes": 784, "views": 544000, "derived_timestamp": "2026-04-22T20:29:51.795Z", "age_hours": 10.6},
+        {"id": "2046988686433108417", "author": "@Google", "text": "Last fall, we launched Gemini Enterprise as a front door to AI in the workplace...", "likes": 290, "views": 51000, "derived_timestamp": "2026-04-22T16:25:08.713Z", "age_hours": 14.7}
+      ]
+    },
+    {
+      "query": "open source AI model since:2026-04-22",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047098122233405789", "author": "@aiseomastery", "text": "ALIBABA'S QWEN3.6-27B BEATS MODELS 14X ITS SIZE...", "likes": 0, "views": 130, "derived_timestamp": "2026-04-22T23:39:57.073Z", "age_hours": 7.4},
+        {"id": "2047103768341451108", "author": "@ainunnajib", "text": "AI DAILY BRIEF - April 23, 2026...", "likes": 5, "views": 1000, "derived_timestamp": "2026-04-23T00:02:25.984Z", "age_hours": 7.0},
+        {"id": "2047019615465652640", "author": "@michalmalewicz", "text": "I just published: Did AI just kill UI design?...", "likes": 5, "views": 1100, "derived_timestamp": "2026-04-22T18:28:02.641Z", "age_hours": 12.6},
+        {"id": "2046969570309951618", "author": "@TimJayas", "text": "Nahh it's an open source model the AI runs on your PC...", "likes": 1, "views": 1200, "derived_timestamp": "2026-04-22T15:09:01.207Z", "age_hours": 15.9},
+        {"id": "2047171130281381997", "author": "@shawnchauhan1", "text": "There's a fully open-source model that just ran autonomously for 13 hours straight. Kimi K2.6...", "likes": 2, "views": 148, "derived_timestamp": "2026-04-23T04:29:42.989Z", "age_hours": 2.6}
+      ]
+    },
+    {
+      "query": "AI agent since:2026-04-22",
+      "resultCount": 8,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047006444701274380", "author": "@dhruvtwt_", "text": "Why is no one talking about this? @nvidia is offering around 80 AI models via hosted APIs absolutely for free...", "likes": 10000, "views": 819000, "derived_timestamp": "2026-04-22T17:35:42.614Z", "age_hours": 13.5},
+        {"id": "2046985650868547851", "author": "@Google", "text": "The conversation around AI agents is no longer about how to build them - it's about how to manage thousands of them...", "likes": 787, "views": 100000, "derived_timestamp": "2026-04-22T16:13:04.978Z", "age_hours": 14.9},
+        {"id": "2047034722078134542", "author": "@heynavtoor", "text": "An AI agent was deployed as a surveillance tool at a crypto firm...", "likes": 78, "views": 7300, "derived_timestamp": "2026-04-22T19:28:25.849Z", "age_hours": 11.6},
+        {"id": "2047061650189307953", "author": "@dair_ai", "text": "How far are we from agents that can self-generate world knowledge?...", "likes": 104, "views": 9000, "derived_timestamp": "2026-04-22T21:16:14.291Z", "age_hours": 9.8},
+        {"id": "2046929191795593517", "author": "@Sumanth_077", "text": "Lightweight agent harness for building AI agents! OpenHarness...", "likes": 113, "views": 8300, "derived_timestamp": "2026-04-22T12:28:41.445Z", "age_hours": 18.6},
+        {"id": "2047195641068367982", "author": "@GBtradecoins", "text": "For the builders & AI devs REST + WebSocket APIs...", "likes": 1, "views": 7, "derived_timestamp": "2026-04-23T06:07:06.860Z", "age_hours": 1.0},
+        {"id": "2047159214221734247", "author": "@HDforum", "text": "Cloudflare scanned 200,000 top websites to see if AI agents can use them. Only 4% had any AI preferences set...", "likes": 1, "views": 18, "derived_timestamp": "2026-04-23T03:42:09.403Z", "age_hours": 3.4},
+        {"id": "2047190578493096122", "author": "@Kimi_Moonshot", "text": "Meet Kimi K2.6 Agent Swarm...", "likes": 474, "views": 16000, "derived_timestamp": "2026-04-23T05:47:23.531Z", "age_hours": 1.3}
+      ]
+    },
+    {
+      "query": "Sam Altman since:2026-04-22",
+      "resultCount": 14,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047017964105597009", "author": "@sama", "text": "These are cool! I think most companies will want to use them.", "likes": 4000, "views": 805000, "derived_timestamp": "2026-04-22T18:21:29.054Z", "age_hours": 12.7},
+        {"id": "2046808900301975576", "author": "@sama", "text": "change urs it sucks", "likes": 1500, "views": 88000, "derived_timestamp": "2026-04-22T04:28:18.818Z", "age_hours": 26.6},
+        {"id": "2046816951238815862", "author": "@VraserX", "text": "Sam Altman and OpenAI are absolutely on fire right now...", "likes": 290, "views": 20000, "derived_timestamp": "2026-04-22T05:02:44.082Z", "age_hours": 26.0},
+        {"id": "2046808217133670800", "author": "@sama", "text": "tongiht i have had a couple of drinks", "likes": 4200, "views": 1100000, "derived_timestamp": "2026-04-22T04:28:01.479Z", "age_hours": 26.6},
+        {"id": "2046808114561974567", "author": "@sama", "text": "ok boomer", "likes": 11000, "views": 5000000, "derived_timestamp": "2026-04-22T04:27:37.024Z", "age_hours": 26.6},
+        {"id": "2047079513859961195", "author": "@ZeffMax", "text": "Last week, Sam Altman's startup Tools for Humanity said Bruno Mars would be using its verification tech...", "likes": 208, "views": 39000, "derived_timestamp": "2026-04-22T22:26:03.659Z", "age_hours": 8.7},
+        {"id": "2046818034103325005", "author": "@VraserX", "text": "Sam Altman just confirmed GPT-5.5 for Thursday...", "likes": 704, "views": 90000, "derived_timestamp": "2026-04-22T05:07:02.027Z", "age_hours": 26.0},
+        {"id": "2046808596969853103", "author": "@sama", "text": "how about a rate limit reset in a week or so?", "likes": 1800, "views": 129000, "derived_timestamp": "2026-04-22T04:29:32.039Z", "age_hours": 26.6},
+        {"id": "2046752492093165708", "author": "@sama", "text": "We want you to have a lot of AI!", "likes": 5200, "views": 710000, "derived_timestamp": "2026-04-22T00:40:38.321Z", "age_hours": 30.4},
+        {"id": "2046764594505592884", "author": "@sama", "text": "come to the light side", "likes": 4800, "views": 292000, "derived_timestamp": "2026-04-22T01:34:41.034Z", "age_hours": 29.5},
+        {"id": "2046910774740738219", "author": "@zakatlastweets", "text": "Centralised AI is extremely risky to human civilisation...", "likes": 7, "views": 975, "derived_timestamp": "2026-04-22T11:16:51.261Z", "age_hours": 19.8},
+        {"id": "2047009101486657541", "author": "@XFreeze", "text": "Together, these two are hardcore doomers who literally run, control, and steer the world's most frontier AI...", "likes": 568, "views": 22000, "derived_timestamp": "2026-04-22T17:46:16.041Z", "age_hours": 13.3},
+        {"id": "2046808785042477518", "author": "@sama", "text": "easily", "likes": 341, "views": 37000, "derived_timestamp": "2026-04-22T04:29:05.339Z", "age_hours": 26.6},
+        {"id": "2046840666748273094", "author": "@edzitron", "text": "Dario Amodei trying to think of an intellectual response to Altman saying \"Ok boomer\" to his head of growth", "likes": 65, "views": 13000, "derived_timestamp": "2026-04-22T06:35:47.397Z", "age_hours": 24.5}
+      ]
+    },
+    {
+      "query": "Dario Amodei since:2026-04-22",
+      "resultCount": 11,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046891841270743430", "author": "@TheEconomist", "text": "The AI models that will shape the future are controlled, with almost godlike command, by five men...", "likes": 378, "views": 75000, "derived_timestamp": "2026-04-22T10:00:19.027Z", "age_hours": 21.1},
+        {"id": "2047009101486657541", "author": "@XFreeze", "text": "Together, these two are hardcore doomers...", "likes": 568, "views": 22000, "derived_timestamp": "2026-04-22T17:46:16.041Z", "age_hours": 13.3},
+        {"id": "2046956751111832009", "author": "@Samaytwt", "text": "Elon Musk - xAi Grok Dario Amodei - Antropic Claude...", "likes": 131, "views": 3400, "derived_timestamp": "2026-04-22T14:18:20.044Z", "age_hours": 16.8}
+      ]
+    },
+    {
+      "query": "Demis Hassabis since:2026-04-22",
+      "resultCount": 6,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2046891841270743430", "author": "@TheEconomist", "text": "The AI models that will shape the future are controlled, with almost godlike command, by five men...", "likes": 378, "views": 75000, "derived_timestamp": "2026-04-22T10:00:19.027Z", "age_hours": 21.1},
+        {"id": "2046941358582108209", "author": "@ninzaverse", "text": "sebastian mallaby sits on a stage in SF and drops: 50% chance openai goes bankrupt in 18 months...", "likes": 0, "views": 98, "derived_timestamp": "2026-04-22T13:17:06.985Z", "age_hours": 17.8}
+      ]
+    },
+    {
+      "query": "from:karpathy since:2026-04-22",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    },
+    {
+      "query": "from:sama since:2026-04-22",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047017964105597009", "author": "@sama", "text": "These are cool! I think most companies will want to use them.", "likes": 4000, "views": 805000, "derived_timestamp": "2026-04-22T18:21:29.054Z", "age_hours": 12.7},
+        {"id": "2046752492093165708", "author": "@sama", "text": "We want you to have a lot of AI!", "likes": 5200, "views": 710000, "derived_timestamp": "2026-04-22T00:40:38.321Z", "age_hours": 30.4},
+        {"id": "2046808900301975576", "author": "@sama", "text": "change urs it sucks", "likes": 1500, "views": 88000, "derived_timestamp": "2026-04-22T04:28:18.818Z", "age_hours": 26.6},
+        {"id": "2046764594505592884", "author": "@sama", "text": "come to the light side", "likes": 4800, "views": 292000, "derived_timestamp": "2026-04-22T01:34:41.034Z", "age_hours": 29.5},
+        {"id": "2046809014751883483", "author": "@sama", "text": "we gotchu", "likes": 3800, "views": 169000, "derived_timestamp": "2026-04-22T04:29:38.879Z", "age_hours": 26.6}
+      ]
+    },
+    {
+      "query": "from:OpenAI since:2026-04-22",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047008987665809771", "author": "@OpenAI", "text": "Introducing workspace agents in ChatGPT - shared agents that can handle complex tasks and long-running workflows across tools and teams.", "likes": 14000, "views": 3900000, "derived_timestamp": "2026-04-22T17:45:48.904Z", "age_hours": 13.3},
+        {"id": "2047008993760137383", "author": "@OpenAI", "text": "Workspace agents are now available in research preview for ChatGPT Business, Enterprise, Edu, and Teachers plans.", "likes": 525, "views": 198000, "derived_timestamp": "2026-04-22T17:45:50.357Z", "age_hours": 13.3},
+        {"id": "2047008990379512047", "author": "@OpenAI", "text": "Build an agent once, then share it across teams...", "likes": 635, "views": 147000, "derived_timestamp": "2026-04-22T17:45:49.551Z", "age_hours": 13.3},
+        {"id": "2047008991944069624", "author": "@OpenAI", "text": "Workspace agents can work across tools - pulling context from docs, email, chats, code, and systems...", "likes": 437, "views": 159000, "derived_timestamp": "2026-04-22T17:45:49.924Z", "age_hours": 13.3},
+        {"id": "2047008988970225933", "author": "@OpenAI", "text": "Agents are built to help with the kind of work that takes time, context, and follow-through...", "likes": 765, "views": 152000, "derived_timestamp": "2026-04-22T17:45:49.215Z", "age_hours": 13.3}
+      ]
+    },
+    {
+      "query": "from:AnthropicAI since:2026-04-22",
+      "resultCount": 4,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047006548149289017", "author": "@AnthropicAI", "text": "Last month, we published our look into what 81,000 people told us they want from AI...", "likes": 1800, "views": 450000, "derived_timestamp": "2026-04-22T17:36:07.278Z", "age_hours": 13.5},
+        {"id": "2047006550859125228", "author": "@AnthropicAI", "text": "In the study, we find that respondents in both the highest- and the lowest-paid occupations report the largest productivity gains from AI...", "likes": 232, "views": 45000, "derived_timestamp": "2026-04-22T17:36:07.924Z", "age_hours": 13.5},
+        {"id": "2047006554403057776", "author": "@AnthropicAI", "text": "And those in occupations that show high Claude usage - like software engineering - were more worried about displacement than those in lower-exposure roles.", "likes": 218, "views": 66000, "derived_timestamp": "2026-04-22T17:36:08.769Z", "age_hours": 13.5},
+        {"id": "2047006557183897664", "author": "@AnthropicAI", "text": "To truly understand AI's economic impact, we'll need to collect much more qualitative data like this...", "likes": 122, "views": 51000, "derived_timestamp": "2026-04-22T17:36:09.432Z", "age_hours": 13.5}
+      ]
+    }
+  ],
+  "selected": [
+    {"id": "2047008987665809771", "author": "@OpenAI", "derived_timestamp": "2026-04-22T17:45:48.904Z", "age_hours": 13.3, "reason": "Lead story - workspace agents launch, 14k likes, 3.9M views"},
+    {"id": "2047017964105597009", "author": "@sama", "derived_timestamp": "2026-04-22T18:21:29.054Z", "age_hours": 12.7, "reason": "Altman endorsing workspace agents, 4k likes, 805k views"},
+    {"id": "2047047633416397076", "author": "@claudeai", "derived_timestamp": "2026-04-22T20:19:22.769Z", "age_hours": 10.8, "reason": "Claude Cowork interactive charts, 5.5k likes, 512k views"},
+    {"id": "2047086372666921217", "author": "@ClaudeDevs", "derived_timestamp": "2026-04-22T22:53:18.926Z", "age_hours": 8.2, "reason": "MCP production blog, 1.7k likes, 138k views"},
+    {"id": "2047006444701274380", "author": "@dhruvtwt_", "derived_timestamp": "2026-04-22T17:35:42.614Z", "age_hours": 13.5, "reason": "Nvidia free APIs viral thread, 10k likes, 818k views"},
+    {"id": "2046985650868547851", "author": "@Google", "derived_timestamp": "2026-04-22T16:13:04.978Z", "age_hours": 14.9, "reason": "Google Cloud Next agent platform launch"},
+    {"id": "2047006548149289017", "author": "@AnthropicAI", "derived_timestamp": "2026-04-22T17:36:07.278Z", "age_hours": 13.5, "reason": "Anthropic 81k economic survey, 1.8k likes, 450k views"},
+    {"id": "2047104466512400639", "author": "@dylan522p", "derived_timestamp": "2026-04-23T00:05:12.835Z", "age_hours": 7.0, "reason": "SemiAnalysis Claude Code spend at $10.95M runrate"},
+    {"id": "2047126414554701836", "author": "@EricTopol", "derived_timestamp": "2026-04-23T01:32:25.656Z", "age_hours": 5.6, "reason": "ChatGPT for Clinicians launch"},
+    {"id": "2047118960941023552", "author": "@satyanadella", "derived_timestamp": "2026-04-23T01:02:48.576Z", "age_hours": 6.0, "reason": "Microsoft A$25B Australia investment"},
+    {"id": "2047079513859961195", "author": "@ZeffMax", "derived_timestamp": "2026-04-22T22:26:03.659Z", "age_hours": 8.7, "reason": "World/Bruno Mars fabricated partnership exposed by WIRED"},
+    {"id": "2046891841270743430", "author": "@TheEconomist", "derived_timestamp": "2026-04-22T10:00:19.027Z", "age_hours": 21.1, "reason": "Economist 5 men controlling AI piece"},
+    {"id": "2047190578493096122", "author": "@Kimi_Moonshot", "derived_timestamp": "2026-04-23T05:47:23.531Z", "age_hours": 1.3, "reason": "Kimi K2.6 Agent Swarm - 300 parallel sub-agents"},
+    {"id": "2046999846838485481", "author": "@patio11", "derived_timestamp": "2026-04-22T17:09:29.561Z", "age_hours": 13.9, "reason": "patio11 Opus 4.7 literature survey anecdote"},
+    {"id": "2047086744890232958", "author": "@stocktalkweekly", "derived_timestamp": "2026-04-22T22:54:47.671Z", "age_hours": 8.2, "reason": "Deep research models spending less time thinking"},
+    {"id": "2047050271742677443", "author": "@theaiportfolios", "derived_timestamp": "2026-04-22T20:29:51.795Z", "age_hours": 10.6, "reason": "Claude stock portfolio ServiceNow miss"},
+    {"id": "2046935822096855379", "author": "@gkisokay", "derived_timestamp": "2026-04-22T12:55:04.873Z", "age_hours": 18.2, "reason": "Local LLM cheat sheet for 32GB RAM, 1.5k likes"},
+    {"id": "2047120672523190383", "author": "@EricTopol", "derived_timestamp": "2026-04-23T01:09:36.556Z", "age_hours": 5.9, "reason": "Nature paper on rewarding LLM uncertainty"},
+    {"id": "2047198983152406816", "author": "@Cointelegraph", "derived_timestamp": "2026-04-23T06:20:24.153Z", "age_hours": 0.7, "reason": "Alibaba Qwen booking flights"}
+  ],
+  "rejected_notable": [
+    {"id": "2046808114561974567", "author": "@sama", "derived_timestamp": "2026-04-22T04:27:37.024Z", "age_hours": 26.6, "reason": "older than 24h - sama ok boomer"},
+    {"id": "2046818034103325005", "author": "@VraserX", "derived_timestamp": "2026-04-22T05:07:02.027Z", "age_hours": 26.0, "reason": "older than 24h - GPT-5.5 Thursday confirmation claim"},
+    {"id": "2046808217133670800", "author": "@sama", "derived_timestamp": "2026-04-22T04:28:01.479Z", "age_hours": 26.6, "reason": "older than 24h - sama drinks tweet"},
+    {"id": "2046808596969853103", "author": "@sama", "derived_timestamp": "2026-04-22T04:29:32.039Z", "age_hours": 26.6, "reason": "older than 24h - sama rate limit reset"},
+    {"id": "2046764594505592884", "author": "@sama", "derived_timestamp": "2026-04-22T01:34:41.034Z", "age_hours": 29.5, "reason": "older than 24h - come to the light side"},
+    {"id": "2046752492093165708", "author": "@sama", "derived_timestamp": "2026-04-22T00:40:38.321Z", "age_hours": 30.4, "reason": "older than 24h - We want you to have a lot of AI"},
+    {"id": "2046802269966885254", "author": "@quantian1", "derived_timestamp": "2026-04-22T04:03:56.265Z", "age_hours": 27.0, "reason": "older than 24h - Bloomberg terminal LLM joke"}
+  ]
+}
