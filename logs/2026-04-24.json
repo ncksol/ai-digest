@@ -1,0 +1,175 @@
+{
+  "date": "2026-04-24",
+  "searches": [
+    {
+      "query": "AI since:2026-04-23",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047376561205325845", "author": "@OpenAI", "text": "Introducing GPT-5.5 A new class of intelligence for real work and powering agents...", "likes": 44000, "views": 7300000, "derived_timestamp": "2026-04-23T18:06:25.265Z", "age_hours": 13.0},
+        {"id": "2047376564309115134", "author": "@OpenAI", "text": "GPT-5.5 delivers this step up in intelligence without compromising on speed...", "likes": 4500, "views": 1300000, "derived_timestamp": "2026-04-23T18:06:26.005Z", "age_hours": 13.0},
+        {"id": "2047540299086602402", "author": "@aakashgupta", "text": "Screenshot this. It is the architecture every agentic AI product converges on...", "likes": 40, "views": 5000, "derived_timestamp": "2026-04-24T04:56:47Z", "age_hours": 2.1},
+        {"id": "2047547275682214384", "author": "@amasad", "text": "While US politicians/lobbyists are scaremongering about Chinese distillation...", "likes": 594, "views": 28000, "derived_timestamp": "2026-04-24T05:24:46.768Z", "age_hours": 1.7},
+        {"id": "2047545899044213193", "author": "@EMostaque", "text": "Congrats to @deepseek_ai team! Doing the numbers I would estimate...", "likes": 63, "views": 6500, "derived_timestamp": "2026-04-24T05:19:18.552Z", "age_hours": 1.8},
+        {"id": "2047541015146348571", "author": "@TheGeorgePu", "text": "A free Chinese AI just matched Claude Opus. Today. OpenAI shipped GPT-5.5...", "likes": 134, "views": 6700, "derived_timestamp": "2026-04-24T04:59:54.140Z", "age_hours": 2.1},
+        {"id": "2047540230694350958", "author": "@levie", "text": "Sorry to anyone who thought AI would mean we'd work less...", "likes": 251, "views": 23000, "derived_timestamp": "2026-04-24T04:56:47.112Z", "age_hours": 2.1},
+        {"id": "2047534312904593434", "author": "@linusgsebastian", "text": "Is the tick rate tied to CPU speed? (irrelevant)", "likes": 4, "views": 491, "derived_timestamp": "2026-04-24T04:33:10Z", "age_hours": 2.5},
+        {"id": "2047469293680443818", "author": "@steipete", "text": "slop reports from clankers...", "likes": 3, "views": 674, "derived_timestamp": "2026-04-24T00:14:50Z", "age_hours": 6.8}
+      ]
+    },
+    {
+      "query": "LLM since:2026-04-23",
+      "resultCount": 4,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047539774706061543", "author": "@LLMJunky", "text": "Codex Hooks are now Generally Available and stable!...", "likes": 80, "views": 4100, "derived_timestamp": "2026-04-24T04:54:58.396Z", "age_hours": 2.2},
+        {"id": "2047433320058028338", "author": "@danielisdizzy", "text": "$NOW is down 18% after posting +22% YoY revenue growth...", "likes": 611, "views": 162000, "derived_timestamp": "2026-04-23T21:51:57.630Z", "age_hours": 9.2},
+        {"id": "2047205937413337182", "author": "@PawelHuryn", "text": "This is wild. You can now use Claude Cowork with any LLM...", "likes": 1800, "views": 440000, "derived_timestamp": "2026-04-23T06:48:25.383Z", "age_hours": 24.3},
+        {"id": "2047326894992081296", "author": "@dair_ai", "text": "Cool paper on diversity collapse in AI agents...", "likes": 94, "views": 12000, "derived_timestamp": "2026-04-23T14:49:03.917Z", "age_hours": 16.3}
+      ]
+    },
+    {
+      "query": "machine learning since:2026-04-23",
+      "resultCount": 2,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047221609581408761", "author": "@Onil_coder", "text": "learning to code right now is like learning to use a fax machine...", "likes": 78, "views": 61000, "derived_timestamp": "2026-04-23T07:51:00Z", "age_hours": 23.2}
+      ]
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-04-23",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047381612372115812", "author": "@gdb", "text": "GPT-5.5 is a new class of intelligence...", "likes": 2200, "views": 119000, "derived_timestamp": "2026-04-23T18:26:29.557Z", "age_hours": 12.6},
+        {"id": "2047381283358355706", "author": "@OpenAIDevs", "text": "With GPT-5.5, Codex now gets more of the job done...", "likes": 3700, "views": 592000, "derived_timestamp": "2026-04-23T18:25:11.114Z", "age_hours": 12.7},
+        {"id": "2047424063543681240", "author": "@ClaudeDevs", "text": "Memory on Claude Managed Agents is now in public beta...", "likes": 1400, "views": 91000, "derived_timestamp": "2026-04-23T21:15:10.705Z", "age_hours": 9.8},
+        {"id": "2047387029915271445", "author": "@levelsio", "text": "I can't believe we were right Claude was dumbified on March 4...", "likes": 7100, "views": 675000, "derived_timestamp": "2026-04-23T18:48:01.200Z", "age_hours": 12.3},
+        {"id": "2047513472087326898", "author": "@steipete", "text": "you want openai-codex/gpt-5.5 (once update is out)...", "likes": 1, "views": 494, "derived_timestamp": "2026-04-24T03:11:00Z", "age_hours": 3.9}
+      ]
+    },
+    {
+      "query": "open source AI model since:2026-04-23",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047513613750202452", "author": "@ValsAI", "text": "DeepSeek v4 is now the #1 open-weight model on our Vibe Code Benchmark...", "likes": 786, "views": 64000, "derived_timestamp": "2026-04-24T03:11:01.138Z", "age_hours": 3.9},
+        {"id": "2047534830271803642", "author": "@Independent", "text": "China's DeepSeek releases new AI model and claims it beats all open-source competitors", "likes": 3, "views": 1600, "derived_timestamp": "2026-04-24T04:33:20Z", "age_hours": 2.5},
+        {"id": "2047197316470485181", "author": "@AJButton2", "text": "AI bros are starting to sound VERY impressed with Alibaba's Qwen...", "likes": 16, "views": 2400, "derived_timestamp": "2026-04-23T06:14:00Z", "age_hours": 24.8}
+      ]
+    },
+    {
+      "query": "AI agent since:2026-04-23",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047436655863464011", "author": "@OpenAIDevs", "text": "Agents SDK now supports custom approval checks for tool calls...", "likes": 1400, "views": 187000, "derived_timestamp": "2026-04-23T22:05:12.948Z", "age_hours": 9.0},
+        {"id": "2047331157931425970", "author": "@rohanpaul_ai", "text": "If you really want to make money, found an agentic AI company - Eric Schmidt", "likes": 1400, "views": 174000, "derived_timestamp": "2026-04-23T15:06:00.281Z", "age_hours": 16.0},
+        {"id": "2047414507316949223", "author": "@TrungTPhan", "text": "POV: Your bill after getting forced to switch your OpenClaw AI agent...", "likes": 57, "views": 35000, "derived_timestamp": "2026-04-23T20:30:00Z", "age_hours": 10.6},
+        {"id": "2047330455792562200", "author": "@PirateWires", "text": "NEW: OpenClaw Ruined My Life...", "likes": 121, "views": 30000, "derived_timestamp": "2026-04-23T15:03:00Z", "age_hours": 16.1},
+        {"id": "2047373713520378188", "author": "@Forbes", "text": "Imagine a shopping experience where you don't ask your AI agent...", "likes": 12, "views": 7900, "derived_timestamp": "2026-04-23T17:55:00Z", "age_hours": 13.2}
+      ]
+    },
+    {
+      "query": "Sam Altman since:2026-04-23",
+      "resultCount": 6,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047395562501411058", "author": "@sama", "text": "We tried a new thing with NVIDIA to roll out Codex across a whole company...", "likes": 6400, "views": 653000, "derived_timestamp": "2026-04-23T19:21:55.527Z", "age_hours": 11.7},
+        {"id": "2047379615589777666", "author": "@sama", "text": "1. We believe in iterative deployment; although GPT-5.5 is already smart...", "likes": 7300, "views": 407000, "derived_timestamp": "2026-04-23T18:18:33.487Z", "age_hours": 12.8},
+        {"id": "2047376575386046495", "author": "@Discoplomacy", "text": "WSJ: Sam Altman is blurring lines between OpenAI and his own business interests...", "likes": 0, "views": 368, "derived_timestamp": "2026-04-23T18:06:28.646Z", "age_hours": 13.0},
+        {"id": "2047403771416940715", "author": "@sama", "text": "don't retweet this... ah fuck it, life imitates art.", "likes": 4100, "views": 443000, "derived_timestamp": "2026-04-23T19:54:32.685Z", "age_hours": 11.2},
+        {"id": "2047349336263012771", "author": "@sama", "text": "Images 2.0 really got over some important qualitative threshold for me...", "likes": 4400, "views": 248000, "derived_timestamp": "2026-04-23T16:18:14.333Z", "age_hours": 14.8},
+        {"id": "2047347674743963705", "author": "@sama", "text": "we love seeing our users win...", "likes": 10000, "views": 555000, "derived_timestamp": "2026-04-23T16:11:38.196Z", "age_hours": 14.9}
+      ]
+    },
+    {
+      "query": "Dario Amodei since:2026-04-23",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "Demis Hassabis since:2026-04-23",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": []
+    },
+    {
+      "query": "from:karpathy since:2026-04-23",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    },
+    {
+      "query": "from:sama since:2026-04-23",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047386286613283180", "author": "@sama", "text": "important (and very jakub-coded) jakub quote:", "likes": 1300, "views": 189000, "derived_timestamp": "2026-04-23T18:45:30Z", "age_hours": 12.3},
+        {"id": "2047348141091922361", "author": "@sama", "text": "cmon dude at least a case would be fair", "likes": 916, "views": 37000, "derived_timestamp": "2026-04-23T16:13:30Z", "age_hours": 14.8},
+        {"id": "2047349336263012771", "author": "@sama", "text": "Images 2.0 really got over some important qualitative threshold...", "likes": 4400, "views": 248000, "derived_timestamp": "2026-04-23T16:18:14.333Z", "age_hours": 14.8},
+        {"id": "2047378253313106112", "author": "@sama", "text": "GPT-5.5 is here! We hope it's useful to you. I personally like it.", "likes": 16000, "views": 1200000, "derived_timestamp": "2026-04-23T18:13:08.695Z", "age_hours": 12.9},
+        {"id": "2047347674743963705", "author": "@sama", "text": "we love seeing our users win...", "likes": 10000, "views": 555000, "derived_timestamp": "2026-04-23T16:11:38.196Z", "age_hours": 14.9}
+      ]
+    },
+    {
+      "query": "from:OpenAI since:2026-04-23",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "tweets": [
+        {"id": "2047376561205325845", "author": "@OpenAI", "text": "Introducing GPT-5.5...", "likes": 44000, "views": 7400000, "derived_timestamp": "2026-04-23T18:06:25.265Z", "age_hours": 13.0},
+        {"id": "2047376564309115134", "author": "@OpenAI", "text": "GPT-5.5 delivers this step up in intelligence...", "likes": 4500, "views": 1300000, "derived_timestamp": "2026-04-23T18:06:26.005Z", "age_hours": 13.0},
+        {"id": "2047376567559668222", "author": "@OpenAI", "text": "In ChatGPT, full-stack inference improvements enable...", "likes": 1600, "views": 403000, "derived_timestamp": "2026-04-23T18:06:27Z", "age_hours": 13.0},
+        {"id": "2047376562916581513", "author": "@OpenAI", "text": "GPT-5.5 excels at writing and debugging code...", "likes": 3200, "views": 402000, "derived_timestamp": "2026-04-23T18:06:26Z", "age_hours": 13.0},
+        {"id": "2047376568809636017", "author": "@OpenAI", "text": "GPT-5.5 is rolling out today for Plus, Pro...", "likes": 2100, "views": 283000, "derived_timestamp": "2026-04-23T18:06:27Z", "age_hours": 13.0}
+      ]
+    },
+    {
+      "query": "from:AnthropicAI since:2026-04-23",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "tweets": []
+    }
+  ],
+  "selected": [
+    {"id": "2047376561205325845", "author": "@OpenAI", "derived_timestamp": "2026-04-23T18:06:25Z", "age_hours": 13.0, "reason": "GPT-5.5 launch - biggest story of the day"},
+    {"id": "2047376564309115134", "author": "@OpenAI", "derived_timestamp": "2026-04-23T18:06:26Z", "age_hours": 13.0, "reason": "GPT-5.5 performance details"},
+    {"id": "2047376562916581513", "author": "@OpenAI", "derived_timestamp": "2026-04-23T18:06:26Z", "age_hours": 13.0, "reason": "GPT-5.5 capabilities"},
+    {"id": "2047376568809636017", "author": "@OpenAI", "derived_timestamp": "2026-04-23T18:06:27Z", "age_hours": 13.0, "reason": "GPT-5.5 availability"},
+    {"id": "2047378253313106112", "author": "@sama", "derived_timestamp": "2026-04-23T18:13:08Z", "age_hours": 12.9, "reason": "Altman personal GPT-5.5 announcement"},
+    {"id": "2047379615589777666", "author": "@sama", "derived_timestamp": "2026-04-23T18:18:33Z", "age_hours": 12.8, "reason": "Altman iterative deployment philosophy"},
+    {"id": "2047381612372115812", "author": "@gdb", "derived_timestamp": "2026-04-23T18:26:29Z", "age_hours": 12.6, "reason": "Greg Brockman GPT-5.5 characterisation"},
+    {"id": "2047381283358355706", "author": "@OpenAIDevs", "derived_timestamp": "2026-04-23T18:25:11Z", "age_hours": 12.7, "reason": "Codex browser expansion with GPT-5.5"},
+    {"id": "2047395562501411058", "author": "@sama", "derived_timestamp": "2026-04-23T19:21:55Z", "age_hours": 11.7, "reason": "NVIDIA Codex rollout"},
+    {"id": "2047541015146348571", "author": "@TheGeorgePu", "derived_timestamp": "2026-04-24T04:59:54Z", "age_hours": 2.1, "reason": "DeepSeek V4 vs GPT-5.5 same-day framing"},
+    {"id": "2047513613750202452", "author": "@ValsAI", "derived_timestamp": "2026-04-24T03:11:01Z", "age_hours": 3.9, "reason": "DeepSeek V4 #1 open-weight on Vibe Code Benchmark"},
+    {"id": "2047545899044213193", "author": "@EMostaque", "derived_timestamp": "2026-04-24T05:19:18Z", "age_hours": 1.8, "reason": "DeepSeek V4 training cost estimates"},
+    {"id": "2047387029915271445", "author": "@levelsio", "derived_timestamp": "2026-04-23T18:48:01Z", "age_hours": 12.3, "reason": "Claude dumbified confirmation March 4"},
+    {"id": "2047424063543681240", "author": "@ClaudeDevs", "derived_timestamp": "2026-04-23T21:15:10Z", "age_hours": 9.8, "reason": "Claude Managed Agents memory beta"},
+    {"id": "2047433320058028338", "author": "@danielisdizzy", "derived_timestamp": "2026-04-23T21:51:57Z", "age_hours": 9.2, "reason": "ServiceNow -18% AI disruption fears"},
+    {"id": "2047436655863464011", "author": "@OpenAIDevs", "derived_timestamp": "2026-04-23T22:05:12Z", "age_hours": 9.0, "reason": "Agents SDK custom approval checks"},
+    {"id": "2047539774706061543", "author": "@LLMJunky", "derived_timestamp": "2026-04-24T04:54:58Z", "age_hours": 2.2, "reason": "Codex Hooks GA"},
+    {"id": "2047547275682214384", "author": "@amasad", "derived_timestamp": "2026-04-24T05:24:46Z", "age_hours": 1.7, "reason": "Chinese open science vs US scaremongering"},
+    {"id": "2047376575386046495", "author": "@Discoplomacy", "derived_timestamp": "2026-04-23T18:06:28Z", "age_hours": 13.0, "reason": "WSJ Altman conflicts of interest"},
+    {"id": "2047331157931425970", "author": "@rohanpaul_ai", "derived_timestamp": "2026-04-23T15:06:00Z", "age_hours": 16.0, "reason": "Eric Schmidt agentic AI quote"},
+    {"id": "2047349336263012771", "author": "@sama", "derived_timestamp": "2026-04-23T16:18:14Z", "age_hours": 14.8, "reason": "Altman on Images 2.0 threshold"},
+    {"id": "2047326894992081296", "author": "@dair_ai", "derived_timestamp": "2026-04-23T14:49:03Z", "age_hours": 16.3, "reason": "Diversity collapse paper in multi-agent systems"}
+  ],
+  "rejected_notable": [
+    {"id": "2047205937413337182", "author": "@PawelHuryn", "derived_timestamp": "2026-04-23T06:48:25Z", "age_hours": 24.3, "reason": "Older than 24h"}
+  ]
+}
