@@ -1,0 +1,93 @@
+{
+  "date": "2026-04-25",
+  "searches": [
+    {"query": "AI since:2026-04-24", "resultCount": 12, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047606354714808426", "author": "@iam_elias1", "text": "MIT just made every AI company's billion dollar bet look embarrassing.", "likes": 1700, "views": 221000, "derived_timestamp": "2026-04-24T09:10:00Z", "age_hours": 24.1},
+      {"id": "2047529894121185479", "author": "@cryptopunk7213", "text": "it's official - china's fucking dominating AI.", "likes": 1400, "views": 184000, "derived_timestamp": "2026-04-24T04:00:00Z", "age_hours": 29.2},
+      {"id": "2047540299086602402", "author": "@aakashgupta", "text": "Screenshot this. It is the architecture every agentic AI product converges on", "likes": 157, "views": 19000, "derived_timestamp": "2026-04-24T04:42:00Z", "age_hours": 28.5},
+      {"id": "2047942872994029682", "author": "@heynavtoor", "text": "If I had to land a $200K AI engineer job in 90 days", "likes": 34, "views": 1800, "derived_timestamp": "2026-04-25T07:25:00Z", "age_hours": 1.9},
+      {"id": "2047743592278745425", "author": "@OpenAI", "text": "Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.", "likes": 5000, "views": 305000, "derived_timestamp": "2026-04-24T18:10:00Z", "age_hours": 15.0},
+      {"id": "2047857518073057619", "author": "@Miles_Brundage", "text": "Can't spell Melania without AI", "likes": 15, "views": 2000, "derived_timestamp": "2026-04-25T01:47:00Z", "age_hours": 7.5},
+      {"id": "2047549128750793203", "author": "@Miles_Brundage", "text": "Reminder that there are still non-trivial amounts of hallucinations", "likes": 112, "views": 4600, "derived_timestamp": "2026-04-24T05:20:00Z", "age_hours": 27.9}
+    ]},
+    {"query": "LLM since:2026-04-24", "resultCount": 8, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047574078685634813", "author": "@llminatoll", "text": "The answer to Why draw by hand when AI can generate images?", "likes": 3600, "views": 124000, "derived_timestamp": "2026-04-24T07:00:00Z", "age_hours": 26.2},
+      {"id": "2047654743317574144", "author": "@PawelHuryn", "text": "Some are surprised that Cowork just works with any frontier LLM.", "likes": 83, "views": 12000, "derived_timestamp": "2026-04-24T12:20:00Z", "age_hours": 20.9},
+      {"id": "2047629370353959160", "author": "@ImAI_Eruel", "text": "Over a year after the DeepSeek shock, DeepSeek v4 has finally been released", "likes": 725, "views": 75000, "derived_timestamp": "2026-04-24T10:40:00Z", "age_hours": 22.6},
+      {"id": "2047688764269666475", "author": "@kirillk_web3", "text": "A SINGLE CLAUDE.md FILE JUST HIT #1 ON GITHUB TRENDING.", "likes": 2200, "views": 1100000, "derived_timestamp": "2026-04-24T14:40:00Z", "age_hours": 18.6}
+    ]},
+    {"query": "machine learning since:2026-04-24", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047619575907279032", "author": "@tom_doerr", "text": "Machine learning based lossless video super resolution", "likes": 259, "views": 9300, "derived_timestamp": "2026-04-24T10:00:00Z", "age_hours": 23.2},
+      {"id": "2047616236859642020", "author": "@IntuitMachine", "text": "You give an AI agent a machine learning paper. A bare Docker container.", "likes": 19, "views": 1300, "derived_timestamp": "2026-04-24T09:47:00Z", "age_hours": 23.5}
+    ]},
+    {"query": "GPT OR Claude OR Gemini since:2026-04-24", "resultCount": 8, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047753023099912393", "author": "@gdb", "text": "gpt-5.5 give it a try", "likes": 341, "views": 39000, "derived_timestamp": "2026-04-24T18:48:00Z", "age_hours": 14.4},
+      {"id": "2047757836269043937", "author": "@mattshumer_", "text": "wow, opus 4.7 is god awful", "likes": 1100, "views": 146000, "derived_timestamp": "2026-04-24T19:07:00Z", "age_hours": 14.1},
+      {"id": "2047743651053556126", "author": "@satyanadella", "text": "Super excited GPT-5.5 is rolling out to GitHub Copilot", "likes": 3500, "views": 265000, "derived_timestamp": "2026-04-24T18:10:00Z", "age_hours": 15.0},
+      {"id": "2047754848628867183", "author": "@gdb", "text": "gpt-5.5 unlocks a new level of possibility", "likes": 341, "views": 37000, "derived_timestamp": "2026-04-24T18:55:00Z", "age_hours": 14.3},
+      {"id": "2047711032152650057", "author": "@venturetwins", "text": "Take a photo of a product -> ask GPT 5.5 for a visual brand teardown", "likes": 1100, "views": 65000, "derived_timestamp": "2026-04-24T16:00:00Z", "age_hours": 17.2},
+      {"id": "2047871519762567468", "author": "@steipete", "text": "GPT 5.5 is definitely a step up in the character game.", "likes": 588, "views": 30000, "derived_timestamp": "2026-04-25T02:44:00Z", "age_hours": 6.5}
+    ]},
+    {"query": "open source AI model since:2026-04-24", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047513613750202452", "author": "@ValsAI", "text": "DeepSeek v4 is now the #1 open-weight model on our Vibe Code Benchmark", "likes": 2500, "views": 208000, "derived_timestamp": "2026-04-24T03:00:00Z", "age_hours": 30.2},
+      {"id": "2047871322647318901", "author": "@arena", "text": "Hy3 preview (295B A21B) by TencentHunyuan is now live on Arena.", "likes": 3, "views": 13000, "derived_timestamp": "2026-04-25T02:44:00Z", "age_hours": 6.6},
+      {"id": "2047644079136161819", "author": "@bridgemindai", "text": "DeepSeek V4 Pro debuted at #14 on LMArena Code.", "likes": 149, "views": 13000, "derived_timestamp": "2026-04-24T11:40:00Z", "age_hours": 21.6},
+      {"id": "2047656611993239736", "author": "@DeryaTR_", "text": "DeepSeek-V4 is out! It looks amazing as an open-source model", "likes": 232, "views": 10000, "derived_timestamp": "2026-04-24T12:30:00Z", "age_hours": 20.8}
+    ]},
+    {"query": "AI agent since:2026-04-24", "resultCount": 6, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047802944188269023", "author": "@GoogleAI", "text": "Our teams have been busyyy! Key updates from the past week", "likes": 231, "views": 24000, "derived_timestamp": "2026-04-24T22:09:00Z", "age_hours": 11.1},
+      {"id": "2047747078449922076", "author": "@jessegenet", "text": "My AI agent found and scheduled an arborist", "likes": 322, "views": 19000, "derived_timestamp": "2026-04-24T18:24:00Z", "age_hours": 14.8},
+      {"id": "2047663514777481471", "author": "@ZackKorman", "text": "If you're using Open Swarm: Stop. No auth on the local websocket API", "likes": 153, "views": 7800, "derived_timestamp": "2026-04-24T12:56:00Z", "age_hours": 20.3}
+    ]},
+    {"query": "Sam Altman since:2026-04-24", "resultCount": 6, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047764755083935878", "author": "@CTVNews", "text": "BREAKING: OpenAI CEO Sam Altman writes open letter apology to Tumbler Ridge", "likes": 26, "views": 9100, "derived_timestamp": "2026-04-24T19:34:00Z", "age_hours": 13.6},
+      {"id": "2047583236851642645", "author": "@DecentraSuze", "text": "Sam Altman just explained the entire World ID agenda.", "likes": 458, "views": 33000, "derived_timestamp": "2026-04-24T07:36:00Z", "age_hours": 25.6}
+    ]},
+    {"query": "Dario Amodei since:2026-04-24", "resultCount": 6, "attempts": 1, "status": "ok", "tweets": []},
+    {"query": "Demis Hassabis since:2026-04-24", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": []},
+    {"query": "from:karpathy since:2026-04-24", "resultCount": 0, "attempts": 1, "status": "empty", "tweets": []},
+    {"query": "from:sama since:2026-04-24", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047787124846653895", "author": "@sama", "text": "GPT-5.5 and GPT-5.5 Pro are now available in the API!", "likes": 5500, "views": 226000, "derived_timestamp": "2026-04-24T21:05:00Z", "age_hours": 12.1},
+      {"id": "2047823357635354814", "author": "@sama", "text": "this was a good week. proud of the team. happy building!", "likes": 5900, "views": 159000, "derived_timestamp": "2026-04-25T00:30:00Z", "age_hours": 9.7},
+      {"id": "2047683787828703289", "author": "@sama", "text": "(empty/image tweet)", "likes": 1800, "views": 188000, "derived_timestamp": "2026-04-24T14:20:00Z", "age_hours": 19.0},
+      {"id": "2047824397923393838", "author": "@sama", "text": "too soon!", "likes": 345, "views": 23000, "derived_timestamp": "2026-04-25T00:34:00Z", "age_hours": 9.7}
+    ]},
+    {"query": "from:OpenAI since:2026-04-24", "resultCount": 1, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047743592278745425", "author": "@OpenAI", "text": "Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.", "likes": 5000, "views": 305000, "derived_timestamp": "2026-04-24T18:10:00Z", "age_hours": 15.0}
+    ]},
+    {"query": "from:AnthropicAI since:2026-04-24", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047728378275381427", "author": "@AnthropicAI", "text": "One of our colleagues told Claude it could purchase something for itself. It chose 19 ping-pong balls.", "likes": 757, "views": 1200000, "derived_timestamp": "2026-04-24T17:10:00Z", "age_hours": 16.0},
+      {"id": "2047728384503939464", "author": "@AnthropicAI", "text": "Negotiation experiment thread - Opus models got better deals", "likes": 322, "views": 56000, "derived_timestamp": "2026-04-24T17:10:00Z", "age_hours": 16.0},
+      {"id": "2047728371962888371", "author": "@AnthropicAI", "text": "Quality of the model mattered a lot in simulated negotiations", "likes": 322, "views": 54000, "derived_timestamp": "2026-04-24T17:10:00Z", "age_hours": 16.0},
+      {"id": "2047728375251227111", "author": "@AnthropicAI", "text": "Custom instructions didn't matter much. Hardballing Claudes didn't do better.", "likes": 209, "views": 47000, "derived_timestamp": "2026-04-24T17:10:00Z", "age_hours": 16.0},
+      {"id": "2047728380997455928", "author": "@AnthropicAI", "text": "Claude bought a colleague the exact snowboard he already owned based on offhand mention of skiing interest.", "likes": 334, "views": 35000, "derived_timestamp": "2026-04-24T17:10:00Z", "age_hours": 16.0}
+    ]}
+  ],
+  "selected": [
+    {"id": "2047743592278745425", "author": "@OpenAI", "derived_timestamp": "2026-04-24T18:10:00Z", "age_hours": 15.0, "reason": "GPT-5.5 API launch - biggest news"},
+    {"id": "2047787124846653895", "author": "@sama", "derived_timestamp": "2026-04-24T21:05:00Z", "age_hours": 12.1, "reason": "Sama announcing API availability"},
+    {"id": "2047743651053556126", "author": "@satyanadella", "derived_timestamp": "2026-04-24T18:10:00Z", "age_hours": 15.0, "reason": "Microsoft GPT-5.5 rollout"},
+    {"id": "2047757836269043937", "author": "@mattshumer_", "derived_timestamp": "2026-04-24T19:07:00Z", "age_hours": 14.1, "reason": "Opus 4.7 complaints - viral"},
+    {"id": "2047728378275381427", "author": "@AnthropicAI", "derived_timestamp": "2026-04-24T17:10:00Z", "age_hours": 16.0, "reason": "Anthropic negotiation experiment - viral"},
+    {"id": "2047688764269666475", "author": "@kirillk_web3", "derived_timestamp": "2026-04-24T14:40:00Z", "age_hours": 18.6, "reason": "CLAUDE.md trending #1 GitHub"},
+    {"id": "2047871519762567468", "author": "@steipete", "derived_timestamp": "2026-04-25T02:44:00Z", "age_hours": 6.5, "reason": "GPT-5.5 character quality"},
+    {"id": "2047711032152650057", "author": "@venturetwins", "derived_timestamp": "2026-04-24T16:00:00Z", "age_hours": 17.2, "reason": "GPT-5.5 visual brand teardown"},
+    {"id": "2047823357635354814", "author": "@sama", "derived_timestamp": "2026-04-25T00:30:00Z", "age_hours": 9.7, "reason": "Sama victory lap"},
+    {"id": "2047629370353959160", "author": "@ImAI_Eruel", "derived_timestamp": "2026-04-24T10:40:00Z", "age_hours": 22.6, "reason": "DeepSeek V4 technical analysis"},
+    {"id": "2047663514777481471", "author": "@ZackKorman", "derived_timestamp": "2026-04-24T12:56:00Z", "age_hours": 20.3, "reason": "Open Swarm security vulnerability"},
+    {"id": "2047871322647318901", "author": "@arena", "derived_timestamp": "2026-04-25T02:44:00Z", "age_hours": 6.6, "reason": "Tencent Hy3 new model on Arena"},
+    {"id": "2047764755083935878", "author": "@CTVNews", "derived_timestamp": "2026-04-24T19:34:00Z", "age_hours": 13.6, "reason": "Altman Tumbler Ridge apology"},
+    {"id": "2047654743317574144", "author": "@PawelHuryn", "derived_timestamp": "2026-04-24T12:20:00Z", "age_hours": 20.9, "reason": "Cowork model convergence"},
+    {"id": "2047753023099912393", "author": "@gdb", "derived_timestamp": "2026-04-24T18:48:00Z", "age_hours": 14.4, "reason": "Greg Brockman on GPT-5.5"}
+  ],
+  "rejected_notable": [
+    {"id": "2047529894121185479", "author": "@cryptopunk7213", "derived_timestamp": "2026-04-24T04:00:00Z", "age_hours": 29.2, "reason": "older than 24h"},
+    {"id": "2047513613750202452", "author": "@ValsAI", "derived_timestamp": "2026-04-24T03:00:00Z", "age_hours": 30.2, "reason": "older than 24h, covered in yesterday's digest"},
+    {"id": "2047549128750793203", "author": "@Miles_Brundage", "derived_timestamp": "2026-04-24T05:20:00Z", "age_hours": 27.9, "reason": "older than 24h"},
+    {"id": "2047583236851642645", "author": "@DecentraSuze", "derived_timestamp": "2026-04-24T07:36:00Z", "age_hours": 25.6, "reason": "older than 24h"},
+    {"id": "2047606354714808426", "author": "@iam_elias1", "derived_timestamp": "2026-04-24T09:10:00Z", "age_hours": 24.1, "reason": "older than 24h"},
+    {"id": "2047574078685634813", "author": "@llminatoll", "derived_timestamp": "2026-04-24T07:00:00Z", "age_hours": 26.2, "reason": "older than 24h"},
+    {"id": "2047540299086602402", "author": "@aakashgupta", "derived_timestamp": "2026-04-24T04:42:00Z", "age_hours": 28.5, "reason": "older than 24h"},
+    {"id": "2047496898584719629", "author": "@sama", "derived_timestamp": "2026-04-24T01:48:00Z", "age_hours": 31.4, "reason": "older than 24h"}
+  ]
+}
