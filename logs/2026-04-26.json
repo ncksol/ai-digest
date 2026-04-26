@@ -1,0 +1,113 @@
+{
+  "date": "2026-04-26",
+  "searches": [
+    {"query": "AI since:2026-04-25", "resultCount": 9, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2048268794217345193", "author": "@davidasinclair", "text": "Yes! But in 1982, my high school didn't teach boys typing because it was for secretaries...", "likes": 94, "views": 6000, "derived_timestamp": "2026-04-26T05:11:50.192Z", "age_hours": 1.9},
+      {"id": "2048194326946308453", "author": "@satyanadella", "text": "Learn more:", "likes": 19, "views": 16000, "derived_timestamp": "2026-04-26T00:15:55.811Z", "age_hours": 6.8},
+      {"id": "2047854449943826568", "author": "@AlexFinn", "text": "ChatGPT 5.5 + ChatGPT Image 2 is the sickest combo...", "likes": 704, "views": 45000, "derived_timestamp": "2026-04-25T01:45:22.819Z", "age_hours": 29.3},
+      {"id": "2048209864099283148", "author": "@steipete", "text": "If my agent detects that you used AI to post on X, you will get blocked too.", "likes": 2, "views": 155, "derived_timestamp": "2026-04-26T01:17:40.157Z", "age_hours": 5.8},
+      {"id": "2047942872994029682", "author": "@heynavtoor", "text": "If I had to land a $200K AI engineer job in 90 days...", "likes": 1700, "views": 110000, "derived_timestamp": "2026-04-25T07:36:44.517Z", "age_hours": 23.5},
+      {"id": "2048056060460626292", "author": "@gdb", "text": "GPT-5.5 raises the ceiling of ambition for what you can do with AI:", "likes": 540, "views": 52000, "derived_timestamp": "2026-04-25T15:06:30.512Z", "age_hours": 16.0},
+      {"id": "2048097102991941957", "author": "@bernhardsson", "text": "That's fair but the point I was making is somewhat tangential...", "likes": 26, "views": 1400, "derived_timestamp": "2026-04-25T17:49:35.814Z", "age_hours": 13.3},
+      {"id": "2048261099280072747", "author": "@HowToAI_", "text": "Google DeepMind just killed the biggest assumption in computer vision.", "likes": 14, "views": 575, "derived_timestamp": "2026-04-26T04:41:15.576Z", "age_hours": 2.4},
+      {"id": "2047871322647318901", "author": "@arena", "text": "Hy3 preview (295B A21B) an open source model by @TencentHunyuan is now live on Arena.", "likes": 74, "views": 24000, "derived_timestamp": "2026-04-25T02:52:25.585Z", "age_hours": 28.2}
+    ]},
+    {"query": "LLM since:2026-04-25", "resultCount": 4, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047932641564119479", "author": "@_vmlops", "text": "MOST LLM APPS ARE BUILT ON FLAT DATABASES falkordb changes that...", "likes": 94, "views": 4400, "derived_timestamp": "2026-04-25T06:56:13.000Z", "age_hours": 24.1},
+      {"id": "2048025083659370668", "author": "@akshay_pachaar", "text": "A great LLM interview question...", "likes": 65, "views": 5100, "derived_timestamp": "2026-04-25T13:03:25.067Z", "age_hours": 18.0},
+      {"id": "2047942872994029682", "author": "@heynavtoor", "text": "If I had to land a $200K AI engineer job...", "likes": 1700, "views": 110000, "derived_timestamp": "2026-04-25T07:36:44.517Z", "age_hours": 23.5},
+      {"id": "2048021330839441897", "author": "@HowToAI_", "text": "Nvidia trained a billion-parameter LLM without a single gradient, without backprop...", "likes": 982, "views": 48000, "derived_timestamp": "2026-04-25T12:48:30.325Z", "age_hours": 18.3}
+    ]},
+    {"query": "machine learning since:2026-04-25", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2048024298041033020", "author": "@shushant_l", "text": "ai agent input goal definition...", "likes": 1, "views": 516, "derived_timestamp": "2026-04-25T13:00:17.000Z", "age_hours": 18.1},
+      {"id": "2047940968503255143", "author": "@MLStreetTalk", "text": "OpenAI are so back! Loving Codex with GPT 5.5", "likes": 15, "views": 1700, "derived_timestamp": "2026-04-25T07:29:10.451Z", "age_hours": 23.6},
+      {"id": "2048280165965291876", "author": "@gp_pulipaka", "text": "1974 Machine Learning!", "likes": 0, "views": 28, "derived_timestamp": "2026-04-26T05:56:57.000Z", "age_hours": 1.1},
+      {"id": "2048232945199276034", "author": "@shub0414", "text": "If I had 6 months to become an AI Engineer...", "likes": 396, "views": 11000, "derived_timestamp": "2026-04-26T02:49:23.120Z", "age_hours": 4.3},
+      {"id": "2047980228740305064", "author": "@tom_doerr", "text": "Curated Production Machine Learning Libraries List", "likes": 55, "views": 3600, "derived_timestamp": "2026-04-25T10:05:10.821Z", "age_hours": 21.0}
+    ]},
+    {"query": "GPT OR Claude OR Gemini since:2026-04-25", "resultCount": 7, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047988185355964635", "author": "@steipete", "text": "GPT 5.5 high is pretty good!", "likes": 83, "views": 20000, "derived_timestamp": "2026-04-25T10:36:47.826Z", "age_hours": 20.5},
+      {"id": "2047988278792474639", "author": "@steipete", "text": "I reviewed a few 100 and they all seemed correct, GPT 5.5 is a goat.", "likes": 63, "views": 6600, "derived_timestamp": "2026-04-25T10:37:10.103Z", "age_hours": 20.5},
+      {"id": "2048056060460626292", "author": "@gdb", "text": "GPT-5.5 raises the ceiling of ambition...", "likes": 540, "views": 52000, "derived_timestamp": "2026-04-25T15:06:30.512Z", "age_hours": 16.0},
+      {"id": "2048052668984123881", "author": "@svpino", "text": "I don't believe people who say they are running 12 parallel coding agents...", "likes": 1100, "views": 84000, "derived_timestamp": "2026-04-25T14:53:01.921Z", "age_hours": 16.2},
+      {"id": "2048184797374325031", "author": "@gdb", "text": "GPT Image 2 for reimagining damaged photos:", "likes": 404, "views": 33000, "derived_timestamp": "2026-04-25T23:38:03.784Z", "age_hours": 7.5},
+      {"id": "2048166616119353820", "author": "@gdb", "text": "GPT-5.5 for the enterprise:", "likes": 306, "views": 32000, "derived_timestamp": "2026-04-25T22:25:49.035Z", "age_hours": 8.7},
+      {"id": "2048067919289147674", "author": "@gdb", "text": "GPT Image 2 is great for learning", "likes": 759, "views": 74000, "derived_timestamp": "2026-04-25T15:53:37.877Z", "age_hours": 15.2}
+    ]},
+    {"query": "open source AI model since:2026-04-25", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047871322647318901", "author": "@arena", "text": "Hy3 preview 295B A21B open source...", "likes": 74, "views": 24000, "derived_timestamp": "2026-04-25T02:52:25.585Z", "age_hours": 28.2},
+      {"id": "2047933627791503610", "author": "@WesRoth", "text": "OpenAI has made its frontier model GPT-5.5 available through the API.", "likes": 54, "views": 2400, "derived_timestamp": "2026-04-25T07:00:00.289Z", "age_hours": 24.1},
+      {"id": "2047941718167957973", "author": "@RodmanAi", "text": "Anthropic pulled Claude Code from $20 plan... OpenClaude rebuilt it open-source", "likes": 280, "views": 36000, "derived_timestamp": "2026-04-25T07:32:09.185Z", "age_hours": 23.6},
+      {"id": "2047696342957592857", "author": "@shiri_shh", "text": "April in AI so far...", "likes": 68, "views": 10000, "derived_timestamp": "2026-04-24T15:17:07.176Z", "age_hours": 39.8},
+      {"id": "2047915241783066879", "author": "@kobixyzHQ", "text": "Ritual testnet live L1 for AI agent", "likes": 342, "views": 28000, "derived_timestamp": "2026-04-25T05:46:56.723Z", "age_hours": 25.3}
+    ]},
+    {"query": "AI agent since:2026-04-25", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2048045633681137744", "author": "@KanikaBK", "text": "AI agents cannot tell the difference between your instructions and a hacker's. The paper is called Parallax", "likes": 65, "views": 5200, "derived_timestamp": "2026-04-25T14:25:04.574Z", "age_hours": 16.7},
+      {"id": "2047915241783066879", "author": "@kobixyzHQ", "text": "Ritual testnet live...", "likes": 342, "views": 28000, "derived_timestamp": "2026-04-25T05:46:56.723Z", "age_hours": 25.3},
+      {"id": "2047843035312988415", "author": "@MicrosoftLearn", "text": "Microsoft Agent-a-thon on May 6", "likes": 780, "views": 52000, "derived_timestamp": "2026-04-25T01:00:01.359Z", "age_hours": 30.1},
+      {"id": "2048164445902266374", "author": "@lsanger", "text": "An AI agent just took my fast food order at the drive up. Was weird.", "likes": 30, "views": 1900, "derived_timestamp": "2026-04-25T22:17:11.615Z", "age_hours": 8.8},
+      {"id": "2047978980155019452", "author": "@aiedge_", "text": "A complete library of official AI skills...", "likes": 74, "views": 5600, "derived_timestamp": "2026-04-25T10:00:13.135Z", "age_hours": 21.1}
+    ]},
+    {"query": "Sam Altman since:2026-04-25", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047873810922418212", "author": "@TheNavroopSingh", "text": "Sam Altman unveils WorldID...", "likes": 249, "views": 19000, "derived_timestamp": "2026-04-25T03:02:18.836Z", "age_hours": 28.1},
+      {"id": "2047836382454861915", "author": "@chatgpt21", "text": "Everyone is talking about GPT 5.5...", "likes": 190, "views": 7800, "derived_timestamp": "2026-04-25T00:33:35.194Z", "age_hours": 30.5},
+      {"id": "2047850929136038142", "author": "@tab_delete", "text": "Among those who expressed concern over the Stanford network...", "likes": 162, "views": 32000, "derived_timestamp": "2026-04-25T01:31:23.393Z", "age_hours": 29.6},
+      {"id": "2048056894779170832", "author": "@SenseReceptor", "text": "SAM ALTMAN: We are no longer that far away from an AI model that knows about your life...", "likes": 138, "views": 17000, "derived_timestamp": "2026-04-25T15:09:49.429Z", "age_hours": 15.9},
+      {"id": "2047730546764308965", "author": "@PropheticAI", "text": "Today we are launching Dual and Phase dream devices...", "likes": 3100, "views": 1100000, "derived_timestamp": "2026-04-24T17:33:01.999Z", "age_hours": 37.5}
+    ]},
+    {"query": "Dario Amodei since:2026-04-25", "resultCount": 6, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047869077763342791", "author": "@chiefofautism", "text": "dario amodei rn", "likes": 16, "views": 1100, "derived_timestamp": "2026-04-25T02:43:28.000Z", "age_hours": 28.3},
+      {"id": "2048023902320722131", "author": "@Unniekoya", "text": "Just because Demis Hassabis isn't as loud as Sam Altman or Dario Amodei...", "likes": 6, "views": 403, "derived_timestamp": "2026-04-25T12:58:34.000Z", "age_hours": 18.1},
+      {"id": "2048270534673125558", "author": "@DarioAlbertoN", "text": "", "likes": 0, "views": 19, "derived_timestamp": "2026-04-26T05:18:41.000Z", "age_hours": 1.8},
+      {"id": "2047735598698406095", "author": "@aniketapanjwani", "text": "not to nitpick but Dario Amodei said this on Fox nearly a year ago", "likes": 1, "views": 444, "derived_timestamp": "2026-04-24T17:53:06.000Z", "age_hours": 37.2},
+      {"id": "2048270670052651121", "author": "@DarioAlbertoN", "text": "", "likes": 0, "views": 15, "derived_timestamp": "2026-04-26T05:19:13.000Z", "age_hours": 1.8},
+      {"id": "2048272634899480656", "author": "@godsgiftoa", "text": "Dario Amodei keeps saying AI this AI that...", "likes": 1, "views": 11, "derived_timestamp": "2026-04-26T05:27:01.000Z", "age_hours": 1.6}
+    ]},
+    {"query": "Demis Hassabis since:2026-04-25", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2047922783011942636", "author": "@WeymanXie", "text": "Demis Hassabis's aura and vision were on another level. YC x DeepMind startup talk.", "likes": 5, "views": 131, "derived_timestamp": "2026-04-25T06:17:07.000Z", "age_hours": 24.8},
+      {"id": "2047929155245998259", "author": "@WeymanXie", "text": "Demis Hassabis's aura and vision...", "likes": 3, "views": 93, "derived_timestamp": "2026-04-25T06:42:27.000Z", "age_hours": 24.4},
+      {"id": "2048200397676757501", "author": "@AndilesAnthony", "text": "the fourth person who shot was Demis Hassabis", "likes": 0, "views": 27, "derived_timestamp": "2026-04-26T00:40:00.000Z", "age_hours": 6.4},
+      {"id": "2048172846787285105", "author": "@demuee", "text": "4", "likes": 0, "views": 30, "derived_timestamp": "2026-04-25T22:50:34.000Z", "age_hours": 8.2},
+      {"id": "2047931961860354205", "author": "@GaryLuo1994", "text": "Just attended a YC event with Garry Tan and Demis Hassabis talking about AI...", "likes": 0, "views": 68, "derived_timestamp": "2026-04-25T06:53:31.000Z", "age_hours": 24.2}
+    ]},
+    {"query": "from:karpathy since:2026-04-25", "resultCount": 0, "attempts": 1, "status": "empty", "tweets": []},
+    {"query": "from:sama since:2026-04-25", "resultCount": 5, "attempts": 1, "status": "ok", "tweets": [
+      {"id": "2048160404376105179", "author": "@sama", "text": "we still get looksmaxxed on frontend a little but we IQmog hard now", "likes": 14000, "views": 1900000, "derived_timestamp": "2026-04-25T22:01:08.040Z", "age_hours": 9.1},
+      {"id": "2048161260601262082", "author": "@sama", "text": "wow that looks good maybe it is time to bonesmash, or at least tanning peptides.", "likes": 1300, "views": 93000, "derived_timestamp": "2026-04-25T22:04:32.180Z", "age_hours": 9.0},
+      {"id": "2048062261584077149", "author": "@sama", "text": "5.5 is so earnest little engine that could energy", "likes": 3400, "views": 233000, "derived_timestamp": "2026-04-25T15:31:08.975Z", "age_hours": 15.6},
+      {"id": "2048165186482389253", "author": "@sama", "text": "how can they write code so fast?!", "likes": 2500, "views": 297000, "derived_timestamp": "2026-04-25T22:20:08.183Z", "age_hours": 8.8},
+      {"id": "2048061746385166552", "author": "@sama", "text": "cold take", "likes": 4900, "views": 117000, "derived_timestamp": "2026-04-25T15:29:06.142Z", "age_hours": 15.6}
+    ]},
+    {"query": "from:OpenAI since:2026-04-25", "resultCount": 0, "attempts": 1, "status": "empty", "tweets": []},
+    {"query": "from:AnthropicAI since:2026-04-25", "resultCount": 0, "attempts": 1, "status": "empty", "tweets": []}
+  ],
+  "selected": [
+    {"id": "2048160404376105179", "author": "@sama", "derived_timestamp": "2026-04-25T22:01:08.040Z", "age_hours": 9.1, "reason": "Most-engaged AI tweet of the day, GPT-5.5 vs Claude comparison using looksmax slang"},
+    {"id": "2048062261584077149", "author": "@sama", "derived_timestamp": "2026-04-25T15:31:08.975Z", "age_hours": 15.6, "reason": "Altman characterising GPT-5.5 personality"},
+    {"id": "2048061746385166552", "author": "@sama", "derived_timestamp": "2026-04-25T15:29:06.142Z", "age_hours": 15.6, "reason": "High engagement cryptic post"},
+    {"id": "2048165186482389253", "author": "@sama", "derived_timestamp": "2026-04-25T22:20:08.183Z", "age_hours": 8.8, "reason": "Altman marvelling at coding speed"},
+    {"id": "2048052668984123881", "author": "@svpino", "derived_timestamp": "2026-04-25T14:53:01.921Z", "age_hours": 16.2, "reason": "Viral scepticism about parallel coding agents"},
+    {"id": "2048021330839441897", "author": "@HowToAI_", "derived_timestamp": "2026-04-25T12:48:30.325Z", "age_hours": 18.3, "reason": "Nvidia training without backpropagation - major research story"},
+    {"id": "2048056060460626292", "author": "@gdb", "derived_timestamp": "2026-04-25T15:06:30.512Z", "age_hours": 16.0, "reason": "Greg Brockman on GPT-5.5 ambition"},
+    {"id": "2048067919289147674", "author": "@gdb", "derived_timestamp": "2026-04-25T15:53:37.877Z", "age_hours": 15.2, "reason": "GPT Image 2 for learning"},
+    {"id": "2048184797374325031", "author": "@gdb", "derived_timestamp": "2026-04-25T23:38:03.784Z", "age_hours": 7.5, "reason": "GPT Image 2 damaged photo restoration"},
+    {"id": "2048166616119353820", "author": "@gdb", "derived_timestamp": "2026-04-25T22:25:49.035Z", "age_hours": 8.7, "reason": "GPT-5.5 enterprise pitch"},
+    {"id": "2047988185355964635", "author": "@steipete", "derived_timestamp": "2026-04-25T10:36:47.826Z", "age_hours": 20.5, "reason": "Developer praise for GPT 5.5"},
+    {"id": "2047988278792474639", "author": "@steipete", "derived_timestamp": "2026-04-25T10:37:10.103Z", "age_hours": 20.5, "reason": "GPT 5.5 accuracy praise"},
+    {"id": "2047941718167957973", "author": "@RodmanAi", "derived_timestamp": "2026-04-25T07:32:09.185Z", "age_hours": 23.6, "reason": "OpenClaude open-source alternative to Claude Code"},
+    {"id": "2048056894779170832", "author": "@SenseReceptor", "derived_timestamp": "2026-04-25T15:09:49.429Z", "age_hours": 15.9, "reason": "Altman quote about AI knowing your life"},
+    {"id": "2048045633681137744", "author": "@KanikaBK", "derived_timestamp": "2026-04-25T14:25:04.574Z", "age_hours": 16.7, "reason": "Parallax paper on AI agent security"},
+    {"id": "2048164445902266374", "author": "@lsanger", "derived_timestamp": "2026-04-25T22:17:11.615Z", "age_hours": 8.8, "reason": "Larry Sanger anecdote about AI drive-through agent"}
+  ],
+  "rejected_notable": [
+    {"id": "2047854449943826568", "author": "@AlexFinn", "derived_timestamp": "2026-04-25T01:45:22.819Z", "age_hours": 29.3, "reason": "older than 24h"},
+    {"id": "2047871322647318901", "author": "@arena", "derived_timestamp": "2026-04-25T02:52:25.585Z", "age_hours": 28.2, "reason": "older than 24h, also covered yesterday"},
+    {"id": "2047843035312988415", "author": "@MicrosoftLearn", "derived_timestamp": "2026-04-25T01:00:01.359Z", "age_hours": 30.1, "reason": "older than 24h"},
+    {"id": "2047730546764308965", "author": "@PropheticAI", "derived_timestamp": "2026-04-24T17:33:01.999Z", "age_hours": 37.5, "reason": "older than 24h"},
+    {"id": "2047873810922418212", "author": "@TheNavroopSingh", "derived_timestamp": "2026-04-25T03:02:18.836Z", "age_hours": 28.1, "reason": "older than 24h"},
+    {"id": "2047836382454861915", "author": "@chatgpt21", "derived_timestamp": "2026-04-25T00:33:35.194Z", "age_hours": 30.5, "reason": "older than 24h"},
+    {"id": "2047850929136038142", "author": "@tab_delete", "derived_timestamp": "2026-04-25T01:31:23.393Z", "age_hours": 29.6, "reason": "older than 24h"},
+    {"id": "2047696342957592857", "author": "@shiri_shh", "derived_timestamp": "2026-04-24T15:17:07.176Z", "age_hours": 39.8, "reason": "older than 24h"},
+    {"id": "2047915241783066879", "author": "@kobixyzHQ", "derived_timestamp": "2026-04-25T05:46:56.723Z", "age_hours": 25.3, "reason": "older than 24h, crypto-related"}
+  ]
+}
