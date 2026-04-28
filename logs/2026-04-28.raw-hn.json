@@ -1,0 +1,285 @@
+{
+  "date": "2026-04-28",
+  "searches": [
+    {
+      "topic": "OpenAI Microsoft partnership",
+      "status": "ok",
+      "attempts": 1,
+      "results": [
+        {
+          "author": "thunderbong",
+          "comments": 0,
+          "rank": 1,
+          "score": 2,
+          "title": "Microsoft, OpenAI end exclusivity agreement, opening up potential partnerships",
+          "url": "https://www.tomshardware.com/tech-industry/microsoft-and-openai-end-exclusivity-agreement-opening-up-potential-partnerships-with-amazon-and-google-microsoft-will-continue-to-receive-revenue-share-through-2030"
+        },
+        {
+          "author": "ritzaco",
+          "comments": 0,
+          "rank": 2,
+          "score": 3,
+          "title": "OpenAI has updated partnership with Microsoft, services will be cross cloud",
+          "url": "https://twitter.com/sama/status/2048755148361707946"
+        },
+        {
+          "author": "vinnyglennon",
+          "comments": 0,
+          "rank": 3,
+          "score": 1,
+          "title": "OpenAI and Microsoft renegotiated their deal for the second time in 6 months",
+          "url": "https://www.businessinsider.com/openai-microsoft-partnership-agreement-changes-cloud-providers-agi-2026-4"
+        },
+        {
+          "author": "JumpCrisscross",
+          "comments": 2,
+          "rank": 4,
+          "score": 3,
+          "title": "OpenAI and Microsoft Reach Deal to Give Startup New Freedom",
+          "url": "https://www.wsj.com/tech/ai/openai-and-microsoft-strike-truce-redrawing-once-tense-partnership-9ae22700"
+        },
+        {
+          "author": "helsinkiandrew",
+          "comments": 1,
+          "rank": 5,
+          "score": 70,
+          "title": "The next phase of the Microsoft OpenAI partnership",
+          "url": "https://openai.com/index/next-phase-of-microsoft-partnership/"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "Cursor production database Claude",
+      "status": "ok",
+      "attempts": 1,
+      "results": [
+        {
+          "author": "_adithsanjay",
+          "comments": 0,
+          "rank": 1,
+          "score": 2,
+          "title": "Ask HN: Why do AI agents keep repeating mistakes your team already fixed?",
+          "url": null
+        },
+        {
+          "author": "psrth",
+          "comments": 0,
+          "rank": 2,
+          "score": 1,
+          "title": "Show HN: Mori – Test against production data, without ever touching production",
+          "url": "https://github.com/psrth/mori"
+        },
+        {
+          "author": "inder1",
+          "comments": 0,
+          "rank": 3,
+          "score": 3,
+          "title": "Show HN: Salvobase – MongoDB-compatible DB in Go maintained by AI agents",
+          "url": null
+        },
+        {
+          "author": "antonig",
+          "comments": 0,
+          "rank": 4,
+          "score": 3,
+          "title": "Show HN: Golf Scanner – OSS tool to find and audit every MCP server",
+          "url": "https://github.com/golf-mcp/golf-scanner"
+        },
+        {
+          "author": "TheBengaluruGuy",
+          "comments": 0,
+          "rank": 5,
+          "score": 2,
+          "title": "Show HN: Droidctx – generate Markdown docs from your prod infra for coding agent",
+          "url": "https://github.com/DrDroidLab/context-builder"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "OpenAI Sam Altman trial",
+      "status": "ok",
+      "attempts": 1,
+      "results": [
+        {
+          "author": "rolph",
+          "comments": 0,
+          "rank": 1,
+          "score": 5,
+          "title": "The legal showdown between Elon Musk and Sam Altman begins today",
+          "url": "https://www.cbsnews.com/news/elon-musk-openai-lawsuit-trial-sam-altman/"
+        },
+        {
+          "author": "wslh",
+          "comments": 0,
+          "rank": 2,
+          "score": 4,
+          "title": "Elon Musk's legal battle with OpenAI and Sam Altman will head to trial",
+          "url": "https://finance.yahoo.com/sectors/technology/article/elon-musks-years-long-legal-battle-with-openai-and-sam-altman-will-finally-head-to-trial-on-monday-130000137.html"
+        },
+        {
+          "author": "ot",
+          "comments": 0,
+          "rank": 3,
+          "score": 5,
+          "title": "Elon Musk's court battle with Sam Altman exposes Silicon Valley secrets",
+          "url": "https://www.washingtonpost.com/technology/2026/04/23/musk-altman-lawsuit-trial-openai/"
+        },
+        {
+          "author": "MarcellusDrum",
+          "comments": 0,
+          "rank": 4,
+          "score": 2,
+          "title": "Sam Altman:We 'Screwed Up' GPT-5 Launch, Bets Trillions for Data Centers",
+          "url": "https://fortune.com/2025/08/18/sam-altman-openai-chatgpt5-launch-data-centers-investments/"
+        },
+        {
+          "author": "01-_-",
+          "comments": 2,
+          "rank": 5,
+          "score": 19,
+          "title": "As People Ridicule GPT-5",
+          "url": "https://gizmodo.com/as-people-ridicule-gpt-5-sam-altman-says-openai-will-need-trillions-in-infrastructure-2000643867"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "Codex Symphony agent orchestrator",
+      "status": "ok",
+      "attempts": 1,
+      "results": [
+        {
+          "author": "junhoyeo",
+          "comments": 1,
+          "rank": 1,
+          "score": 1,
+          "title": "Show HN: Contrabass – Go and Charm Stack Implementation of OpenAI's Symphony",
+          "url": "https://github.com/junhoyeo/contrabass"
+        },
+        {
+          "author": "mksglu2",
+          "comments": 0,
+          "rank": 2,
+          "score": 1,
+          "title": "Show HN: Hatice – Autonomous Issue Orchestration with Claude Code Agent SDK",
+          "url": "https://github.com/mksglu/hatice/tree/main"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "gpt realtime 1.5",
+      "status": "ok",
+      "attempts": 1,
+      "results": [
+        {
+          "author": "hectormalot",
+          "comments": 2,
+          "rank": 1,
+          "score": 5,
+          "title": "GPT-Realtime-1.5 Released",
+          "url": "https://twitter.com/OpenAIDevs/status/2026014334787461508"
+        },
+        {
+          "author": "kraddypatties",
+          "comments": 4,
+          "rank": 2,
+          "score": 2,
+          "title": "Show HN: Emotional photoreal AI humans at $0.06 / min",
+          "url": null
+        },
+        {
+          "author": "abrandes",
+          "comments": 2,
+          "rank": 3,
+          "score": 1,
+          "title": "Six things we're learning from 1.5M AI agents self-organizing in a week",
+          "url": null
+        },
+        {
+          "author": "daitandojo",
+          "comments": 6,
+          "rank": 4,
+          "score": 21,
+          "title": "The Gemini AI Studio \"Context Tax\": How a 10-word prompt cost me £121",
+          "url": null
+        },
+        {
+          "author": "AppMaestro",
+          "comments": 0,
+          "rank": 5,
+          "score": 1,
+          "title": "Show HN: I Built an AI C. Extension That Finds Perfect LinkedIn Leads in Seconds",
+          "url": "https://chromewebstore.google.com/detail/linkedin-ai-lead-assistan/homodpkcpcclamjdmndokadolmpijkff"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "Claude Code Opus Pro plan",
+      "status": "ok",
+      "attempts": 1,
+      "results": [
+        {
+          "author": "ilitirit",
+          "comments": 0,
+          "rank": 1,
+          "score": 1,
+          "title": "Show HN: Another experiment with an Erdos problem and LLMs",
+          "url": null
+        },
+        {
+          "author": "qdot76367",
+          "comments": 5,
+          "rank": 2,
+          "score": 13,
+          "title": "Anthropic now requires Pro Plans to enable/purchase extra usage for Opus",
+          "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration"
+        },
+        {
+          "author": "guilamu",
+          "comments": 2,
+          "rank": 3,
+          "score": 2,
+          "title": "Show HN: I blind-tested 14 LLMs on a WP plugin task. Surprising Findings",
+          "url": "https://github.com/guilamu/llms-wordpress-plugin-benchmark/blob/main/README.md"
+        },
+        {
+          "author": "tmp10423288442",
+          "comments": 1,
+          "rank": 4,
+          "score": 2,
+          "title": "Claude Opus is not available with the Claude Pro plan",
+          "url": "https://code.claude.com/docs/en/errors"
+        },
+        {
+          "author": "Frannky",
+          "comments": 6,
+          "rank": 5,
+          "score": 10,
+          "title": "Ask HN: Claude Code Alternative",
+          "url": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "Sci-Hub Sci-Bot",
+      "status": "ok",
+      "attempts": 1,
+      "results": [
+        {
+          "author": "the-mitr",
+          "comments": 0,
+          "rank": 1,
+          "score": 1,
+          "title": "Sci-Hub launches Sci-Bot an AI-powered research assistant",
+          "url": "https://sci-bot.ru/"
+        }
+      ],
+      "error": null
+    }
+  ]
+}
