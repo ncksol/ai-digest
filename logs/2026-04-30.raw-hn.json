@@ -1,0 +1,242 @@
+{
+  "date": "2026-04-30",
+  "results": [
+    {
+      "topic": "OpenAI DevDay",
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "items": [
+        {
+          "author": "alach11",
+          "comments": 0,
+          "rank": 1,
+          "score": 2,
+          "title": "OpenAI DevDay 2026",
+          "url": "https://openai.com/index/devday-2026/"
+        },
+        {
+          "author": "sohaibtariq",
+          "comments": 3,
+          "rank": 2,
+          "score": 6,
+          "title": "Show HN: AI agents are bad at API integrations – we fixed it",
+          "url": "https://www.apimatic.io/product/context-plugins/showcase"
+        },
+        {
+          "author": "ujjwaljainnn",
+          "comments": 0,
+          "rank": 3,
+          "score": 1,
+          "title": "Show HN: DevDay – End-of-day recap for AI coding sessions",
+          "url": "https://github.com/ujjwaljainnn/devday"
+        },
+        {
+          "author": "ujjwaljainnn",
+          "comments": 1,
+          "rank": 4,
+          "score": 3,
+          "title": "Show HN: DevDay – End-of-day recap for AI coding sessions",
+          "url": "https://github.com/ujjwaljainnn/devday"
+        },
+        {
+          "author": "tosh",
+          "comments": 0,
+          "rank": 5,
+          "score": 3,
+          "title": "Codex ran OpenAI DevDay 2025",
+          "url": "https://developers.openai.com/blog/codex-at-devday/"
+        }
+      ]
+    },
+    {
+      "topic": "GPT-5.5-Cyber",
+      "attempts": 1,
+      "status": "empty",
+      "error": "",
+      "items": []
+    },
+    {
+      "topic": "Anthropic introspection adapters",
+      "attempts": 1,
+      "status": "empty",
+      "error": "",
+      "items": []
+    },
+    {
+      "topic": "BioMysteryBench Claude biology",
+      "attempts": 1,
+      "status": "empty",
+      "error": "",
+      "items": []
+    },
+    {
+      "topic": "Claude Code hackathon",
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "items": [
+        {
+          "author": "calebevans",
+          "comments": 0,
+          "rank": 1,
+          "score": 5,
+          "title": "Show HN: Mulder – Containerized MCP server for digital forensics investigations",
+          "url": "https://github.com/calebevans/mulder"
+        },
+        {
+          "author": "waveywaves",
+          "comments": 0,
+          "rank": 2,
+          "score": 3,
+          "title": "Show HN: Rigor – Anti-Enshittification Proxy for Your AI Agents",
+          "url": "https://rigorcloud.com/"
+        },
+        {
+          "author": "hamedmp",
+          "comments": 1,
+          "rank": 3,
+          "score": 4,
+          "title": "Show HN: Matrix OS, like Lovable, but for personal apps",
+          "url": "https://matrix-os.com/"
+        },
+        {
+          "author": "EteenSMASH",
+          "comments": 4,
+          "rank": 4,
+          "score": 9,
+          "title": "Tell HN: Uni feels so usless, I cant focus anymore",
+          "url": null
+        },
+        {
+          "author": "ohong",
+          "comments": 17,
+          "rank": 5,
+          "score": 19,
+          "title": "Show HN: Strava for Claude Code",
+          "url": "https://straude.com/"
+        }
+      ]
+    },
+    {
+      "topic": "Microsoft AI agents earnings",
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "items": [
+        {
+          "author": "leventilo",
+          "comments": 0,
+          "rank": 1,
+          "score": 3,
+          "title": "Show HN: BoltzPay – fetch() that pays for AI agents (x402 and L402)",
+          "url": "https://github.com/leventilo/boltzpay"
+        },
+        {
+          "author": "clark-kent",
+          "comments": 31,
+          "rank": 2,
+          "score": 40,
+          "title": "Show HN: Autonomous AI agents that monitor the stock market for you",
+          "url": "https://decodeinvesting.com/chat?agents=lima"
+        }
+      ]
+    },
+    {
+      "topic": "OpenAI trial Sam Altman Elon Musk",
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "items": [
+        {
+          "author": "voxadam",
+          "comments": 2,
+          "rank": 1,
+          "score": 8,
+          "title": "Sam Altman and Elon Musk Sure Dislike Each Other",
+          "url": "https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/"
+        },
+        {
+          "author": "Anon84",
+          "comments": 1,
+          "rank": 2,
+          "score": 3,
+          "title": "What Elon Musk's Clash with Sam Altman of OpenAI Is About",
+          "url": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html"
+        },
+        {
+          "author": "m463",
+          "comments": 0,
+          "rank": 3,
+          "score": 7,
+          "title": "Musk Testifies OpenAI Was Created as Nonprofit to Counter Google",
+          "url": "https://www.cnbc.com/2026/04/28/openai-trial-elon-musk-sam-altman-live-updates.html"
+        },
+        {
+          "author": "johnbarron",
+          "comments": 1,
+          "rank": 4,
+          "score": 9,
+          "title": "Musk: \"The reason OpenAI exists is because Larry Page called me a specieist\"",
+          "url": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial"
+        },
+        {
+          "author": "tzmlab",
+          "comments": 1,
+          "rank": 5,
+          "score": 7,
+          "title": "'Stole a charity': Elon Musk accuses Sam Altman of betrayal in courtroom",
+          "url": "https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial"
+        }
+      ]
+    },
+    {
+      "topic": "Cursor AI agent",
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "items": [
+        {
+          "author": "TejasHaveri",
+          "comments": 0,
+          "rank": 1,
+          "score": 2,
+          "title": "Cursor Browser Swarm: letting AI agents see, test, and check their own UI work",
+          "url": "https://twitter.com/tejashaveridev/status/2049518417846190509"
+        },
+        {
+          "author": "vanburen",
+          "comments": 14,
+          "rank": 2,
+          "score": 32,
+          "title": "Claude-powered AI coding agent deletes company database in 9 seconds",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue"
+        },
+        {
+          "author": "achiles",
+          "comments": 1,
+          "rank": 3,
+          "score": 2,
+          "title": "Show HN: I replaced a memory app with two Markdown files and a Git repo",
+          "url": null
+        },
+        {
+          "author": "pattern-ai",
+          "comments": 2,
+          "rank": 4,
+          "score": 10,
+          "title": "Show HN: We built a way for Claude Code to join meetings like a real teammate",
+          "url": null
+        },
+        {
+          "author": "welder",
+          "comments": 0,
+          "rank": 5,
+          "score": 3,
+          "title": "Show HN: Personal AI Metrics Dashboard",
+          "url": "https://wakatime.com/ai"
+        }
+      ]
+    }
+  ]
+}

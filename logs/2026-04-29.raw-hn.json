@@ -1,0 +1,175 @@
+[
+  {
+    "query": "Claude Code push notifications",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "caihongxu",
+        "comments": 8,
+        "rank": 1,
+        "score": 7,
+        "title": "Show HN: Palmier – bridge your AI agents and your phone",
+        "url": "https://github.com/caihongxu/palmier"
+      },
+      {
+        "author": "guyle",
+        "comments": 0,
+        "rank": 2,
+        "score": 12,
+        "title": "Show HN: Host, share, promote and track release artifacts via your coding agent",
+        "url": "https://jfrog.com/fly/"
+      },
+      {
+        "author": "davidfarrell",
+        "comments": 1,
+        "rank": 3,
+        "score": 1,
+        "title": "Show HN: Greenlight – Manage your AI coding agents from your phone",
+        "url": null
+      },
+      {
+        "author": "liboshen",
+        "comments": 0,
+        "rank": 4,
+        "score": 1,
+        "title": "Show HN: AFK – Remote desktop for agentic coding from your phone with voice",
+        "url": "https://afkdev.app/"
+      },
+      {
+        "author": "yuu1ch13",
+        "comments": 3,
+        "rank": 5,
+        "score": 6,
+        "title": "Show HN: Two tools to make Claude Code more autonomous",
+        "url": null
+      }
+    ],
+    "error": ""
+  },
+  {
+    "query": "Claude CAD Adobe Creative Cloud",
+    "attempts": 1,
+    "status": "empty",
+    "results": [],
+    "error": ""
+  },
+  {
+    "query": "Claude outage",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "lschueller",
+        "comments": 12,
+        "rank": 1,
+        "score": 30,
+        "title": "Claude is getting worse, according to Claude",
+        "url": "https://www.theregister.com/2026/04/13/claude_outage_quality_complaints/"
+      },
+      {
+        "author": "ericol",
+        "comments": 1,
+        "rank": 2,
+        "score": 6,
+        "title": "Tell HN: Another Monday, Another Claude Outage",
+        "url": null
+      },
+      {
+        "author": "jandoze",
+        "comments": 2,
+        "rank": 3,
+        "score": 3,
+        "title": "Ask HN: Why isn't Anthropic eating their own dogfood? A Max subscriber's view",
+        "url": null
+      },
+      {
+        "author": "gr00ve",
+        "comments": 3,
+        "rank": 4,
+        "score": 2,
+        "title": "Show HN: I made a cheaper alternative to Claude Code or Codex CLI",
+        "url": "https://sweetcli.com/"
+      },
+      {
+        "author": "abdullaachilov",
+        "comments": 0,
+        "rank": 5,
+        "score": 2,
+        "title": "Show HN: 3 out of 4 devs failed to catch dangerous AI-suggested commands",
+        "url": "https://agentsaegis.com/assessment"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "query": "OpenAI Erdos GPT-5.4 math",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "voisin",
+        "comments": 0,
+        "rank": 1,
+        "score": 2,
+        "title": "OpenAI's GPT-5.4 Pro reportedly solves an open Erdős problem in two hours",
+        "url": "https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "query": "Codex GPT-5.5 repo",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "anophelon",
+        "comments": 1,
+        "rank": 1,
+        "score": 12,
+        "title": "Why Codex works better than Claude Code for my production monolith",
+        "url": null
+      }
+    ],
+    "error": ""
+  },
+  {
+    "query": "Demis Hassabis Korea AI safety",
+    "attempts": 1,
+    "status": "empty",
+    "results": [],
+    "error": ""
+  },
+  {
+    "query": "Goldman Sachs Claude Hong Kong",
+    "attempts": 1,
+    "status": "empty",
+    "results": [],
+    "error": ""
+  },
+  {
+    "query": "NVIDIA Nemotron 3 Nano Omni",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "tosh",
+        "comments": 0,
+        "rank": 1,
+        "score": 3,
+        "title": "Nvidia Nemotron 3 Nano Omni",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/"
+      },
+      {
+        "author": "qainsights",
+        "comments": 0,
+        "rank": 2,
+        "score": 3,
+        "title": "Nvidia Nemotron 3 Nano Omni",
+        "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/"
+      }
+    ],
+    "error": ""
+  }
+]
