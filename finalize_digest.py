@@ -1,4 +1,46 @@
-# 2 May 2026
+#!/usr/bin/env python3
+import json, datetime
+from pathlib import Path
+TODAY='2026-05-02'
+proc=json.loads(Path(f'logs/raw/{TODAY}-processed_candidates.json').read_text())
+hn=json.loads(Path(f'logs/raw/{TODAY}-hn-searches.json').read_text())
+selected_ids={
+ '2050250926888468929':('news','OpenAI adoption claim is the main continuation of this week GPT-5.5/Codex story.'),
+ '2050290619684393152':('news','OpenAI migration feature supports the Codex adoption story and continues prior Codex coverage.'),
+ '2050261221165989969':('analysis','Benchmark analysis tempers the launch narrative and adds technical substance.'),
+ '2050251014691840015':('news','Microsoft Agent 365 general availability is a major enterprise-agent announcement.'),
+ '2050357097649324517':('news','Google Cloud Gemini Enterprise adds another enterprise-agent product angle.'),
+ '2050229058425045178':('analysis','Altman labour-market framing anchors the jobs debate without adding a third sama item.'),
+ '2050225746753331562':('analysis','Jensen Huang counterpoint keeps the jobs debate balanced against OpenAI framing.'),
+ '2050290896382353432':('news','Google COSMO leak provides a fresh device/Android agent story.'),
+ '2050449347137937437':('news','Gemini Flash sighting is a smaller Google model-release signal.'),
+ '2050174644280590814':('analysis','Agent coordination research is a useful technical caution.'),
+ '2050238223876567129':('analysis','Recursive multi-agent systems adds research variety to the agent discussion.'),
+ '2050143942176326105':('analysis','Structural Jevons Paradox broadens coverage to energy/economics.'),
+ '2050240810403410211':('analysis','Karpathy provides practitioner caution about slop and incentives.'),
+ '2050213732970848664':('news','Meta FAIR pretraining paper gives a research item outside agents and OpenAI.'),
+ '2050239816806387774':('personal_story','Production principles provide practitioner lived experience and keep mix from becoming only corporate news.'),
+ '2050260964847571161':('analysis','Open-source infiltration wording critique adds governance/technical nuance.'),
+ '2050387355551383717':('news','ElevenLabs Agents is a smaller product launch for also notable.'),
+}
+byid={t['id']:t for t in proc['ranked']}
+selected=[]
+for tid,(cat,reason) in selected_ids.items():
+    t=byid[tid]
+    selected.append({k:t[k] for k in ['id','author','derived_timestamp','age_hours']} | {'category':cat,'reason':reason})
+rej=proc['rejected'][:]
+for t in proc['ranked']:
+    if t['id'] not in selected_ids:
+        reason='low engagement or low signal relative to selected balanced set'
+        if t['author'] in ['@sama','@OpenAI','@demishassabis']:
+            reason='watched-account cap' if t['author']=='@sama' else 'balance cap'
+        elif t['author'] in ['@MikeBenzCyber','@droidbuilds','@VermaAakash3']:
+            reason='unverified or low-quality claim for digest standards'
+        rej.append({k:t[k] for k in ['id','author','text','likes','views','derived_timestamp','age_hours']} | {'reason':reason})
+log={'date':TODAY,'searches':proc['searches'],'hn_searches':hn,'selected':selected,'rejected_notable':rej}
+Path(f'logs/{TODAY}.json').write_text(json.dumps(log,indent=2,ensure_ascii=False),encoding='utf-8')
+
+digest='''# 2 May 2026
 
 OpenAI's GPT-5.5 launch story has turned from capability claims into adoption claims. One week after release, OpenAI said GPT-5.5 was already its strongest model launch, with API revenue growing faster than any previous release and Codex revenue doubling in under seven days as enterprise demand for agentic coding tools increased. (<https://xcancel.com/OpenAI/status/2050250926888468929>) Following yesterday's coverage of OpenAI trying to move Codex beyond programming and into general computer work, the company also pushed migration features for Codex: importing settings, plugins, agents, and project configuration so users can bring their existing workflow across with fewer interruptions. (<https://xcancel.com/OpenAI/status/2050290619684393152>)
 
@@ -25,3 +67,6 @@ Also notable:
 - OpenAI Devs announced “Pets. Now in Codex”, with a `/pet` command to wake one. Not frontier AI in the grand civilisational sense, but a revealing attempt to make long-running agent work feel more companionable. (<https://xcancel.com/OpenAIDevs/status/2050275713824211041>)
 - ElevenLabs Agents was described as a voice-agent product for support workflows, plugging into GPT, Claude, and Gemini. (<https://xcancel.com/alvinfoo/status/2050387355551383717>)
 - Eric Topol pointed readers to an explainer thread on a new LLM paper in Science. (<https://xcancel.com/EricTopol/status/2050232575088898304>)
+'''
+Path(f'digests/{TODAY}.md').write_text(digest,encoding='utf-8')
+print('wrote logs and digest')
