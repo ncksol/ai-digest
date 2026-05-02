@@ -1,0 +1,275 @@
+{
+  "date": "2026-05-02",
+  "searches": [
+    {
+      "query": "GPT-5.5 Codex",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "zachdive",
+          "comments": 85,
+          "rank": 1,
+          "score": 82,
+          "title": "Show HN: AI CAD Harness",
+          "url": "https://fusion.adam.new/install"
+        },
+        {
+          "author": "doener",
+          "comments": 1,
+          "rank": 2,
+          "score": 2,
+          "title": "Actual line in the official system prompt for Codex for GPT-5.5",
+          "url": "https://bsky.app/profile/emollick.bsky.social/post/3mkjwmbebr22p"
+        },
+        {
+          "author": "anophelon",
+          "comments": 2,
+          "rank": 3,
+          "score": 14,
+          "title": "Why Codex works better than Claude Code for my production monolith",
+          "url": null
+        },
+        {
+          "author": "oelmgren",
+          "comments": 0,
+          "rank": 4,
+          "score": 1,
+          "title": "Crystal Sapphire Pokemon: Claude Code (Opus 4-7) vs. Codex (GPT 5.5)",
+          "url": "https://www.twitch.tv/pokemon_race"
+        },
+        {
+          "author": "ndiddy",
+          "comments": 1,
+          "rank": 5,
+          "score": 5,
+          "title": "GPT-5.5 prompt for Codex tries to make it not talk about goblins",
+          "url": "https://twitter.com/arb8020/status/2048958391637401718"
+        }
+      ],
+      "raw_error": ""
+    },
+    {
+      "query": "Codex OpenAI",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "veke87",
+          "comments": 0,
+          "rank": 1,
+          "score": 2,
+          "title": "Show HN: Git Shield \u2013 local hooks for secrets and PII",
+          "url": null
+        },
+        {
+          "author": "nahimn",
+          "comments": 26,
+          "rank": 2,
+          "score": 88,
+          "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
+          "url": "https://pu.dev/"
+        },
+        {
+          "author": "cl3misch",
+          "comments": 11,
+          "rank": 3,
+          "score": 4,
+          "title": "Ask HN: Is Anybody Using Codex?",
+          "url": null
+        },
+        {
+          "author": "kumulo",
+          "comments": 0,
+          "rank": 4,
+          "score": 1,
+          "title": "Harness engineering: leveraging Codex in an agent-first world",
+          "url": "https://openai.com/index/harness-engineering/"
+        },
+        {
+          "author": "dbarabashdev",
+          "comments": 0,
+          "rank": 5,
+          "score": 2,
+          "title": "Show HN: Brifly \u2013 stop re-explaining your codebase to Claude Code every week",
+          "url": "https://www.getbrifly.com/"
+        }
+      ],
+      "raw_error": ""
+    },
+    {
+      "query": "Claude Code developer conference",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "alemic",
+          "comments": 3,
+          "rank": 1,
+          "score": 1,
+          "title": "Show HN: Polpo \u2013 Build zero-human companies. Open source",
+          "url": "https://github.com/lumea-labs/polpo"
+        },
+        {
+          "author": "hussfelt",
+          "comments": 0,
+          "rank": 2,
+          "score": 2,
+          "title": "Show HN: Agile died in a Jira board \u2013 we replaced sprints with flights",
+          "url": null
+        },
+        {
+          "author": "varunpratap369",
+          "comments": 0,
+          "rank": 3,
+          "score": 1,
+          "title": "Show HN: SuperLocalMemory \u2013 AI memory that stays on your machine, forever free",
+          "url": "https://github.com/varun369/SuperLocalMemoryV2"
+        },
+        {
+          "author": "rsyring",
+          "comments": 1,
+          "rank": 4,
+          "score": 6,
+          "title": "Ask HN: How do you run LLM Agents safely?",
+          "url": null
+        },
+        {
+          "author": "Croffasia",
+          "comments": 1,
+          "rank": 5,
+          "score": 3,
+          "title": "Show HN: Vibe Code Kit code with confidence",
+          "url": "https://vibecodekit.dev"
+        }
+      ],
+      "raw_error": ""
+    },
+    {
+      "query": "Microsoft Agent 365",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "cmagorr1",
+          "comments": 0,
+          "rank": 1,
+          "score": 3,
+          "title": "Show HN: I built an open protocol for Agent-to-agent commercial negotiation",
+          "url": "https://a2cn.io/"
+        },
+        {
+          "author": "ethangarr",
+          "comments": 0,
+          "rank": 2,
+          "score": 3,
+          "title": "Show HN: OnTimer \u2013 persistent calendar alarms so you never miss a meeting",
+          "url": "https://www.ontimer.app"
+        },
+        {
+          "author": "mindracer",
+          "comments": 1,
+          "rank": 3,
+          "score": 1,
+          "title": "Leading Frontier Firm Transformation with Microsoft 365 E7",
+          "url": "https://partner.microsoft.com/en-us/blog/article/agent-365-announcement"
+        },
+        {
+          "author": "Sophify",
+          "comments": 1,
+          "rank": 4,
+          "score": 1,
+          "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing\\Self-Evolving",
+          "url": null
+        },
+        {
+          "author": "Apinok1985",
+          "comments": 1,
+          "rank": 5,
+          "score": 1,
+          "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing, Self-Evolving",
+          "url": null
+        }
+      ],
+      "raw_error": ""
+    },
+    {
+      "query": "ARC-AGI-3 GPT-5.5 Opus 4.7",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "meetpateltech",
+          "comments": 1,
+          "rank": 1,
+          "score": 3,
+          "title": "Analyzing GPT-5.5 and Opus 4.7 with ARC-AGI-3",
+          "url": "https://arcprize.org/blog/arc-agi-3-gpt-5-5-opus-4-7-analysis"
+        }
+      ],
+      "raw_error": ""
+    },
+    {
+      "query": "AI jobs Sam Altman Dario Amodei Jensen Huang",
+      "attempts": 1,
+      "status": "empty",
+      "results": [],
+      "raw_error": ""
+    },
+    {
+      "query": "Google COSMO Gemini Nano Android",
+      "attempts": 1,
+      "status": "empty",
+      "results": [],
+      "raw_error": ""
+    },
+    {
+      "query": "multi-agent LLM coordination",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "yuzhengxu",
+          "comments": 0,
+          "rank": 1,
+          "score": 1,
+          "title": "Show HN: OneManCompany The first AI company with real corporate org structure",
+          "url": "https://one-man-company.com/"
+        },
+        {
+          "author": "caleb_perez",
+          "comments": 4,
+          "rank": 2,
+          "score": 2,
+          "title": "A persistent AI I built to stop LLMs from resetting",
+          "url": null
+        },
+        {
+          "author": "ryanthedev",
+          "comments": 1,
+          "rank": 3,
+          "score": 1,
+          "title": "Claude Code Open Source?",
+          "url": null
+        },
+        {
+          "author": "ArmaloAI",
+          "comments": 8,
+          "rank": 4,
+          "score": 3,
+          "title": "Show HN: Armalo AI \u2013 The Infrastructure for Agent Networks",
+          "url": null
+        },
+        {
+          "author": "nsokra02",
+          "comments": 0,
+          "rank": 5,
+          "score": 1,
+          "title": "Show HN: Open-sourced AI Agent runtime (YAML-first)",
+          "url": "https://github.com/NikoSokratous/agentctl"
+        }
+      ],
+      "raw_error": ""
+    }
+  ]
+}
