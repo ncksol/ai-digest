@@ -1,0 +1,296 @@
+[
+  {
+    "topic": "OpenAI Greg Brockman Sam Altman",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "silly_ninja",
+        "comments": 0,
+        "rank": 1,
+        "score": 4,
+        "title": "Elon Musk is suing OpenAI and Sam Altman again",
+        "url": "https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived"
+      },
+      {
+        "author": "gmays",
+        "comments": 0,
+        "rank": 2,
+        "score": 15,
+        "title": "Nvidia CEO hand-delivers fastest AI system to OpenAI",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-hand-delivers-worlds-fastest-ai-system-to-openai-again-first-dgx-h200-given-to-sam-altman-and-greg-brockman"
+      },
+      {
+        "author": "DeathArrow",
+        "comments": 0,
+        "rank": 3,
+        "score": 1,
+        "title": "Nvidia CEO hand-delivers fastest AI system to OpenAI",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-hand-delivers-worlds-fastest-ai-system-to-openai-again-first-dgx-h200-given-to-sam-altman-and-greg-brockman"
+      },
+      {
+        "author": "modeless",
+        "comments": 1208,
+        "rank": 4,
+        "score": 1462,
+        "title": "Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]",
+        "url": "https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf"
+      },
+      {
+        "author": "smy20011",
+        "comments": 0,
+        "rank": 5,
+        "score": 5,
+        "title": "The messy, secretive reality behind OpenAI's bid to save the world (2020)",
+        "url": "https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/"
+      }
+    ],
+    "err": ""
+  },
+  {
+    "topic": "AI capex Morgan Stanley GDP",
+    "attempts": 1,
+    "status": "empty",
+    "results": [],
+    "err": ""
+  },
+  {
+    "topic": "Gemini Chromebooks children New Yorker",
+    "attempts": 1,
+    "status": "empty",
+    "results": [],
+    "err": ""
+  },
+  {
+    "topic": "Anthropic AI write 100% code",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "nahimn",
+        "comments": 27,
+        "rank": 1,
+        "score": 90,
+        "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+        "url": "https://pu.dev/"
+      },
+      {
+        "author": "frntn",
+        "comments": 4,
+        "rank": 2,
+        "score": 4,
+        "title": "Show HN: PlanckClaw an AI agent in 6832 bytes of x86-64 assembly",
+        "url": "https://github.com/frntn/planckclaw"
+      },
+      {
+        "author": "san-techie21",
+        "comments": 1,
+        "rank": 3,
+        "score": 1,
+        "title": "Show HN: Gulama – Security-first open-source AI agent (OpenClaw alternative)",
+        "url": "https://github.com/san-techie21/gulama-bot"
+      },
+      {
+        "author": "StanAngeloff",
+        "comments": 0,
+        "rank": 4,
+        "score": 2,
+        "title": "Show HN: Flemma – a Neovim plugin where the .chat buffer is the conversation",
+        "url": null
+      },
+      {
+        "author": "exordex",
+        "comments": 1,
+        "rank": 5,
+        "score": 1,
+        "title": "Show HN: Khaos – Every AI agent I tested broke in under 30 seconds",
+        "url": null
+      }
+    ],
+    "err": ""
+  },
+  {
+    "topic": "Meta ads Claude MCP",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "stealthtsdb",
+        "comments": 5,
+        "rank": 1,
+        "score": 11,
+        "title": "Show HN: Agent MCP Studio – build multi-agent MCP systems in a browser tab",
+        "url": "https://www.agentmcp.studio"
+      },
+      {
+        "author": "edimuj",
+        "comments": 0,
+        "rank": 2,
+        "score": 2,
+        "title": "Show HN: Callmux – MCP multiplexer that cuts tool call context pollution by ~19x",
+        "url": "https://github.com/edimuj/callmux"
+      },
+      {
+        "author": "dko",
+        "comments": 0,
+        "rank": 3,
+        "score": 5,
+        "title": "Show HN: Clify – generate a CLI from any API docs, use it as agent tooling",
+        "url": "https://github.com/derrickko/clify"
+      },
+      {
+        "author": "nyku",
+        "comments": 0,
+        "rank": 4,
+        "score": 4,
+        "title": "Show HN: Browserbeam – a browser API built for AI agents",
+        "url": "https://browserbeam.com/"
+      },
+      {
+        "author": "spenceships",
+        "comments": 1,
+        "rank": 5,
+        "score": 3,
+        "title": "Show HN: Calx – track and compile corrections humans make with AI agents",
+        "url": "https://github.com/getcalx"
+      }
+    ],
+    "err": ""
+  },
+  {
+    "topic": "DeepSeek V4 open source model",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "nip",
+        "comments": 25,
+        "rank": 1,
+        "score": 53,
+        "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+        "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en"
+      },
+      {
+        "author": "nip",
+        "comments": 1,
+        "rank": 2,
+        "score": 7,
+        "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+        "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en"
+      },
+      {
+        "author": "Alisaqqt",
+        "comments": 1,
+        "rank": 3,
+        "score": 5,
+        "title": "DeepSeek V4 is out. the best open-source on coding. here's the breakdown",
+        "url": null
+      },
+      {
+        "author": "revanth1108",
+        "comments": 0,
+        "rank": 4,
+        "score": 2,
+        "title": "Show HN: Agentic Gatekeeper – AI pre-commit hook to auto-patch logic errors",
+        "url": "https://github.com/revanthpobala/agentic-gatekeeper"
+      }
+    ],
+    "err": ""
+  },
+  {
+    "topic": "Claude Code interview",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "jcpy",
+        "comments": 0,
+        "rank": 1,
+        "score": 2,
+        "title": "Why Lenny's podcast removed Austin Lau interview on YouTube?",
+        "url": null
+      },
+      {
+        "author": "marcell",
+        "comments": 0,
+        "rank": 2,
+        "score": 3,
+        "title": "Ask HN: How do you differentiate with AI coding interviews?",
+        "url": null
+      },
+      {
+        "author": "rkorlimarla",
+        "comments": 11,
+        "rank": 3,
+        "score": 10,
+        "title": "Can non-developer build commercial products with AI",
+        "url": null
+      },
+      {
+        "author": "daniel-navarro",
+        "comments": 0,
+        "rank": 4,
+        "score": 2,
+        "title": "Models self-report difference between RLHF trained responses and base cognition",
+        "url": "https://github.com/Habitante/pine-trees/blob/main/docs/claude_code_interview.md"
+      },
+      {
+        "author": "liujjw",
+        "comments": 0,
+        "rank": 5,
+        "score": 2,
+        "title": "Show HN: AI models AI capex",
+        "url": "https://ai-capex-sens-wxc4b.ondigitalocean.app/"
+      }
+    ],
+    "err": ""
+  },
+  {
+    "topic": "Agents SDK 2.0",
+    "attempts": 1,
+    "status": "ok",
+    "results": [
+      {
+        "author": "nguyenhu",
+        "comments": 0,
+        "rank": 1,
+        "score": 4,
+        "title": "Show HN: I built a way to see if your SDK is AI-friendly",
+        "url": null
+      },
+      {
+        "author": "kaliades",
+        "comments": 5,
+        "rank": 2,
+        "score": 18,
+        "title": "Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis",
+        "url": null
+      },
+      {
+        "author": "vanardev",
+        "comments": 1,
+        "rank": 3,
+        "score": 1,
+        "title": "XBPP – Open standard for governing AI agent payments (Apache 2.0)",
+        "url": "https://github.com/VanarChain/xbpp-sdk"
+      },
+      {
+        "author": "quarkcarbon279",
+        "comments": 0,
+        "rank": 4,
+        "score": 5,
+        "title": "Show HN: MCP is for tools. A2A is for agents. What's for websites?",
+        "url": "https://www.rtrvr.ai/blog/agent-web-protocol-stack"
+      },
+      {
+        "author": "bradleybeddoes",
+        "comments": 0,
+        "rank": 5,
+        "score": 9,
+        "title": "Show HN: WordBattle – Daily word game where AI agents compete against humans",
+        "url": null
+      }
+    ],
+    "err": ""
+  }
+]
