@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-05",
+  "hackernews": [
+    {
+      "topic": "Unity AI open beta",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "hugocorreia90",
+          "comments": 48,
+          "rank": 1,
+          "score": 120,
+          "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+          "url": "https://github.com/rocky-data/rocky"
+        },
+        {
+          "author": "peteski22",
+          "comments": 103,
+          "rank": 2,
+          "score": 225,
+          "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+          "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/"
+        },
+        {
+          "author": "foundatron",
+          "comments": 5,
+          "rank": 3,
+          "score": 8,
+          "title": "Show HN: OctopusGarden – An autonomous software factory (specs in, code out)",
+          "url": "https://github.com/foundatron/octopusgarden"
+        },
+        {
+          "author": "nikicsy",
+          "comments": 0,
+          "rank": 4,
+          "score": 1,
+          "title": "Part 2 - AI Chat Evaluation of the Formal Language in He Xin's PEPC System",
+          "url": null
+        },
+        {
+          "author": "ericmora82",
+          "comments": 0,
+          "rank": 5,
+          "score": 4,
+          "title": "Show HN: Microagentic Stacking – Manifesto for Reliable Agentic AI Architecture",
+          "url": "https://github.com/ericmora/microagentic-stacking"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "Claude keyless auth",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "amaldavid",
+          "comments": 7,
+          "rank": 1,
+          "score": 30,
+          "title": "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
+          "url": "https://github.com/Amal-David/keyleak-detector"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "OpenAI Deployment Company",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "0xsn3k",
+          "comments": 0,
+          "rank": 1,
+          "score": 1,
+          "title": "OpenAI Raises $4B for 'The Deployment Company' to Help Businesses Leverage AI",
+          "url": "https://officechai.com/ai/openai-raises-4-billion-for-the-deployment-company-to-help-businesses-leverage-ai/"
+        },
+        {
+          "author": "ScioNos",
+          "comments": 0,
+          "rank": 2,
+          "score": 1,
+          "title": "Show HN: Kimi K2.5 (Agent Swarm, beats GPT-5) now on RouterLab (Swiss hosting)",
+          "url": "https://routerlab.ch/blog/kimi-k2-5"
+        },
+        {
+          "author": "irfanorway",
+          "comments": 0,
+          "rank": 3,
+          "score": 2,
+          "title": "Show HN YC tracker App",
+          "url": "https://yc-startup-tracker.vercel.app/"
+        },
+        {
+          "author": "kfeeney",
+          "comments": 0,
+          "rank": 4,
+          "score": 1,
+          "title": "Show HN: Leilani – SIP client that streams call audio to the OpenAI Realtime API",
+          "url": "https://leilani.dev"
+        },
+        {
+          "author": "engomez",
+          "comments": 49,
+          "rank": 5,
+          "score": 79,
+          "title": "Show HN: Inkeep (YC W23) – Agent Builder to create agents in code or visually",
+          "url": "https://github.com/inkeep/agents"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "Anthropic consulting arm Claude",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "alanmcintyre",
+          "comments": 2,
+          "rank": 1,
+          "score": 1,
+          "title": "Show HN: Recursive – AI support agents for small businesses",
+          "url": "https://recursive.support"
+        },
+        {
+          "author": "piotrgrudzien",
+          "comments": 0,
+          "rank": 2,
+          "score": 3,
+          "title": "O3-mini knowledge cutoff is October, 2023",
+          "url": null
+        },
+        {
+          "author": "apeytavin",
+          "comments": 77,
+          "rank": 3,
+          "score": 165,
+          "title": "Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents",
+          "url": null
+        },
+        {
+          "author": "noaflaherty",
+          "comments": 40,
+          "rank": 4,
+          "score": 136,
+          "title": "Launch HN: Vellum (YC W23) – Dev Platform for LLM Apps",
+          "url": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "Claude Cowork Orbit assistant",
+      "attempts": 1,
+      "status": "empty",
+      "results": [],
+      "error": null
+    },
+    {
+      "topic": "OpenAI AI agent phone",
+      "attempts": 1,
+      "status": "ok",
+      "results": [
+        {
+          "author": "nahimn",
+          "comments": 27,
+          "rank": 1,
+          "score": 91,
+          "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+          "url": "https://pu.dev/"
+        },
+        {
+          "author": "skeledrew",
+          "comments": 2,
+          "rank": 2,
+          "score": 9,
+          "title": "OpenAI is building a phone that would make apps obsolete",
+          "url": "https://thenextweb.com/news/openai-qualcomm-ai-phone-agents-replace-apps"
+        },
+        {
+          "author": "Brajeshwar",
+          "comments": 13,
+          "rank": 3,
+          "score": 6,
+          "title": "OpenAI could be making a phone with AI agents replacing apps",
+          "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
+        },
+        {
+          "author": "sshnaidm1",
+          "comments": 2,
+          "rank": 4,
+          "score": 2,
+          "title": "Show HN: Android AI agent-assistant operating your apps (no adb,PC,root,etc.)",
+          "url": null
+        },
+        {
+          "author": "linggen",
+          "comments": 1,
+          "rank": 5,
+          "score": 4,
+          "title": "Show HN: Linggen – Open-source AI agent with P2P remote access from your phone",
+          "url": "https://linggen.dev/"
+        }
+      ],
+      "error": null
+    },
+    {
+      "topic": "OpenRouter GPT 5.5 cost",
+      "attempts": 1,
+      "status": "empty",
+      "results": [],
+      "error": null
+    },
+    {
+      "topic": "AI agent legal citation production",
+      "attempts": 1,
+      "status": "empty",
+      "results": [],
+      "error": null
+    }
+  ]
+}
