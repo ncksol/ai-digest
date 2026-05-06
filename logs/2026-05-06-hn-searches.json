@@ -1,0 +1,174 @@
+[
+  {
+    "topic": "GPT-5.5 Instant",
+    "attempts": 1,
+    "status": "ok",
+    "error": "",
+    "results": [
+      {
+        "author": "mohit17mor",
+        "comments": 0,
+        "rank": 1,
+        "score": 1,
+        "title": "GPT-5.5 Instant: Benchmarking the 52% Hallucination Reduction",
+        "url": "https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/"
+      },
+      {
+        "author": "meetpateltech",
+        "comments": 18,
+        "rank": 2,
+        "score": 78,
+        "title": "GPT‑5.5 Instant",
+        "url": "https://openai.com/index/gpt-5-5-instant/"
+      },
+      {
+        "author": "zachdive",
+        "comments": 93,
+        "rank": 3,
+        "score": 98,
+        "title": "Show HN: AI CAD Harness",
+        "url": "https://fusion.adam.new/install"
+      }
+    ]
+  },
+  {
+    "topic": "Chrome Gemini Nano weights.bin",
+    "attempts": 1,
+    "status": "empty",
+    "error": "",
+    "results": []
+  },
+  {
+    "topic": "SubQ 12 million context",
+    "attempts": 1,
+    "status": "empty",
+    "error": "",
+    "results": []
+  },
+  {
+    "topic": "ProgramBench LLM benchmark",
+    "attempts": 1,
+    "status": "empty",
+    "error": "",
+    "results": []
+  },
+  {
+    "topic": "Anthropic Model Spec Midtraining",
+    "attempts": 1,
+    "status": "empty",
+    "error": "",
+    "results": []
+  },
+  {
+    "topic": "Project Mariner Google shut down",
+    "attempts": 1,
+    "status": "ok",
+    "error": "",
+    "results": [
+      {
+        "author": "ekns",
+        "comments": 2,
+        "rank": 1,
+        "score": 7,
+        "title": "Ask HN: Does a dynamically scaling cloud workstation exist somewhere?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "topic": "AI model government review",
+    "attempts": 1,
+    "status": "ok",
+    "error": "",
+    "results": [
+      {
+        "author": "ambigious7777",
+        "comments": 1,
+        "rank": 1,
+        "score": 5,
+        "title": "Google, Microsoft, and xAI will allow the government to review their new models",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review"
+      },
+      {
+        "author": "AlexDragusin",
+        "comments": 0,
+        "rank": 2,
+        "score": 4,
+        "title": "White House considers government reviews for AI models",
+        "url": "https://www.reuters.com/world/white-house-considers-vetting-ai-models-before-they-are-released-nyt-reports-2026-05-04/"
+      },
+      {
+        "author": "rosasalberto",
+        "comments": 66,
+        "rank": 3,
+        "score": 77,
+        "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+        "url": null
+      },
+      {
+        "author": "sans_souse",
+        "comments": 0,
+        "rank": 4,
+        "score": 5,
+        "title": "The State of NH Is Now 'Powered by Gemini' API",
+        "url": null
+      },
+      {
+        "author": "bpcrd",
+        "comments": 64,
+        "rank": 5,
+        "score": 92,
+        "title": "Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection",
+        "url": "https://www.realitydefender.com/platform/api"
+      }
+    ]
+  },
+  {
+    "topic": "Claude Code agents business",
+    "attempts": 1,
+    "status": "ok",
+    "error": "",
+    "results": [
+      {
+        "author": "anophelon",
+        "comments": 2,
+        "rank": 1,
+        "score": 14,
+        "title": "Why Codex works better than Claude Code for my production monolith",
+        "url": null
+      },
+      {
+        "author": "phoughton",
+        "comments": 0,
+        "rank": 2,
+        "score": 1,
+        "title": "Show HN: A Swift Payment message validator built from Swift Standard rules",
+        "url": "https://cbprstar.com/"
+      },
+      {
+        "author": "yzhong94",
+        "comments": 49,
+        "rank": 3,
+        "score": 82,
+        "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+        "url": "https://github.com/besimple-oss/broccoli"
+      },
+      {
+        "author": "Kathan2651",
+        "comments": 3,
+        "rank": 4,
+        "score": 1,
+        "title": "Idea Discussion: Can We Replace Needs of Static Websites with AI Profiles?",
+        "url": null
+      },
+      {
+        "author": "aiola",
+        "comments": 0,
+        "rank": 5,
+        "score": 2,
+        "title": "Show HN: Specsight – Living product specs generated from your codebase",
+        "url": "https://specsight.app"
+      }
+    ]
+  }
+]
