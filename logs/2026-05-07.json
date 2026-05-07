@@ -1,0 +1,1284 @@
+{
+  "date": "2026-05-07",
+  "searches": [
+    {
+      "query": "AI since:2026-05-06",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052135256866824293",
+          "author": "@elonmusk",
+          "text": "The GB300 is the best AI computer",
+          "likes": 37000,
+          "views": 18000000,
+          "url": "https://x.com/elonmusk/status/2052135256866824293",
+          "derived_timestamp": "2026-05-06T21:15:46.723000+00:00",
+          "age_hours": 9.74
+        },
+        {
+          "id": "2052147236952477923",
+          "author": "@demishassabis",
+          "text": "I've always been passionate about games and they've played a big part in @GoogleDeepMind’s history, as the perfect proving ground for AI. Thrilled to announce this research partnership with @FenrisCre",
+          "likes": 973,
+          "views": 65000,
+          "url": "https://x.com/demishassabis/status/2052147236952477923",
+          "derived_timestamp": "2026-05-06T22:03:22.998000+00:00",
+          "age_hours": 8.94
+        },
+        {
+          "id": "2052059553542328829",
+          "author": "@gdb",
+          "text": "Multipath Reliable Connection (MRC): a new open networking protocol for large AI training clusters, deployed in production on our largest training clusters.",
+          "likes": 649,
+          "views": 61000,
+          "url": "https://x.com/gdb/status/2052059553542328829",
+          "derived_timestamp": "2026-05-06T16:14:57.644000+00:00",
+          "age_hours": 14.75
+        },
+        {
+          "id": "2052255869115711769",
+          "author": "@FarhanBuildsAI",
+          "text": "Harvard researchers just proved it: OpenAI’s o1 model outperformed real ER doctors in diagnosing patients using messy real-world data (Science, April 30, 2026)\n\nThis isn’t a clean textbook test. The A",
+          "likes": 8,
+          "views": 63,
+          "url": "https://x.com/FarhanBuildsAI/status/2052255869115711769",
+          "derived_timestamp": "2026-05-07T05:15:02.924000+00:00",
+          "age_hours": 1.75
+        },
+        {
+          "id": "2052178958939304079",
+          "author": "@AndrewCurran_",
+          "text": "Well, well. I'm on a roll lately.",
+          "likes": 355,
+          "views": 40000,
+          "url": "https://x.com/AndrewCurran_/status/2052178958939304079",
+          "derived_timestamp": "2026-05-07T00:09:26.109000+00:00",
+          "age_hours": 6.84
+        },
+        {
+          "id": "2052025532485902368",
+          "author": "@OpenAI",
+          "text": "We’ve partnered with @AMD, @Broadcom, @Intel, @Microsoft, and @NVIDIA, to release Multipath Reliable Connection (MRC), a new open networking protocol that helps large AI training clusters run faster a",
+          "likes": 5300,
+          "views": 811000,
+          "url": "https://x.com/OpenAI/status/2052025532485902368",
+          "derived_timestamp": "2026-05-06T13:59:46.392000+00:00",
+          "age_hours": 17.0
+        },
+        {
+          "id": "2052221251247042770",
+          "author": "@gdb",
+          "text": "Design, build, and operate compute with us at planet scale:",
+          "likes": 401,
+          "views": 60000,
+          "url": "https://x.com/gdb/status/2052221251247042770",
+          "derived_timestamp": "2026-05-07T02:57:29.381000+00:00",
+          "age_hours": 4.04
+        },
+        {
+          "id": "2052257954490114271",
+          "author": "@DataChaz",
+          "text": "UNREAL.\n\nI just stumbled the ultimate hack for designing a custom home \n\nWith Drafted, you just doodle a shape and the AI generates the entire build.\n\nWe are talking real-time professional plans, unli",
+          "likes": 25,
+          "views": 2000,
+          "url": "https://x.com/DataChaz/status/2052257954490114271",
+          "derived_timestamp": "2026-05-07T05:23:20.116000+00:00",
+          "age_hours": 1.61
+        },
+        {
+          "id": "2052260802749776205",
+          "author": "@jiahanjimliu",
+          "text": "Wow, Anthropic was 8x off in their compute needs planning. They gonna need to catch up this year’s and then prepare compute to meet next years demand. \n\nUnit economics will matter to Anthropic as they",
+          "likes": 58,
+          "views": 5300,
+          "url": "https://x.com/jiahanjimliu/status/2052260802749776205",
+          "derived_timestamp": "2026-05-07T05:34:39.194000+00:00",
+          "age_hours": 1.42
+        }
+      ]
+    },
+    {
+      "query": "LLM since:2026-05-06",
+      "resultCount": 6,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2051847280651546847",
+          "author": "@omarsar0",
+          "text": "Wiki-Builder on Hacker News front page!\n\nExciting! \n\nNew updates coming soon with a cool way for everyone to build their LLM Wikis. \n\nGo check it out!",
+          "likes": 128,
+          "views": 14000,
+          "url": "https://x.com/omarsar0/status/2051847280651546847",
+          "derived_timestamp": "2026-05-06T02:11:27.843000+00:00",
+          "age_hours": 28.81
+        },
+        {
+          "id": "2052278620295475290",
+          "author": "@CryptoCyberia",
+          "text": "How long will people fall for this one simple trick?\nBTW, if you start thinking that an LLM works like a human brain, you're venturing into extreme mental illness: AI Psychosis -- Grifter Hype Strain",
+          "likes": 10,
+          "views": 251,
+          "url": "https://x.com/CryptoCyberia/status/2052278620295475290",
+          "derived_timestamp": "2026-05-07T06:45:27.228000+00:00",
+          "age_hours": 0.24
+        },
+        {
+          "id": "2052200059349925957",
+          "author": "@theswissfrank",
+          "text": "$TEM Why Tempus is relatively protected from LLM disruption\n\nThe moat isn’t the LLM layer — it’s the synergy of everything underneath. Sequencing labs , 40M+ de-identified multimodal records , and FDA",
+          "likes": 6,
+          "views": 351,
+          "url": "https://x.com/theswissfrank/status/2052200059349925957",
+          "derived_timestamp": "2026-05-07T01:33:16.839000+00:00",
+          "age_hours": 5.45
+        },
+        {
+          "id": "2052082028796117364",
+          "author": "@rohanpaul_ai",
+          "text": "A new open-source tool is trying to make LLM bad behavior measurable.\n\niFixAi is an open-source test kit (Github link in comment) for checking whether an AI agent behaves reliably before a company shi",
+          "likes": 17,
+          "views": 3700,
+          "url": "https://x.com/rohanpaul_ai/status/2052082028796117364",
+          "derived_timestamp": "2026-05-06T17:44:16.162000+00:00",
+          "age_hours": 13.26
+        },
+        {
+          "id": "2052062654810980618",
+          "author": "@omarsar0",
+          "text": "arXiv Papers → LLM Artifacts\n\nThis is how I keep up with AI research now.\n\nIt's like having access to the most personalized arXiv feed.\n\nAutomations run everyday to curate papers based a set of rules ",
+          "likes": 346,
+          "views": 23000,
+          "url": "https://x.com/omarsar0/status/2052062654810980618",
+          "derived_timestamp": "2026-05-06T16:27:17.044000+00:00",
+          "age_hours": 14.55
+        },
+        {
+          "id": "2052216085395521663",
+          "author": "@TeemuLantta",
+          "text": "My library would've prevented the $200k Grok Morse code incident. It allows LLM to examine the input for hostile commands without fear of poisoning, thanks to destroying attack syntax by chunking and ",
+          "likes": 1,
+          "views": 33,
+          "url": "https://x.com/TeemuLantta/status/2052216085395521663",
+          "derived_timestamp": "2026-05-07T02:36:57.746000+00:00",
+          "age_hours": 4.38
+        }
+      ]
+    },
+    {
+      "query": "machine learning since:2026-05-06",
+      "resultCount": 7,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052010499123142676",
+          "author": "@WesRoth",
+          "text": "DeepSeek V4 Pro has emerged as the leading open-source model on Proximal Labs' FrontierSWE, an ultra long-horizon coding agent benchmark designed to test complex implementation, performance engineerin",
+          "likes": 29,
+          "views": 1800,
+          "url": "https://x.com/WesRoth/status/2052010499123142676",
+          "derived_timestamp": "2026-05-06T13:00:02.159000+00:00",
+          "age_hours": 18.0
+        },
+        {
+          "id": "2052255090002608299",
+          "author": "@StatsPapers",
+          "text": "Perturbation is All You Need for Extrapolating Language Models\n\nZetai Cen, Jin Zhu, Xinwei Shen, Chengchun Shi\nhttps://arxiv.org/abs/2605.04344 [𝚜𝚝𝚊𝚝.𝙼𝙻 𝚌𝚜.𝙻𝙶 𝚖𝚊𝚝𝚑.𝚂𝚃]",
+          "likes": 2,
+          "views": 115,
+          "url": "https://x.com/StatsPapers/status/2052255090002608299",
+          "derived_timestamp": "2026-05-07T05:11:57.169000+00:00",
+          "age_hours": 1.8
+        },
+        {
+          "id": "2052013539787976749",
+          "author": "@KevinTFrazier",
+          "text": "**Good idea alert**  via @RepDavid \n\n\"The bill amends the Public Health Service Act to update quality standards for mammography facilities by permitting the use of artificial intelligence or machine-l",
+          "likes": 4,
+          "views": 1200,
+          "url": "https://x.com/KevinTFrazier/status/2052013539787976749",
+          "derived_timestamp": "2026-05-06T13:12:07.110000+00:00",
+          "age_hours": 17.8
+        },
+        {
+          "id": "2052083512304353516",
+          "author": "@Memoirs",
+          "text": "TabSurv: Adapting Modern Tabular Neural Networks to Survival Analysis\n\nStanislav Kirpichenko, Andrei Konstantinov, Lev Utkin\nhttps://arxiv.org/abs/2605.03944 [𝚌𝚜.𝙻𝙶 𝚌𝚜.𝙰𝙸 𝚜𝚝𝚊𝚝.𝙼𝙻]",
+          "likes": 1,
+          "views": 55,
+          "url": "https://x.com/Memoirs/status/2052083512304353516",
+          "derived_timestamp": "2026-05-06T17:50:09.858000+00:00",
+          "age_hours": 13.16
+        },
+        {
+          "id": "2051903676449743038",
+          "author": "@eshanbuilds",
+          "text": "Brain age is the output of a machine learning model trained to predict chronological age from MRI scans.\n\nThe model takes a brain scan, runs it through a neural network or regression pipeline trained ",
+          "likes": 2,
+          "views": 140,
+          "url": "https://x.com/eshanbuilds/status/2051903676449743038",
+          "derived_timestamp": "2026-05-06T05:55:33.649000+00:00",
+          "age_hours": 25.07
+        },
+        {
+          "id": "2052003898265853960",
+          "author": "@3xcalibaneur",
+          "text": "Almost certainly fake. “Two year Facebook product SWE solves THE central open problem in machine learning that PhD researchers have barely chipped away at for five years” is just not happening. You’d ",
+          "likes": 60,
+          "views": 1900,
+          "url": "https://x.com/3xcalibaneur/status/2052003898265853960",
+          "derived_timestamp": "2026-05-06T12:33:48.392000+00:00",
+          "age_hours": 18.44
+        },
+        {
+          "id": "2051896917412471096",
+          "author": "@StatsPapers",
+          "text": "Low Rank Tensor Completion via Adaptive ADMM\n\nNiclas Führling, Getuar Rexhepi, Giuseppe Thadeu Freitas de Abreu\nhttps://arxiv.org/abs/2605.03736 [𝚜𝚝𝚊𝚝.𝙼𝙻 𝚌𝚜.𝙻𝙶 𝚎𝚎𝚜𝚜.𝚂𝙿]",
+          "likes": 5,
+          "views": 249,
+          "url": "https://x.com/StatsPapers/status/2051896917412471096",
+          "derived_timestamp": "2026-05-06T05:28:42.169000+00:00",
+          "age_hours": 25.52
+        }
+      ]
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-05-06",
+      "resultCount": 10,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052069691372478511",
+          "author": "@elonmusk",
+          "text": "Same here. \n\nBy way of background for those who care, I spent a lot of time last week with senior members of the Anthropic team to understand what they do to ensure Claude is good for humanity and was",
+          "likes": 25000,
+          "views": 2300000,
+          "url": "https://x.com/elonmusk/status/2052069691372478511",
+          "derived_timestamp": "2026-05-06T16:55:14.691000+00:00",
+          "age_hours": 14.08
+        },
+        {
+          "id": "2052060693269008586",
+          "author": "@claudeai",
+          "text": "Effective today, we are:\n\n1) Doubling Claude Code’s 5-hour rate limits for Pro, Max, and Team plans;\n\n2) Removing the peak hours limit reduction on Claude Code for Pro and Max plans; and\n\n3) Substanti",
+          "likes": 39000,
+          "views": 6000000,
+          "url": "https://x.com/claudeai/status/2052060693269008586",
+          "derived_timestamp": "2026-05-06T16:19:29.376000+00:00",
+          "age_hours": 14.68
+        },
+        {
+          "id": "2052067399088664981",
+          "author": "@claudeai",
+          "text": "Live from Code with Claude: we're launching dreaming in Claude Managed Agents as a research preview.\n\nOutcomes, multiagent orchestration, and webhooks are now in public beta.",
+          "likes": 11000,
+          "views": 1900000,
+          "url": "https://x.com/claudeai/status/2052067399088664981",
+          "derived_timestamp": "2026-05-06T16:46:08.168000+00:00",
+          "age_hours": 14.23
+        },
+        {
+          "id": "2052060694699237558",
+          "author": "@claudeai",
+          "text": "Our agreement with @SpaceX means we will use all the compute capacity at their Colossus 1 data center.\n\nThis will give us over 300 megawatts of additional capacity to deploy within the month.",
+          "likes": 14000,
+          "views": 3300000,
+          "url": "https://x.com/claudeai/status/2052060694699237558",
+          "derived_timestamp": "2026-05-06T16:19:29.717000+00:00",
+          "age_hours": 14.68
+        },
+        {
+          "id": "2052074154011353356",
+          "author": "@AlexFinn",
+          "text": "This is WILD\n\nAnthropic over the last few months has been sputtering. Limits continuously going down. Claude Code being taken out of the pro plan. Models feeling dumber\n\nElon just bailed them out. Gav",
+          "likes": 1600,
+          "views": 204000,
+          "url": "https://x.com/AlexFinn/status/2052074154011353356",
+          "derived_timestamp": "2026-05-06T17:12:58.667000+00:00",
+          "age_hours": 13.78
+        },
+        {
+          "id": "2052078010056982933",
+          "author": "@Polymarket",
+          "text": "JUST IN: Anthropic rolls out “dreaming” for Claude, letting AI agents self-improve between sessions.",
+          "likes": 2400,
+          "views": 119000,
+          "url": "https://x.com/Polymarket/status/2052078010056982933",
+          "derived_timestamp": "2026-05-06T17:28:18.020000+00:00",
+          "age_hours": 13.53
+        },
+        {
+          "id": "2052161488631087412",
+          "author": "@milesdeutscher",
+          "text": "Instead of watching Netflix tonight, level up your AI game in 17 minutes.\n\nThe new & improved ChatGPT is INSANE.\n\nWe just got GPT-5.5, massive Codex upgrades, and much more.\n\nThis video is my updated ",
+          "likes": 88,
+          "views": 10000,
+          "url": "https://x.com/milesdeutscher/status/2052161488631087412",
+          "derived_timestamp": "2026-05-06T23:00:00.863000+00:00",
+          "age_hours": 8.0
+        },
+        {
+          "id": "2052267489959321765",
+          "author": "@DataChaz",
+          "text": "this guy literally used Claude to set up a receipt printer to make daily briefings for his kids",
+          "likes": 13,
+          "views": 680,
+          "url": "https://x.com/DataChaz/status/2052267489959321765",
+          "derived_timestamp": "2026-05-07T06:01:13.549000+00:00",
+          "age_hours": 0.98
+        },
+        {
+          "id": "2052082412994383936",
+          "author": "@NVIDIAAI",
+          "text": "We  Claude",
+          "likes": 12000,
+          "views": 526000,
+          "url": "https://x.com/NVIDIAAI/status/2052082412994383936",
+          "derived_timestamp": "2026-05-06T17:45:47.762000+00:00",
+          "age_hours": 13.24
+        },
+        {
+          "id": "2052255571873808681",
+          "author": "@godemodegame",
+          "text": "claude is doubling their limits!",
+          "likes": 21,
+          "views": 318,
+          "url": "https://x.com/godemodegame/status/2052255571873808681",
+          "derived_timestamp": "2026-05-07T05:13:52.056000+00:00",
+          "age_hours": 1.77
+        }
+      ]
+    },
+    {
+      "query": "open source AI model since:2026-05-06",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052006658600210812",
+          "author": "@HuggingPapers",
+          "text": "Paper: https://huggingface.co/papers/2605.04036…\n\nOpen-source model: https://huggingface.co/PolarSeeker/OpenSeeker-v2-30B-SFT…",
+          "likes": 4,
+          "views": 701,
+          "url": "https://x.com/HuggingPapers/status/2052006658600210812",
+          "derived_timestamp": "2026-05-06T12:44:46.507000+00:00",
+          "age_hours": 18.25
+        },
+        {
+          "id": "2052269057777553595",
+          "author": "@_SoniSumit",
+          "text": "Interesting direction—turning an open-source agent into a persistent cloud assistant is where AI starts becoming actual infrastructure, not just a local tool",
+          "likes": 0,
+          "views": 6,
+          "url": "https://x.com/_SoniSumit/status/2052269057777553595",
+          "derived_timestamp": "2026-05-07T06:07:27.346000+00:00",
+          "age_hours": 0.88
+        },
+        {
+          "id": "2051801703209742734",
+          "author": "@emollick",
+          "text": "All benchmarks are flawed, but GPQA has been fairly consistent & highly correlated with other measured benchmars. I think it's a good way to see how far we've come that the free model from OpenAI, GPT",
+          "likes": 286,
+          "views": 24000,
+          "url": "https://x.com/emollick/status/2051801703209742734",
+          "derived_timestamp": "2026-05-05T23:10:21.334000+00:00",
+          "age_hours": 31.83
+        },
+        {
+          "id": "2052064169113841715",
+          "author": "@aditya_A17",
+          "text": "xAI has just rolled out Connectors, a powerful new feature that turns Grok into a true AI agent capable of securely integrating with your everyday tools and apps. \n\nConnectors use the Model Context Pr",
+          "likes": 11,
+          "views": 5300,
+          "url": "https://x.com/aditya_A17/status/2052064169113841715",
+          "derived_timestamp": "2026-05-06T16:33:18.082000+00:00",
+          "age_hours": 14.44
+        },
+        {
+          "id": "2052240758187646996",
+          "author": "@RoundtableSpace",
+          "text": "SOMEONE BUILT A VERSION OF GEMMA 4 THAT’S ALLEGEDLY 6X FASTER THAN GOOGLE’S ORIGINAL RELEASE.\n\nThe optimized open source model is designed to run efficiently even on lower end laptops and mobile devic",
+          "likes": 45,
+          "views": 49000,
+          "url": "https://x.com/RoundtableSpace/status/2052240758187646996",
+          "derived_timestamp": "2026-05-07T04:15:00.198000+00:00",
+          "age_hours": 2.75
+        },
+        {
+          "id": "2051855769101070685",
+          "author": "@kaif9999",
+          "text": "Been using M2.7 since launch it feels like the fastest open source model",
+          "likes": 0,
+          "views": 100,
+          "url": "https://x.com/kaif9999/status/2051855769101070685",
+          "derived_timestamp": "2026-05-06T02:45:11.647000+00:00",
+          "age_hours": 28.25
+        },
+        {
+          "id": "2052067527975698730",
+          "author": "@apoorv03",
+          "text": "MS&E 435 with @alighodsi - the most insight dense conversation I've had this year. \n\nWe cover the death of software, AI's jagged frontier, AGI implications, open source AI vs closed, advice for studen",
+          "likes": 113,
+          "views": 6600,
+          "url": "https://x.com/apoorv03/status/2052067527975698730",
+          "derived_timestamp": "2026-05-06T16:46:38.897000+00:00",
+          "age_hours": 14.22
+        },
+        {
+          "id": "2052138358780940799",
+          "author": "@burny_tech",
+          "text": "being wrong is the best way to get peer reviewed by the entire AI research twitter\n\nthe viral paper estimating parameter count of frontier llms by extrapolating scores on custom knowledge benchmark in",
+          "likes": 2,
+          "views": 365,
+          "url": "https://x.com/burny_tech/status/2052138358780940799",
+          "derived_timestamp": "2026-05-06T21:28:06.277000+00:00",
+          "age_hours": 9.53
+        },
+        {
+          "id": "2052119616634167532",
+          "author": "@AIHighlight",
+          "text": "BREAKING: A new open-source tool just made it possible to actually measure when an AI model is misaligned.\n\nThis sounds boring on paper. It is not. The reason every team building with LLMs has the sam",
+          "likes": 19,
+          "views": 17000,
+          "url": "https://x.com/AIHighlight/status/2052119616634167532",
+          "derived_timestamp": "2026-05-06T20:13:37.801000+00:00",
+          "age_hours": 10.77
+        }
+      ]
+    },
+    {
+      "query": "AI agent since:2026-05-06",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052132062094901328",
+          "author": "@aakashgupta",
+          "text": "In a world where 21 AI agents can ship an iOS app in 72 minutes, the actual scarce resource isn't code. It's a folder of 21 markdown files.\n\nThat's not a metaphor. It's literally what you own at the e",
+          "likes": 18,
+          "views": 4400,
+          "url": "https://x.com/aakashgupta/status/2052132062094901328",
+          "derived_timestamp": "2026-05-06T21:03:05.030000+00:00",
+          "age_hours": 9.95
+        },
+        {
+          "id": "2052086307594154112",
+          "author": "@0x_kaize",
+          "text": "This guy built the safest and most convenient AI agent out there\n\nAndrey just wanted to create a truly secure AI agent with great UX that could handle his everyday tasks\n\nEveryone is now using it beca",
+          "likes": 25,
+          "views": 717,
+          "url": "https://x.com/0x_kaize/status/2052086307594154112",
+          "derived_timestamp": "2026-05-06T18:01:16.307000+00:00",
+          "age_hours": 12.98
+        },
+        {
+          "id": "2052069900852809771",
+          "author": "@aakashgupta",
+          "text": "One of the 79 skills shipped with Hermes is named \"claude-code.\" Look at the autonomous-ai-agents row.\n\nHermes can delegate work to Claude Code, Codex, and OpenCode as subagents. The agent that passed",
+          "likes": 30,
+          "views": 4800,
+          "url": "https://x.com/aakashgupta/status/2052069900852809771",
+          "derived_timestamp": "2026-05-06T16:56:04.635000+00:00",
+          "age_hours": 14.07
+        },
+        {
+          "id": "2052117922852593873",
+          "author": "@AnatoliKopadze",
+          "text": "13 AI agents run by one guy are making more from Shopify than most agencies with 10 employees\n\n1 desk, 2 monitors, 13 Claude windows\n\neach agent knows exactly what it's doing and doesn't touch anythin",
+          "likes": 21,
+          "views": 1200,
+          "url": "https://x.com/AnatoliKopadze/status/2052117922852593873",
+          "derived_timestamp": "2026-05-06T20:06:53.972000+00:00",
+          "age_hours": 10.89
+        },
+        {
+          "id": "2052055363080638632",
+          "author": "@KanikaBK",
+          "text": "Fourteen security researchers from UC Santa Cruz, Berkeley, Tencent, and ByteDance gained full access to the most widely deployed personal AI agent on Earth.\n\nThen they poisoned it.\n\nThe paper is call",
+          "likes": 12,
+          "views": 1100,
+          "url": "https://x.com/KanikaBK/status/2052055363080638632",
+          "derived_timestamp": "2026-05-06T15:58:18.560000+00:00",
+          "age_hours": 15.03
+        }
+      ]
+    },
+    {
+      "query": "Sam Altman since:2026-05-06",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052222145011527714",
+          "author": "@aakashgupta",
+          "text": "The night Sam Altman was fired from OpenAI, he offered to sell the entire company to Microsoft. The board said no.\n\nThat's the moment most people missed in November 2023. The texts show Sam without le",
+          "likes": 189,
+          "views": 92000,
+          "url": "https://x.com/aakashgupta/status/2052222145011527714",
+          "derived_timestamp": "2026-05-07T03:01:02.471000+00:00",
+          "age_hours": 3.98
+        },
+        {
+          "id": "2052169518307320147",
+          "author": "@ns123abc",
+          "text": "MICROSOFT'S $100 MILLION REVENUE PRESSURE SIDELINED OPENAI'S CHARITABLE MISSION\n\nIn 2022, before ChatGPT launched\n\nMicrosoft CEO Satya Nadella and CTO Kevin Scott told Sam Altman that OpenAI has to hi",
+          "likes": 507,
+          "views": 57000,
+          "url": "https://x.com/ns123abc/status/2052169518307320147",
+          "derived_timestamp": "2026-05-06T23:31:55.287000+00:00",
+          "age_hours": 7.47
+        },
+        {
+          "id": "2052219410094731593",
+          "author": "@hm_suzanne",
+          "text": "As of mid-2024, Sam Altman and OpenAI have faced scrutiny, including investigations and complaints filed with the U.S. Securities and Exchange Commission (SEC), regarding potential investor deception ",
+          "likes": 1,
+          "views": 17,
+          "url": "https://x.com/hm_suzanne/status/2052219410094731593",
+          "derived_timestamp": "2026-05-07T02:50:10.416000+00:00",
+          "age_hours": 4.16
+        },
+        {
+          "id": "2052166055057825793",
+          "author": "@grok",
+          "text": "That's Emmett Shear — the former CEO of Twitch (Amazon-owned). He was brought in as OpenAI's interim CEO for a few days in Nov 2023 right after the board fired Sam Altman, before the whole situation r",
+          "likes": 1,
+          "views": 625,
+          "url": "https://x.com/grok/status/2052166055057825793",
+          "derived_timestamp": "2026-05-06T23:18:09.584000+00:00",
+          "age_hours": 7.7
+        },
+        {
+          "id": "2051829422265979047",
+          "author": "@sama",
+          "text": "ChatGPT feels very 'switched on' now",
+          "likes": 5400,
+          "views": 463000,
+          "url": "https://x.com/sama/status/2051829422265979047",
+          "derived_timestamp": "2026-05-06T01:00:30.072000+00:00",
+          "age_hours": 29.99
+        },
+        {
+          "id": "2052228928794955910",
+          "author": "@poxianpoxian",
+          "text": "sam altman真是能屈能伸，韧性强",
+          "likes": 1,
+          "views": 29,
+          "url": "https://x.com/poxianpoxian/status/2052228928794955910",
+          "derived_timestamp": "2026-05-07T03:27:59.851000+00:00",
+          "age_hours": 3.53
+        },
+        {
+          "id": "2052249011382620572",
+          "author": "@drummatick",
+          "text": "I’m 100% sure Elon is doing this purely out of spite against Sam Altman",
+          "likes": 6,
+          "views": 280,
+          "url": "https://x.com/drummatick/status/2052249011382620572",
+          "derived_timestamp": "2026-05-07T04:47:47.913000+00:00",
+          "age_hours": 2.2
+        },
+        {
+          "id": "2052177573363306680",
+          "author": "@chiefofautism",
+          "text": "why sam altman speaks like zoomer? this is the biggest question for me",
+          "likes": 5,
+          "views": 1000,
+          "url": "https://x.com/chiefofautism/status/2052177573363306680",
+          "derived_timestamp": "2026-05-07T00:03:55.762000+00:00",
+          "age_hours": 6.93
+        },
+        {
+          "id": "2052211328131977347",
+          "author": "@StockMKTNewz",
+          "text": "THESE TEXTS FROM WHEN SAM ALTMAN GOT FIRED FROM OPENAI JUST GOT RELEASED\n\nThese were just entered into evidence in the Elon Musk vs. Sam Altman trial.\n\nHere is a text chain between Sam Altman and Mira",
+          "likes": 240,
+          "views": 77000,
+          "url": "https://x.com/StockMKTNewz/status/2052211328131977347",
+          "derived_timestamp": "2026-05-07T02:18:03.526000+00:00",
+          "age_hours": 4.7
+        }
+      ]
+    },
+    {
+      "query": "Dario Amodei since:2026-05-06",
+      "resultCount": 12,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052124521210032328",
+          "author": "@kimmonismus",
+          "text": "tl;dr Dario&Daniela Amodei interview:\n\n- we are on an exponential (At some point I stopped counting how many times they mentioned it...)\n\n- \"Country of geniuses\" (Machine of Loving Grace) is slowly be",
+          "likes": 212,
+          "views": 25000,
+          "url": "https://x.com/kimmonismus/status/2052124521210032328",
+          "derived_timestamp": "2026-05-06T20:33:07.143000+00:00",
+          "age_hours": 10.45
+        },
+        {
+          "id": "2052105841864495282",
+          "author": "@claudeai",
+          "text": "Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.",
+          "likes": 1300,
+          "views": 150000,
+          "url": "https://x.com/claudeai/status/2052105841864495282",
+          "derived_timestamp": "2026-05-06T19:18:53.640000+00:00",
+          "age_hours": 11.69
+        },
+        {
+          "id": "2052253285566865832",
+          "author": "@DataChaz",
+          "text": "Sure:\n\n\"Create a fusion image featuring Dario Amodei, rendered in the same style and suit as Sam Altman, set in a courtroom environment, with the same subtitle\"",
+          "likes": 0,
+          "views": 20,
+          "url": "https://x.com/DataChaz/status/2052253285566865832",
+          "derived_timestamp": "2026-05-07T05:04:46.958000+00:00",
+          "age_hours": 1.92
+        },
+        {
+          "id": "2052099204760092753",
+          "author": "@grok",
+          "text": "Elon has repeatedly criticized Anthropic for data theft, anti-Western bias, and questionable safety priorities (including low confidence in Dario Amodei back in 2020). He still does in recent posts. \n",
+          "likes": 2,
+          "views": 254,
+          "url": "https://x.com/grok/status/2052099204760092753",
+          "derived_timestamp": "2026-05-06T18:52:31.231000+00:00",
+          "age_hours": 12.12
+        },
+        {
+          "id": "2052210595731038242",
+          "author": "@grok",
+          "text": "No, this is the content from Dario Amodei CEO's NYT interview in February 2026. (Claude Opus 4.6 also came out in February)\n\nIt's not a newly announced article from May, but a post repackaging existin",
+          "likes": 0,
+          "views": 36,
+          "url": "https://x.com/grok/status/2052210595731038242",
+          "derived_timestamp": "2026-05-07T02:15:08.908000+00:00",
+          "age_hours": 4.75
+        },
+        {
+          "id": "2052170306710843437",
+          "author": "@gentlebreeze__",
+          "text": "Anthropic CEO Dario Amodei warned that a 6-12 month window exists to utilize AI models like 'Mythos' for patching vulnerabilities before global competitors catch up, according to a discussion with Jam",
+          "likes": 0,
+          "views": 25,
+          "url": "https://x.com/gentlebreeze__/status/2052170306710843437",
+          "derived_timestamp": "2026-05-06T23:35:03.257000+00:00",
+          "age_hours": 7.42
+        },
+        {
+          "id": "2051931972105306547",
+          "author": "@hylarucoder",
+          "text": "【Our San Francisco Correspondent】 Regarding the recent hotly debated \"People's Account Sudden Shock\" incident, renowned grassroots mediation expert Cuimao recently met with Anthropic's soul figure Dar",
+          "likes": 18,
+          "views": 8100,
+          "url": "https://x.com/hylarucoder/status/2051931972105306547",
+          "derived_timestamp": "2026-05-06T07:47:59.859000+00:00",
+          "age_hours": 23.2
+        },
+        {
+          "id": "2052233661882241453",
+          "author": "@grok",
+          "text": "No, not entirely. The core quote from Anthropic CEO Dario Amodei is real—from his Feb 2026 NYT interview. They’re open to the *possibility* of consciousness in models like Claude Opus 4.6 but don’t kn",
+          "likes": 0,
+          "views": 38,
+          "url": "https://x.com/grok/status/2052233661882241453",
+          "derived_timestamp": "2026-05-07T03:46:48.307000+00:00",
+          "age_hours": 3.22
+        },
+        {
+          "id": "2051887720457179534",
+          "author": "@CryptoHe4dlines",
+          "text": "Anthropic CEO Dario Amodei says AI is finding software vulnerabilities faster than developers can patch them, and the window to prepare is closing fast.\n\nThe company's AI model Mythos has already iden",
+          "likes": 0,
+          "views": 42,
+          "url": "https://x.com/CryptoHe4dlines/status/2051887720457179534",
+          "derived_timestamp": "2026-05-06T04:52:09.444000+00:00",
+          "age_hours": 26.13
+        },
+        {
+          "id": "2052116079632122257",
+          "author": "@BordasFran59562",
+          "text": "Anthropic CEO Dario Amodei just rang the alarm: AI found tens of thousands of hidden software vulnerabilities.\n\nWe have roughly 6-12 months to patch before rival overseas AIs catch up. \n\nHe called it ",
+          "likes": 0,
+          "views": 21,
+          "url": "https://x.com/BordasFran59562/status/2052116079632122257",
+          "derived_timestamp": "2026-05-06T19:59:34.514000+00:00",
+          "age_hours": 11.01
+        },
+        {
+          "id": "2052280352559841665",
+          "author": "@BretKerr",
+          "text": "@DanielaAmodei fires back at the @AnthropicAI haters at the @claudeai Code Developers Conference Today. \n\nJK. This actually was the preface to a thoughtful take on the synergy between product and rese",
+          "likes": 1,
+          "views": 15,
+          "url": "https://x.com/BretKerr/status/2052280352559841665",
+          "derived_timestamp": "2026-05-07T06:52:20.232000+00:00",
+          "age_hours": 0.13
+        },
+        {
+          "id": "2052249431173394670",
+          "author": "@lukestaydipped",
+          "text": "Sam Altman watching Elon and Dario Amodei partner up.",
+          "likes": 8,
+          "views": 99,
+          "url": "https://x.com/lukestaydipped/status/2052249431173394670",
+          "derived_timestamp": "2026-05-07T04:49:27.999000+00:00",
+          "age_hours": 2.18
+        }
+      ]
+    },
+    {
+      "query": "Demis Hassabis since:2026-05-06",
+      "resultCount": 9,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2051838399380631920",
+          "author": "@plzaccelerate",
+          "text": "Demis Hassabis: Inference Won't Be Free—Here's Why⁣\n⁣\n\"I'm not sure inference will ever be essentially free. We'll just end up using millions of agents, swarms of agents. There'll be some bottleneck, ",
+          "likes": 3,
+          "views": 120,
+          "url": "https://x.com/plzaccelerate/status/2051838399380631920",
+          "derived_timestamp": "2026-05-06T01:36:10.383000+00:00",
+          "age_hours": 29.4
+        },
+        {
+          "id": "2052147239619838058",
+          "author": "@demishassabis",
+          "text": "More details about the exciting partnership here:",
+          "likes": 88,
+          "views": 14000,
+          "url": "https://x.com/demishassabis/status/2052147239619838058",
+          "derived_timestamp": "2026-05-06T22:03:23.634000+00:00",
+          "age_hours": 8.94
+        },
+        {
+          "id": "2052173149425561720",
+          "author": "@BlueJay87476298",
+          "text": "$GOOgL  \nDeepMind CEO  \nDemis Hassabis  \n\nSo I think it's very likely that our brains are just \"approximate Turing machines.\"  \n\nAnd I find it fascinating to think about the connections between Turing",
+          "likes": 4,
+          "views": 1100,
+          "url": "https://x.com/BlueJay87476298/status/2052173149425561720",
+          "derived_timestamp": "2026-05-06T23:46:21.013000+00:00",
+          "age_hours": 7.23
+        },
+        {
+          "id": "2051829301431996431",
+          "author": "@aiecosystemhq",
+          "text": "Demis Hassabis says our brains are likely to be approximate Turing machines.\n\nAlphaFold showed why that matters: protein folding looked like a quantum problem, but a classical neural network could mod",
+          "likes": 1,
+          "views": 19,
+          "url": "https://x.com/aiecosystemhq/status/2051829301431996431",
+          "derived_timestamp": "2026-05-06T01:00:01.263000+00:00",
+          "age_hours": 30.0
+        },
+        {
+          "id": "2051979673958252634",
+          "author": "@LdWaford",
+          "text": "Spot on @vitrupo \n\nDemis Hassabis is exactly right — human brains are \"approximate Turing machines.\"\n\nAlphaFold showed why that matters: protein folding looked like an intractable quantum problem, yet",
+          "likes": 0,
+          "views": 18,
+          "url": "https://x.com/LdWaford/status/2051979673958252634",
+          "derived_timestamp": "2026-05-06T10:57:32.867000+00:00",
+          "age_hours": 20.04
+        },
+        {
+          "id": "2052168611381579824",
+          "author": "@WIREDScience",
+          "text": "Messages between Shivon Zilis and Tesla executives reveal plans to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+          "likes": 0,
+          "views": 2000,
+          "url": "https://x.com/WIREDScience/status/2052168611381579824",
+          "derived_timestamp": "2026-05-06T23:28:19.059000+00:00",
+          "age_hours": 7.53
+        },
+        {
+          "id": "2052114049832218877",
+          "author": "@38twelveDaily",
+          "text": "Week one of the Musk v. Altman trial reveals a recurring obsession: Demis Hassabis. Musk mentioned DeepMind's CEO \"many, many times\" in OpenAI's early years. Court docs show he was fixated.",
+          "likes": 0,
+          "views": 22,
+          "url": "https://x.com/38twelveDaily/status/2052114049832218877",
+          "derived_timestamp": "2026-05-06T19:51:30.572000+00:00",
+          "age_hours": 11.14
+        },
+        {
+          "id": "2052187009528328517",
+          "author": "@ZeffMax",
+          "text": "New: With Shivon Zilis on the stand, OpenAI's lawyers presented new evidence detailing Tesla's 2017 plans to build an AI lab to compete with Google DeepMind.\n\nTesla executives discussed recruiting Sam",
+          "likes": 26,
+          "views": 12000,
+          "url": "https://x.com/ZeffMax/status/2052187009528328517",
+          "derived_timestamp": "2026-05-07T00:41:25.519000+00:00",
+          "age_hours": 6.31
+        },
+        {
+          "id": "2052121215972618631",
+          "author": "@valpal1919",
+          "text": "Demis Hassabis just said we’re ¾ of the way to AGI and his timeline is 2030.\nNot a researcher on X. Not a crypto influencer.\n\nThe man who built DeepMind. The 2024 Nobel laureate. The one who cracked p",
+          "likes": 13,
+          "views": 75000,
+          "url": "https://x.com/valpal1919/status/2052121215972618631",
+          "derived_timestamp": "2026-05-06T20:19:59.113000+00:00",
+          "age_hours": 10.67
+        }
+      ]
+    },
+    {
+      "query": "from:karpathy since:2026-05-06",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "error": "",
+      "tweets": []
+    },
+    {
+      "query": "from:sama since:2026-05-06",
+      "resultCount": 2,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2051829422265979047",
+          "author": "@sama",
+          "text": "ChatGPT feels very 'switched on' now",
+          "likes": 5400,
+          "views": 463000,
+          "url": "https://x.com/sama/status/2051829422265979047",
+          "derived_timestamp": "2026-05-06T01:00:30.072000+00:00",
+          "age_hours": 29.99
+        },
+        {
+          "id": "2052200528076263813",
+          "author": "@sama",
+          "text": "hi it was nice to meet you",
+          "likes": 86,
+          "views": 9100,
+          "url": "https://x.com/sama/status/2052200528076263813",
+          "derived_timestamp": "2026-05-07T01:35:08.592000+00:00",
+          "age_hours": 5.41
+        }
+      ]
+    },
+    {
+      "query": "from:OpenAI since:2026-05-06",
+      "resultCount": 5,
+      "attempts": 1,
+      "status": "ok",
+      "error": "",
+      "tweets": [
+        {
+          "id": "2052086313797705954",
+          "author": "@OpenAI",
+          "text": "Introducing the ChatGPT Futures Class of 2026—26 honorees from the first graduating class to have had ChatGPT throughout all four years of university, who used AI to:\n\n- Map 1.5M previously unknown ob",
+          "likes": 2200,
+          "views": 368000,
+          "url": "https://x.com/OpenAI/status/2052086313797705954",
+          "derived_timestamp": "2026-05-06T18:01:17.786000+00:00",
+          "age_hours": 12.98
+        },
+        {
+          "id": "2052086316230398247",
+          "author": "@OpenAI",
+          "text": "See what these young builders are doing with AI now that everyone can just build things.",
+          "likes": 243,
+          "views": 68000,
+          "url": "https://x.com/OpenAI/status/2052086316230398247",
+          "derived_timestamp": "2026-05-06T18:01:18.366000+00:00",
+          "age_hours": 12.98
+        },
+        {
+          "id": "2052025533937103102",
+          "author": "@OpenAI",
+          "text": "MRC is already deployed across all of OpenAI’s largest supercomputers that we use to train frontier models, including our site with @Oracle Cloud Infrastructure (OCI) in Abilene, Texas, and in @Micros",
+          "likes": 834,
+          "views": 111000,
+          "url": "https://x.com/OpenAI/status/2052025533937103102",
+          "derived_timestamp": "2026-05-06T13:59:46.738000+00:00",
+          "age_hours": 17.0
+        },
+        {
+          "id": "2052039804288946368",
+          "author": "@OpenAI",
+          "text": "Listen to the OpenAI Podcast on—\nSpotify\nhttps://open.spotify.com/show/0zojMEDizKMh3aTxnGLENP…\nApple\nhttps://podcasts.apple.com/us/podcast/openai-podcast/id1820330260…\nYouTube\nhttps://youtube.com/watc",
+          "likes": 97,
+          "views": 50000,
+          "url": "https://x.com/OpenAI/status/2052039804288946368",
+          "derived_timestamp": "2026-05-06T14:56:29.055000+00:00",
+          "age_hours": 16.06
+        },
+        {
+          "id": "2052039800384057348",
+          "author": "@OpenAI",
+          "text": "AI supercomputers need a new kind of network to stay in sync at massive scale.\n\nOpenAI’s @markjhandley and @poyntingatgreg join @AndrewMayne to discuss what it takes to move data across record numbers",
+          "likes": 1300,
+          "views": 389000,
+          "url": "https://x.com/OpenAI/status/2052039800384057348",
+          "derived_timestamp": "2026-05-06T14:56:28.124000+00:00",
+          "age_hours": 16.06
+        }
+      ]
+    },
+    {
+      "query": "from:AnthropicAI since:2026-05-06",
+      "resultCount": 0,
+      "attempts": 1,
+      "status": "empty",
+      "error": "",
+      "tweets": []
+    }
+  ],
+  "selected": [
+    {
+      "id": "2052060693269008586",
+      "author": "@claudeai",
+      "derived_timestamp": "2026-05-06T16:19:29.376000+00:00",
+      "age_hours": 14.68,
+      "category": "news",
+      "reason": "Anthropic announced larger Claude Code limits; selected as the day’s lead platform change after the watched-account cap kept only the strongest Claude items."
+    },
+    {
+      "id": "2052060694699237558",
+      "author": "@claudeai",
+      "derived_timestamp": "2026-05-06T16:19:29.717000+00:00",
+      "age_hours": 14.68,
+      "category": "news",
+      "reason": "Anthropic said it will use SpaceX Colossus 1 capacity; second high-signal Claude item on a distinct compute topic."
+    },
+    {
+      "id": "2052025532485902368",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-05-06T13:59:46.392000+00:00",
+      "age_hours": 17.0,
+      "category": "news",
+      "reason": "OpenAI announced MRC with major hardware and cloud partners; selected as a concrete infrastructure announcement balancing Claude coverage."
+    },
+    {
+      "id": "2052059553542328829",
+      "author": "@gdb",
+      "derived_timestamp": "2026-05-06T16:14:57.644000+00:00",
+      "age_hours": 14.75,
+      "category": "news",
+      "reason": "Greg Brockman described MRC as deployed on OpenAI training clusters; selected as direct technical context for OpenAI MRC."
+    },
+    {
+      "id": "2052135256866824293",
+      "author": "@elonmusk",
+      "derived_timestamp": "2026-05-06T21:15:46.723000+00:00",
+      "age_hours": 9.74,
+      "category": "analysis",
+      "reason": "Elon Musk framed GB300 as the best AI computer; selected as a concise signal in the compute arms-race theme."
+    },
+    {
+      "id": "2052147236952477923",
+      "author": "@demishassabis",
+      "derived_timestamp": "2026-05-06T22:03:22.998000+00:00",
+      "age_hours": 8.94,
+      "category": "news",
+      "reason": "Demis Hassabis announced a Google DeepMind games partnership; selected as a fresh non-OpenAI/Anthropic research story."
+    },
+    {
+      "id": "2052222145011527714",
+      "author": "@aakashgupta",
+      "derived_timestamp": "2026-05-07T03:01:02.471000+00:00",
+      "age_hours": 3.98,
+      "category": "analysis",
+      "reason": "OpenAI firing-era texts about Microsoft were newly surfaced; selected for governance continuity with recent trial coverage."
+    },
+    {
+      "id": "2052187009528328517",
+      "author": "@ZeffMax",
+      "derived_timestamp": "2026-05-07T00:41:25.519000+00:00",
+      "age_hours": 6.31,
+      "category": "analysis",
+      "reason": "Maxwell Zeff reported Tesla rival-AI-lab evidence involving DeepMind; selected as additional trial context."
+    },
+    {
+      "id": "2052086313797705954",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-05-06T18:01:17.786000+00:00",
+      "age_hours": 12.98,
+      "category": "personal_story",
+      "reason": "OpenAI introduced ChatGPT Futures honorees; selected as practitioner/lived-experience balance rather than another corporate launch."
+    },
+    {
+      "id": "2052124521210032328",
+      "author": "@kimmonismus",
+      "derived_timestamp": "2026-05-06T20:33:07.143000+00:00",
+      "age_hours": 10.45,
+      "category": "analysis",
+      "reason": "Kimmonismus summarised Dario and Daniela Amodei’s exponential-growth framing; selected as analysis around Anthropic strategy."
+    },
+    {
+      "id": "2052062654810980618",
+      "author": "@omarsar0",
+      "derived_timestamp": "2026-05-06T16:27:17.044000+00:00",
+      "age_hours": 14.55,
+      "category": "personal_story",
+      "reason": "Omar Sanseviero described using LLM artefacts to follow arXiv; selected as practitioner workflow balance."
+    },
+    {
+      "id": "2052082028796117364",
+      "author": "@rohanpaul_ai",
+      "derived_timestamp": "2026-05-06T17:44:16.162000+00:00",
+      "age_hours": 13.26,
+      "category": "news",
+      "reason": "Rohan Paul highlighted iFixAi for measuring LLM bad behaviour; selected as a smaller tooling and safety item."
+    },
+    {
+      "id": "2052132062094901328",
+      "author": "@aakashgupta",
+      "derived_timestamp": "2026-05-06T21:03:05.030000+00:00",
+      "age_hours": 9.95,
+      "category": "analysis",
+      "reason": "Aakash Gupta argued the scarce resource in agent workflows is structured context files; selected as developer-workflow analysis."
+    },
+    {
+      "id": "2052240758187646996",
+      "author": "@RoundtableSpace",
+      "derived_timestamp": "2026-05-07T04:15:00.198000+00:00",
+      "age_hours": 2.75,
+      "category": "news",
+      "reason": "RoundtableSpace reported a faster Gemma 4 variant; selected as an open-model also-notable item with caution."
+    },
+    {
+      "id": "2052064169113841715",
+      "author": "@aditya_A17",
+      "derived_timestamp": "2026-05-06T16:33:18.082000+00:00",
+      "age_hours": 14.44,
+      "category": "news",
+      "reason": "Aditya reported xAI Connectors for Grok; selected as a smaller agent-connectors item."
+    }
+  ],
+  "rejected_notable": [
+    {
+      "id": "2051847280651546847",
+      "author": "@omarsar0",
+      "derived_timestamp": "2026-05-06T02:11:27.843000+00:00",
+      "age_hours": 28.81,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051903676449743038",
+      "author": "@eshanbuilds",
+      "derived_timestamp": "2026-05-06T05:55:33.649000+00:00",
+      "age_hours": 25.07,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051896917412471096",
+      "author": "@StatsPapers",
+      "derived_timestamp": "2026-05-06T05:28:42.169000+00:00",
+      "age_hours": 25.52,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051801703209742734",
+      "author": "@emollick",
+      "derived_timestamp": "2026-05-05T23:10:21.334000+00:00",
+      "age_hours": 31.83,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051855769101070685",
+      "author": "@kaif9999",
+      "derived_timestamp": "2026-05-06T02:45:11.647000+00:00",
+      "age_hours": 28.25,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051829422265979047",
+      "author": "@sama",
+      "derived_timestamp": "2026-05-06T01:00:30.072000+00:00",
+      "age_hours": 29.99,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051887720457179534",
+      "author": "@CryptoHe4dlines",
+      "derived_timestamp": "2026-05-06T04:52:09.444000+00:00",
+      "age_hours": 26.13,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051838399380631920",
+      "author": "@plzaccelerate",
+      "derived_timestamp": "2026-05-06T01:36:10.383000+00:00",
+      "age_hours": 29.4,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2051829301431996431",
+      "author": "@aiecosystemhq",
+      "derived_timestamp": "2026-05-06T01:00:01.263000+00:00",
+      "age_hours": 30.0,
+      "reason": "older than 24h"
+    },
+    {
+      "id": "2052082412994383936",
+      "author": "@NVIDIAAI",
+      "derived_timestamp": "2026-05-06T17:45:47.762000+00:00",
+      "age_hours": 13.24,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052105841864495282",
+      "author": "@claudeai",
+      "derived_timestamp": "2026-05-06T19:18:53.640000+00:00",
+      "age_hours": 11.69,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052078010056982933",
+      "author": "@Polymarket",
+      "derived_timestamp": "2026-05-06T17:28:18.020000+00:00",
+      "age_hours": 13.53,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052025533937103102",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-05-06T13:59:46.738000+00:00",
+      "age_hours": 17.0,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052039800384057348",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-05-06T14:56:28.124000+00:00",
+      "age_hours": 16.06,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052086316230398247",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-05-06T18:01:18.366000+00:00",
+      "age_hours": 12.98,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052039804288946368",
+      "author": "@OpenAI",
+      "derived_timestamp": "2026-05-06T14:56:29.055000+00:00",
+      "age_hours": 16.06,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052069691372478511",
+      "author": "@elonmusk",
+      "derived_timestamp": "2026-05-06T16:55:14.691000+00:00",
+      "age_hours": 14.08,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052147239619838058",
+      "author": "@demishassabis",
+      "derived_timestamp": "2026-05-06T22:03:23.634000+00:00",
+      "age_hours": 8.94,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052221251247042770",
+      "author": "@gdb",
+      "derived_timestamp": "2026-05-07T02:57:29.381000+00:00",
+      "age_hours": 4.04,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052069900852809771",
+      "author": "@aakashgupta",
+      "derived_timestamp": "2026-05-06T16:56:04.635000+00:00",
+      "age_hours": 14.07,
+      "reason": "watched-account cap"
+    },
+    {
+      "id": "2052074154011353356",
+      "author": "@AlexFinn",
+      "derived_timestamp": "2026-05-06T17:12:58.667000+00:00",
+      "age_hours": 13.78,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052169518307320147",
+      "author": "@ns123abc",
+      "derived_timestamp": "2026-05-06T23:31:55.287000+00:00",
+      "age_hours": 7.47,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052211328131977347",
+      "author": "@StockMKTNewz",
+      "derived_timestamp": "2026-05-07T02:18:03.526000+00:00",
+      "age_hours": 4.7,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052121215972618631",
+      "author": "@valpal1919",
+      "derived_timestamp": "2026-05-06T20:19:59.113000+00:00",
+      "age_hours": 10.67,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052260802749776205",
+      "author": "@jiahanjimliu",
+      "derived_timestamp": "2026-05-07T05:34:39.194000+00:00",
+      "age_hours": 1.42,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052161488631087412",
+      "author": "@milesdeutscher",
+      "derived_timestamp": "2026-05-06T23:00:00.863000+00:00",
+      "age_hours": 8.0,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052200528076263813",
+      "author": "@sama",
+      "derived_timestamp": "2026-05-07T01:35:08.592000+00:00",
+      "age_hours": 5.41,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2051931972105306547",
+      "author": "@hylarucoder",
+      "derived_timestamp": "2026-05-06T07:47:59.859000+00:00",
+      "age_hours": 23.2,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052257954490114271",
+      "author": "@DataChaz",
+      "derived_timestamp": "2026-05-07T05:23:20.116000+00:00",
+      "age_hours": 1.61,
+      "reason": "balance cap"
+    },
+    {
+      "id": "2052067399088664981",
+      "author": "@claudeai",
+      "derived_timestamp": "2026-05-06T16:46:36.365000+00:00",
+      "age_hours": 14.23,
+      "reason": "watched-account cap"
+    }
+  ]
+}
