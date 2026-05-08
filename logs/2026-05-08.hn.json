@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-08",
+  "searches": [
+    {
+      "query": "Claude Microsoft Office Excel PowerPoint Word",
+      "attempts": 1,
+      "status": "empty",
+      "resultCount": 0,
+      "results": [],
+      "error": null
+    },
+    {
+      "query": "GPT-Realtime-2 voice agents",
+      "attempts": 1,
+      "status": "empty",
+      "resultCount": 0,
+      "results": [],
+      "error": null
+    },
+    {
+      "query": "Codex Chrome extension",
+      "attempts": 1,
+      "status": "ok",
+      "resultCount": 5,
+      "results": [
+        {
+          "author": "tughvn",
+          "comments": 1,
+          "rank": 1,
+          "score": 2,
+          "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
+          "url": "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej"
+        },
+        {
+          "author": "pycassa",
+          "comments": 5,
+          "rank": 2,
+          "score": 22,
+          "title": "Show HN: Nimbus – Browser with Claude Code UX",
+          "url": "https://usenimbus.app/"
+        },
+        {
+          "author": "decide1000",
+          "comments": 63,
+          "rank": 3,
+          "score": 69,
+          "title": "Claude Code Opus 4.7 keeps checking on malware",
+          "url": null
+        },
+        {
+          "author": "JaredCampbell",
+          "comments": 1,
+          "rank": 4,
+          "score": 1,
+          "title": "Show HN: Built a lightweight extension to simplify Gmail (free, local)",
+          "url": "https://useapparent.com/"
+        },
+        {
+          "author": "viniciuscsr",
+          "comments": 0,
+          "rank": 5,
+          "score": 1,
+          "title": "Show HN: A free browser extension to extract tables",
+          "url": "https://parsea.io/parsea-chrome-extension"
+        }
+      ],
+      "error": null
+    },
+    {
+      "query": "Claude Mythos Firefox security bugs",
+      "attempts": 1,
+      "status": "empty",
+      "resultCount": 0,
+      "results": [],
+      "error": null
+    },
+    {
+      "query": "Gemini 3.1 Flash Lite",
+      "attempts": 1,
+      "status": "ok",
+      "resultCount": 5,
+      "results": [
+        {
+          "author": "FL4TLiN3",
+          "comments": 0,
+          "rank": 1,
+          "score": 2,
+          "title": "Show HN: Perstack – Containerized harness, 5 tests with full logs and API cost",
+          "url": "https://github.com/perstack-ai/perstack"
+        },
+        {
+          "author": "tommywilczek",
+          "comments": 5,
+          "rank": 2,
+          "score": 1,
+          "title": "Show HN: Voiced, image-based D&D inspired AI-native RPG",
+          "url": "https://i-am-neon.itch.io/infinit"
+        },
+        {
+          "author": "pat2man",
+          "comments": 0,
+          "rank": 3,
+          "score": 3,
+          "title": "Gemini 3.1 Flash-Lite",
+          "url": "https://twitter.com/GoogleDeepMind/status/2028872381477929185"
+        },
+        {
+          "author": "meetpateltech",
+          "comments": 30,
+          "rank": 4,
+          "score": 60,
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/"
+        },
+        {
+          "author": "meetpateltech",
+          "comments": 0,
+          "rank": 5,
+          "score": 4,
+          "title": "Gemini 3.1 Flash-Lite",
+          "url": "https://deepmind.google/models/model-cards/gemini-3-1-flash-lite/"
+        }
+      ],
+      "error": null
+    },
+    {
+      "query": "Anthropic NLA safety Claude",
+      "attempts": 1,
+      "status": "empty",
+      "resultCount": 0,
+      "results": [],
+      "error": null
+    },
+    {
+      "query": "GPT-5.5-Cyber critical infrastructure",
+      "attempts": 1,
+      "status": "empty",
+      "resultCount": 0,
+      "results": [],
+      "error": null
+    },
+    {
+      "query": "Adaptive Pay AI agent Stripe",
+      "attempts": 1,
+      "status": "empty",
+      "resultCount": 0,
+      "results": [],
+      "error": null
+    }
+  ]
+}
