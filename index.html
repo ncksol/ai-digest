@@ -282,6 +282,31 @@
       margin: 2rem 0;
     }
 
+    .newscaster-body h2 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: clamp(1.35rem, 3vw, 2rem);
+      line-height: 1.12;
+      margin: 2.05rem 0 0.55rem;
+      letter-spacing: -0.01em;
+    }
+
+    .newscaster-body h2:first-child {
+      margin-top: 0;
+    }
+
+    .newscaster-body p {
+      margin: 0 0 0.3rem;
+    }
+
+    .newscaster-body .source {
+      display: block;
+      margin-top: 0.55rem;
+      color: var(--muted);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.86rem;
+    }
+
+
     .story-heading {
       margin: 2.25rem 0 0.9rem;
       font-family: "Playfair Display", Georgia, serif;
@@ -303,6 +328,53 @@
 
     .also-notable .story-heading {
       margin-top: 0;
+    }
+
+    @font-face {
+      font-family: "fontello";
+      src: url("https://raw.githubusercontent.com/zedeus/nitter/master/public/fonts/fontello.woff2?49059696") format("woff2");
+      font-weight: normal;
+      font-style: normal;
+    }
+    [class^="icon-"]::before,
+    [class*=" icon-"]::before {
+      font-family: "fontello";
+      font-style: normal;
+      font-weight: normal;
+      speak: never;
+      display: inline-block;
+      text-decoration: inherit;
+      width: 1em;
+      margin-right: 0.2em;
+      text-align: center;
+      font-variant: normal;
+      text-transform: none;
+      line-height: 1em;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    .icon-comment::before { content: "\e803"; }
+    .icon-retweet::before { content: "\e80c"; }
+    .icon-heart::before { content: "\e801"; }
+    .icon-views::before { content: "\e800"; }
+    .tweet-stats {
+      align-content: center;
+      color: rgb(170, 163, 154);
+      display: inline-flex;
+      flex-shrink: 0;
+      flex-wrap: wrap;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 22px;
+      margin-left: 0.55rem;
+      margin-bottom: -3px;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    .tweet-stat {
+      padding-top: 5px;
+      min-width: 1em;
+      margin-right: 0.8em;
     }
 
     .status,
@@ -578,8 +650,9 @@
     function buildArticle(title, markdown) {
       const cleaned = stripLeadingTitle(markdown.trim());
       const body = marked.parse(cleaned);
+      const isNewscaster = cleaned.includes('class="tweet-stats"');
       articleMeta.textContent = "Digest";
-      articleContent.innerHTML = '<h2 class="article-title">' + title + '</h2><div class="article-body">' + body + "</div>";
+      articleContent.innerHTML = '<h2 class="article-title">' + title + '</h2><div class="article-body' + (isNewscaster ? ' newscaster-body' : '') + '">' + body + "</div>";
       enhanceArticleMarkup(articleContent.querySelector(".article-body"));
     }
 
