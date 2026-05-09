@@ -27,14 +27,26 @@ function formatDate(dateStr) {
   return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 }
 
+function stripHtml(text) {
+  return text.replace(/<[^>]+>/g, '').replace(/&quot;/g, '"').replace(/&amp;/g, '&').trim();
+}
+
 function extractHeadlines(markdown, max = 3) {
   const lines = markdown.split('\n');
   const headlines = [];
   for (const line of lines) {
-    // Bold-only paragraphs are story headings in the digest format
+    // Current item-format digests use H2 headings for each report.
+    const h2 = line.match(/^##\s+(.+?)\s*$/);
+    if (h2) {
+      headlines.push(stripHtml(h2[1]).replace(/\*\*/g, ''));
+      if (headlines.length >= max) break;
+      continue;
+    }
+
+    // Older digests used bold-only paragraphs as story headings.
     const match = line.match(/^\*\*(.+?)\*\*\s*$/);
     if (match && !match[1].toLowerCase().startsWith('also notable')) {
-      headlines.push(match[1].replace(/\*\*/g, ''));
+      headlines.push(stripHtml(match[1]).replace(/\*\*/g, ''));
       if (headlines.length >= max) break;
     }
   }
@@ -43,11 +55,11 @@ function extractHeadlines(markdown, max = 3) {
     // Join into paragraphs, split on double newline
     const paragraphs = markdown.split(/\n\n+/)
       .map(p => p.replace(/^#+\s+.*/, '').trim())
-      .filter(p => p.length > 30 && !p.startsWith('**Also'));
+      .filter(p => p.length > 30 && !p.startsWith('**Also') && !p.includes('class="source"'));
     for (const para of paragraphs.slice(0, 3)) {
       // Take first sentence
       const sentence = para.split(/\.\s/)[0];
-      const clean = sentence.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').trim();
+      const clean = stripHtml(sentence).replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').trim();
       if (clean.length > 20) {
         headlines.push(clean.length > 70 ? clean.slice(0, 67) + '...' : clean);
       }

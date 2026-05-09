@@ -282,31 +282,6 @@
       margin: 2rem 0;
     }
 
-    .newscaster-body h2 {
-      font-family: "Playfair Display", Georgia, serif;
-      font-size: clamp(1.35rem, 3vw, 2rem);
-      line-height: 1.12;
-      margin: 2.05rem 0 0.55rem;
-      letter-spacing: -0.01em;
-    }
-
-    .newscaster-body h2:first-child {
-      margin-top: 0;
-    }
-
-    .newscaster-body p {
-      margin: 0 0 0.3rem;
-    }
-
-    .newscaster-body .source {
-      display: block;
-      margin-top: 0.55rem;
-      color: var(--muted);
-      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: 0.86rem;
-    }
-
-
     .story-heading {
       margin: 2.25rem 0 0.9rem;
       font-family: "Playfair Display", Georgia, serif;
@@ -650,9 +625,8 @@
     function buildArticle(title, markdown) {
       const cleaned = stripLeadingTitle(markdown.trim());
       const body = marked.parse(cleaned);
-      const isNewscaster = cleaned.includes('class="tweet-stats"');
       articleMeta.textContent = "Digest";
-      articleContent.innerHTML = '<h2 class="article-title">' + title + '</h2><div class="article-body' + (isNewscaster ? ' newscaster-body' : '') + '">' + body + "</div>";
+      articleContent.innerHTML = '<h2 class="article-title">' + title + '</h2><div class="article-body">' + body + "</div>";
       enhanceArticleMarkup(articleContent.querySelector(".article-body"));
     }
 
