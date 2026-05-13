@@ -1,0 +1,1080 @@
+{
+  "date": "2026-05-13",
+  "searches": [
+    {
+      "query": "AI since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "LLM since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "machine learning since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "open source AI model since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "AI agent since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "Sam Altman since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "Dario Amodei since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "Demis Hassabis since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "from:karpathy since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "from:sama since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "from:OpenAI since:2026-05-12",
+      "status": "ok_or_empty"
+    },
+    {
+      "query": "from:AnthropicAI since:2026-05-12",
+      "status": "ok_or_empty"
+    }
+  ],
+  "returned_tweets": [
+    {
+      "id": "2054215850358673901",
+      "author": "kanavtwt",
+      "text": "Google has detected the first known use of an AI-developed zero day exploit.\n\nBrace for impact.",
+      "likes": 4600,
+      "replies": 36,
+      "retweets": 275,
+      "views": 1400000,
+      "derived_timestamp": "2026-05-12T15:03:18.867000+00:00",
+      "age_hours": 15.94
+    },
+    {
+      "id": "2054433442821980521",
+      "author": "steipete",
+      "text": "Codex was debugging a Telegram issue and needed a new token, so it used Peekaboo to open the Telegram Mac app, talked to botfather and just did it.\n\nComputer Use is amazing. https://peekaboo.sh",
+      "likes": 386,
+      "replies": 41,
+      "retweets": 19,
+      "views": 26000,
+      "derived_timestamp": "2026-05-13T05:27:56.953000+00:00",
+      "age_hours": 1.53
+    },
+    {
+      "id": "2054082531432210765",
+      "author": "thsottiaux",
+      "text": "The master becomes the mentee. At last, Claude is now copying Codex.\n\nBut you cannot out-accelerate GPT-5.5.",
+      "likes": 4100,
+      "replies": 361,
+      "retweets": 204,
+      "views": 378000,
+      "derived_timestamp": "2026-05-12T06:13:33.158000+00:00",
+      "age_hours": 24.77
+    },
+    {
+      "id": "2054409974130905556",
+      "author": "GaryMarcus",
+      "text": "Generative AI has not made the world a better place.",
+      "likes": 96,
+      "replies": 14,
+      "retweets": 21,
+      "views": 5100,
+      "derived_timestamp": "2026-05-13T03:54:41.581000+00:00",
+      "age_hours": 3.09
+    },
+    {
+      "id": "2054396463225127280",
+      "author": "Pirat_Nation",
+      "text": "Andon Labs tested their AI agent Mona, built on Google’s Gemini, by letting it manage a real cafeteria in Stockholm for two weeks on a $21,000 budget.\n\nMona spent heavily on unnecessary supplies, including 6,000 napkins, 3,000 gloves, and 300 cans of tomatoes, while forgetting to",
+      "likes": 2200,
+      "replies": 92,
+      "retweets": 142,
+      "views": 201000,
+      "derived_timestamp": "2026-05-13T03:01:00.330000+00:00",
+      "age_hours": 3.98
+    },
+    {
+      "id": "2054398093886673260",
+      "author": "thsottiaux",
+      "text": "In app browser improvements in Codex app. Different viewports, screenshots viewing, better annotations and more token efficient. Happy quality of life improvements Tuesday.",
+      "likes": 567,
+      "replies": 57,
+      "retweets": 27,
+      "views": 28000,
+      "derived_timestamp": "2026-05-13T03:07:29.110000+00:00",
+      "age_hours": 3.88
+    },
+    {
+      "id": "2054092636659625990",
+      "author": "gdb",
+      "text": "AI for helping you build apps powered by AI:",
+      "likes": 739,
+      "replies": 88,
+      "retweets": 51,
+      "views": 69000,
+      "derived_timestamp": "2026-05-12T06:53:42.432000+00:00",
+      "age_hours": 24.1
+    },
+    {
+      "id": "2054197462101889277",
+      "author": "demishassabis",
+      "text": "I’ve always believed the No.1 application of AI should be to improve human health.\n\nThat work started with AlphaFold, and now at @IsomorphicLabs with the mission to reimagine drug discovery and one day solve all disease!\n\nWe are turbocharging that goal with $2.1B in new funding.",
+      "likes": 12000,
+      "replies": 441,
+      "retweets": 1500,
+      "views": 863000,
+      "derived_timestamp": "2026-05-12T13:50:14.765000+00:00",
+      "age_hours": 17.16
+    },
+    {
+      "id": "2054450732477132806",
+      "author": "exploraX_",
+      "text": "CEO of Y Combinator (Garry Tan) used Claude Code to replicate years of his startup’s work in just two weeks.\n\nhere are five simple steps to building your own AI agent:\n• set up your runtime config in runtime.json — model and API keys\n• understand the three-layer architecture —",
+      "likes": 10,
+      "replies": 3,
+      "retweets": 1,
+      "views": 206,
+      "derived_timestamp": "2026-05-13T06:36:39.128000+00:00",
+      "age_hours": 0.39
+    },
+    {
+      "id": "2054366013731275054",
+      "author": "WesRoth",
+      "text": "Meta AI Research's notoriously difficult cleanroom software-engineering benchmark, ProgramBench (which previously saw every frontier LLM score a flat 0% fully resolved rate) has recorded its first successful task solve courtesy of OpenAI's GPT-5.5 operating at the high/xhigh",
+      "likes": 24,
+      "replies": 9,
+      "retweets": 2,
+      "views": 1200,
+      "derived_timestamp": "2026-05-13T01:00:00.605000+00:00",
+      "age_hours": 6.0
+    },
+    {
+      "id": "2054380575708864990",
+      "author": "CryptoCyberia",
+      "text": "I know that they synced Alexa with some sort of LLM... unless I hallucinated that event.",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 56,
+      "derived_timestamp": "2026-05-13T01:57:52.451000+00:00",
+      "age_hours": 5.04
+    },
+    {
+      "id": "2054303159036887109",
+      "author": "hooeem",
+      "text": "I prompt my LLM, it thinks, it responds with an answer that I’m not happy with:\n\n“that’s not what I wanted”\n\nLLM: “There is no issue here”\n\n“but can you see it’s wrong?”\n\nLLM: “This definitely works”\n\n“but, I know what I wanted, can you fix it”\n\nLLM: “Yes, absolutely”\n\n“you’ve",
+      "likes": 21,
+      "replies": 16,
+      "retweets": 0,
+      "views": 1900,
+      "derived_timestamp": "2026-05-12T20:50:14.878000+00:00",
+      "age_hours": 10.16
+    },
+    {
+      "id": "2054453897109102874",
+      "author": "lefthanddraft",
+      "text": "It was partly written by Opus 4.7. The below is closer to the truth.\n\nIn my professional, non-public, writing, I would not let an LLM do a first draft. But I have found LLMs very useful to bounce ideas, give writing feedback and edit",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 22,
+      "derived_timestamp": "2026-05-13T06:49:13.635000+00:00",
+      "age_hours": 0.18
+    },
+    {
+      "id": "2054447864626246075",
+      "author": "kalomaze",
+      "text": "(the real answer is, it was originally designed for roleplaying / \"unserious\" use cases, but eventually became a complete enough llm power user frontend to be a useful harness)",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 1,
+      "views": 13,
+      "derived_timestamp": "2026-05-13T06:25:15.379000+00:00",
+      "age_hours": 0.58
+    },
+    {
+      "id": "2054069362986749994",
+      "author": "skdh",
+      "text": "social scientists now writing papers about how to let AI write their papers",
+      "likes": 347,
+      "replies": 89,
+      "retweets": 46,
+      "views": 23000,
+      "derived_timestamp": "2026-05-12T05:21:13.556000+00:00",
+      "age_hours": 25.65
+    },
+    {
+      "id": "2054174913708093938",
+      "author": "bravo_abad",
+      "text": "Turning a general-purpose LLM into a chemist for drug design\n\nChemical language models (CLMs) trained from scratch on SMILES strings have become a workhorse for de novo drug design. The downside is cost: a large chemical corpus, a choice of architecture (VAEs, RNNs, GPT-style,",
+      "likes": 44,
+      "replies": 0,
+      "retweets": 10,
+      "views": 2100,
+      "derived_timestamp": "2026-05-12T12:20:38.809000+00:00",
+      "age_hours": 18.66
+    },
+    {
+      "id": "2054394744789246065",
+      "author": "TuhinChakr",
+      "text": "Great work !! If you don't verify LLM generated references and copy paste directly, you are a moron and should not be a scientist",
+      "likes": 3,
+      "replies": 0,
+      "retweets": 1,
+      "views": 312,
+      "derived_timestamp": "2026-05-13T02:54:10.623000+00:00",
+      "age_hours": 4.1
+    },
+    {
+      "id": "2054454296628867584",
+      "author": "dieaud91",
+      "text": "Many people are underestimating how important this moment is: AI models have begun correctly spotting mistakes in supposedly hard benchmark problems and even in the reference solutions themselves. From here on, this feedback loop only gets stronger.",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 4,
+      "derived_timestamp": "2026-05-13T06:50:48.888000+00:00",
+      "age_hours": 0.15
+    },
+    {
+      "id": "2054241196189364534",
+      "author": "Memoirs",
+      "text": "MolWorld: Molecule World Models for Actionable Molecular Optimization\n\nYang Qiao, Bo Pan, Hao-Wei Pang, Peter Zhiping Zhang, Liying Zhang, Liang Zhao\nhttps://arxiv.org/abs/2605.08954 [𝚌𝚜.𝙻𝙶 𝚌𝚜.𝙰𝙸]",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 148,
+      "derived_timestamp": "2026-05-12T16:44:01.784000+00:00",
+      "age_hours": 14.27
+    },
+    {
+      "id": "2054349131083067897",
+      "author": "boazbaraktcs",
+      "text": "This is very cool! https://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/…",
+      "likes": 68,
+      "replies": 0,
+      "retweets": 5,
+      "views": 9300,
+      "derived_timestamp": "2026-05-12T23:52:55.468000+00:00",
+      "age_hours": 7.12
+    },
+    {
+      "id": "2054455524150702194",
+      "author": "MikelEcheve",
+      "text": "Google just confirmed something big:\n\nHackers are already using AI to discover and exploit zero-day vulnerabilities.\n\nNot for phishing memes.\nFor real initial access.\n\nThe AI cybersecurity arms race stopped being theoretical in 2026. @GoogleCloud",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "views": 5,
+      "derived_timestamp": "2026-05-13T06:55:41.552000+00:00",
+      "age_hours": 0.07
+    },
+    {
+      "id": "2054273533115584965",
+      "author": "burkov",
+      "text": "The Hundred-Page Machine Learning Book by Andriy Burkov has a strong reputation in the ML community. Here's the general consensus:\n\n- Concise but mathematically substantive — it compresses the math (linear algebra, calculus, probability) rather than skipping it\n- Covers core ML",
+      "likes": 22,
+      "replies": 4,
+      "retweets": 6,
+      "views": 1500,
+      "derived_timestamp": "2026-05-12T18:52:31.508000+00:00",
+      "age_hours": 12.12
+    },
+    {
+      "id": "2054205617141641692",
+      "author": "StatsPapers",
+      "text": "Core-Halo Decomposition: Decentralizing Large-Scale Fixed-Point Problems\n\nHaixiang, Yang Xu, Jiefu Zhang, Xudong Wu, Zihan Zhou, Jun He, Jiayu Chen\nhttps://arxiv.org/abs/2605.08681 [𝚜𝚝𝚊𝚝.𝙼𝙻 𝚌𝚜.𝙰𝙸 𝚌𝚜.𝙻𝙶 𝚖𝚊𝚝𝚑.𝙽𝙰]",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 116,
+      "derived_timestamp": "2026-05-12T14:22:39.078000+00:00",
+      "age_hours": 16.62
+    },
+    {
+      "id": "2054231493967487269",
+      "author": "ihtesham2005",
+      "text": "10/ MIT 6.S897 - Machine Learning for Healthcare\nhttp://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019…\n\nYou will learn:\n\n→ ML on clinical data\n→ Causal inference\n→ Risk stratification\n→ Survival modeling\n→ Fairness in medical AI\n\nFree. From the people bui",
+      "likes": 4,
+      "replies": 1,
+      "retweets": 0,
+      "views": 498,
+      "derived_timestamp": "2026-05-12T16:05:28.594000+00:00",
+      "age_hours": 14.91
+    },
+    {
+      "id": "2054263720629457058",
+      "author": "Google",
+      "text": "Today, we introduced Gemini Intelligence, which brings the best of Gemini to our most advanced devices. \n\nGemini Intelligence integrates premium hardware and innovative software to help you stay a step ahead and work proactively to get things done throughout your day.",
+      "likes": 4400,
+      "replies": 164,
+      "retweets": 843,
+      "views": 403000,
+      "derived_timestamp": "2026-05-12T18:13:32.029000+00:00",
+      "age_hours": 12.77
+    },
+    {
+      "id": "2054438710234526110",
+      "author": "himanshustwts",
+      "text": "How does GPT-5 become GPT-6?\n\nEverything on the internet was already trained on a year, year and a half ago. New data is being added but it's marginal and a lot of it is AI slop. There is interesting private data (like JP Morgan's data) but nobody is opening that up. \n\nYou don't",
+      "likes": 11,
+      "replies": 1,
+      "retweets": 2,
+      "views": 545,
+      "derived_timestamp": "2026-05-13T05:48:52.802000+00:00",
+      "age_hours": 1.19
+    },
+    {
+      "id": "2054441079907504510",
+      "author": "KhusbooT14835",
+      "text": "Instead of watching an hour of Netflix, watch this 2 hour Stanford lecture will teach you more about how LLMs like ChatGPT and Claude are built than most people working at top AI companies learn in their entire careers.",
+      "likes": 10,
+      "replies": 1,
+      "retweets": 5,
+      "views": 804,
+      "derived_timestamp": "2026-05-13T05:58:17.776000+00:00",
+      "age_hours": 1.03
+    },
+    {
+      "id": "2054248634221519125",
+      "author": "ShishirShelke1",
+      "text": "Google COOKED with the new Gemini Intelligence UI",
+      "likes": 1200,
+      "replies": 19,
+      "retweets": 50,
+      "views": 76000,
+      "derived_timestamp": "2026-05-12T17:13:35.149000+00:00",
+      "age_hours": 13.77
+    },
+    {
+      "id": "2054375128277119283",
+      "author": "EvanLuthra",
+      "text": "Kimi K2 was trained for $4.6 MILLION.\n\nGPT-5 reportedly cost hundreds of millions. Kimi still beats it on coding.\n\nLast week it placed 1st in a live 8-model contest. Claude Opus 4.7 finished 5th. GPT-5.5 finished 3rd.\n\nThe founder just dropped a 40-minute breakdown of exactly how",
+      "likes": 163,
+      "replies": 12,
+      "retweets": 8,
+      "views": 29000,
+      "derived_timestamp": "2026-05-13T01:36:13.682000+00:00",
+      "age_hours": 5.4
+    },
+    {
+      "id": "2054246119635300451",
+      "author": "GoogleDeepMind",
+      "text": "We’re reimagining a 50-year-old interface - the mouse pointer - with AI. \n\nThese experimental demos show how people can intuitively direct Gemini on their screens using motion, speech, and natural shorthand to get things done",
+      "likes": 6200,
+      "replies": 298,
+      "retweets": 1100,
+      "views": 935000,
+      "derived_timestamp": "2026-05-12T17:03:35.625000+00:00",
+      "age_hours": 13.94
+    },
+    {
+      "id": "2054430754436718742",
+      "author": "status_is_down",
+      "text": "Claude AI is reportedly down for hundreds of users right now. Are you one of them? #ClaudeDown #Anthropic #ClaudeAiDown",
+      "likes": 5,
+      "replies": 1,
+      "retweets": 0,
+      "views": 330,
+      "derived_timestamp": "2026-05-13T05:17:15.992000+00:00",
+      "age_hours": 1.71
+    },
+    {
+      "id": "2054156876603121835",
+      "author": "DivyanshT91162",
+      "text": "A 27-year-old guy in Hangzhou just turned a fake society into a money printer.\n\nNo hedge fund.\nNo Bloomberg terminal.\nNo insider access.\n\nJust 8,400 AI agents arguing with each other inside one GPU.\n\nHe forked an open-source repo called “MiroFish” — a multi-agent simulator where",
+      "likes": 15,
+      "replies": 6,
+      "retweets": 4,
+      "views": 965,
+      "derived_timestamp": "2026-05-12T11:08:58.428000+00:00",
+      "age_hours": 19.85
+    },
+    {
+      "id": "2054230887659983070",
+      "author": "0xSero",
+      "text": "You can it's open source, give it to an agent to setup for you with any model that can fit on your device.",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 172,
+      "derived_timestamp": "2026-05-12T16:03:04.039000+00:00",
+      "age_hours": 14.95
+    },
+    {
+      "id": "2054232013658611754",
+      "author": "natolambert",
+      "text": "Open software lowered deployment cost.\n\nOpen AI lowers development cost. E.g. developing a bespoke model for an enterprise use case.\n\nWe’re early in companies figuring out how to leverage this successfully.",
+      "likes": 40,
+      "replies": 7,
+      "retweets": 7,
+      "views": 6100,
+      "derived_timestamp": "2026-05-12T16:07:32.498000+00:00",
+      "age_hours": 14.87
+    },
+    {
+      "id": "2054453128666530268",
+      "author": "Suryanshti777",
+      "text": "We’re entering a really weird phase of AI coding.\n\nYour codebase memory is locked inside whichever assistant you use.\n\nSwitch from Cursor to Claude?\nStart over.\n\nTry a different agent?\nRe-explain the architecture again.\n\nMost AI coding tools aren’t building understanding around",
+      "likes": 3,
+      "replies": 5,
+      "retweets": 0,
+      "views": 61,
+      "derived_timestamp": "2026-05-13T06:46:10.424000+00:00",
+      "age_hours": 0.23
+    },
+    {
+      "id": "2054235557736157320",
+      "author": "markgadala",
+      "text": "This story is insane.\n\nGoogle just stopped the first AI-written zero-day hack for Android from being deployed at mass scale:\n\n• a cybercrime group used an AI to find a 2FA bypass in a popular open-source server admin tool. not \"helped find.\" the AI found it.\n• they packaged it",
+      "likes": 3,
+      "replies": 1,
+      "retweets": 3,
+      "views": 7900,
+      "derived_timestamp": "2026-05-12T16:21:37.472000+00:00",
+      "age_hours": 14.64
+    },
+    {
+      "id": "2054200103330783332",
+      "author": "shushant_l",
+      "text": "ai stack\n┃\n┣  foundation models\n┃ ┣  proprietary models\n┃ ┣  open weight models\n┃ ┣  multi modal models\n┃ ┣  reasoning models\n┃ ┗  model abstraction layers\n┃\n┣  generative ai capabilities\n┃ ┣  text generation\n┃ ┣  image generation\n┃ ┣",
+      "likes": 13,
+      "replies": 6,
+      "retweets": 4,
+      "views": 360,
+      "derived_timestamp": "2026-05-12T14:00:44.483000+00:00",
+      "age_hours": 16.99
+    },
+    {
+      "id": "2054363053832196276",
+      "author": "realleonlc",
+      "text": "The single most important tech shift is interaction. ++ human / AI throughout. Hope we can see strong open source interactive agents soon.",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 96,
+      "derived_timestamp": "2026-05-13T00:48:14.910000+00:00",
+      "age_hours": 6.2
+    },
+    {
+      "id": "2054298067201909172",
+      "author": "tobiaswup",
+      "text": "Plot twist: there is no \"best AI model\" in 2026.\n\nI just mapped the 34 most-watched benchmarks across text, image, video, audio, and embeddings.\n\nThe winner changes every time you change the question:\n\n→ Ship real code (SWE-Verified): Claude Opus 4.6 (80.8/100)\n→ Competition",
+      "likes": 10,
+      "replies": 1,
+      "retweets": 2,
+      "views": 135,
+      "derived_timestamp": "2026-05-12T20:30:00.890000+00:00",
+      "age_hours": 10.5
+    },
+    {
+      "id": "2054444871059165508",
+      "author": "aakashgupta",
+      "text": "The PM interview question most candidates answer wrong:\n\"Your AI agent accidentally books $5,000 in flights. Who's liable?\"\nThe instinctive answer is full refund, no questions asked. Generous. User-first. Sounds right.\n\nThe interviewer pushes back immediately. Full refund creates",
+      "likes": 5,
+      "replies": 1,
+      "retweets": 1,
+      "views": 881,
+      "derived_timestamp": "2026-05-13T06:13:21.657000+00:00",
+      "age_hours": 0.78
+    },
+    {
+      "id": "2054450732477132806",
+      "author": "exploraX_",
+      "text": "CEO of Y Combinator (Garry Tan) used Claude Code to replicate years of his startup’s work in just two weeks.\n\nhere are five simple steps to building your own AI agent:\n• set up your runtime config in runtime.json — model and API keys\n• understand the three-layer architecture —",
+      "likes": 11,
+      "replies": 3,
+      "retweets": 1,
+      "views": 210,
+      "derived_timestamp": "2026-05-13T06:36:39.128000+00:00",
+      "age_hours": 0.39
+    },
+    {
+      "id": "2054156876603121835",
+      "author": "DivyanshT91162",
+      "text": "A 27-year-old guy in Hangzhou just turned a fake society into a money printer.\n\nNo hedge fund.\nNo Bloomberg terminal.\nNo insider access.\n\nJust 8,400 AI agents arguing with each other inside one GPU.\n\nHe forked an open-source repo called “MiroFish” — a multi-agent simulator where",
+      "likes": 15,
+      "replies": 6,
+      "retweets": 4,
+      "views": 965,
+      "derived_timestamp": "2026-05-12T11:08:58.428000+00:00",
+      "age_hours": 19.85
+    },
+    {
+      "id": "2054405400859181260",
+      "author": "birdabo",
+      "text": "nvm his AI agent is funny.",
+      "likes": 938,
+      "replies": 8,
+      "retweets": 9,
+      "views": 84000,
+      "derived_timestamp": "2026-05-13T03:36:31.228000+00:00",
+      "age_hours": 3.39
+    },
+    {
+      "id": "2054453128666530268",
+      "author": "Suryanshti777",
+      "text": "We’re entering a really weird phase of AI coding.\n\nYour codebase memory is locked inside whichever assistant you use.\n\nSwitch from Cursor to Claude?\nStart over.\n\nTry a different agent?\nRe-explain the architecture again.\n\nMost AI coding tools aren’t building understanding around",
+      "likes": 3,
+      "replies": 5,
+      "retweets": 0,
+      "views": 61,
+      "derived_timestamp": "2026-05-13T06:46:10.424000+00:00",
+      "age_hours": 0.23
+    },
+    {
+      "id": "2054310749884002348",
+      "author": "milesdeutscher",
+      "text": "This is a complete game-changer.\n\nThis agent skills marketplace has over a MILLION ready-to-use agent skills and plug-ins.\n\nJust search the skill type you want to deploy, and watch hundreds of skill files appear.\n\nIf you use AI regularly, this is a must.\n\nhttps://skillsmp.com",
+      "likes": 194,
+      "replies": 23,
+      "retweets": 25,
+      "views": 18000,
+      "derived_timestamp": "2026-05-12T21:20:24.677000+00:00",
+      "age_hours": 9.66
+    },
+    {
+      "id": "2054440100529107178",
+      "author": "Rixhabh__",
+      "text": "Most AI tools still behave like interns with memory loss.\n\nGreat output in the moment, then total reset next session.\n\nholaOS focusing on persistent workspaces, long-running tasks, and workflow memory is a genuinely refreshing direction in the agent space.",
+      "likes": 8,
+      "replies": 6,
+      "retweets": 1,
+      "views": 1000,
+      "derived_timestamp": "2026-05-13T05:54:24.274000+00:00",
+      "age_hours": 1.09
+    },
+    {
+      "id": "2054402159056461996",
+      "author": "MattWallace888",
+      "text": "Pay attention to Sam Altman’s unnatural movements as he enters the courtroom\n\nMakes my skin crawl",
+      "likes": 240,
+      "replies": 63,
+      "retweets": 36,
+      "views": 47000,
+      "derived_timestamp": "2026-05-13T03:23:38.322000+00:00",
+      "age_hours": 3.61
+    },
+    {
+      "id": "2054210164593688987",
+      "author": "TechEmails",
+      "text": "Sam Altman's group chat with Satya Nadella\n\nNovember 21, 2023",
+      "likes": 1500,
+      "replies": 61,
+      "retweets": 107,
+      "views": 462000,
+      "derived_timestamp": "2026-05-12T14:40:43.275000+00:00",
+      "age_hours": 16.32
+    },
+    {
+      "id": "2054265408933462034",
+      "author": "cb_doge",
+      "text": "NEWS: Sam Altman is now under official investigation for using OpenAI to boost his personal wealth.\n\nState AGs from Florida, Montana, Nebraska, Iowa, West Virginia & Louisiana just wrote to SEC Chairman Paul Atkins demanding he scrutinize Altman’s “history of self-dealing and",
+      "likes": 2000,
+      "replies": 277,
+      "retweets": 607,
+      "views": 73000,
+      "derived_timestamp": "2026-05-12T18:20:14.552000+00:00",
+      "age_hours": 12.66
+    },
+    {
+      "id": "2054295002046709859",
+      "author": "ns123abc",
+      "text": "SEVEN OPENAI INSIDERS HAVE ACCUSED SAM ALTMAN OF LYING\n\nToday on cross, Musk's lawyer walked Altman through all of them:\n\n>Ilya Sutskever (co-founder, chief scientist): \"a pattern of lying\"\n>Mira Murati (CTO): dishonesty undermined her role\n>Daniela Amodei (former OpenAI):",
+      "likes": 495,
+      "replies": 31,
+      "retweets": 98,
+      "views": 55000,
+      "derived_timestamp": "2026-05-12T20:17:50.100000+00:00",
+      "age_hours": 10.7
+    },
+    {
+      "id": "2054134708045275311",
+      "author": "tomwarren",
+      "text": "the OpenAI and Microsoft partnership is so old that Satya Nadella used to sign his emails to Sam Altman with \"sent from my Windows Phone\"",
+      "likes": 942,
+      "replies": 18,
+      "retweets": 46,
+      "views": 56000,
+      "derived_timestamp": "2026-05-12T09:40:53.032000+00:00",
+      "age_hours": 21.32
+    },
+    {
+      "id": "2054363495509193149",
+      "author": "Reuters",
+      "text": "OpenAI Chief Executive Sam Altman rejected Elon Musk's claim that he betrayed the ChatGPT maker's founding mission to serve the public good, and said it was Musk who was interested in seizing control of OpenAI and making money from it https://reut.rs/48XPIKh",
+      "likes": 99,
+      "replies": 21,
+      "retweets": 31,
+      "views": 46000,
+      "derived_timestamp": "2026-05-13T00:50:00.214000+00:00",
+      "age_hours": 6.17
+    },
+    {
+      "id": "2054002904680513924",
+      "author": "GaryMarcus",
+      "text": "wow! “It is the [House] Committee’s understanding that the new board of directors at OpenAI tried to address these problems upon your return by creating an “audit committee to review potential conflicts involving directors and officers, including [Sam] Altman,” but OpenAI did not",
+      "likes": 24,
+      "replies": 7,
+      "retweets": 3,
+      "views": 6700,
+      "derived_timestamp": "2026-05-12T00:57:08.661000+00:00",
+      "age_hours": 30.05
+    },
+    {
+      "id": "2054141650977624259",
+      "author": "Amank1412",
+      "text": "the OpenAI and Microsoft partnership is so old that Satya Nadella used to sign his emails to Sam Altman with \n\n\"sent from my Windows Phone\"",
+      "likes": 9,
+      "replies": 0,
+      "retweets": 0,
+      "views": 674,
+      "derived_timestamp": "2026-05-12T10:08:28.356000+00:00",
+      "age_hours": 20.86
+    },
+    {
+      "id": "2054122977453613337",
+      "author": "kimmonismus",
+      "text": "This explains why Sam Altman might be so mad at Dario Amodei: during OpenAI’s messiest breakup episode, the board apparently tried to give Dario the keys, the house, and Sam’s job.\n\nId be pissed too tbh.",
+      "likes": 429,
+      "replies": 32,
+      "retweets": 15,
+      "views": 51000,
+      "derived_timestamp": "2026-05-12T08:54:16.241000+00:00",
+      "age_hours": 22.1
+    },
+    {
+      "id": "2054448961558094312",
+      "author": "mark_k",
+      "text": "I was also referring to the constant fearmongering by Dario Amodei.",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 5,
+      "derived_timestamp": "2026-05-13T06:29:36.908000+00:00",
+      "age_hours": 0.51
+    },
+    {
+      "id": "2054177404600648157",
+      "author": "realBigBrainAI",
+      "text": "Anthropic CEO Dario Amodei explains the real reason behind Anthropic's compute shortages:\n\nThe company planned for a world of 10x annual growth. Instead, they hit 80x.\n\n\"In the first quarter of this year, we saw, if you were to annualize it, 80x growth per year in revenue and",
+      "likes": 39,
+      "replies": 9,
+      "retweets": 13,
+      "views": 6200,
+      "derived_timestamp": "2026-05-12T12:30:32.684000+00:00",
+      "age_hours": 18.49
+    },
+    {
+      "id": "2054244274045382773",
+      "author": "MilkRoadAI",
+      "text": "Anthropic CEO Dario Amodei just revealed the hidden bottleneck that will kill most AI companies in the next 18 months (Save this).\n\nThe insight comes from a principle in computer science called Amdahl's Law.\n\nDario's argument is simple when something starts working really well",
+      "likes": 176,
+      "replies": 22,
+      "retweets": 28,
+      "views": 33000,
+      "derived_timestamp": "2026-05-12T16:56:15.602000+00:00",
+      "age_hours": 14.06
+    },
+    {
+      "id": "2054142299521863869",
+      "author": "NYMag",
+      "text": "Anthropic’s Dario Amodei and xAI’s Elon Musk don’t get along, but they’re willing the bury the hatchet in the back of OpenAI’s Sam Altman, writes John Herrman.",
+      "likes": 10,
+      "replies": 4,
+      "retweets": 3,
+      "views": 2500,
+      "derived_timestamp": "2026-05-12T10:11:02.981000+00:00",
+      "age_hours": 20.82
+    },
+    {
+      "id": "2054178328450302220",
+      "author": "_gautam_94",
+      "text": "\"Biotechnology is about to have a renaissance driven by AI\" - Dario Amodei",
+      "likes": 17,
+      "replies": 0,
+      "retweets": 0,
+      "views": 1500,
+      "derived_timestamp": "2026-05-12T12:34:12.947000+00:00",
+      "age_hours": 18.43
+    },
+    {
+      "id": "2054236332969328846",
+      "author": "FortuneMagazine",
+      "text": "Daniela Amodei, the cofounder and president of Anthropic, launched the AI company in 2021 alongside her brother, CEO Dario Amodei, and five other cofounders. \n\nDuring a recent talk with the Stanford Graduate School of Business, Amodei shared a trick for finding compatible",
+      "likes": 7,
+      "replies": 2,
+      "retweets": 0,
+      "views": 1700,
+      "derived_timestamp": "2026-05-12T16:24:42.302000+00:00",
+      "age_hours": 14.59
+    },
+    {
+      "id": "2054323322234564828",
+      "author": "lemonDefi1",
+      "text": "Anthropic CEO Dario Amodei just revealed the hidden bottleneck that will kill most AI companies in the next 18 months (Save this). \n\nThe insight comes from a principle in computer science called Amdahl's Law.",
+      "likes": 2,
+      "replies": 0,
+      "retweets": 0,
+      "views": 76,
+      "derived_timestamp": "2026-05-12T22:10:22.159000+00:00",
+      "age_hours": 8.83
+    },
+    {
+      "id": "2054333291139076431",
+      "author": "itsolelehmann",
+      "text": "Demis Hassabis says he can cure every disease in 10 years.\n\nMost people roll their eyes when they hear this, but I don't.\n\nDemis is the guy who just won the Nobel Prize for solving protein folding with AI (a problem biologists had been stuck on for 50 years).\n\nBut that was just",
+      "likes": 282,
+      "replies": 15,
+      "retweets": 48,
+      "views": 27000,
+      "derived_timestamp": "2026-05-12T22:49:58.931000+00:00",
+      "age_hours": 8.17
+    },
+    {
+      "id": "2054326444189253655",
+      "author": "demishassabis",
+      "text": "Really cool work from the team reimagining the mouse pointer to be intelligent! Try the prototype in @GoogleAIStudio it's pretty magical.",
+      "likes": 1100,
+      "replies": 48,
+      "retweets": 102,
+      "views": 104000,
+      "derived_timestamp": "2026-05-12T22:22:46.491000+00:00",
+      "age_hours": 8.62
+    },
+    {
+      "id": "2054154695569260635",
+      "author": "realBigBrainAI",
+      "text": "Demis Hassabis (DeepMind CEO) on why no vibe-coded AAA game has topped the App Store yet, despite the tools being good enough.",
+      "likes": 519,
+      "replies": 18,
+      "retweets": 62,
+      "views": 71000,
+      "derived_timestamp": "2026-05-12T11:00:18.429000+00:00",
+      "age_hours": 19.99
+    },
+    {
+      "id": "2054366347191021736",
+      "author": "demishassabis",
+      "text": "one of my favourite scenes of all time!",
+      "likes": 245,
+      "replies": 13,
+      "retweets": 10,
+      "views": 17000,
+      "derived_timestamp": "2026-05-13T01:01:20.108000+00:00",
+      "age_hours": 5.98
+    },
+    {
+      "id": "2054216215518744765",
+      "author": "demishassabis",
+      "text": "Thanks for the support @Jameswise!",
+      "likes": 81,
+      "replies": 3,
+      "retweets": 0,
+      "views": 4300,
+      "derived_timestamp": "2026-05-12T15:04:45.928000+00:00",
+      "age_hours": 15.92
+    },
+    {
+      "id": "2054197463855042669",
+      "author": "demishassabis",
+      "text": "Read more here:",
+      "likes": 283,
+      "replies": 6,
+      "retweets": 23,
+      "views": 31000,
+      "derived_timestamp": "2026-05-12T13:50:15.183000+00:00",
+      "age_hours": 17.16
+    },
+    {
+      "id": "2054311068172726389",
+      "author": "firstadopter",
+      "text": "Oh look, mainstream media. Mr. Nobel prizing winning Demis Hassabis admits AAA games can't be vibe-coded. Weird how you don't write about this huh?",
+      "likes": 15,
+      "replies": 2,
+      "retweets": 0,
+      "views": 4600,
+      "derived_timestamp": "2026-05-12T21:21:40.563000+00:00",
+      "age_hours": 9.64
+    },
+    {
+      "id": "2054237365774831645",
+      "author": "Daniel_adsss",
+      "text": "THE MAN WHO WON THE NOBEL PRIZE FOR TEACHING AI TO UNDERSTAND PROTEINS JUST RAISED $2.1 BILLION TO USE THAT SAME TECHNOLOGY TO ELIMINATE DISEASE ENTIRELY.\n\nDemis Hassabis has said since founding Isomorphic Labs that the number one application of AI was never chatbots, search or",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 80,
+      "derived_timestamp": "2026-05-12T16:28:48.542000+00:00",
+      "age_hours": 14.52
+    },
+    {
+      "id": "2054280094575739140",
+      "author": "demishassabis",
+      "text": "Thanks for all your amazing support from the wonderful Krishna and team!!",
+      "likes": 160,
+      "replies": 5,
+      "retweets": 0,
+      "views": 6600,
+      "derived_timestamp": "2026-05-12T19:18:35.882000+00:00",
+      "age_hours": 11.69
+    },
+    {
+      "id": "2054329472472453551",
+      "author": "PhillipTPhan",
+      "text": "Demis Hassabis for President",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 10,
+      "derived_timestamp": "2026-05-12T22:34:48.490000+00:00",
+      "age_hours": 8.42
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2054215850358673901",
+      "author": "kanavtwt",
+      "category": "news",
+      "reason": "Concrete cyber-security claim with high engagement."
+    },
+    {
+      "id": "2054433442821980521",
+      "author": "steipete",
+      "category": "practitioner",
+      "reason": "Concrete practitioner example of computer use."
+    },
+    {
+      "id": "2054396463225127280",
+      "author": "Pirat_Nation",
+      "category": "analysis",
+      "reason": "Specific agent-failure story with strong engagement."
+    },
+    {
+      "id": "2054263720629457058",
+      "author": "Google",
+      "category": "news",
+      "reason": "Official Google product announcement."
+    },
+    {
+      "id": "2054246119635300451",
+      "author": "GoogleDeepMind",
+      "category": "news",
+      "reason": "Official DeepMind interface research item."
+    },
+    {
+      "id": "2054197462101889277",
+      "author": "demishassabis",
+      "category": "news",
+      "reason": "High-engagement post from DeepMind CEO on health AI."
+    },
+    {
+      "id": "2054366013731275054",
+      "author": "WesRoth",
+      "category": "news",
+      "reason": "Concrete benchmark claim, lower engagement but relevant."
+    },
+    {
+      "id": "2054363495509193149",
+      "author": "Reuters",
+      "category": "news",
+      "reason": "Mainstream legal and governance development."
+    },
+    {
+      "id": "2054177404600648157",
+      "author": "realBigBrainAI",
+      "category": "analysis",
+      "reason": "Specific Anthropic compute-demand claim."
+    },
+    {
+      "id": "2054232013658611754",
+      "author": "natolambert",
+      "category": "analysis",
+      "reason": "Practitioner analysis from AI researcher."
+    },
+    {
+      "id": "2054444871059165508",
+      "author": "aakashgupta",
+      "category": "analysis",
+      "reason": "Useful agent governance observation despite modest metrics."
+    },
+    {
+      "id": "2054310749884002348",
+      "author": "milesdeutscher",
+      "category": "practitioner",
+      "reason": "Concrete agent tooling item with meaningful engagement."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2054082531432210765",
+      "author": "thsottiaux",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054409974130905556",
+      "author": "GaryMarcus",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054398093886673260",
+      "author": "thsottiaux",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054092636659625990",
+      "author": "gdb",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054450732477132806",
+      "author": "exploraX_",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054380575708864990",
+      "author": "CryptoCyberia",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054303159036887109",
+      "author": "hooeem",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054453897109102874",
+      "author": "lefthanddraft",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054447864626246075",
+      "author": "kalomaze",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054069362986749994",
+      "author": "skdh",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054174913708093938",
+      "author": "bravo_abad",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054394744789246065",
+      "author": "TuhinChakr",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054454296628867584",
+      "author": "dieaud91",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054241196189364534",
+      "author": "Memoirs",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054349131083067897",
+      "author": "boazbaraktcs",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054455524150702194",
+      "author": "MikelEcheve",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054273533115584965",
+      "author": "burkov",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054205617141641692",
+      "author": "StatsPapers",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054231493967487269",
+      "author": "ihtesham2005",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054438710234526110",
+      "author": "himanshustwts",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054441079907504510",
+      "author": "KhusbooT14835",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054248634221519125",
+      "author": "ShishirShelke1",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054375128277119283",
+      "author": "EvanLuthra",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054430754436718742",
+      "author": "status_is_down",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054156876603121835",
+      "author": "DivyanshT91162",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054230887659983070",
+      "author": "0xSero",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054453128666530268",
+      "author": "Suryanshti777",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054235557736157320",
+      "author": "markgadala",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054200103330783332",
+      "author": "shushant_l",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    },
+    {
+      "id": "2054363053832196276",
+      "author": "realleonlc",
+      "reason": "Not selected after deduplication, recency, author caps, engagement, or story-strength review."
+    }
+  ],
+  "notes": [
+    "Searches 10-13 returned No tweets found or empty output after autocli retries; treated as empty rather than discovery source substitution."
+  ]
+}
