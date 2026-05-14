@@ -1,0 +1,72 @@
+[
+  {
+    "author": "itsolelehmann",
+    "id": "2054649363234992401",
+    "likes": 155,
+    "replies": 14,
+    "retweets": 13,
+    "text": "/GOAL GUIDE FOR NON-TECHNICAL PEOPLE\n\n/goal is the most time-saving feature in all of AI right now.\n\nIt's a new command in Codex, Claude Code, and Hermes that keeps the LLM working towards a goal until it's complete.\n\nBasically autopilot for complex AI tasks.\n\nHere's how it works",
+    "url": "https://x.com/itsolelehmann/status/2054649363234992401",
+    "views": 9000
+  },
+  {
+    "author": "PromptLLM",
+    "id": "2054662812379541542",
+    "likes": 119,
+    "replies": 1,
+    "retweets": 10,
+    "text": "Claude is telling you to sit in silence",
+    "url": "https://x.com/PromptLLM/status/2054662812379541542",
+    "views": 5400
+  },
+  {
+    "author": "miromind_ai",
+    "id": "2054744583998001277",
+    "likes": 9,
+    "replies": 1,
+    "retweets": 3,
+    "text": "LLM-based scientific discovery gets a scalable training recipe.\nFrom https://x.com/Yang_zy223/status/2054562462905892989…\nMOOSE-Star, accepted at ICML 2026, enables scalable training for hypothesis generation, with more scalable test-time scaling — where brute-force sampling for ",
+    "url": "https://x.com/miromind_ai/status/2054744583998001277",
+    "views": 576
+  },
+  {
+    "author": "WesRoth",
+    "id": "2054366013731275054",
+    "likes": 36,
+    "replies": 9,
+    "retweets": 4,
+    "text": "Meta AI Research's notoriously difficult cleanroom software-engineering benchmark, ProgramBench (which previously saw every frontier LLM score a flat 0% fully resolved rate) has recorded its first successful task solve courtesy of OpenAI's GPT-5.5 operating at the high/xhigh",
+    "url": "https://x.com/WesRoth/status/2054366013731275054",
+    "views": 2500
+  },
+  {
+    "author": "abuibrahim_mm",
+    "id": "2054513781267435785",
+    "likes": 1200,
+    "replies": 11,
+    "retweets": 97,
+    "text": "I asked Talkie (an LLM trained on pre-1930 text) to \"compare the Jew to the Arab\". I'm dying.",
+    "url": "https://x.com/abuibrahim_mm/status/2054513781267435785",
+    "views": 55000
+  },
+  {
+    "author": "lukOlejnik",
+    "id": "2054498599656894834",
+    "likes": 35,
+    "replies": 5,
+    "retweets": 17,
+    "text": "Malware-infected LLM model uploaded to Hugging Face (now taken down). It was stealing user data.  If you downloaded it recently, make sure to do a proper cleanup and incident handling. The model was supposed to help in private data filtering. It stolen private data. The best",
+    "url": "https://x.com/lukOlejnik/status/2054498599656894834",
+    "views": 3500
+  },
+  {
+    "author": "jun_song",
+    "id": "2054532003434000538",
+    "likes": 54,
+    "replies": 5,
+    "retweets": 4,
+    "text": "Guess how many people are using Local LLM inside that one dot.\n\nAnd you think personal hardware price is at its peak?",
+    "url": "https://x.com/jun_song/status/2054532003434000538",
+    "views": 4400
+  }
+]

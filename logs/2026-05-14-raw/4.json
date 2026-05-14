@@ -1,0 +1,92 @@
+[
+  {
+    "author": "thsottiaux",
+    "id": "2054082531432210765",
+    "likes": 4300,
+    "replies": 375,
+    "retweets": 218,
+    "text": "The master becomes the mentee. At last, Claude is now copying Codex.\n\nBut you cannot out-accelerate GPT-5.5.",
+    "url": "https://x.com/thsottiaux/status/2054082531432210765",
+    "views": 414000
+  },
+  {
+    "author": "ClaudeDevs",
+    "id": "2054610152817619388",
+    "likes": 9700,
+    "replies": 931,
+    "retweets": 2000,
+    "text": "Starting June 15, paid Claude plans can claim a dedicated monthly credit for programmatic usage.\n\nThe credit covers usage of:\n- Claude Agent SDK\n- claude -p\n- Claude Code GitHub Actions\n- Third-party apps built on the Agent SDK",
+    "url": "https://x.com/ClaudeDevs/status/2054610152817619388",
+    "views": 5600000
+  },
+  {
+    "author": "sukh_saroy",
+    "id": "2052824313997471799",
+    "likes": 3200,
+    "replies": 40,
+    "retweets": 462,
+    "text": "Anthropic showed a 24-minute workshop on how to actually prompt Claude.  \n\nTaught by the people who built it.  \n\nFree. No signup. No paywall.  \n\nI've watched $300 courses that don't cover what they teach in the first 8 minutes.",
+    "url": "https://x.com/sukh_saroy/status/2052824313997471799",
+    "views": 588000
+  },
+  {
+    "author": "mattpocockuk",
+    "id": "2054637261388447956",
+    "likes": 2600,
+    "replies": 202,
+    "retweets": 159,
+    "text": "This is the clarity we've been crying out for.\n\nBut it's a poisoned chalice. This is a 10X cut to claude -p disguised as a monthly bonus.\n\nAnthropic is discouraging any kind of programmatic usage. And that's fine - no subsidy lasts forever.\n\nBut it's time to try Codex.",
+    "url": "https://x.com/mattpocockuk/status/2054637261388447956",
+    "views": 207000
+  },
+  {
+    "author": "alexeheath",
+    "id": "2054747125616169229",
+    "likes": 188,
+    "replies": 8,
+    "retweets": 13,
+    "text": "Sources: Google plans to announce a new Gemini model next week. It’ll be in the same ballpark as GPT-5.5 in terms of performance.\n\nI’m told that inside Google, there’s real pressure to catch up on coding capabilities in particular.",
+    "url": "https://x.com/alexeheath/status/2054747125616169229",
+    "views": 13000
+  },
+  {
+    "author": "jeremyphoward",
+    "id": "2054682882753597603",
+    "likes": 345,
+    "replies": 36,
+    "retweets": 30,
+    "text": "This is misleading.\n\nThis policy redefines the term \"interactive\" to mean \"using an Anthropic front-end\".\n\nIf you use `claude -p` or Agent SDK to do something interactively, it now uses credits, not your subscription limits. So the \"interactive use\" heading saying \"unchanged\"",
+    "url": "https://x.com/jeremyphoward/status/2054682882753597603",
+    "views": 48000
+  },
+  {
+    "author": "ClaudeDevs",
+    "id": "2054639777685934564",
+    "likes": 17000,
+    "replies": 1000,
+    "retweets": 2700,
+    "text": "Claude Code weekly limits are increasing 50%, now through July 13.\n\nLive now for all Pro, Max, Team, and seat-based Enterprise users.",
+    "url": "https://x.com/ClaudeDevs/status/2054639777685934564",
+    "views": 1700000
+  },
+  {
+    "author": "mattpocockuk",
+    "id": "2054655310388674693",
+    "likes": 1000,
+    "replies": 77,
+    "retweets": 76,
+    "text": "Anthropic has given us a \"dedicated monthly credit\"\n\nWhich, in effect, slashes AFK usage limits of Claude Code by ~5-20X\n\nHere's how it affects you:",
+    "url": "https://x.com/mattpocockuk/status/2054655310388674693",
+    "views": 140000
+  },
+  {
+    "author": "cprkrn",
+    "id": "2054586810475364536",
+    "likes": 30000,
+    "replies": 2800,
+    "retweets": 4000,
+    "text": "HOLY FUCKING SHIT OMG CLAUDE JUST CRACKED THIS SHIT, THANK YOU @AnthropicAI THANK YOU @DarioAmodei NAMING MY KID AFTER YOU \n\nhttps://blockchain.com/explorer/addresses/btc/14VJySbsKraEJbtwk9ivnr1fXs6QuofuE6…",
+    "url": "https://x.com/cprkrn/status/2054586810475364536",
+    "views": 12000000
+  }
+]
