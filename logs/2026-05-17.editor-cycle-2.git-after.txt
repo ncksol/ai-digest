@@ -1,0 +1,13 @@
+?? logs/2026-05-17.additional-search.json
+?? logs/2026-05-17.editor-cycle-1.git-after.txt
+?? logs/2026-05-17.editor-cycle-1.git-before.txt
+?? logs/2026-05-17.editor-cycle-1.input.json
+?? logs/2026-05-17.editor-cycle-1.openclaw.json
+?? logs/2026-05-17.editor-cycle-1.output.json
+?? logs/2026-05-17.editor-cycle-1.plan.json
+?? logs/2026-05-17.editor-cycle-2.git-after.txt
+?? logs/2026-05-17.editor-cycle-2.git-before.txt
+?? logs/2026-05-17.editor-cycle-2.input.json
+?? logs/2026-05-17.editor-cycle-2.openclaw.json
+?? logs/2026-05-17.editor-cycle-2.output.json
+?? logs/2026-05-17.gather.raw.json

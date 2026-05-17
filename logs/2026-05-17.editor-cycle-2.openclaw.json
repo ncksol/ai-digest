@@ -1,0 +1,403 @@
+{
+  "runId": "730ebd73-1fac-4507-a000-90c65626f1a3",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":2,\"overall_verdict\":\"needs_replacements\",\"summary\":\"Cycle 2 has a stronger shape than the previous packet, but it still needs edits: two selected items cover the same China proxy-access economy, several items are secondary quote/commentary rather than primary reporting, and the set is heavy on AI-agent/tooling topics. Keep the concrete market, enterprise-productivity, Codex, AI Scientist, LLM-memory, Ring, and OpenSquilla items with cautious framing; replace the duplicate China proxy analysis with an eligible reserve product item; and run additional Twitter searches for stronger source-traceable versions of the GitHub certification, Ring 2.6 1T, and Claude Code webcam claims.\",\"decisions\":[{\"id\":\"item_2055710603482988998\",\"decision\":\"keep\",\"reason\":\"High-engagement report on China proxy access markets for frontier model APIs; the market/arbitrage angle is concrete and relevant if framed as a reported phenomenon.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Related to item_2055720900583186845, but this is the stronger high-engagement representative of the China proxy-access market story.\"}},{\"id\":\"item_2055720900583186845\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"Useful analysis, but it substantially overlaps with the selected high-engagement China proxy-market item from the same author. Replace this duplicate slot with the eligible Claude Code webcam-access reserve item to improve product coverage, with cautious source framing.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2055793010370306556\",\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same China proxy-station/API-arbitrage story as item_2055710603482988998; the angle is more analytical but not distinct enough to justify two selected slots.\"}},{\"id\":\"item_2055675389767516544\",\"decision\":\"keep\",\"reason\":\"High-engagement finance-industry quote about a step change in AI-toolkit productivity at Citadel; valuable enterprise-adoption signal if attributed as reported commentary.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares a broad AI-productivity/economics theme with the Dario software-cost quote, but the finance-enterprise adoption angle is distinct.\"}},{\"id\":\"item_2055841486714147177\",\"decision\":\"keep\",\"reason\":\"Concrete Dario Amodei quote on AI making software cheap or essentially free; useful software-economics analysis, though not a fresh product or policy event.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad productivity/economics topic as the Ken Griffin quote, but focused on software business models and labor impact rather than finance-sector tooling.\"}},{\"id\":\"item_2055693644443623788\",\"decision\":\"keep\",\"reason\":\"OpenAI staff observation that the Codex app is a distinct category and can be framed as 'agentic Excel on Mac'; lightweight but relevant to evolving agentic-workflow product language.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Codex coverage, but not a duplicate of prior degradation, mobile-app, or usage-limit stories.\"}},{\"id\":\"item_2055861693016625489\",\"decision\":\"keep\",\"reason\":\"Concrete research/tooling pointer to Sakana AI Scientist and autonomous LLM-agent paper generation; concise but relevant and distinct from the memory-reliability study.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad LLM-agent research area as item_2055890119236698563, but this covers autonomous paper generation rather than memory reliability.\"}},{\"id\":\"item_2055621974773416360\",\"decision\":\"needs_more_search\",\"reason\":\"GitHub GH-600 Agentic AI Developer certification would be relevant if confirmed, but this selected tweet is secondary and comparatively low-engagement. Prefer a closer-to-primary Twitter source or a stronger agent-education candidate.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent-tooling coverage, but not a duplicate of Codex, OpenSquilla, or AI Scientist items.\"}},{\"id\":\"item_2055890119236698563\",\"decision\":\"keep\",\"reason\":\"Higher-engagement research commentary on a new study about unreliable memory in LLM agents; relevant to agent reliability and stronger than the previous very-low-engagement summary, but final copy should avoid overclaiming from a short secondary tweet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad LLM-agent research area as item_2055861693016625489, but a distinct reliability/memory angle.\"}},{\"id\":\"item_2055804238798970945\",\"decision\":\"needs_more_search\",\"reason\":\"Ring 2.6 1T agent-model story is potentially relevant, but the selected tweet is a sensational secondary summary of parameter and mission-completion claims. Seek a stronger Twitter-source trail before confident inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent/tooling coverage generally, but no selected duplicate of this specific model story.\"}},{\"id\":\"item_2055692342758408210\",\"decision\":\"keep\",\"reason\":\"Open-source AI-agent orchestration item focused on reducing token cost through routing; concrete tooling angle and useful counterweight to executive quote commentary, though final copy should frame performance claims as documented by the project/post.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad AI-agent tooling topic as the GitHub certification and AI Scientist items, but distinct as cost-routing infrastructure.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2055710603482988998\",\"item_2055720900583186845\"],\"reason\":\"Both selected items cover the same China proxy-station/API-arbitrage economy; keep the stronger market item and avoid spending two slots on the same story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2055675389767516544\",\"item_2055841486714147177\"],\"reason\":\"Both are AI-productivity/economics quote or analysis items; they are distinct but should not crowd out concrete product, research, or policy items.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2055621974773416360\",\"item_2055861693016625489\",\"item_2055890119236698563\",\"item_2055804238798970945\",\"item_2055692342758408210\"],\"reason\":\"The set is agent-heavy across certification, autonomous paper generation, memory reliability, mission-completing model claims, and orchestration/token-cost tooling.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2055621974773416360\",\"item_2055804238798970945\"],\"reason\":\"These selected items make concrete certification or model-release claims through secondary tweets without a clearly primary or strongly traceable Twitter source in the packet.\"},{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2055710603482988998\",\"item_2055720900583186845\"],\"reason\":\"The same author appears twice on closely related China proxy-access stories; retain only one unless the second adds an essential distinct source.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a closer-to-primary Twitter source for the GitHub GH-600 Agentic AI Developer certification story.\",\"suggested_query_theme\":\"GitHub GH-600 Agentic AI Developer certification since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for Ring 2.6 1T claims, preferably from Ant Group, the model team, or an engineering-adjacent account.\",\"suggested_query_theme\":\"Ring 2.6 1T Ant Group agent model since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source or additional context for the Claude Code webcam/user-presence claim if it replaces the duplicate China proxy item.\",\"suggested_query_theme\":\"Claude Code webcam access programmatic use presence check since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find one less agent-centric candidate to improve mix, prioritizing AI policy, platform, security, model release, or applied-industry news.\",\"suggested_query_theme\":\"AI policy platform security model release industry AI since:2026-05-16\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 37404,
+      "agentMeta": {
+        "sessionId": "7a48fd07-aea8-4b06-b46e-89c80010212b",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/7a48fd07-aea8-4b06-b46e-89c80010212b.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "pi",
+        "usage": {
+          "input": 6715,
+          "output": 2853,
+          "cacheRead": 259584,
+          "total": 137414
+        },
+        "lastCallUsage": {
+          "input": 3880,
+          "output": 2462,
+          "cacheRead": 131072,
+          "cacheWrite": 0,
+          "total": 137414
+        },
+        "promptTokens": 134952
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1779009013222,
+        "sessionId": "7a48fd07-aea8-4b06-b46e-89c80010212b",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 12000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "once",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 37023,
+          "projectContextChars": 13867,
+          "nonProjectContextChars": 23156
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 26761,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "schemaChars": 304,
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "schemaChars": 834,
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "schemaChars": 225,
+              "propertiesCount": 2
+            },
+            {
+              "name": "exec",
+              "summaryChars": 446,
+              "schemaChars": 1139,
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 322,
+              "schemaChars": 1011,
+              "propertiesCount": 12
+            },
+            {
+              "name": "canvas",
+              "summaryChars": 106,
+              "schemaChars": 661,
+              "propertiesCount": 18
+            },
+            {
+              "name": "message",
+              "summaryChars": 623,
+              "schemaChars": 6717,
+              "propertiesCount": 111
+            },
+            {
+              "name": "tts",
+              "summaryChars": 305,
+              "schemaChars": 316,
+              "propertiesCount": 3
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 118,
+              "schemaChars": 33,
+              "propertiesCount": 0
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 225,
+              "schemaChars": 432,
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 180,
+              "schemaChars": 161,
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 314,
+              "schemaChars": 274,
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 585,
+              "schemaChars": 1789,
+              "propertiesCount": 18
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 97,
+              "schemaChars": 60,
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 105,
+              "schemaChars": 191,
+              "propertiesCount": 4
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 456,
+              "schemaChars": 89,
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 83,
+              "schemaChars": 1209,
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 129,
+              "schemaChars": 374,
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 260,
+              "schemaChars": 342,
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "schemaChars": 2976,
+              "propertiesCount": 52
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "schemaChars": 237,
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "schemaChars": 215,
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "schemaChars": 1667,
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 233,
+              "schemaChars": 592,
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "schemaChars": 987,
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "schemaChars": 1191,
+              "propertiesCount": 7
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "schemaChars": 1439,
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "schemaChars": 1296,
+              "propertiesCount": 10
+            }
+          ]
+        }
+      },
+      "finalPromptText": "[Sun 2026-05-17 10:10 GMT+1] Review the Twitter AI Digest candidate packet at /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-05-17.editor-cycle-2.input.json and return only valid JSON following twitter_ai_digest_editor_output.v1.\n\nRequired output contract:\n- Return exactly one JSON object, no markdown and no prose outside JSON.\n- Required top-level fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests.\n- Allowed set_level_flags.type values: same_topic_distinct_angle, redundant_story, fingerprint_collision, source_traceability_failure, overrepresented_author, coverage_gap. Use source_traceability_failure or coverage_gap for verification gaps; do not invent new flag types such as verification_needed.\n- schema_version must be exactly twitter_ai_digest_editor_output.v1.\n- cycle_number must match the packet editor_cycle.\n- decisions must contain one object for every selected item id from the packet.\n- replacement_candidate_id may only reference eligible reserve ids from rejected_notable_items.\n- Do not use pool_role pool items as replacement_candidate_id values.\n- If no eligible reserve fits, use needs_more_search instead of replace_with_existing_candidate.\n- Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment.\n- duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes.\n- Each set_level_flags entry must be an object: {\"type\":\"redundant_story\",\"item_ids\":[\"item_2051234567890123456\"],\"reason\":\"Concrete duplicate rationale.\"}. Use [] if none.\n- Each additional_search_requests entry must be an object: {\"needed\":false,\"reason\":null,\"suggested_query_theme\":null}. Use [] if none.\n- additional_search_requests are for additional Twitter search only. suggested_query_theme must describe a Twitter/X search theme, not a web verification task.\n- Do not request web, GitHub, docs, browser, or non-Twitter searches. The main digest workflow only runs sequential autocli twitter search for replacements.\n- Never return strings inside set_level_flags or additional_search_requests; every entry in those arrays must be an object.\n- Do not publish, send messages, update files, use autocli, or include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":2,\"overall_verdict\":\"needs_replacements\",\"summary\":\"Cycle 2 has a stronger shape than the previous packet, but it still needs edits: two selected items cover the same China proxy-access economy, several items are secondary quote/commentary rather than primary reporting, and the set is heavy on AI-agent/tooling topics. Keep the concrete market, enterprise-productivity, Codex, AI Scientist, LLM-memory, Ring, and OpenSquilla items with cautious framing; replace the duplicate China proxy analysis with an eligible reserve product item; and run additional Twitter searches for stronger source-traceable versions of the GitHub certification, Ring 2.6 1T, and Claude Code webcam claims.\",\"decisions\":[{\"id\":\"item_2055710603482988998\",\"decision\":\"keep\",\"reason\":\"High-engagement report on China proxy access markets for frontier model APIs; the market/arbitrage angle is concrete and relevant if framed as a reported phenomenon.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Related to item_2055720900583186845, but this is the stronger high-engagement representative of the China proxy-access market story.\"}},{\"id\":\"item_2055720900583186845\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"Useful analysis, but it substantially overlaps with the selected high-engagement China proxy-market item from the same author. Replace this duplicate slot with the eligible Claude Code webcam-access reserve item to improve product coverage, with cautious source framing.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2055793010370306556\",\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same China proxy-station/API-arbitrage story as item_2055710603482988998; the angle is more analytical but not distinct enough to justify two selected slots.\"}},{\"id\":\"item_2055675389767516544\",\"decision\":\"keep\",\"reason\":\"High-engagement finance-industry quote about a step change in AI-toolkit productivity at Citadel; valuable enterprise-adoption signal if attributed as reported commentary.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares a broad AI-productivity/economics theme with the Dario software-cost quote, but the finance-enterprise adoption angle is distinct.\"}},{\"id\":\"item_2055841486714147177\",\"decision\":\"keep\",\"reason\":\"Concrete Dario Amodei quote on AI making software cheap or essentially free; useful software-economics analysis, though not a fresh product or policy event.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad productivity/economics topic as the Ken Griffin quote, but focused on software business models and labor impact rather than finance-sector tooling.\"}},{\"id\":\"item_2055693644443623788\",\"decision\":\"keep\",\"reason\":\"OpenAI staff observation that the Codex app is a distinct category and can be framed as 'agentic Excel on Mac'; lightweight but relevant to evolving agentic-workflow product language.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Codex coverage, but not a duplicate of prior degradation, mobile-app, or usage-limit stories.\"}},{\"id\":\"item_2055861693016625489\",\"decision\":\"keep\",\"reason\":\"Concrete research/tooling pointer to Sakana AI Scientist and autonomous LLM-agent paper generation; concise but relevant and distinct from the memory-reliability study.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad LLM-agent research area as item_2055890119236698563, but this covers autonomous paper generation rather than memory reliability.\"}},{\"id\":\"item_2055621974773416360\",\"decision\":\"needs_more_search\",\"reason\":\"GitHub GH-600 Agentic AI Developer certification would be relevant if confirmed, but this selected tweet is secondary and comparatively low-engagement. Prefer a closer-to-primary Twitter source or a stronger agent-education candidate.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent-tooling coverage, but not a duplicate of Codex, OpenSquilla, or AI Scientist items.\"}},{\"id\":\"item_2055890119236698563\",\"decision\":\"keep\",\"reason\":\"Higher-engagement research commentary on a new study about unreliable memory in LLM agents; relevant to agent reliability and stronger than the previous very-low-engagement summary, but final copy should avoid overclaiming from a short secondary tweet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad LLM-agent research area as item_2055861693016625489, but a distinct reliability/memory angle.\"}},{\"id\":\"item_2055804238798970945\",\"decision\":\"needs_more_search\",\"reason\":\"Ring 2.6 1T agent-model story is potentially relevant, but the selected tweet is a sensational secondary summary of parameter and mission-completion claims. Seek a stronger Twitter-source trail before confident inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent/tooling coverage generally, but no selected duplicate of this specific model story.\"}},{\"id\":\"item_2055692342758408210\",\"decision\":\"keep\",\"reason\":\"Open-source AI-agent orchestration item focused on reducing token cost through routing; concrete tooling angle and useful counterweight to executive quote commentary, though final copy should frame performance claims as documented by the project/post.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad AI-agent tooling topic as the GitHub certification and AI Scientist items, but distinct as cost-routing infrastructure.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2055710603482988998\",\"item_2055720900583186845\"],\"reason\":\"Both selected items cover the same China proxy-station/API-arbitrage economy; keep the stronger market item and avoid spending two slots on the same story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2055675389767516544\",\"item_2055841486714147177\"],\"reason\":\"Both are AI-productivity/economics quote or analysis items; they are distinct but should not crowd out concrete product, research, or policy items.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2055621974773416360\",\"item_2055861693016625489\",\"item_2055890119236698563\",\"item_2055804238798970945\",\"item_2055692342758408210\"],\"reason\":\"The set is agent-heavy across certification, autonomous paper generation, memory reliability, mission-completing model claims, and orchestration/token-cost tooling.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2055621974773416360\",\"item_2055804238798970945\"],\"reason\":\"These selected items make concrete certification or model-release claims through secondary tweets without a clearly primary or strongly traceable Twitter source in the packet.\"},{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2055710603482988998\",\"item_2055720900583186845\"],\"reason\":\"The same author appears twice on closely related China proxy-access stories; retain only one unless the second adds an essential distinct source.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a closer-to-primary Twitter source for the GitHub GH-600 Agentic AI Developer certification story.\",\"suggested_query_theme\":\"GitHub GH-600 Agentic AI Developer certification since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for Ring 2.6 1T claims, preferably from Ant Group, the model team, or an engineering-adjacent account.\",\"suggested_query_theme\":\"Ring 2.6 1T Ant Group agent model since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source or additional context for the Claude Code webcam/user-presence claim if it replaces the duplicate China proxy item.\",\"suggested_query_theme\":\"Claude Code webcam access programmatic use presence check since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find one less agent-centric candidate to improve mix, prioritizing AI policy, platform, security, model release, or applied-industry news.\",\"suggested_query_theme\":\"AI policy platform security model release industry AI since:2026-05-16\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":2,\"overall_verdict\":\"needs_replacements\",\"summary\":\"Cycle 2 has a stronger shape than the previous packet, but it still needs edits: two selected items cover the same China proxy-access economy, several items are secondary quote/commentary rather than primary reporting, and the set is heavy on AI-agent/tooling topics. Keep the concrete market, enterprise-productivity, Codex, AI Scientist, LLM-memory, Ring, and OpenSquilla items with cautious framing; replace the duplicate China proxy analysis with an eligible reserve product item; and run additional Twitter searches for stronger source-traceable versions of the GitHub certification, Ring 2.6 1T, and Claude Code webcam claims.\",\"decisions\":[{\"id\":\"item_2055710603482988998\",\"decision\":\"keep\",\"reason\":\"High-engagement report on China proxy access markets for frontier model APIs; the market/arbitrage angle is concrete and relevant if framed as a reported phenomenon.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Related to item_2055720900583186845, but this is the stronger high-engagement representative of the China proxy-access market story.\"}},{\"id\":\"item_2055720900583186845\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"Useful analysis, but it substantially overlaps with the selected high-engagement China proxy-market item from the same author. Replace this duplicate slot with the eligible Claude Code webcam-access reserve item to improve product coverage, with cautious source framing.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2055793010370306556\",\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same China proxy-station/API-arbitrage story as item_2055710603482988998; the angle is more analytical but not distinct enough to justify two selected slots.\"}},{\"id\":\"item_2055675389767516544\",\"decision\":\"keep\",\"reason\":\"High-engagement finance-industry quote about a step change in AI-toolkit productivity at Citadel; valuable enterprise-adoption signal if attributed as reported commentary.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares a broad AI-productivity/economics theme with the Dario software-cost quote, but the finance-enterprise adoption angle is distinct.\"}},{\"id\":\"item_2055841486714147177\",\"decision\":\"keep\",\"reason\":\"Concrete Dario Amodei quote on AI making software cheap or essentially free; useful software-economics analysis, though not a fresh product or policy event.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad productivity/economics topic as the Ken Griffin quote, but focused on software business models and labor impact rather than finance-sector tooling.\"}},{\"id\":\"item_2055693644443623788\",\"decision\":\"keep\",\"reason\":\"OpenAI staff observation that the Codex app is a distinct category and can be framed as 'agentic Excel on Mac'; lightweight but relevant to evolving agentic-workflow product language.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Codex coverage, but not a duplicate of prior degradation, mobile-app, or usage-limit stories.\"}},{\"id\":\"item_2055861693016625489\",\"decision\":\"keep\",\"reason\":\"Concrete research/tooling pointer to Sakana AI Scientist and autonomous LLM-agent paper generation; concise but relevant and distinct from the memory-reliability study.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad LLM-agent research area as item_2055890119236698563, but this covers autonomous paper generation rather than memory reliability.\"}},{\"id\":\"item_2055621974773416360\",\"decision\":\"needs_more_search\",\"reason\":\"GitHub GH-600 Agentic AI Developer certification would be relevant if confirmed, but this selected tweet is secondary and comparatively low-engagement. Prefer a closer-to-primary Twitter source or a stronger agent-education candidate.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent-tooling coverage, but not a duplicate of Codex, OpenSquilla, or AI Scientist items.\"}},{\"id\":\"item_2055890119236698563\",\"decision\":\"keep\",\"reason\":\"Higher-engagement research commentary on a new study about unreliable memory in LLM agents; relevant to agent reliability and stronger than the previous very-low-engagement summary, but final copy should avoid overclaiming from a short secondary tweet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad LLM-agent research area as item_2055861693016625489, but a distinct reliability/memory angle.\"}},{\"id\":\"item_2055804238798970945\",\"decision\":\"needs_more_search\",\"reason\":\"Ring 2.6 1T agent-model story is potentially relevant, but the selected tweet is a sensational secondary summary of parameter and mission-completion claims. Seek a stronger Twitter-source trail before confident inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent/tooling coverage generally, but no selected duplicate of this specific model story.\"}},{\"id\":\"item_2055692342758408210\",\"decision\":\"keep\",\"reason\":\"Open-source AI-agent orchestration item focused on reducing token cost through routing; concrete tooling angle and useful counterweight to executive quote commentary, though final copy should frame performance claims as documented by the project/post.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad AI-agent tooling topic as the GitHub certification and AI Scientist items, but distinct as cost-routing infrastructure.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2055710603482988998\",\"item_2055720900583186845\"],\"reason\":\"Both selected items cover the same China proxy-station/API-arbitrage economy; keep the stronger market item and avoid spending two slots on the same story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2055675389767516544\",\"item_2055841486714147177\"],\"reason\":\"Both are AI-productivity/economics quote or analysis items; they are distinct but should not crowd out concrete product, research, or policy items.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2055621974773416360\",\"item_2055861693016625489\",\"item_2055890119236698563\",\"item_2055804238798970945\",\"item_2055692342758408210\"],\"reason\":\"The set is agent-heavy across certification, autonomous paper generation, memory reliability, mission-completing model claims, and orchestration/token-cost tooling.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2055621974773416360\",\"item_2055804238798970945\"],\"reason\":\"These selected items make concrete certification or model-release claims through secondary tweets without a clearly primary or strongly traceable Twitter source in the packet.\"},{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2055710603482988998\",\"item_2055720900583186845\"],\"reason\":\"The same author appears twice on closely related China proxy-access stories; retain only one unless the second adds an essential distinct source.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a closer-to-primary Twitter source for the GitHub GH-600 Agentic AI Developer certification story.\",\"suggested_query_theme\":\"GitHub GH-600 Agentic AI Developer certification since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for Ring 2.6 1T claims, preferably from Ant Group, the model team, or an engineering-adjacent account.\",\"suggested_query_theme\":\"Ring 2.6 1T Ant Group agent model since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source or additional context for the Claude Code webcam/user-presence claim if it replaces the duplicate China proxy item.\",\"suggested_query_theme\":\"Claude Code webcam access programmatic use presence check since:2026-05-16\"},{\"needed\":true,\"reason\":\"Find one less agent-centric candidate to improve mix, prioritizing AI policy, platform, security, model release, or applied-industry news.\",\"suggested_query_theme\":\"AI policy platform security model release industry AI since:2026-05-16\"}]}",
+      "replayInvalid": true,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "toolSummary": {
+        "calls": 1,
+        "tools": [
+          "exec"
+        ],
+        "failures": 0
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    },
+    "deliverySucceeded": false
+  }
+}

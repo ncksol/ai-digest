@@ -1,0 +1,785 @@
+{
+  "failures": 0,
+  "searches": [
+    {
+      "query": "AI since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"eng_khairallah1\",\n    \"id\": \"2055672548227273044\",\n    \"likes\": 400,\n    \"replies\": 37,\n    \"retweets\": 69,\n    \"text\": \"Anthropic's Claude team just showed how to build an AI agent with real memory in under 30 minutes.\\n\\n24-minutes. free. by the people who built Claude.\\n\\nworth than $500 vibe-coding course.\\n\\nBookmark & replace one movie today with this course, then read the complete article below.\",\n    \"url\": \"https://x.com/eng_khairallah1/status/2055672548227273044\",\n    \"views\": 62000\n  },\n  {\n    \"author\": \"Hesamation\",\n    \"id\": \"2055713974826524852\",\n    \"likes\": 1600,\n    \"replies\": 38,\n    \"retweets\": 94,\n    \"text\": \"BRO AGAIN?! does he have NO OTHER SUBJECT to talk about in interviews rather than fear marketing and scaring people?\",\n    \"url\": \"https://x.com/Hesamation/status/2055713974826524852\",\n    \"views\": 89000\n  },\n  {\n    \"author\": \"Miles_Brundage\",\n    \"id\": \"2055850904574927281\",\n    \"likes\": 20,\n    \"replies\": 10,\n    \"retweets\": 1,\n    \"text\": \"I could fix them \\n\\n(give a commencement speech that doesn't get booed but still makes some of the same points here re: potential upsides of AI)\",\n    \"url\": \"https://x.com/Miles_Brundage/status/2055850904574927281\",\n    \"views\": 4300\n  },\n  {\n    \"author\": \"gdb\",\n    \"id\": \"2055693644443623788\",\n    \"likes\": 380,\n    \"replies\": 55,\n    \"retweets\": 20,\n    \"text\": \"the Codex app is in a category of its own. \u201cagentic excel on mac\u201d is an interesting description.\",\n    \"url\": \"https://x.com/gdb/status/2055693644443623788\",\n    \"views\": 40000\n  },\n  {\n    \"author\": \"FundamentEdge\",\n    \"id\": \"2055675389767516544\",\n    \"likes\": 4600,\n    \"replies\": 232,\n    \"retweets\": 852,\n    \"text\": \"A big pivot from Ken Griffin on AI:\\n\\n\u201cNumber one is, in the last few months, there has been a step change in the productivity of the AI toolkit. It is profoundly more powerful than it was just nine months ago.\\n\\nAnd for us at Citadel, that has allowed us to unleash a much broader\",\n    \"url\": \"https://x.com/FundamentEdge/status/2055675389767516544\",\n    \"views\": 1600000\n  },\n  {\n    \"author\": \"karankendre\",\n    \"id\": \"2055561561692139761\",\n    \"likes\": 115,\n    \"replies\": 13,\n    \"retweets\": 22,\n    \"text\": \"Security researchers just claimed they breached macOS using Claude Mythos.\\n\\nNicholas Carlini already said:\\n\u201c I\u2019ve found more bugs in the last few weeks with Claude Mythos than in the rest of my entire life combined \u201d\\n\\nsoftware built by humans might not survive AI reviewing every\",\n    \"url\": \"https://x.com/karankendre/status/2055561561692139761\",\n    \"views\": 61000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "eng_khairallah1",
+          "id": "2055672548227273044",
+          "likes": 400,
+          "replies": 37,
+          "retweets": 69,
+          "text": "Anthropic's Claude team just showed how to build an AI agent with real memory in under 30 minutes.\n\n24-minutes. free. by the people who built Claude.\n\nworth than $500 vibe-coding course.\n\nBookmark & replace one movie today with this course, then read the complete article below.",
+          "url": "https://x.com/eng_khairallah1/status/2055672548227273044",
+          "views": 62000
+        },
+        {
+          "author": "Hesamation",
+          "id": "2055713974826524852",
+          "likes": 1600,
+          "replies": 38,
+          "retweets": 94,
+          "text": "BRO AGAIN?! does he have NO OTHER SUBJECT to talk about in interviews rather than fear marketing and scaring people?",
+          "url": "https://x.com/Hesamation/status/2055713974826524852",
+          "views": 89000
+        },
+        {
+          "author": "Miles_Brundage",
+          "id": "2055850904574927281",
+          "likes": 20,
+          "replies": 10,
+          "retweets": 1,
+          "text": "I could fix them \n\n(give a commencement speech that doesn't get booed but still makes some of the same points here re: potential upsides of AI)",
+          "url": "https://x.com/Miles_Brundage/status/2055850904574927281",
+          "views": 4300
+        },
+        {
+          "author": "gdb",
+          "id": "2055693644443623788",
+          "likes": 380,
+          "replies": 55,
+          "retweets": 20,
+          "text": "the Codex app is in a category of its own. \u201cagentic excel on mac\u201d is an interesting description.",
+          "url": "https://x.com/gdb/status/2055693644443623788",
+          "views": 40000
+        },
+        {
+          "author": "FundamentEdge",
+          "id": "2055675389767516544",
+          "likes": 4600,
+          "replies": 232,
+          "retweets": 852,
+          "text": "A big pivot from Ken Griffin on AI:\n\n\u201cNumber one is, in the last few months, there has been a step change in the productivity of the AI toolkit. It is profoundly more powerful than it was just nine months ago.\n\nAnd for us at Citadel, that has allowed us to unleash a much broader",
+          "url": "https://x.com/FundamentEdge/status/2055675389767516544",
+          "views": 1600000
+        },
+        {
+          "author": "karankendre",
+          "id": "2055561561692139761",
+          "likes": 115,
+          "replies": 13,
+          "retweets": 22,
+          "text": "Security researchers just claimed they breached macOS using Claude Mythos.\n\nNicholas Carlini already said:\n\u201c I\u2019ve found more bugs in the last few weeks with Claude Mythos than in the rest of my entire life combined \u201d\n\nsoftware built by humans might not survive AI reviewing every",
+          "url": "https://x.com/karankendre/status/2055561561692139761",
+          "views": 61000
+        }
+      ]
+    },
+    {
+      "query": "LLM since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"PRHillmann\",\n    \"id\": \"2055778560686866629\",\n    \"likes\": 3,\n    \"replies\": 2,\n    \"retweets\": 0,\n    \"text\": \"You mean like here? Or all over our website? \\n\\nAleph Prover isn\u2019t our core product. It\u2019s a means to an end. You can learn more in Tuesday when our CTO will be publishing a deeper tech dive.\\n\\nIn short, why would we waste precious resources building and training our own LLM when\",\n    \"url\": \"https://x.com/PRHillmann/status/2055778560686866629\",\n    \"views\": 147\n  },\n  {\n    \"author\": \"tom_doerr\",\n    \"id\": \"2055861693016625489\",\n    \"likes\": 62,\n    \"replies\": 1,\n    \"retweets\": 12,\n    \"text\": \"Generates scientific papers using autonomous LLM agents\\n\\nhttps://github.com/SakanaAI/AI-Scientist\u2026\",\n    \"url\": \"https://x.com/tom_doerr/status/2055861693016625489\",\n    \"views\": 3300\n  },\n  {\n    \"author\": \"aakashgupta\",\n    \"id\": \"2055506656344293380\",\n    \"likes\": 16,\n    \"replies\": 2,\n    \"retweets\": 3,\n    \"text\": \"Modulate's bet cuts against every voice AI stack shipped in the last 3 years: the bottleneck was never the LLM. It was everything listening before it.\\n\\nThe pattern I keep seeing: every voice AI product right now runs the same pipeline. Transcribe the audio. Pass the text to an\",\n    \"url\": \"https://x.com/aakashgupta/status/2055506656344293380\",\n    \"views\": 5300\n  },\n  {\n    \"author\": \"const_reborn\",\n    \"id\": \"2055917811852034179\",\n    \"likes\": 103,\n    \"replies\": 3,\n    \"retweets\": 20,\n    \"text\": \"First it is the model, the llm. \\n\\nThen it is the harness, the backend and the tool calls. \\n\\nNext it is the agent, the memory and the planning. \\n\\nFrom there it becomes the organization, the swarm, and your orchestrator. \\n\\nAnd then it becomes the protocol, a connective market,\",\n    \"url\": \"https://x.com/const_reborn/status/2055917811852034179\",\n    \"views\": 2800\n  },\n  {\n    \"author\": \"yoavgo\",\n    \"id\": \"2055691766573998213\",\n    \"likes\": 141,\n    \"replies\": 10,\n    \"retweets\": 7,\n    \"text\": \"very nice experiment, even if not surprising in retrospect. \\n\\nhow i would have written the paper: \\\"yet another evidence that when LLM train on text they don't read and learn in the sense humans do\\\"\\n\\nhow Owain wrote it: \\\"a new phenomena called negation neglect!\\\"\\n\\nOwain is a genius\",\n    \"url\": \"https://x.com/yoavgo/status/2055691766573998213\",\n    \"views\": 16000\n  },\n  {\n    \"author\": \"ChristianLempa\",\n    \"id\": \"2055923051846398329\",\n    \"likes\": 1,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"It depends. If you use it on a device that is turned on anyways, it can still be useful. But you're right, in my experience cloud LLM providers always beat local LLMs in terms context window, performance and intelligence\",\n    \"url\": \"https://x.com/ChristianLempa/status/2055923051846398329\",\n    \"views\": 25\n  },\n  {\n    \"author\": \"LinXule\",\n    \"id\": \"2055705174346174879\",\n    \"likes\": 14,\n    \"replies\": 3,\n    \"retweets\": 3,\n    \"text\": \"\\\"a giant scratchpad the LLM can edit and it's reading stuff\\\" ...maybe..vellum as a proof of concept for this idea?\",\n    \"url\": \"https://x.com/LinXule/status/2055705174346174879\",\n    \"views\": 1200\n  },\n  {\n    \"author\": \"rohanpaul_ai\",\n    \"id\": \"2055919204591902771\",\n    \"likes\": 8,\n    \"replies\": 1,\n    \"retweets\": 1,\n    \"text\": \"New Illinois+ Tsinghua University and other labs study finds that LLM agents still have unreliable memory and that it can get worse when they keep rewriting their own memories.\\n\\nLLM agents can learn from experience, but their rewritten memories often become unreliable.\\n\\nThe\",\n    \"url\": \"https://x.com/rohanpaul_ai/status/2055919204591902771\",\n    \"views\": 1000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "PRHillmann",
+          "id": "2055778560686866629",
+          "likes": 3,
+          "replies": 2,
+          "retweets": 0,
+          "text": "You mean like here? Or all over our website? \n\nAleph Prover isn\u2019t our core product. It\u2019s a means to an end. You can learn more in Tuesday when our CTO will be publishing a deeper tech dive.\n\nIn short, why would we waste precious resources building and training our own LLM when",
+          "url": "https://x.com/PRHillmann/status/2055778560686866629",
+          "views": 147
+        },
+        {
+          "author": "tom_doerr",
+          "id": "2055861693016625489",
+          "likes": 62,
+          "replies": 1,
+          "retweets": 12,
+          "text": "Generates scientific papers using autonomous LLM agents\n\nhttps://github.com/SakanaAI/AI-Scientist\u2026",
+          "url": "https://x.com/tom_doerr/status/2055861693016625489",
+          "views": 3300
+        },
+        {
+          "author": "aakashgupta",
+          "id": "2055506656344293380",
+          "likes": 16,
+          "replies": 2,
+          "retweets": 3,
+          "text": "Modulate's bet cuts against every voice AI stack shipped in the last 3 years: the bottleneck was never the LLM. It was everything listening before it.\n\nThe pattern I keep seeing: every voice AI product right now runs the same pipeline. Transcribe the audio. Pass the text to an",
+          "url": "https://x.com/aakashgupta/status/2055506656344293380",
+          "views": 5300
+        },
+        {
+          "author": "const_reborn",
+          "id": "2055917811852034179",
+          "likes": 103,
+          "replies": 3,
+          "retweets": 20,
+          "text": "First it is the model, the llm. \n\nThen it is the harness, the backend and the tool calls. \n\nNext it is the agent, the memory and the planning. \n\nFrom there it becomes the organization, the swarm, and your orchestrator. \n\nAnd then it becomes the protocol, a connective market,",
+          "url": "https://x.com/const_reborn/status/2055917811852034179",
+          "views": 2800
+        },
+        {
+          "author": "yoavgo",
+          "id": "2055691766573998213",
+          "likes": 141,
+          "replies": 10,
+          "retweets": 7,
+          "text": "very nice experiment, even if not surprising in retrospect. \n\nhow i would have written the paper: \"yet another evidence that when LLM train on text they don't read and learn in the sense humans do\"\n\nhow Owain wrote it: \"a new phenomena called negation neglect!\"\n\nOwain is a genius",
+          "url": "https://x.com/yoavgo/status/2055691766573998213",
+          "views": 16000
+        },
+        {
+          "author": "ChristianLempa",
+          "id": "2055923051846398329",
+          "likes": 1,
+          "replies": 0,
+          "retweets": 0,
+          "text": "It depends. If you use it on a device that is turned on anyways, it can still be useful. But you're right, in my experience cloud LLM providers always beat local LLMs in terms context window, performance and intelligence",
+          "url": "https://x.com/ChristianLempa/status/2055923051846398329",
+          "views": 25
+        },
+        {
+          "author": "LinXule",
+          "id": "2055705174346174879",
+          "likes": 14,
+          "replies": 3,
+          "retweets": 3,
+          "text": "\"a giant scratchpad the LLM can edit and it's reading stuff\" ...maybe..vellum as a proof of concept for this idea?",
+          "url": "https://x.com/LinXule/status/2055705174346174879",
+          "views": 1200
+        },
+        {
+          "author": "rohanpaul_ai",
+          "id": "2055919204591902771",
+          "likes": 8,
+          "replies": 1,
+          "retweets": 1,
+          "text": "New Illinois+ Tsinghua University and other labs study finds that LLM agents still have unreliable memory and that it can get worse when they keep rewriting their own memories.\n\nLLM agents can learn from experience, but their rewritten memories often become unreliable.\n\nThe",
+          "url": "https://x.com/rohanpaul_ai/status/2055919204591902771",
+          "views": 1000
+        }
+      ]
+    },
+    {
+      "query": "machine learning since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"lorden_eth\",\n    \"id\": \"2055713548446110052\",\n    \"likes\": 23,\n    \"replies\": 8,\n    \"retweets\": 3,\n    \"text\": \"JEFF CRUME SAYS LLMs, GEN AI, CHATBOXS, DEEPFAKES ARE ALL FOUNDATION MODELS\\n\\nHe explained AI, Machine Learning, Deep Learning and Generative AI in a simplified way\\n\\nLLMs are basically autocomplete except they don\u2019t predict the next word but sentences, paragraphs and even entire\",\n    \"url\": \"https://x.com/lorden_eth/status/2055713548446110052\",\n    \"views\": 861\n  },\n  {\n    \"author\": \"Ryansikorski10\",\n    \"id\": \"2055802920717750751\",\n    \"likes\": 33,\n    \"replies\": 1,\n    \"retweets\": 12,\n    \"text\": \"AI-guided programmable assembly\\n\\nAI-guided programmable assembly integrates machine learning and robotic systems to dynamically optimize how parts, materials, or even nanoscale molecules are put together. It shifts manufacturing and material science from rigid, predefined\",\n    \"url\": \"https://x.com/Ryansikorski10/status/2055802920717750751\",\n    \"views\": 617\n  },\n  {\n    \"author\": \"techskunkworks\",\n    \"id\": \"2055675908858446178\",\n    \"likes\": 7,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"The consultant that I am has never been in better shape on the business front.\\n\\nWhy?\\n\\nBecause I sell performance, not customer satisfaction.\\n\\nWhat's more, I've been practicing Machine Learning since 2015.\\nDeeply integrating what's called \\\"Generative AI\\\" has been a done deal since\",\n    \"url\": \"https://x.com/techskunkworks/status/2055675908858446178\",\n    \"views\": 1200\n  },\n  {\n    \"author\": \"codewithimanshu\",\n    \"id\": \"2055468893955936626\",\n    \"likes\": 1,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"4: cs50\u2019s introduction to artificial intelligence with python\\n\\nget a clear, beginner-friendly look at ai and start building machine learning projects in python with this introductory course\\n\\ncourse link:\\nhttps://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-py\",\n    \"url\": \"https://x.com/codewithimanshu/status/2055468893955936626\",\n    \"views\": 786\n  },\n  {\n    \"author\": \"manish_fic\",\n    \"id\": \"2055927729330200714\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Ideology in BJP? What a joke? It is a washing machine, full of criminals and corrupt politicians. You are making hell your life by learning from #WhatsApp University.\",\n    \"url\": \"https://x.com/manish_fic/status/2055927729330200714\",\n    \"views\": 12\n  },\n  {\n    \"author\": \"WHYNOT_BUY\",\n    \"id\": \"2055758041652277432\",\n    \"likes\": 1,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"Summary of the X \u201cFor You\u201d Feed Algorithm\\n\\nThe system behind the \u201cFor You\u201d feed on X is a large-scale AI recommendation engine that combines:\\nPosts from people you follow (in-network content)\\nPosts discovered by machine learning (out-of-network content)\\n\\nEverything is ranked\",\n    \"url\": \"https://x.com/WHYNOT_BUY/status/2055758041652277432\",\n    \"views\": 28\n  },\n  {\n    \"author\": \"tsureil\",\n    \"id\": \"2055925784892649697\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"machine learning has been around since the 70s and had a significant uptick in the 2000s through to now\\n\\navatar has already made use of machine learning by proxy through vfx tooling and with methods developed as part of the production itself\",\n    \"url\": \"https://x.com/tsureil/status/2055925784892649697\",\n    \"views\": 7\n  },\n  {\n    \"author\": \"yucheng\",\n    \"id\": \"2055722222774346015\",\n    \"likes\": 1,\n    \"replies\": 5,\n    \"retweets\": 1,\n    \"text\": \"this reminds me of what I have spent years to build in the pre-LLM Machine Learning era: feature store or feature layer which manage the data sets for ml models\",\n    \"url\": \"https://x.com/yucheng/status/2055722222774346015\",\n    \"views\": 541\n  },\n  {\n    \"author\": \"MarcoPaol0\",\n    \"id\": \"2055927821227184297\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"You caught me B!\",\n    \"url\": \"https://x.com/MarcoPaol0/status/2055927821227184297\",\n    \"views\": 6\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "lorden_eth",
+          "id": "2055713548446110052",
+          "likes": 23,
+          "replies": 8,
+          "retweets": 3,
+          "text": "JEFF CRUME SAYS LLMs, GEN AI, CHATBOXS, DEEPFAKES ARE ALL FOUNDATION MODELS\n\nHe explained AI, Machine Learning, Deep Learning and Generative AI in a simplified way\n\nLLMs are basically autocomplete except they don\u2019t predict the next word but sentences, paragraphs and even entire",
+          "url": "https://x.com/lorden_eth/status/2055713548446110052",
+          "views": 861
+        },
+        {
+          "author": "Ryansikorski10",
+          "id": "2055802920717750751",
+          "likes": 33,
+          "replies": 1,
+          "retweets": 12,
+          "text": "AI-guided programmable assembly\n\nAI-guided programmable assembly integrates machine learning and robotic systems to dynamically optimize how parts, materials, or even nanoscale molecules are put together. It shifts manufacturing and material science from rigid, predefined",
+          "url": "https://x.com/Ryansikorski10/status/2055802920717750751",
+          "views": 617
+        },
+        {
+          "author": "techskunkworks",
+          "id": "2055675908858446178",
+          "likes": 7,
+          "replies": 0,
+          "retweets": 0,
+          "text": "The consultant that I am has never been in better shape on the business front.\n\nWhy?\n\nBecause I sell performance, not customer satisfaction.\n\nWhat's more, I've been practicing Machine Learning since 2015.\nDeeply integrating what's called \"Generative AI\" has been a done deal since",
+          "url": "https://x.com/techskunkworks/status/2055675908858446178",
+          "views": 1200
+        },
+        {
+          "author": "codewithimanshu",
+          "id": "2055468893955936626",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 0,
+          "text": "4: cs50\u2019s introduction to artificial intelligence with python\n\nget a clear, beginner-friendly look at ai and start building machine learning projects in python with this introductory course\n\ncourse link:\nhttps://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-py",
+          "url": "https://x.com/codewithimanshu/status/2055468893955936626",
+          "views": 786
+        },
+        {
+          "author": "manish_fic",
+          "id": "2055927729330200714",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Ideology in BJP? What a joke? It is a washing machine, full of criminals and corrupt politicians. You are making hell your life by learning from #WhatsApp University.",
+          "url": "https://x.com/manish_fic/status/2055927729330200714",
+          "views": 12
+        },
+        {
+          "author": "WHYNOT_BUY",
+          "id": "2055758041652277432",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 0,
+          "text": "Summary of the X \u201cFor You\u201d Feed Algorithm\n\nThe system behind the \u201cFor You\u201d feed on X is a large-scale AI recommendation engine that combines:\nPosts from people you follow (in-network content)\nPosts discovered by machine learning (out-of-network content)\n\nEverything is ranked",
+          "url": "https://x.com/WHYNOT_BUY/status/2055758041652277432",
+          "views": 28
+        },
+        {
+          "author": "tsureil",
+          "id": "2055925784892649697",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "machine learning has been around since the 70s and had a significant uptick in the 2000s through to now\n\navatar has already made use of machine learning by proxy through vfx tooling and with methods developed as part of the production itself",
+          "url": "https://x.com/tsureil/status/2055925784892649697",
+          "views": 7
+        },
+        {
+          "author": "yucheng",
+          "id": "2055722222774346015",
+          "likes": 1,
+          "replies": 5,
+          "retweets": 1,
+          "text": "this reminds me of what I have spent years to build in the pre-LLM Machine Learning era: feature store or feature layer which manage the data sets for ml models",
+          "url": "https://x.com/yucheng/status/2055722222774346015",
+          "views": 541
+        },
+        {
+          "author": "MarcoPaol0",
+          "id": "2055927821227184297",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "You caught me B!",
+          "url": "https://x.com/MarcoPaol0/status/2055927821227184297",
+          "views": 6
+        }
+      ]
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"gdb\",\n    \"id\": \"2055695957057036452\",\n    \"likes\": 329,\n    \"replies\": 43,\n    \"retweets\": 15,\n    \"text\": \"using GPT for defensive security\",\n    \"url\": \"https://x.com/gdb/status/2055695957057036452\",\n    \"views\": 44000\n  },\n  {\n    \"author\": \"adxtyahq\",\n    \"id\": \"2055720900583186845\",\n    \"likes\": 670,\n    \"replies\": 15,\n    \"retweets\": 56,\n    \"text\": \"Oxford researcher did a full deep dive on China\u2019s \u201cproxy station economy\u201d for Claude/OpenAI access - https://chinatalk.media/p/how-to-buy-cheap-claude-tokens-in\u2026\\n\\nThe cheap pricing is basically just arbitrage.\\n\\nPeople reverse engineered Codex into API proxies, then stacked cheape\",\n    \"url\": \"https://x.com/adxtyahq/status/2055720900583186845\",\n    \"views\": 74000\n  },\n  {\n    \"author\": \"RoundtableSpace\",\n    \"id\": \"2055728741662224707\",\n    \"likes\": 187,\n    \"replies\": 42,\n    \"retweets\": 19,\n    \"text\": \"HERE\u2019S A LIST OF EVERY MAJOR AI MODEL RELEASED THIS YEAR:\\n\\nGPT-5.4\\nGPT-5.5\\nClaude Opus 4.6\\nClaude Sonnet 4.6\\nClaude Opus 4.7\\nGemini 3.1 Pro\\nGemma 4\\nLlama 4 Scout\\nLlama 4 Maverick\\nQwen 3\\nQwen 3.6 Max-Preview\\nDeepSeek V4\\nDeepSeek V4-Pro\\nDeepSeek V4-Flash\\nDeepSeek V3.2\\nDeepSeek\",\n    \"url\": \"https://x.com/RoundtableSpace/status/2055728741662224707\",\n    \"views\": 50000\n  },\n  {\n    \"author\": \"adxtyahq\",\n    \"id\": \"2055710603482988998\",\n    \"likes\": 10000,\n    \"replies\": 259,\n    \"retweets\": 610,\n    \"text\": \"Chinese students are buying GPT-5.4/5.5 and Claude API access from Xianyu/Taobao proxy sellers for almost 96-97% cheaper \\n\\nPeople are apparently burning 100M+ tokens a day for like $1 and vibecoding nonstop.\",\n    \"url\": \"https://x.com/adxtyahq/status/2055710603482988998\",\n    \"views\": 919000\n  },\n  {\n    \"author\": \"RoundtableSpace\",\n    \"id\": \"2055864636923085242\",\n    \"likes\": 77,\n    \"replies\": 12,\n    \"retweets\": 2,\n    \"text\": \"SOMEONE BUILT A TOOL FOR CLAUDE THAT TAKES ANY IMAGE AND TURNS IT INTO A FULL 3D ENVIRONMENT WITH INDIVIDUAL MESHES, PHYSICS AND AMBIENT SOUND.\",\n    \"url\": \"https://x.com/RoundtableSpace/status/2055864636923085242\",\n    \"views\": 51000\n  },\n  {\n    \"author\": \"theo\",\n    \"id\": \"2055793010370306556\",\n    \"likes\": 4600,\n    \"replies\": 395,\n    \"retweets\": 209,\n    \"text\": \"To prevent \\\"programmatic use\\\", Claude Code may now request webcam access to assure user is present when prompting\",\n    \"url\": \"https://x.com/theo/status/2055793010370306556\",\n    \"views\": 509000\n  },\n  {\n    \"author\": \"steipete\",\n    \"id\": \"2055668954715111522\",\n    \"likes\": 4,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Because GPT 5.5 is the highest scoring model.\",\n    \"url\": \"https://x.com/steipete/status/2055668954715111522\",\n    \"views\": 521\n  },\n  {\n    \"author\": \"cyrilXBT\",\n    \"id\": \"2055581616022732932\",\n    \"likes\": 212,\n    \"replies\": 29,\n    \"retweets\": 64,\n    \"text\": \"GOOGLE JUST SILENTLY DOWNLOADED A 4GB AI MODEL TO YOUR COMPUTER WITHOUT ASKING.\\n\\nNo permission dialog.\\n\\nNo notification.\\n\\nNo way to stop it.\\n\\nIf you use Chrome there is a 4 gigabyte file sitting on your hard drive right now that you never agreed to download.\\n\\nIt is called Gemini\",\n    \"url\": \"https://x.com/cyrilXBT/status/2055581616022732932\",\n    \"views\": 21000\n  },\n  {\n    \"author\": \"eng_khairallah1\",\n    \"id\": \"2055672548227273044\",\n    \"likes\": 401,\n    \"replies\": 37,\n    \"retweets\": 69,\n    \"text\": \"Anthropic's Claude team just showed how to build an AI agent with real memory in under 30 minutes.\\n\\n24-minutes. free. by the people who built Claude.\\n\\nworth than $500 vibe-coding course.\\n\\nBookmark & replace one movie today with this course, then read the complete article below.\",\n    \"url\": \"https://x.com/eng_khairallah1/status/2055672548227273044\",\n    \"views\": 62000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "gdb",
+          "id": "2055695957057036452",
+          "likes": 329,
+          "replies": 43,
+          "retweets": 15,
+          "text": "using GPT for defensive security",
+          "url": "https://x.com/gdb/status/2055695957057036452",
+          "views": 44000
+        },
+        {
+          "author": "adxtyahq",
+          "id": "2055720900583186845",
+          "likes": 670,
+          "replies": 15,
+          "retweets": 56,
+          "text": "Oxford researcher did a full deep dive on China\u2019s \u201cproxy station economy\u201d for Claude/OpenAI access - https://chinatalk.media/p/how-to-buy-cheap-claude-tokens-in\u2026\n\nThe cheap pricing is basically just arbitrage.\n\nPeople reverse engineered Codex into API proxies, then stacked cheape",
+          "url": "https://x.com/adxtyahq/status/2055720900583186845",
+          "views": 74000
+        },
+        {
+          "author": "RoundtableSpace",
+          "id": "2055728741662224707",
+          "likes": 187,
+          "replies": 42,
+          "retweets": 19,
+          "text": "HERE\u2019S A LIST OF EVERY MAJOR AI MODEL RELEASED THIS YEAR:\n\nGPT-5.4\nGPT-5.5\nClaude Opus 4.6\nClaude Sonnet 4.6\nClaude Opus 4.7\nGemini 3.1 Pro\nGemma 4\nLlama 4 Scout\nLlama 4 Maverick\nQwen 3\nQwen 3.6 Max-Preview\nDeepSeek V4\nDeepSeek V4-Pro\nDeepSeek V4-Flash\nDeepSeek V3.2\nDeepSeek",
+          "url": "https://x.com/RoundtableSpace/status/2055728741662224707",
+          "views": 50000
+        },
+        {
+          "author": "adxtyahq",
+          "id": "2055710603482988998",
+          "likes": 10000,
+          "replies": 259,
+          "retweets": 610,
+          "text": "Chinese students are buying GPT-5.4/5.5 and Claude API access from Xianyu/Taobao proxy sellers for almost 96-97% cheaper \n\nPeople are apparently burning 100M+ tokens a day for like $1 and vibecoding nonstop.",
+          "url": "https://x.com/adxtyahq/status/2055710603482988998",
+          "views": 919000
+        },
+        {
+          "author": "RoundtableSpace",
+          "id": "2055864636923085242",
+          "likes": 77,
+          "replies": 12,
+          "retweets": 2,
+          "text": "SOMEONE BUILT A TOOL FOR CLAUDE THAT TAKES ANY IMAGE AND TURNS IT INTO A FULL 3D ENVIRONMENT WITH INDIVIDUAL MESHES, PHYSICS AND AMBIENT SOUND.",
+          "url": "https://x.com/RoundtableSpace/status/2055864636923085242",
+          "views": 51000
+        },
+        {
+          "author": "theo",
+          "id": "2055793010370306556",
+          "likes": 4600,
+          "replies": 395,
+          "retweets": 209,
+          "text": "To prevent \"programmatic use\", Claude Code may now request webcam access to assure user is present when prompting",
+          "url": "https://x.com/theo/status/2055793010370306556",
+          "views": 509000
+        },
+        {
+          "author": "steipete",
+          "id": "2055668954715111522",
+          "likes": 4,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Because GPT 5.5 is the highest scoring model.",
+          "url": "https://x.com/steipete/status/2055668954715111522",
+          "views": 521
+        },
+        {
+          "author": "cyrilXBT",
+          "id": "2055581616022732932",
+          "likes": 212,
+          "replies": 29,
+          "retweets": 64,
+          "text": "GOOGLE JUST SILENTLY DOWNLOADED A 4GB AI MODEL TO YOUR COMPUTER WITHOUT ASKING.\n\nNo permission dialog.\n\nNo notification.\n\nNo way to stop it.\n\nIf you use Chrome there is a 4 gigabyte file sitting on your hard drive right now that you never agreed to download.\n\nIt is called Gemini",
+          "url": "https://x.com/cyrilXBT/status/2055581616022732932",
+          "views": 21000
+        },
+        {
+          "author": "eng_khairallah1",
+          "id": "2055672548227273044",
+          "likes": 401,
+          "replies": 37,
+          "retweets": 69,
+          "text": "Anthropic's Claude team just showed how to build an AI agent with real memory in under 30 minutes.\n\n24-minutes. free. by the people who built Claude.\n\nworth than $500 vibe-coding course.\n\nBookmark & replace one movie today with this course, then read the complete article below.",
+          "url": "https://x.com/eng_khairallah1/status/2055672548227273044",
+          "views": 62000
+        }
+      ]
+    },
+    {
+      "query": "open source AI model since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"LightSciencXXII\",\n    \"id\": \"2055838394366726331\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"OpenAI has launched GPT-5.5, a new generation of artificial intelligence geared towards real-world work and agent management. The model is now available in ChatGPT and Codex, expanding automation and professional assistance capabilities. This advancement strengthens the\",\n    \"url\": \"https://x.com/LightSciencXXII/status/2055838394366726331\",\n    \"views\": 39\n  },\n  {\n    \"author\": \"aiseomastery\",\n    \"id\": \"2055870928299422152\",\n    \"likes\": 1,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"FREE AI TOOL GIVES CLAUDE CODE AND CODEX INFINITE MEMORY AND IT USES 92% LESS TOKENS\\n\\nThis open source tool is already trending on GitHub and it completely changes how coding agents remember your projects.\",\n    \"url\": \"https://x.com/aiseomastery/status/2055870928299422152\",\n    \"views\": 113\n  },\n  {\n    \"author\": \"DivyanshT91162\",\n    \"id\": \"2055680567363141883\",\n    \"likes\": 16,\n    \"replies\": 6,\n    \"retweets\": 8,\n    \"text\": \"AI agents have a massive problem:\\n\\nThey forget everything.\\n\\nEvery session starts from zero\u2026 no memory, no context, no learning.\\n\\nSomeone finally fixed it \\n\\nIt\u2019s called agentmemory.\\n\\nA fully open-source system that gives Hermes, Claude Code, and Codex long-term memory by:\\n\\n\u2192\",\n    \"url\": \"https://x.com/DivyanshT91162/status/2055680567363141883\",\n    \"views\": 1300\n  },\n  {\n    \"author\": \"AlphaSignalAI\",\n    \"id\": \"2055619473462182215\",\n    \"likes\": 4,\n    \"replies\": 2,\n    \"retweets\": 2,\n    \"text\": \"Generative UI just went open source. 3x faster and 67% fewer tokens than JSON-render.\\n\\nMost generative UI today streams JSON back from the model.\\n \\nJSON is verbose, slow to parse, and burns tokens fast.\\n \\nOpenUI is a new open-source framework built around a different idea.\\n \\nIt\",\n    \"url\": \"https://x.com/AlphaSignalAI/status/2055619473462182215\",\n    \"views\": 607\n  },\n  {\n    \"author\": \"DataChaz\",\n    \"id\": \"2055692342758408210\",\n    \"likes\": 44,\n    \"replies\": 7,\n    \"retweets\": 29,\n    \"text\": \"THE BIGGEST ROADBLOCK TO SCALING AI AGENTS IS NOT INTELLIGENCE, IT IS TOKEN COST\\n\\nIf your agent uses a premium reasoning model to answer a basic greeting, you are burning money.\\n\\n@OpenSquilla is an open-source orchestrator that fixes this, delivering a documented 60-80% in\",\n    \"url\": \"https://x.com/DataChaz/status/2055692342758408210\",\n    \"views\": 7900\n  },\n  {\n    \"author\": \"manishamishra24\",\n    \"id\": \"2055726852275376340\",\n    \"likes\": 13,\n    \"replies\": 1,\n    \"retweets\": 1,\n    \"text\": \"16 best GitHub repos to build AI engineering projects!\\n(star + bookmark them):\\n\\nThe open-source AI ecosystem has 4.3M+ repos now.\\n\\nNew repos blow up every month, and the tools developers build with today look nothing like what we had a year ago.\\n\\nI put together a visual covering\",\n    \"url\": \"https://x.com/manishamishra24/status/2055726852275376340\",\n    \"views\": 822\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "LightSciencXXII",
+          "id": "2055838394366726331",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "OpenAI has launched GPT-5.5, a new generation of artificial intelligence geared towards real-world work and agent management. The model is now available in ChatGPT and Codex, expanding automation and professional assistance capabilities. This advancement strengthens the",
+          "url": "https://x.com/LightSciencXXII/status/2055838394366726331",
+          "views": 39
+        },
+        {
+          "author": "aiseomastery",
+          "id": "2055870928299422152",
+          "likes": 1,
+          "replies": 0,
+          "retweets": 0,
+          "text": "FREE AI TOOL GIVES CLAUDE CODE AND CODEX INFINITE MEMORY AND IT USES 92% LESS TOKENS\n\nThis open source tool is already trending on GitHub and it completely changes how coding agents remember your projects.",
+          "url": "https://x.com/aiseomastery/status/2055870928299422152",
+          "views": 113
+        },
+        {
+          "author": "DivyanshT91162",
+          "id": "2055680567363141883",
+          "likes": 16,
+          "replies": 6,
+          "retweets": 8,
+          "text": "AI agents have a massive problem:\n\nThey forget everything.\n\nEvery session starts from zero\u2026 no memory, no context, no learning.\n\nSomeone finally fixed it \n\nIt\u2019s called agentmemory.\n\nA fully open-source system that gives Hermes, Claude Code, and Codex long-term memory by:\n\n\u2192",
+          "url": "https://x.com/DivyanshT91162/status/2055680567363141883",
+          "views": 1300
+        },
+        {
+          "author": "AlphaSignalAI",
+          "id": "2055619473462182215",
+          "likes": 4,
+          "replies": 2,
+          "retweets": 2,
+          "text": "Generative UI just went open source. 3x faster and 67% fewer tokens than JSON-render.\n\nMost generative UI today streams JSON back from the model.\n \nJSON is verbose, slow to parse, and burns tokens fast.\n \nOpenUI is a new open-source framework built around a different idea.\n \nIt",
+          "url": "https://x.com/AlphaSignalAI/status/2055619473462182215",
+          "views": 607
+        },
+        {
+          "author": "DataChaz",
+          "id": "2055692342758408210",
+          "likes": 44,
+          "replies": 7,
+          "retweets": 29,
+          "text": "THE BIGGEST ROADBLOCK TO SCALING AI AGENTS IS NOT INTELLIGENCE, IT IS TOKEN COST\n\nIf your agent uses a premium reasoning model to answer a basic greeting, you are burning money.\n\n@OpenSquilla is an open-source orchestrator that fixes this, delivering a documented 60-80% in",
+          "url": "https://x.com/DataChaz/status/2055692342758408210",
+          "views": 7900
+        },
+        {
+          "author": "manishamishra24",
+          "id": "2055726852275376340",
+          "likes": 13,
+          "replies": 1,
+          "retweets": 1,
+          "text": "16 best GitHub repos to build AI engineering projects!\n(star + bookmark them):\n\nThe open-source AI ecosystem has 4.3M+ repos now.\n\nNew repos blow up every month, and the tools developers build with today look nothing like what we had a year ago.\n\nI put together a visual covering",
+          "url": "https://x.com/manishamishra24/status/2055726852275376340",
+          "views": 822
+        }
+      ]
+    },
+    {
+      "query": "AI agent since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"eng_khairallah1\",\n    \"id\": \"2055672548227273044\",\n    \"likes\": 401,\n    \"replies\": 37,\n    \"retweets\": 69,\n    \"text\": \"Anthropic's Claude team just showed how to build an AI agent with real memory in under 30 minutes.\\n\\n24-minutes. free. by the people who built Claude.\\n\\nworth than $500 vibe-coding course.\\n\\nBookmark & replace one movie today with this course, then read the complete article below.\",\n    \"url\": \"https://x.com/eng_khairallah1/status/2055672548227273044\",\n    \"views\": 62000\n  },\n  {\n    \"author\": \"mattshumer_\",\n    \"id\": \"2055711461301682605\",\n    \"likes\": 9,\n    \"replies\": 2,\n    \"retweets\": 2,\n    \"text\": \"In the meantime, if you need an AI agent that's actually online, check out\",\n    \"url\": \"https://x.com/mattshumer_/status/2055711461301682605\",\n    \"views\": 8800\n  },\n  {\n    \"author\": \"RoundtableSpace\",\n    \"id\": \"2055804238798970945\",\n    \"likes\": 78,\n    \"replies\": 8,\n    \"retweets\": 12,\n    \"text\": \"RING 2.6 1T IS A FREE CHINESE AI AGENT WITH 1 TRILLION PARAMETERS THAT DOESN'T ANSWER QUESTIONS. IT COMPLETES MISSIONS.\\n\\nBuilt by Ant Group, the company behind Alipay. Most AI models reply. This one executes the entire chain start to finish.\",\n    \"url\": \"https://x.com/RoundtableSpace/status/2055804238798970945\",\n    \"views\": 52000\n  },\n  {\n    \"author\": \"0xmitsurii\",\n    \"id\": \"2055582435895832781\",\n    \"likes\": 143,\n    \"replies\": 18,\n    \"retweets\": 15,\n    \"text\": \"Google just turned the mouse pointer into an AI agent.\",\n    \"url\": \"https://x.com/0xmitsurii/status/2055582435895832781\",\n    \"views\": 16000\n  },\n  {\n    \"author\": \"RoundtableSpace\",\n    \"id\": \"2055668343743590615\",\n    \"likes\": 320,\n    \"replies\": 33,\n    \"retweets\": 22,\n    \"text\": \"GITHUB JUST CERTIFIED THE AI JOB OF THE FUTURE\\n\\n* GitHub launched GH-600 for \u201cAgentic AI Developers\u201d managing autonomous AI workflows  \\n* Focuses on supervising agents across coding, CI/CD, automation, and production systems  \\n* Signals that AI agent operations are becoming a\",\n    \"url\": \"https://x.com/RoundtableSpace/status/2055668343743590615\",\n    \"views\": 60000\n  },\n  {\n    \"author\": \"AbdMuizAdeyemo\",\n    \"id\": \"2055699971295338913\",\n    \"likes\": 2,\n    \"replies\": 0,\n    \"retweets\": 1,\n    \"text\": \"GitHub just made Agentic AI Developer an official certification.\\n\\nI can\u2019t justify the exam fee yet, so I\u2019m doing the next best thing.\\n\\nI\u2019ll prepare in public by building real agent workflows, documenting what breaks, and turning the learning into open-source proof.\",\n    \"url\": \"https://x.com/AbdMuizAdeyemo/status/2055699971295338913\",\n    \"views\": 90\n  },\n  {\n    \"author\": \"skeptrune\",\n    \"id\": \"2055467740530364462\",\n    \"likes\": 100,\n    \"replies\": 9,\n    \"retweets\": 2,\n    \"text\": \"yea so @mintlify sites are a shockingly effective memory system for AI agents\\n\\nour sites are each respectively a collection of markdown files in a git repository\\n\\nand, as it turns out, providing that within a file system to a coding agent harness running in a sandbox (shoutout\",\n    \"url\": \"https://x.com/skeptrune/status/2055467740530364462\",\n    \"views\": 3900\n  },\n  {\n    \"author\": \"DivyanshT91162\",\n    \"id\": \"2055557862345335098\",\n    \"likes\": 397,\n    \"replies\": 17,\n    \"retweets\": 55,\n    \"text\": \"Claude can now make your entire codebase self-explaining \\n\\nIt maps your app into:\\n\\n\u2192 an interactive HTML architecture view for humans\\n\u2192 a structured JSON memory file for AI agents\\n\\nThe next coding agent instantly understands: APIs, components, dependencies, database flows,\",\n    \"url\": \"https://x.com/DivyanshT91162/status/2055557862345335098\",\n    \"views\": 35000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "eng_khairallah1",
+          "id": "2055672548227273044",
+          "likes": 401,
+          "replies": 37,
+          "retweets": 69,
+          "text": "Anthropic's Claude team just showed how to build an AI agent with real memory in under 30 minutes.\n\n24-minutes. free. by the people who built Claude.\n\nworth than $500 vibe-coding course.\n\nBookmark & replace one movie today with this course, then read the complete article below.",
+          "url": "https://x.com/eng_khairallah1/status/2055672548227273044",
+          "views": 62000
+        },
+        {
+          "author": "mattshumer_",
+          "id": "2055711461301682605",
+          "likes": 9,
+          "replies": 2,
+          "retweets": 2,
+          "text": "In the meantime, if you need an AI agent that's actually online, check out",
+          "url": "https://x.com/mattshumer_/status/2055711461301682605",
+          "views": 8800
+        },
+        {
+          "author": "RoundtableSpace",
+          "id": "2055804238798970945",
+          "likes": 78,
+          "replies": 8,
+          "retweets": 12,
+          "text": "RING 2.6 1T IS A FREE CHINESE AI AGENT WITH 1 TRILLION PARAMETERS THAT DOESN'T ANSWER QUESTIONS. IT COMPLETES MISSIONS.\n\nBuilt by Ant Group, the company behind Alipay. Most AI models reply. This one executes the entire chain start to finish.",
+          "url": "https://x.com/RoundtableSpace/status/2055804238798970945",
+          "views": 52000
+        },
+        {
+          "author": "0xmitsurii",
+          "id": "2055582435895832781",
+          "likes": 143,
+          "replies": 18,
+          "retweets": 15,
+          "text": "Google just turned the mouse pointer into an AI agent.",
+          "url": "https://x.com/0xmitsurii/status/2055582435895832781",
+          "views": 16000
+        },
+        {
+          "author": "RoundtableSpace",
+          "id": "2055668343743590615",
+          "likes": 320,
+          "replies": 33,
+          "retweets": 22,
+          "text": "GITHUB JUST CERTIFIED THE AI JOB OF THE FUTURE\n\n* GitHub launched GH-600 for \u201cAgentic AI Developers\u201d managing autonomous AI workflows  \n* Focuses on supervising agents across coding, CI/CD, automation, and production systems  \n* Signals that AI agent operations are becoming a",
+          "url": "https://x.com/RoundtableSpace/status/2055668343743590615",
+          "views": 60000
+        },
+        {
+          "author": "AbdMuizAdeyemo",
+          "id": "2055699971295338913",
+          "likes": 2,
+          "replies": 0,
+          "retweets": 1,
+          "text": "GitHub just made Agentic AI Developer an official certification.\n\nI can\u2019t justify the exam fee yet, so I\u2019m doing the next best thing.\n\nI\u2019ll prepare in public by building real agent workflows, documenting what breaks, and turning the learning into open-source proof.",
+          "url": "https://x.com/AbdMuizAdeyemo/status/2055699971295338913",
+          "views": 90
+        },
+        {
+          "author": "skeptrune",
+          "id": "2055467740530364462",
+          "likes": 100,
+          "replies": 9,
+          "retweets": 2,
+          "text": "yea so @mintlify sites are a shockingly effective memory system for AI agents\n\nour sites are each respectively a collection of markdown files in a git repository\n\nand, as it turns out, providing that within a file system to a coding agent harness running in a sandbox (shoutout",
+          "url": "https://x.com/skeptrune/status/2055467740530364462",
+          "views": 3900
+        },
+        {
+          "author": "DivyanshT91162",
+          "id": "2055557862345335098",
+          "likes": 397,
+          "replies": 17,
+          "retweets": 55,
+          "text": "Claude can now make your entire codebase self-explaining \n\nIt maps your app into:\n\n\u2192 an interactive HTML architecture view for humans\n\u2192 a structured JSON memory file for AI agents\n\nThe next coding agent instantly understands: APIs, components, dependencies, database flows,",
+          "url": "https://x.com/DivyanshT91162/status/2055557862345335098",
+          "views": 35000
+        }
+      ]
+    },
+    {
+      "query": "Sam Altman since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"DeRonin_\",\n    \"id\": \"2055633620249849915\",\n    \"likes\": 161,\n    \"replies\": 16,\n    \"retweets\": 13,\n    \"text\": \"Sam Altman literally dropped the playbook for turning an idea into a multi-billion company  \\n\\nThis 46-minute lecture is the best thing I've watched on raising in 2026\\n\\nIt will help you understand how the early-stage game actually works and which side of the table you're really\",\n    \"url\": \"https://x.com/DeRonin_/status/2055633620249849915\",\n    \"views\": 26000\n  },\n  {\n    \"author\": \"Asad_Ashah\",\n    \"id\": \"2055516570416472172\",\n    \"likes\": 4,\n    \"replies\": 1,\n    \"retweets\": 1,\n    \"text\": \"Older people use ChatGPT like Google.\\nGen Z uses it like an operating system for life.\u201d \u2014 Sam Altman\\n\\nThat may be the most important insight about the future of AI adoption.\\n\\nFor the next generation, AI is no longer just a tool.\\n\\nIt is becoming a thinking partner for learning,\",\n    \"url\": \"https://x.com/Asad_Ashah/status/2055516570416472172\",\n    \"views\": 390\n  },\n  {\n    \"author\": \"realBigBrainAI\",\n    \"id\": \"2055581650621501787\",\n    \"likes\": 98,\n    \"replies\": 10,\n    \"retweets\": 24,\n    \"text\": \"Elon Musk doesn't hold back on Sam Altman: \\\"I don't trust OpenAI.\\\"\",\n    \"url\": \"https://x.com/realBigBrainAI/status/2055581650621501787\",\n    \"views\": 7200\n  },\n  {\n    \"author\": \"exploraX_\",\n    \"id\": \"2055686002165874865\",\n    \"likes\": 83,\n    \"replies\": 9,\n    \"retweets\": 9,\n    \"text\": \"sam altman, ceo of openAI, said:\\n\\n\u201cit\u2019s now very much possible to build a one-man billion dollar company.\u201d\\n\\nthe best thing you can do for yourself right now is bet on AI, we\u2019re nowhere near the saturation point.\\n\\nthere\u2019s no better time to start your solopreneur journey than\",\n    \"url\": \"https://x.com/exploraX_/status/2055686002165874865\",\n    \"views\": 10000\n  },\n  {\n    \"author\": \"neural_avb\",\n    \"id\": \"2055522522922398194\",\n    \"likes\": 5,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"So Fireship dropped a video on the Elon Musk - Sam Altman - Microsoft drama\",\n    \"url\": \"https://x.com/neural_avb/status/2055522522922398194\",\n    \"views\": 395\n  },\n  {\n    \"author\": \"rohanpaul_ai\",\n    \"id\": \"2055928306403565840\",\n    \"likes\": 12,\n    \"replies\": 2,\n    \"retweets\": 2,\n    \"text\": \"Great founders may begin as tech specialists, but building a company requires becoming a generalist and staying that way.\\n\\n~ Sam Altman.\",\n    \"url\": \"https://x.com/rohanpaul_ai/status/2055928306403565840\",\n    \"views\": 869\n  },\n  {\n    \"author\": \"heynavtoor\",\n    \"id\": \"2055679490756608167\",\n    \"likes\": 6,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"Matthew Raine ended his Senate testimony with one request.\\n\\n\\\"OpenAI and Sam Altman need to guarantee to families throughout our country that ChatGPT is safe. If it can't do that, it must pull GPT-4o from the market today.\\\"\\n\\nGPT-4o is the version Adam was talking to. Public\",\n    \"url\": \"https://x.com/heynavtoor/status/2055679490756608167\",\n    \"views\": 1500\n  },\n  {\n    \"author\": \"sadfrancisco69\",\n    \"id\": \"2055796388760551766\",\n    \"likes\": 2,\n    \"replies\": 0,\n    \"retweets\": 1,\n    \"text\": \"Discussed 1984 rom-com \u201cElectric Dreams\u201d and the attacks on Sam Altman\u2019s Russian Hill mansion on the new podcast ep with dee(Dee) and Jemma\",\n    \"url\": \"https://x.com/sadfrancisco69/status/2055796388760551766\",\n    \"views\": 99\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "DeRonin_",
+          "id": "2055633620249849915",
+          "likes": 161,
+          "replies": 16,
+          "retweets": 13,
+          "text": "Sam Altman literally dropped the playbook for turning an idea into a multi-billion company  \n\nThis 46-minute lecture is the best thing I've watched on raising in 2026\n\nIt will help you understand how the early-stage game actually works and which side of the table you're really",
+          "url": "https://x.com/DeRonin_/status/2055633620249849915",
+          "views": 26000
+        },
+        {
+          "author": "Asad_Ashah",
+          "id": "2055516570416472172",
+          "likes": 4,
+          "replies": 1,
+          "retweets": 1,
+          "text": "Older people use ChatGPT like Google.\nGen Z uses it like an operating system for life.\u201d \u2014 Sam Altman\n\nThat may be the most important insight about the future of AI adoption.\n\nFor the next generation, AI is no longer just a tool.\n\nIt is becoming a thinking partner for learning,",
+          "url": "https://x.com/Asad_Ashah/status/2055516570416472172",
+          "views": 390
+        },
+        {
+          "author": "realBigBrainAI",
+          "id": "2055581650621501787",
+          "likes": 98,
+          "replies": 10,
+          "retweets": 24,
+          "text": "Elon Musk doesn't hold back on Sam Altman: \"I don't trust OpenAI.\"",
+          "url": "https://x.com/realBigBrainAI/status/2055581650621501787",
+          "views": 7200
+        },
+        {
+          "author": "exploraX_",
+          "id": "2055686002165874865",
+          "likes": 83,
+          "replies": 9,
+          "retweets": 9,
+          "text": "sam altman, ceo of openAI, said:\n\n\u201cit\u2019s now very much possible to build a one-man billion dollar company.\u201d\n\nthe best thing you can do for yourself right now is bet on AI, we\u2019re nowhere near the saturation point.\n\nthere\u2019s no better time to start your solopreneur journey than",
+          "url": "https://x.com/exploraX_/status/2055686002165874865",
+          "views": 10000
+        },
+        {
+          "author": "neural_avb",
+          "id": "2055522522922398194",
+          "likes": 5,
+          "replies": 0,
+          "retweets": 0,
+          "text": "So Fireship dropped a video on the Elon Musk - Sam Altman - Microsoft drama",
+          "url": "https://x.com/neural_avb/status/2055522522922398194",
+          "views": 395
+        },
+        {
+          "author": "rohanpaul_ai",
+          "id": "2055928306403565840",
+          "likes": 12,
+          "replies": 2,
+          "retweets": 2,
+          "text": "Great founders may begin as tech specialists, but building a company requires becoming a generalist and staying that way.\n\n~ Sam Altman.",
+          "url": "https://x.com/rohanpaul_ai/status/2055928306403565840",
+          "views": 869
+        },
+        {
+          "author": "heynavtoor",
+          "id": "2055679490756608167",
+          "likes": 6,
+          "replies": 1,
+          "retweets": 0,
+          "text": "Matthew Raine ended his Senate testimony with one request.\n\n\"OpenAI and Sam Altman need to guarantee to families throughout our country that ChatGPT is safe. If it can't do that, it must pull GPT-4o from the market today.\"\n\nGPT-4o is the version Adam was talking to. Public",
+          "url": "https://x.com/heynavtoor/status/2055679490756608167",
+          "views": 1500
+        },
+        {
+          "author": "sadfrancisco69",
+          "id": "2055796388760551766",
+          "likes": 2,
+          "replies": 0,
+          "retweets": 1,
+          "text": "Discussed 1984 rom-com \u201cElectric Dreams\u201d and the attacks on Sam Altman\u2019s Russian Hill mansion on the new podcast ep with dee(Dee) and Jemma",
+          "url": "https://x.com/sadfrancisco69/status/2055796388760551766",
+          "views": 99
+        }
+      ]
+    },
+    {
+      "query": "Dario Amodei since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"AnatoliKopadze\",\n    \"id\": \"2055715499263054256\",\n    \"likes\": 969,\n    \"replies\": 52,\n    \"retweets\": 107,\n    \"text\": \"Anthropic CEO: \\\"It is absolutely wild that people are talking about the same tired political issues, when we are near the end of the AI exponential.\\\"\\n\\nDario Amodei spent 10 minutes explaining why almost nobody sees it.\\n\\nhere's what he covers:\\n\\n> in 2017 he predicted exactly where\",\n    \"url\": \"https://x.com/AnatoliKopadze/status/2055715499263054256\",\n    \"views\": 509000\n  },\n  {\n    \"author\": \"cgtwts\",\n    \"id\": \"2055724404026552325\",\n    \"likes\": 66,\n    \"replies\": 6,\n    \"retweets\": 7,\n    \"text\": \"How Dario Amodei (Anthropic CEO) feels after fearmogging everyone about AI unemployment for the 47th time:\",\n    \"url\": \"https://x.com/cgtwts/status/2055724404026552325\",\n    \"views\": 10000\n  },\n  {\n    \"author\": \"rohanpaul_ai\",\n    \"id\": \"2055843419000594452\",\n    \"likes\": 116,\n    \"replies\": 27,\n    \"retweets\": 30,\n    \"text\": \"Anthropic CEO Dario Amodei: \\n\\n\\\"AI will take us to a world where we have very high GDP growth and potentially also very high unemployment and inequality. \\n\\nWe've never had a technology that's this disruptive. So the idea that we could have 5% or 10% GDP growth, but also, 10%\",\n    \"url\": \"https://x.com/rohanpaul_ai/status/2055843419000594452\",\n    \"views\": 23000\n  },\n  {\n    \"author\": \"DamiDefi\",\n    \"id\": \"2055567680376062127\",\n    \"likes\": 114,\n    \"replies\": 6,\n    \"retweets\": 15,\n    \"text\": \"The CEO of Anthropic just admitted AI could make humans stupider. Here is exactly what he said and what to do instead.\\n\\nDario Amodei did not dodge the question. \\n\\nAsked directly whether humans will become stupider as a species from outsourcing thinking to AI, the Anthropic CEO\",\n    \"url\": \"https://x.com/DamiDefi/status/2055567680376062127\",\n    \"views\": 12000\n  },\n  {\n    \"author\": \"RealNickMugalli\",\n    \"id\": \"2055707883950440501\",\n    \"likes\": 23,\n    \"replies\": 0,\n    \"retweets\": 5,\n    \"text\": \"Anthropic CEO Dario Amodei known for his doomerism is now saying AI will lead to a 10% Unemployment Rate\",\n    \"url\": \"https://x.com/RealNickMugalli/status/2055707883950440501\",\n    \"views\": 2700\n  },\n  {\n    \"author\": \"2010OGNolambo\",\n    \"id\": \"2055935336652698013\",\n    \"likes\": 1,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Most coherent thing I have heard from Dario\",\n    \"url\": \"https://x.com/2010OGNolambo/status/2055935336652698013\",\n    \"views\": 1\n  },\n  {\n    \"author\": \"austinc3301\",\n    \"id\": \"2055856426778517758\",\n    \"likes\": 16,\n    \"replies\": 2,\n    \"retweets\": 0,\n    \"text\": \"wait qu\u00e9? dario amodei (ceo de Anthropic) estudi\u00f3 f\u00edsica, no literatura\",\n    \"url\": \"https://x.com/austinc3301/status/2055856426778517758\",\n    \"views\": 916\n  },\n  {\n    \"author\": \"rohanpaul_ai\",\n    \"id\": \"2055841486714147177\",\n    \"likes\": 392,\n    \"replies\": 103,\n    \"retweets\": 79,\n    \"text\": \"Anthropic CEO Dario Amodei : \\\"Software is going to become cheap, maybe essentially free. \\n\\nThe premise that you need to amortize a piece of software you build across millions of users, that may start to be false. \\n\\nBut at the same time, there are whole jobs, whole careers that\",\n    \"url\": \"https://x.com/rohanpaul_ai/status/2055841486714147177\",\n    \"views\": 107000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "AnatoliKopadze",
+          "id": "2055715499263054256",
+          "likes": 969,
+          "replies": 52,
+          "retweets": 107,
+          "text": "Anthropic CEO: \"It is absolutely wild that people are talking about the same tired political issues, when we are near the end of the AI exponential.\"\n\nDario Amodei spent 10 minutes explaining why almost nobody sees it.\n\nhere's what he covers:\n\n> in 2017 he predicted exactly where",
+          "url": "https://x.com/AnatoliKopadze/status/2055715499263054256",
+          "views": 509000
+        },
+        {
+          "author": "cgtwts",
+          "id": "2055724404026552325",
+          "likes": 66,
+          "replies": 6,
+          "retweets": 7,
+          "text": "How Dario Amodei (Anthropic CEO) feels after fearmogging everyone about AI unemployment for the 47th time:",
+          "url": "https://x.com/cgtwts/status/2055724404026552325",
+          "views": 10000
+        },
+        {
+          "author": "rohanpaul_ai",
+          "id": "2055843419000594452",
+          "likes": 116,
+          "replies": 27,
+          "retweets": 30,
+          "text": "Anthropic CEO Dario Amodei: \n\n\"AI will take us to a world where we have very high GDP growth and potentially also very high unemployment and inequality. \n\nWe've never had a technology that's this disruptive. So the idea that we could have 5% or 10% GDP growth, but also, 10%",
+          "url": "https://x.com/rohanpaul_ai/status/2055843419000594452",
+          "views": 23000
+        },
+        {
+          "author": "DamiDefi",
+          "id": "2055567680376062127",
+          "likes": 114,
+          "replies": 6,
+          "retweets": 15,
+          "text": "The CEO of Anthropic just admitted AI could make humans stupider. Here is exactly what he said and what to do instead.\n\nDario Amodei did not dodge the question. \n\nAsked directly whether humans will become stupider as a species from outsourcing thinking to AI, the Anthropic CEO",
+          "url": "https://x.com/DamiDefi/status/2055567680376062127",
+          "views": 12000
+        },
+        {
+          "author": "RealNickMugalli",
+          "id": "2055707883950440501",
+          "likes": 23,
+          "replies": 0,
+          "retweets": 5,
+          "text": "Anthropic CEO Dario Amodei known for his doomerism is now saying AI will lead to a 10% Unemployment Rate",
+          "url": "https://x.com/RealNickMugalli/status/2055707883950440501",
+          "views": 2700
+        },
+        {
+          "author": "2010OGNolambo",
+          "id": "2055935336652698013",
+          "likes": 1,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Most coherent thing I have heard from Dario",
+          "url": "https://x.com/2010OGNolambo/status/2055935336652698013",
+          "views": 1
+        },
+        {
+          "author": "austinc3301",
+          "id": "2055856426778517758",
+          "likes": 16,
+          "replies": 2,
+          "retweets": 0,
+          "text": "wait qu\u00e9? dario amodei (ceo de Anthropic) estudi\u00f3 f\u00edsica, no literatura",
+          "url": "https://x.com/austinc3301/status/2055856426778517758",
+          "views": 916
+        },
+        {
+          "author": "rohanpaul_ai",
+          "id": "2055841486714147177",
+          "likes": 392,
+          "replies": 103,
+          "retweets": 79,
+          "text": "Anthropic CEO Dario Amodei : \"Software is going to become cheap, maybe essentially free. \n\nThe premise that you need to amortize a piece of software you build across millions of users, that may start to be false. \n\nBut at the same time, there are whole jobs, whole careers that",
+          "url": "https://x.com/rohanpaul_ai/status/2055841486714147177",
+          "views": 107000
+        }
+      ]
+    },
+    {
+      "query": "Demis Hassabis since:2026-05-16",
+      "ok": true,
+      "stdout": "[\n  {\n    \"author\": \"morganlinton\",\n    \"id\": \"2055847074755957096\",\n    \"likes\": 14,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Instead of watching this 60-minute Cambridge lecture by Demis Hassabis, take a break, it\u2019s Saturday night, watch some Netflix\",\n    \"url\": \"https://x.com/morganlinton/status/2055847074755957096\",\n    \"views\": 2800\n  },\n  {\n    \"author\": \"MilsteinmAb\",\n    \"id\": \"2055675110833496473\",\n    \"likes\": 8,\n    \"replies\": 1,\n    \"retweets\": 2,\n    \"text\": \"Demis Hassabis (@GoogleDeepMind) and Nobel Prize in Chemistry winner solved protein folding with AlphaFold and now aims to cure all diseases.\\n\\n@IsomorphicLabs has just closed a $2.1B Series B to scale IsoDDE, its AI-powered drug design engine.\\n\\nWhat an incredible moment we're\",\n    \"url\": \"https://x.com/MilsteinmAb/status/2055675110833496473\",\n    \"views\": 976\n  },\n  {\n    \"author\": \"eng_khairallah1\",\n    \"id\": \"2055614814123417983\",\n    \"likes\": 210,\n    \"replies\": 35,\n    \"retweets\": 49,\n    \"text\": \"Demis Hassabis: \\\"In the near future, one person who knows AI will outperform an entire startup team\\\"\\n\\nI've watched hundreds of AI talks, this 60-minute Cambridge lecture is the one I wish I had seen a year ago\\n\\nSave this before everyone copies the playbook\\n\\nthis is the Nobel\",\n    \"url\": \"https://x.com/eng_khairallah1/status/2055614814123417983\",\n    \"views\": 37000\n  },\n  {\n    \"author\": \"aiecosystemhq\",\n    \"id\": \"2055902313949384711\",\n    \"likes\": 1,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Demis Hassabis just said something that should unsettle every scientist alive.\\n\\n\\\"I think the universe runs on information. I think we live in a world built from code.\\\"\\n\\nThe CEO of Google DeepMind is not speaking in metaphors.\\n\\nHe means it for real.\\n\\nAlphaFold didn't guess protein\",\n    \"url\": \"https://x.com/aiecosystemhq/status/2055902313949384711\",\n    \"views\": 15\n  },\n  {\n    \"author\": \"vision_ia\",\n    \"id\": \"2055560524306272729\",\n    \"likes\": 193,\n    \"replies\": 6,\n    \"retweets\": 53,\n    \"text\": \"Google DeepMind AI CEO Demis Hassabis has just announced $2.1 billion to cure all diseases with AI in research.\\n\\nDemis Hassabis has been building AI for years that folds proteins, designs molecules, and accelerates drug discovery (which earned him the Nobel Prize along the way).\",\n    \"url\": \"https://x.com/vision_ia/status/2055560524306272729\",\n    \"views\": 14000\n  },\n  {\n    \"author\": \"uxtigersdotcom\",\n    \"id\": \"2055606577990651972\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"One of my heroes, Demis Hassabis (Google DeepMind co-founder, Nobel laureate), on AI's present and future, in conversation with Y Combinator's Garry Tan:\\n\\n \ud835\uddd4\ud835\uddda\ud835\udddc \ud835\udde7\ud835\uddf6\ud835\uddfa\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf2: ~\ud835\udfee\ud835\udfec\ud835\udfef\ud835\udfec: Pre-training, RLHF, and chain-of-thought will all be part of AGI, but 1-2 fundamental\",\n    \"url\": \"https://x.com/uxtigersdotcom/status/2055606577990651972\",\n    \"views\": 34\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "morganlinton",
+          "id": "2055847074755957096",
+          "likes": 14,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Instead of watching this 60-minute Cambridge lecture by Demis Hassabis, take a break, it\u2019s Saturday night, watch some Netflix",
+          "url": "https://x.com/morganlinton/status/2055847074755957096",
+          "views": 2800
+        },
+        {
+          "author": "MilsteinmAb",
+          "id": "2055675110833496473",
+          "likes": 8,
+          "replies": 1,
+          "retweets": 2,
+          "text": "Demis Hassabis (@GoogleDeepMind) and Nobel Prize in Chemistry winner solved protein folding with AlphaFold and now aims to cure all diseases.\n\n@IsomorphicLabs has just closed a $2.1B Series B to scale IsoDDE, its AI-powered drug design engine.\n\nWhat an incredible moment we're",
+          "url": "https://x.com/MilsteinmAb/status/2055675110833496473",
+          "views": 976
+        },
+        {
+          "author": "eng_khairallah1",
+          "id": "2055614814123417983",
+          "likes": 210,
+          "replies": 35,
+          "retweets": 49,
+          "text": "Demis Hassabis: \"In the near future, one person who knows AI will outperform an entire startup team\"\n\nI've watched hundreds of AI talks, this 60-minute Cambridge lecture is the one I wish I had seen a year ago\n\nSave this before everyone copies the playbook\n\nthis is the Nobel",
+          "url": "https://x.com/eng_khairallah1/status/2055614814123417983",
+          "views": 37000
+        },
+        {
+          "author": "aiecosystemhq",
+          "id": "2055902313949384711",
+          "likes": 1,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Demis Hassabis just said something that should unsettle every scientist alive.\n\n\"I think the universe runs on information. I think we live in a world built from code.\"\n\nThe CEO of Google DeepMind is not speaking in metaphors.\n\nHe means it for real.\n\nAlphaFold didn't guess protein",
+          "url": "https://x.com/aiecosystemhq/status/2055902313949384711",
+          "views": 15
+        },
+        {
+          "author": "vision_ia",
+          "id": "2055560524306272729",
+          "likes": 193,
+          "replies": 6,
+          "retweets": 53,
+          "text": "Google DeepMind AI CEO Demis Hassabis has just announced $2.1 billion to cure all diseases with AI in research.\n\nDemis Hassabis has been building AI for years that folds proteins, designs molecules, and accelerates drug discovery (which earned him the Nobel Prize along the way).",
+          "url": "https://x.com/vision_ia/status/2055560524306272729",
+          "views": 14000
+        },
+        {
+          "author": "uxtigersdotcom",
+          "id": "2055606577990651972",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "One of my heroes, Demis Hassabis (Google DeepMind co-founder, Nobel laureate), on AI's present and future, in conversation with Y Combinator's Garry Tan:\n\n \ud835\uddd4\ud835\uddda\ud835\udddc \ud835\udde7\ud835\uddf6\ud835\uddfa\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf2: ~\ud835\udfee\ud835\udfec\ud835\udfef\ud835\udfec: Pre-training, RLHF, and chain-of-thought will all be part of AGI, but 1-2 fundamental",
+          "url": "https://x.com/uxtigersdotcom/status/2055606577990651972",
+          "views": 34
+        }
+      ]
+    },
+    {
+      "query": "from:karpathy since:2026-05-16",
+      "ok": true,
+      "stdout": "\u001b[2m2026-05-17T09:05:53.859863Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"672567ee-f87e-47f1-9836-0a1fe68e2175\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m1\n\u001b[2m2026-05-17T09:05:53.966011Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"5b4346aa-49e2-4b06-96ab-a749a393b2f6\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m2\n",
+      "stderr": "\u26a1 [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"e5708079-c080-4163-82b9-0ef6315d6866\",\"ok\":false}\n",
+      "tweets": []
+    },
+    {
+      "query": "from:sama since:2026-05-16",
+      "ok": true,
+      "stdout": "\u001b[2m2026-05-17T09:06:04.839792Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"a9575b61-8cac-40c4-aa5d-612df1162ae5\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m1\n\u001b[2m2026-05-17T09:06:04.883054Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"ca139d00-f1bc-45ff-b80d-47e9a4e0db4c\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m2\n",
+      "stderr": "\u26a1 [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"ddbe0dcc-b595-4b46-86d4-6c261dc70382\",\"ok\":false}\n",
+      "tweets": []
+    },
+    {
+      "query": "from:OpenAI since:2026-05-16",
+      "ok": true,
+      "stdout": "\u001b[2m2026-05-17T09:06:16.030934Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"f70bf22b-0789-4e2b-ae01-8841608f88fa\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m1\n\u001b[2m2026-05-17T09:06:16.054912Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"04497f5a-040d-4295-a2bf-ad889d7e0a3f\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m2\n",
+      "stderr": "\u26a1 [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"8ada89d8-44ed-4168-9207-2e771d1c5749\",\"ok\":false}\n",
+      "tweets": []
+    },
+    {
+      "query": "from:AnthropicAI since:2026-05-16",
+      "ok": true,
+      "stdout": "\u001b[2m2026-05-17T09:06:27.126308Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"bdd8a9b3-79ec-452f-ac6f-6950092e7265\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m1\n\u001b[2m2026-05-17T09:06:27.381044Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"ecda96ef-a4a9-4c3e-b492-d3cc888fb55a\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m2\n",
+      "stderr": "\u26a1 [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"ef2facb5-6184-497b-aed7-4a300a28656a\",\"ok\":false}\n",
+      "tweets": []
+    }
+  ]
+}

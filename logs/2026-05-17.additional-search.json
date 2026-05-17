@@ -1,0 +1,354 @@
+[
+  {
+    "query": "Claude Code webcam access programmatic use presence check since:2026-05-16",
+    "ok": true,
+    "stdout": "[\n  {\n    \"author\": \"d2sdev\",\n    \"id\": \"2055936336926765173\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Why would Claude need to know the user is actually present? A step too far if you ask me.\",\n    \"url\": \"https://x.com/d2sdev/status/2055936336926765173\",\n    \"views\": 4\n  },\n  {\n    \"author\": \"TheSpacerr\",\n    \"id\": \"2055922073252348053\",\n    \"likes\": 2,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"This is outrageous. \\n\\nClaude now requires access to your webcam while coding.\\n\\nTime to switch back to Codex.\",\n    \"url\": \"https://x.com/TheSpacerr/status/2055922073252348053\",\n    \"views\": 36\n  },\n  {\n    \"author\": \"dddanielwang\",\n    \"id\": \"2055840368554332380\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 1,\n    \"text\": \"\u7591\u4f3cClaude Code \u4f1a\u8c03\u7528\u6444\u50cf\u5934\uff0c\u4e3a\u4e86\u786e\u4fdd\u7528\u6237\u6ca1\u6709\u901a\u8fc7 'claude -p' \u7b49\u7a0b\u5e8f\u5316\u65b9\u5f0f\u4f7f\u7528Claude\u8ba2\u9605\uff0c\",\n    \"url\": \"https://x.com/dddanielwang/status/2055840368554332380\",\n    \"views\": 117\n  },\n  {\n    \"author\": \"yacineMTB\",\n    \"id\": \"2055806619032711447\",\n    \"likes\": 467,\n    \"replies\": 55,\n    \"retweets\": 11,\n    \"text\": \"Apparently claude code is asking for microphone permissions to check if there is a breathing human in the area, just in case you set up a python script to use it overnight... they're going way too far\",\n    \"url\": \"https://x.com/yacineMTB/status/2055806619032711447\",\n    \"views\": 26000\n  },\n  {\n    \"author\": \"dddanielwang\",\n    \"id\": \"2055911966502420497\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 1,\n    \"text\": \"Anthropic this company pulls out all the stops\\n\\nTo prevent Claude Code subscriptions from being used in other agents, Claude Code will request access to your camera to ensure it's a real person using it\\n\\nRather than being invoked via methods like \\\"claude -p\\\"\",\n    \"url\": \"https://x.com/dddanielwang/status/2055911966502420497\",\n    \"views\": 40\n  },\n  {\n    \"author\": \"dzikyDonnyMaps\",\n    \"id\": \"2055872952978038841\",\n    \"likes\": 3,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"This webcam \u201canti-bot\u201d check is just the gateway to getting properly hacked \\n\\nNext prompt: \u201cconfirm you\u2019re human by showing your screen\u2026 and your banking app\u201d\\n\\nClaude Code speedrunning privacy nightmares.\",\n    \"url\": \"https://x.com/dzikyDonnyMaps/status/2055872952978038841\",\n    \"views\": 824\n  },\n  {\n    \"author\": \"heyadam_ai\",\n    \"id\": \"2055937780245831855\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"COMPLETE CLAUDE CODE COURSE OF 4 HOURS\\n\\nThis is the most comprehensive Claude guide I've seen on the internet.\\n\\nBookmark it before you forget it.\\n\\n4 hours. Build tools. Automate your work.\",\n    \"url\": \"https://x.com/heyadam_ai/status/2055937780245831855\",\n    \"views\": 14\n  },\n  {\n    \"author\": \"web3nomad\",\n    \"id\": \"2055821262447055055\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"the fact that claude now needs to see your face to verify you're actually there.\\n\\nthat's the proof-of-human problem showing up in the product itself.\",\n    \"url\": \"https://x.com/web3nomad/status/2055821262447055055\",\n    \"views\": 95\n  },\n  {\n    \"author\": \"alex_prompter\",\n    \"id\": \"2055932977922605474\",\n    \"likes\": 21,\n    \"replies\": 6,\n    \"retweets\": 14,\n    \"text\": \"BREAKING: Claude has a hidden feature called Burnout Recovery Protocol Mode.\\n\\nYou can use it to reset your cortisol baseline and recover 6 months of exhaustion in 14 days.\\n\\nHere are 7 prompts to access it:\",\n    \"url\": \"https://x.com/alex_prompter/status/2055932977922605474\",\n    \"views\": 1200\n  }\n]\n",
+    "stderr": "",
+    "tweets": [
+      {
+        "author": "d2sdev",
+        "id": "2055936336926765173",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "Why would Claude need to know the user is actually present? A step too far if you ask me.",
+        "url": "https://x.com/d2sdev/status/2055936336926765173",
+        "views": 4
+      },
+      {
+        "author": "TheSpacerr",
+        "id": "2055922073252348053",
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "text": "This is outrageous. \n\nClaude now requires access to your webcam while coding.\n\nTime to switch back to Codex.",
+        "url": "https://x.com/TheSpacerr/status/2055922073252348053",
+        "views": 36
+      },
+      {
+        "author": "dddanielwang",
+        "id": "2055840368554332380",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "text": "\u7591\u4f3cClaude Code \u4f1a\u8c03\u7528\u6444\u50cf\u5934\uff0c\u4e3a\u4e86\u786e\u4fdd\u7528\u6237\u6ca1\u6709\u901a\u8fc7 'claude -p' \u7b49\u7a0b\u5e8f\u5316\u65b9\u5f0f\u4f7f\u7528Claude\u8ba2\u9605\uff0c",
+        "url": "https://x.com/dddanielwang/status/2055840368554332380",
+        "views": 117
+      },
+      {
+        "author": "yacineMTB",
+        "id": "2055806619032711447",
+        "likes": 467,
+        "replies": 55,
+        "retweets": 11,
+        "text": "Apparently claude code is asking for microphone permissions to check if there is a breathing human in the area, just in case you set up a python script to use it overnight... they're going way too far",
+        "url": "https://x.com/yacineMTB/status/2055806619032711447",
+        "views": 26000
+      },
+      {
+        "author": "dddanielwang",
+        "id": "2055911966502420497",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "text": "Anthropic this company pulls out all the stops\n\nTo prevent Claude Code subscriptions from being used in other agents, Claude Code will request access to your camera to ensure it's a real person using it\n\nRather than being invoked via methods like \"claude -p\"",
+        "url": "https://x.com/dddanielwang/status/2055911966502420497",
+        "views": 40
+      },
+      {
+        "author": "dzikyDonnyMaps",
+        "id": "2055872952978038841",
+        "likes": 3,
+        "replies": 0,
+        "retweets": 0,
+        "text": "This webcam \u201canti-bot\u201d check is just the gateway to getting properly hacked \n\nNext prompt: \u201cconfirm you\u2019re human by showing your screen\u2026 and your banking app\u201d\n\nClaude Code speedrunning privacy nightmares.",
+        "url": "https://x.com/dzikyDonnyMaps/status/2055872952978038841",
+        "views": 824
+      },
+      {
+        "author": "heyadam_ai",
+        "id": "2055937780245831855",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "COMPLETE CLAUDE CODE COURSE OF 4 HOURS\n\nThis is the most comprehensive Claude guide I've seen on the internet.\n\nBookmark it before you forget it.\n\n4 hours. Build tools. Automate your work.",
+        "url": "https://x.com/heyadam_ai/status/2055937780245831855",
+        "views": 14
+      },
+      {
+        "author": "web3nomad",
+        "id": "2055821262447055055",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "the fact that claude now needs to see your face to verify you're actually there.\n\nthat's the proof-of-human problem showing up in the product itself.",
+        "url": "https://x.com/web3nomad/status/2055821262447055055",
+        "views": 95
+      },
+      {
+        "author": "alex_prompter",
+        "id": "2055932977922605474",
+        "likes": 21,
+        "replies": 6,
+        "retweets": 14,
+        "text": "BREAKING: Claude has a hidden feature called Burnout Recovery Protocol Mode.\n\nYou can use it to reset your cortisol baseline and recover 6 months of exhaustion in 14 days.\n\nHere are 7 prompts to access it:",
+        "url": "https://x.com/alex_prompter/status/2055932977922605474",
+        "views": 1200
+      }
+    ]
+  },
+  {
+    "query": "GitHub GH-600 Agentic AI Developer certification since:2026-05-16",
+    "ok": true,
+    "stdout": "[\n  {\n    \"author\": \"sairahul1\",\n    \"id\": \"2055621974773416360\",\n    \"likes\": 50,\n    \"replies\": 13,\n    \"retweets\": 6,\n    \"text\": \"GitHub just created an official certification for the most in-demand developer role of 2026.\\n\\nIt's called Agentic AI Developer.\\n\\nGH-600.\\n\\nNot a prompt engineer.\\nNot a vibe coder.\\nNot someone who demos on Twitter.\\n\\nThe person who operates, supervises, and integrates AI agents\",\n    \"url\": \"https://x.com/sairahul1/status/2055621974773416360\",\n    \"views\": 14000\n  },\n  {\n    \"author\": \"RoundtableSpace\",\n    \"id\": \"2055668343743590615\",\n    \"likes\": 320,\n    \"replies\": 33,\n    \"retweets\": 22,\n    \"text\": \"GITHUB JUST CERTIFIED THE AI JOB OF THE FUTURE\\n\\n* GitHub launched GH-600 for \u201cAgentic AI Developers\u201d managing autonomous AI workflows  \\n* Focuses on supervising agents across coding, CI/CD, automation, and production systems  \\n* Signals that AI agent operations are becoming a\",\n    \"url\": \"https://x.com/RoundtableSpace/status/2055668343743590615\",\n    \"views\": 60000\n  },\n  {\n    \"author\": \"seelffff\",\n    \"id\": \"2055570435425575040\",\n    \"likes\": 911,\n    \"replies\": 36,\n    \"retweets\": 92,\n    \"text\": \"github just created an official certification for \\\"agentic AI developer.\\\"\\n\\nexam: GH-600.\\nskills tested: multi-agent orchestration, state management, system design.\\nGA: july 2026.\\nfirst 100 beta takers: 80% off. deadline may 31.\\n\\nthis is the first time \\\"AI agent engineer\\\" has a\",\n    \"url\": \"https://x.com/seelffff/status/2055570435425575040\",\n    \"views\": 133000\n  },\n  {\n    \"author\": \"lemonDefi1\",\n    \"id\": \"2055411977770443000\",\n    \"likes\": 2,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"GITHUB JUST LAUNCHED THE OFFICIAL CERTIFICATION FOR ONE OF THE MOST IMPORTANT TECH ROLES OF 2026\",\n    \"url\": \"https://x.com/lemonDefi1/status/2055411977770443000\",\n    \"views\": 48\n  },\n  {\n    \"author\": \"saen_dev\",\n    \"id\": \"2055644341037678737\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"A GitHub cert is the market signaling that agentic AI engineering is a real job title now, not a side skill.\\nThe engineers who've been doing this work for two years just got a credential to name what they already know.\",\n    \"url\": \"https://x.com/saen_dev/status/2055644341037678737\",\n    \"views\": 47\n  },\n  {\n    \"author\": \"AbdMuizAdeyemo\",\n    \"id\": \"2055699971295338913\",\n    \"likes\": 2,\n    \"replies\": 0,\n    \"retweets\": 1,\n    \"text\": \"GitHub just made Agentic AI Developer an official certification.\\n\\nI can\u2019t justify the exam fee yet, so I\u2019m doing the next best thing.\\n\\nI\u2019ll prepare in public by building real agent workflows, documenting what breaks, and turning the learning into open-source proof.\",\n    \"url\": \"https://x.com/AbdMuizAdeyemo/status/2055699971295338913\",\n    \"views\": 91\n  },\n  {\n    \"author\": \"RockportAI\",\n    \"id\": \"2055740908365111613\",\n    \"likes\": 1,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"GitHub just quietly defined what an AI agent engineer actually does.\\n\\nNot a vibe. Not a job description with buzzwords. A credential with a skills checklist.\\n\\nGH-600 is the first time a major platform has drawn a line between \\\"developer who uses AI\\\" and \\\"developer who ships\",\n    \"url\": \"https://x.com/RockportAI/status/2055740908365111613\",\n    \"views\": 107\n  }\n]\n",
+    "stderr": "",
+    "tweets": [
+      {
+        "author": "sairahul1",
+        "id": "2055621974773416360",
+        "likes": 50,
+        "replies": 13,
+        "retweets": 6,
+        "text": "GitHub just created an official certification for the most in-demand developer role of 2026.\n\nIt's called Agentic AI Developer.\n\nGH-600.\n\nNot a prompt engineer.\nNot a vibe coder.\nNot someone who demos on Twitter.\n\nThe person who operates, supervises, and integrates AI agents",
+        "url": "https://x.com/sairahul1/status/2055621974773416360",
+        "views": 14000
+      },
+      {
+        "author": "RoundtableSpace",
+        "id": "2055668343743590615",
+        "likes": 320,
+        "replies": 33,
+        "retweets": 22,
+        "text": "GITHUB JUST CERTIFIED THE AI JOB OF THE FUTURE\n\n* GitHub launched GH-600 for \u201cAgentic AI Developers\u201d managing autonomous AI workflows  \n* Focuses on supervising agents across coding, CI/CD, automation, and production systems  \n* Signals that AI agent operations are becoming a",
+        "url": "https://x.com/RoundtableSpace/status/2055668343743590615",
+        "views": 60000
+      },
+      {
+        "author": "seelffff",
+        "id": "2055570435425575040",
+        "likes": 911,
+        "replies": 36,
+        "retweets": 92,
+        "text": "github just created an official certification for \"agentic AI developer.\"\n\nexam: GH-600.\nskills tested: multi-agent orchestration, state management, system design.\nGA: july 2026.\nfirst 100 beta takers: 80% off. deadline may 31.\n\nthis is the first time \"AI agent engineer\" has a",
+        "url": "https://x.com/seelffff/status/2055570435425575040",
+        "views": 133000
+      },
+      {
+        "author": "lemonDefi1",
+        "id": "2055411977770443000",
+        "likes": 2,
+        "replies": 0,
+        "retweets": 0,
+        "text": "GITHUB JUST LAUNCHED THE OFFICIAL CERTIFICATION FOR ONE OF THE MOST IMPORTANT TECH ROLES OF 2026",
+        "url": "https://x.com/lemonDefi1/status/2055411977770443000",
+        "views": 48
+      },
+      {
+        "author": "saen_dev",
+        "id": "2055644341037678737",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "A GitHub cert is the market signaling that agentic AI engineering is a real job title now, not a side skill.\nThe engineers who've been doing this work for two years just got a credential to name what they already know.",
+        "url": "https://x.com/saen_dev/status/2055644341037678737",
+        "views": 47
+      },
+      {
+        "author": "AbdMuizAdeyemo",
+        "id": "2055699971295338913",
+        "likes": 2,
+        "replies": 0,
+        "retweets": 1,
+        "text": "GitHub just made Agentic AI Developer an official certification.\n\nI can\u2019t justify the exam fee yet, so I\u2019m doing the next best thing.\n\nI\u2019ll prepare in public by building real agent workflows, documenting what breaks, and turning the learning into open-source proof.",
+        "url": "https://x.com/AbdMuizAdeyemo/status/2055699971295338913",
+        "views": 91
+      },
+      {
+        "author": "RockportAI",
+        "id": "2055740908365111613",
+        "likes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "text": "GitHub just quietly defined what an AI agent engineer actually does.\n\nNot a vibe. Not a job description with buzzwords. A credential with a skills checklist.\n\nGH-600 is the first time a major platform has drawn a line between \"developer who uses AI\" and \"developer who ships",
+        "url": "https://x.com/RockportAI/status/2055740908365111613",
+        "views": 107
+      }
+    ]
+  },
+  {
+    "query": "Chrome Gemini Nano local model download AI features since:2026-05-16",
+    "ok": true,
+    "stdout": "[\n  {\n    \"author\": \"Daniel_adsss\",\n    \"id\": \"2055765044449960162\",\n    \"likes\": 2,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"GOOGLE SILENTLY DOWNLOADED A 4GB AI MODEL TO YOUR COMPUTER WITHOUT ASKING AND HERE IS HOW TO CHECK IF IT IS ALREADY THERE.\\n\\nA security researcher set up a completely fresh Chrome profile. Did not click anything. Did not scroll. Did not type a single keystroke. Just opened the\",\n    \"url\": \"https://x.com/Daniel_adsss/status/2055765044449960162\",\n    \"views\": 65\n  },\n  {\n    \"author\": \"cyrilXBT\",\n    \"id\": \"2055581616022732932\",\n    \"likes\": 212,\n    \"replies\": 29,\n    \"retweets\": 64,\n    \"text\": \"GOOGLE JUST SILENTLY DOWNLOADED A 4GB AI MODEL TO YOUR COMPUTER WITHOUT ASKING.\\n\\nNo permission dialog.\\n\\nNo notification.\\n\\nNo way to stop it.\\n\\nIf you use Chrome there is a 4 gigabyte file sitting on your hard drive right now that you never agreed to download.\\n\\nIt is called Gemini\",\n    \"url\": \"https://x.com/cyrilXBT/status/2055581616022732932\",\n    \"views\": 21000\n  },\n  {\n    \"author\": \"im_serPAI\",\n    \"id\": \"2055602814781456578\",\n    \"likes\": 1,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Google Chrome pulled a sneaky. Silently downloaded 4GB Gemini Nano AI to your machine, no permission. Scans your GPU, RAM, storage, then dumps the file. It is 40X slower than cloud, barely functional.\",\n    \"url\": \"https://x.com/im_serPAI/status/2055602814781456578\",\n    \"views\": 43\n  },\n  {\n    \"author\": \"gaijinhakka\",\n    \"id\": \"2055877239213068780\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"4GB Gemini Nano AI model (weights.bin) without asking! Simply deleting the folder won't fix it\u2014Chrome will just redownload it. Go to chrome://flags and DISABLE [screenshot]:\\nKill the Settings: SettingsSystemToggle \\\"On-device AI\\\" to OFF.\\nBoom. 4GB back in your pocket.\",\n    \"url\": \"https://x.com/gaijinhakka/status/2055877239213068780\",\n    \"views\": 29\n  },\n  {\n    \"author\": \"YellowSnow60\",\n    \"id\": \"2055929404224582090\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Open AI has chatGPT\\nXai has grok\\nAnthropic has Claude \\nGoogle has Gemini \\n\\nHere, corrected it for you, you can thank me later.\",\n    \"url\": \"https://x.com/YellowSnow60/status/2055929404224582090\",\n    \"views\": 25\n  },\n  {\n    \"author\": \"hellenomania\",\n    \"id\": \"2055937705964720461\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"It is now back above its peak. NOM is realeased in June.\\n\\nMonthly migration is at record levels.\",\n    \"url\": \"https://x.com/hellenomania/status/2055937705964720461\",\n    \"views\": 1\n  },\n  {\n    \"author\": \"abdulct01\",\n    \"id\": \"2055934981529047067\",\n    \"likes\": 1,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"This feature saved me a lot of time.\\n\\nIt typically took me a few weeks to train my ChatGPT with the correct tone and context, just to get solid responses.\\n\\nI was ready to do all that now that i\u2019m moving to Neo Chat. Then I found this.\\n\\n@neobrowser has a built-in \\\"Import Memories\\\"\",\n    \"url\": \"https://x.com/abdulct01/status/2055934981529047067\",\n    \"views\": 5\n  },\n  {\n    \"author\": \"timexiaomi\",\n    \"id\": \"2055694887962501124\",\n    \"likes\": 31,\n    \"replies\": 0,\n    \"retweets\": 1,\n    \"text\": \"Gemini Intelligence lands on Xiaomi devices list. \\n\\n- Gemini Nano v2 supported on Xiaomi 14T Pro, 15 family, 17 series, Pad Mini\\n\\n- Also listed: POCO F7/8 series, X7/X8 Pro\\n\\n- Gemini Nano v3 required for future full AI features\\n\\n- Xiaomi AI strategy alig\u2026\",\n    \"url\": \"https://x.com/timexiaomi/status/2055694887962501124\",\n    \"views\": 1400\n  }\n]\n",
+    "stderr": "",
+    "tweets": [
+      {
+        "author": "Daniel_adsss",
+        "id": "2055765044449960162",
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "text": "GOOGLE SILENTLY DOWNLOADED A 4GB AI MODEL TO YOUR COMPUTER WITHOUT ASKING AND HERE IS HOW TO CHECK IF IT IS ALREADY THERE.\n\nA security researcher set up a completely fresh Chrome profile. Did not click anything. Did not scroll. Did not type a single keystroke. Just opened the",
+        "url": "https://x.com/Daniel_adsss/status/2055765044449960162",
+        "views": 65
+      },
+      {
+        "author": "cyrilXBT",
+        "id": "2055581616022732932",
+        "likes": 212,
+        "replies": 29,
+        "retweets": 64,
+        "text": "GOOGLE JUST SILENTLY DOWNLOADED A 4GB AI MODEL TO YOUR COMPUTER WITHOUT ASKING.\n\nNo permission dialog.\n\nNo notification.\n\nNo way to stop it.\n\nIf you use Chrome there is a 4 gigabyte file sitting on your hard drive right now that you never agreed to download.\n\nIt is called Gemini",
+        "url": "https://x.com/cyrilXBT/status/2055581616022732932",
+        "views": 21000
+      },
+      {
+        "author": "im_serPAI",
+        "id": "2055602814781456578",
+        "likes": 1,
+        "replies": 0,
+        "retweets": 0,
+        "text": "Google Chrome pulled a sneaky. Silently downloaded 4GB Gemini Nano AI to your machine, no permission. Scans your GPU, RAM, storage, then dumps the file. It is 40X slower than cloud, barely functional.",
+        "url": "https://x.com/im_serPAI/status/2055602814781456578",
+        "views": 43
+      },
+      {
+        "author": "gaijinhakka",
+        "id": "2055877239213068780",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "4GB Gemini Nano AI model (weights.bin) without asking! Simply deleting the folder won't fix it\u2014Chrome will just redownload it. Go to chrome://flags and DISABLE [screenshot]:\nKill the Settings: SettingsSystemToggle \"On-device AI\" to OFF.\nBoom. 4GB back in your pocket.",
+        "url": "https://x.com/gaijinhakka/status/2055877239213068780",
+        "views": 29
+      },
+      {
+        "author": "YellowSnow60",
+        "id": "2055929404224582090",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "Open AI has chatGPT\nXai has grok\nAnthropic has Claude \nGoogle has Gemini \n\nHere, corrected it for you, you can thank me later.",
+        "url": "https://x.com/YellowSnow60/status/2055929404224582090",
+        "views": 25
+      },
+      {
+        "author": "hellenomania",
+        "id": "2055937705964720461",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "It is now back above its peak. NOM is realeased in June.\n\nMonthly migration is at record levels.",
+        "url": "https://x.com/hellenomania/status/2055937705964720461",
+        "views": 1
+      },
+      {
+        "author": "abdulct01",
+        "id": "2055934981529047067",
+        "likes": 1,
+        "replies": 0,
+        "retweets": 0,
+        "text": "This feature saved me a lot of time.\n\nIt typically took me a few weeks to train my ChatGPT with the correct tone and context, just to get solid responses.\n\nI was ready to do all that now that i\u2019m moving to Neo Chat. Then I found this.\n\n@neobrowser has a built-in \"Import Memories\"",
+        "url": "https://x.com/abdulct01/status/2055934981529047067",
+        "views": 5
+      },
+      {
+        "author": "timexiaomi",
+        "id": "2055694887962501124",
+        "likes": 31,
+        "replies": 0,
+        "retweets": 1,
+        "text": "Gemini Intelligence lands on Xiaomi devices list. \n\n- Gemini Nano v2 supported on Xiaomi 14T Pro, 15 family, 17 series, Pad Mini\n\n- Also listed: POCO F7/8 series, X7/X8 Pro\n\n- Gemini Nano v3 required for future full AI features\n\n- Xiaomi AI strategy alig\u2026",
+        "url": "https://x.com/timexiaomi/status/2055694887962501124",
+        "views": 1400
+      }
+    ]
+  },
+  {
+    "query": "LLM agents memory rewriting reliability study since:2026-05-16",
+    "ok": true,
+    "stdout": "[\n  {\n    \"author\": \"JsrNewsTime\",\n    \"id\": \"2055516398630351194\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Most AI agents don\u2019t fail because they lack memory.\\n\\nThey fail because they remember TOO much.\\n\\nI just published:\\n\u201cThe 2026 Guide to Dynamic Context Pruning: Read here \\nhttps://jsrdigital.in/2026/05/the-2026-guide-to-dynamic-context.html\u2026\\n\\n#AgenticAI #AIEngineering #LLM #ContextE\",\n    \"url\": \"https://x.com/JsrNewsTime/status/2055516398630351194\",\n    \"views\": 13\n  },\n  {\n    \"author\": \"SciFi\",\n    \"id\": \"2055928551245746627\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Parallelizing Counterfactual Regret Minimization\\n\\nJuho Kim, Tuomas Sandholm\\nhttps://arxiv.org/abs/2605.14277 [\ud835\ude8c\ud835\ude9c.\ud835\ude70\ud835\ude78 \ud835\ude8c\ud835\ude9c.\ud835\ude76\ud835\ude83]\",\n    \"url\": \"https://x.com/SciFi/status/2055928551245746627\",\n    \"views\": 11\n  },\n  {\n    \"author\": \"sininentai91924\",\n    \"id\": \"2055927623608393760\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"\ucc9c\uc7ac\ub4e4\uc740 \uc624\ub298\ub3c4 \uc138\uc0c1\uc744 \ubc14\uafb8\uace0\uc788\ub2e4\\n\uc778\uac04\uc758 \ud6a8\uc728\uc801 \uae30\uc5b5 \ud504\ub85c\uc138\uc2a4 ai\uc5d0 \uc801\uc6a9. \uacfc\uac70 \uae30\uc5b5 \uc804\uccb4\ub97c \ub2e4 \uae30\uc5b5\ud558\uc9c0 \uc54a\uace0 \ud575\uc2ec \ubd80\ubd84\ub9cc \uacc4\uc18d \uc5c5\ub370\uc774\ud2b8\",\n    \"url\": \"https://x.com/sininentai91924/status/2055927623608393760\",\n    \"views\": 18\n  },\n  {\n    \"author\": \"SciFi\",\n    \"id\": \"2055445542755242306\",\n    \"likes\": 1,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"A Heterogeneous Temporal Memory Governance Framework for Long-Term LLM Persona Consistency\\n\\nZhao Yang, Wang Huan, Li Yingshuo, Tu Haomiao, Lin Hujite\\nhttps://arxiv.org/abs/2605.14802 [\ud835\ude8c\ud835\ude9c.\ud835\ude70\ud835\ude78]\\nCode: https://github.com/Spirtxiaoqi7/ARPM\u2026\",\n    \"url\": \"https://x.com/SciFi/status/2055445542755242306\",\n    \"views\": 101\n  },\n  {\n    \"author\": \"SigmaRayTive\",\n    \"id\": \"2055934300911231350\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Exactly. I think the review boundary should be based on failure modes and risk, not on where the agent looks impressive.\\n\\nFor low-risk changes, more autonomy is fine.\\nFor security, data access, architecture, and production changes, the agent needs tighter constraints and clear\",\n    \"url\": \"https://x.com/SigmaRayTive/status/2055934300911231350\",\n    \"views\": 2\n  },\n  {\n    \"author\": \"GaryMarcus\",\n    \"id\": \"2055890119236698563\",\n    \"likes\": 79,\n    \"replies\": 13,\n    \"retweets\": 12,\n    \"text\": \"Breaking new study: memory in LLM agents still can\u2019t really be trusted, even after over trillion dollars has gone into the development of the field.\",\n    \"url\": \"https://x.com/GaryMarcus/status/2055890119236698563\",\n    \"views\": 11000\n  },\n  {\n    \"author\": \"SigmaRayTive\",\n    \"id\": \"2055931582641590766\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"\u3053\u306e\u611f\u899a\u306f\u304b\u306a\u308a\u5206\u304b\u308a\u307e\u3059\u3002\\n\\nLLM\u751f\u6210\u30b3\u30fc\u30c9\u306f\u3001\u5358\u4f53\u306ediff\u3084\u5c0f\u3055\u306a\u95a2\u6570\u3067\u306f\u300c\u305d\u308c\u3063\u307d\u304f\u6b63\u3057\u3044\u300d\u3088\u3046\u306b\u898b\u3048\u307e\u3059\u304c\u3001\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u5168\u4f53\u306e\u8a2d\u8a08\u65b9\u91dd\u3084\u8cac\u52d9\u5206\u96e2\u307e\u3067\u63c3\u3048\u308b\u306e\u306f\u5225\u554f\u984c\u3067\u3059\u306d\u3002\\n\\nAI\u3092\u4f7f\u3046\u307b\u3069\u3001\u4eba\u9593\u5074\u306e\u8a2d\u8a08\u5224\u65ad\u30fb\u30ec\u30d3\u30e5\u30fc\u57fa\u6e96\u30fb\u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\u65b9\u91dd\u304c\u3080\u3057\u308d\u91cd\u8981\u306b\u306a\u308b\u6c17\u304c\u3057\u307e\u3059\u3002\",\n    \"url\": \"https://x.com/SigmaRayTive/status/2055931582641590766\",\n    \"views\": 8\n  },\n  {\n    \"author\": \"AlexAutomate\",\n    \"id\": \"2055438986240311612\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"LLMs are powerful brains without memory. Agents like Beast (powered by Hermes) provide that external memory, workspace, and tools (like ERP or WordPress access) to make LLMs truly intelligent and capable. #AI #LLM #TechExplained\",\n    \"url\": \"https://x.com/AlexAutomate/status/2055438986240311612\",\n    \"views\": 0\n  }\n]\n",
+    "stderr": "",
+    "tweets": [
+      {
+        "author": "JsrNewsTime",
+        "id": "2055516398630351194",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "Most AI agents don\u2019t fail because they lack memory.\n\nThey fail because they remember TOO much.\n\nI just published:\n\u201cThe 2026 Guide to Dynamic Context Pruning: Read here \nhttps://jsrdigital.in/2026/05/the-2026-guide-to-dynamic-context.html\u2026\n\n#AgenticAI #AIEngineering #LLM #ContextE",
+        "url": "https://x.com/JsrNewsTime/status/2055516398630351194",
+        "views": 13
+      },
+      {
+        "author": "SciFi",
+        "id": "2055928551245746627",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "Parallelizing Counterfactual Regret Minimization\n\nJuho Kim, Tuomas Sandholm\nhttps://arxiv.org/abs/2605.14277 [\ud835\ude8c\ud835\ude9c.\ud835\ude70\ud835\ude78 \ud835\ude8c\ud835\ude9c.\ud835\ude76\ud835\ude83]",
+        "url": "https://x.com/SciFi/status/2055928551245746627",
+        "views": 11
+      },
+      {
+        "author": "sininentai91924",
+        "id": "2055927623608393760",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "\ucc9c\uc7ac\ub4e4\uc740 \uc624\ub298\ub3c4 \uc138\uc0c1\uc744 \ubc14\uafb8\uace0\uc788\ub2e4\n\uc778\uac04\uc758 \ud6a8\uc728\uc801 \uae30\uc5b5 \ud504\ub85c\uc138\uc2a4 ai\uc5d0 \uc801\uc6a9. \uacfc\uac70 \uae30\uc5b5 \uc804\uccb4\ub97c \ub2e4 \uae30\uc5b5\ud558\uc9c0 \uc54a\uace0 \ud575\uc2ec \ubd80\ubd84\ub9cc \uacc4\uc18d \uc5c5\ub370\uc774\ud2b8",
+        "url": "https://x.com/sininentai91924/status/2055927623608393760",
+        "views": 18
+      },
+      {
+        "author": "SciFi",
+        "id": "2055445542755242306",
+        "likes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "text": "A Heterogeneous Temporal Memory Governance Framework for Long-Term LLM Persona Consistency\n\nZhao Yang, Wang Huan, Li Yingshuo, Tu Haomiao, Lin Hujite\nhttps://arxiv.org/abs/2605.14802 [\ud835\ude8c\ud835\ude9c.\ud835\ude70\ud835\ude78]\nCode: https://github.com/Spirtxiaoqi7/ARPM\u2026",
+        "url": "https://x.com/SciFi/status/2055445542755242306",
+        "views": 101
+      },
+      {
+        "author": "SigmaRayTive",
+        "id": "2055934300911231350",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "Exactly. I think the review boundary should be based on failure modes and risk, not on where the agent looks impressive.\n\nFor low-risk changes, more autonomy is fine.\nFor security, data access, architecture, and production changes, the agent needs tighter constraints and clear",
+        "url": "https://x.com/SigmaRayTive/status/2055934300911231350",
+        "views": 2
+      },
+      {
+        "author": "GaryMarcus",
+        "id": "2055890119236698563",
+        "likes": 79,
+        "replies": 13,
+        "retweets": 12,
+        "text": "Breaking new study: memory in LLM agents still can\u2019t really be trusted, even after over trillion dollars has gone into the development of the field.",
+        "url": "https://x.com/GaryMarcus/status/2055890119236698563",
+        "views": 11000
+      },
+      {
+        "author": "SigmaRayTive",
+        "id": "2055931582641590766",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "\u3053\u306e\u611f\u899a\u306f\u304b\u306a\u308a\u5206\u304b\u308a\u307e\u3059\u3002\n\nLLM\u751f\u6210\u30b3\u30fc\u30c9\u306f\u3001\u5358\u4f53\u306ediff\u3084\u5c0f\u3055\u306a\u95a2\u6570\u3067\u306f\u300c\u305d\u308c\u3063\u307d\u304f\u6b63\u3057\u3044\u300d\u3088\u3046\u306b\u898b\u3048\u307e\u3059\u304c\u3001\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u5168\u4f53\u306e\u8a2d\u8a08\u65b9\u91dd\u3084\u8cac\u52d9\u5206\u96e2\u307e\u3067\u63c3\u3048\u308b\u306e\u306f\u5225\u554f\u984c\u3067\u3059\u306d\u3002\n\nAI\u3092\u4f7f\u3046\u307b\u3069\u3001\u4eba\u9593\u5074\u306e\u8a2d\u8a08\u5224\u65ad\u30fb\u30ec\u30d3\u30e5\u30fc\u57fa\u6e96\u30fb\u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\u65b9\u91dd\u304c\u3080\u3057\u308d\u91cd\u8981\u306b\u306a\u308b\u6c17\u304c\u3057\u307e\u3059\u3002",
+        "url": "https://x.com/SigmaRayTive/status/2055931582641590766",
+        "views": 8
+      },
+      {
+        "author": "AlexAutomate",
+        "id": "2055438986240311612",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "text": "LLMs are powerful brains without memory. Agents like Beast (powered by Hermes) provide that external memory, workspace, and tools (like ERP or WordPress access) to make LLMs truly intelligent and capable. #AI #LLM #TechExplained",
+        "url": "https://x.com/AlexAutomate/status/2055438986240311612",
+        "views": 0
+      }
+    ]
+  }
+]

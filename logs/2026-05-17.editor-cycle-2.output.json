@@ -1,0 +1,205 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 2,
+  "overall_verdict": "needs_replacements",
+  "summary": "Cycle 2 has a stronger shape than the previous packet, but it still needs edits: two selected items cover the same China proxy-access economy, several items are secondary quote/commentary rather than primary reporting, and the set is heavy on AI-agent/tooling topics. Keep the concrete market, enterprise-productivity, Codex, AI Scientist, LLM-memory, Ring, and OpenSquilla items with cautious framing; replace the duplicate China proxy analysis with an eligible reserve product item; and run additional Twitter searches for stronger source-traceable versions of the GitHub certification, Ring 2.6 1T, and Claude Code webcam claims.",
+  "decisions": [
+    {
+      "id": "item_2055710603482988998",
+      "decision": "keep",
+      "reason": "High-engagement report on China proxy access markets for frontier model APIs; the market/arbitrage angle is concrete and relevant if framed as a reported phenomenon.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Related to item_2055720900583186845, but this is the stronger high-engagement representative of the China proxy-access market story."
+      }
+    },
+    {
+      "id": "item_2055720900583186845",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Useful analysis, but it substantially overlaps with the selected high-engagement China proxy-market item from the same author. Replace this duplicate slot with the eligible Claude Code webcam-access reserve item to improve product coverage, with cautious source framing.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2055793010370306556",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same China proxy-station/API-arbitrage story as item_2055710603482988998; the angle is more analytical but not distinct enough to justify two selected slots."
+      }
+    },
+    {
+      "id": "item_2055675389767516544",
+      "decision": "keep",
+      "reason": "High-engagement finance-industry quote about a step change in AI-toolkit productivity at Citadel; valuable enterprise-adoption signal if attributed as reported commentary.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares a broad AI-productivity/economics theme with the Dario software-cost quote, but the finance-enterprise adoption angle is distinct."
+      }
+    },
+    {
+      "id": "item_2055841486714147177",
+      "decision": "keep",
+      "reason": "Concrete Dario Amodei quote on AI making software cheap or essentially free; useful software-economics analysis, though not a fresh product or policy event.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad productivity/economics topic as the Ken Griffin quote, but focused on software business models and labor impact rather than finance-sector tooling."
+      }
+    },
+    {
+      "id": "item_2055693644443623788",
+      "decision": "keep",
+      "reason": "OpenAI staff observation that the Codex app is a distinct category and can be framed as 'agentic Excel on Mac'; lightweight but relevant to evolving agentic-workflow product language.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to recent Codex coverage, but not a duplicate of prior degradation, mobile-app, or usage-limit stories."
+      }
+    },
+    {
+      "id": "item_2055861693016625489",
+      "decision": "keep",
+      "reason": "Concrete research/tooling pointer to Sakana AI Scientist and autonomous LLM-agent paper generation; concise but relevant and distinct from the memory-reliability study.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad LLM-agent research area as item_2055890119236698563, but this covers autonomous paper generation rather than memory reliability."
+      }
+    },
+    {
+      "id": "item_2055621974773416360",
+      "decision": "needs_more_search",
+      "reason": "GitHub GH-600 Agentic AI Developer certification would be relevant if confirmed, but this selected tweet is secondary and comparatively low-engagement. Prefer a closer-to-primary Twitter source or a stronger agent-education candidate.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent-tooling coverage, but not a duplicate of Codex, OpenSquilla, or AI Scientist items."
+      }
+    },
+    {
+      "id": "item_2055890119236698563",
+      "decision": "keep",
+      "reason": "Higher-engagement research commentary on a new study about unreliable memory in LLM agents; relevant to agent reliability and stronger than the previous very-low-engagement summary, but final copy should avoid overclaiming from a short secondary tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad LLM-agent research area as item_2055861693016625489, but a distinct reliability/memory angle."
+      }
+    },
+    {
+      "id": "item_2055804238798970945",
+      "decision": "needs_more_search",
+      "reason": "Ring 2.6 1T agent-model story is potentially relevant, but the selected tweet is a sensational secondary summary of parameter and mission-completion claims. Seek a stronger Twitter-source trail before confident inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent/tooling coverage generally, but no selected duplicate of this specific model story."
+      }
+    },
+    {
+      "id": "item_2055692342758408210",
+      "decision": "keep",
+      "reason": "Open-source AI-agent orchestration item focused on reducing token cost through routing; concrete tooling angle and useful counterweight to executive quote commentary, though final copy should frame performance claims as documented by the project/post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad AI-agent tooling topic as the GitHub certification and AI Scientist items, but distinct as cost-routing infrastructure."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2055710603482988998",
+        "item_2055720900583186845"
+      ],
+      "reason": "Both selected items cover the same China proxy-station/API-arbitrage economy; keep the stronger market item and avoid spending two slots on the same story."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2055675389767516544",
+        "item_2055841486714147177"
+      ],
+      "reason": "Both are AI-productivity/economics quote or analysis items; they are distinct but should not crowd out concrete product, research, or policy items."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2055621974773416360",
+        "item_2055861693016625489",
+        "item_2055890119236698563",
+        "item_2055804238798970945",
+        "item_2055692342758408210"
+      ],
+      "reason": "The set is agent-heavy across certification, autonomous paper generation, memory reliability, mission-completing model claims, and orchestration/token-cost tooling."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2055621974773416360",
+        "item_2055804238798970945"
+      ],
+      "reason": "These selected items make concrete certification or model-release claims through secondary tweets without a clearly primary or strongly traceable Twitter source in the packet."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2055710603482988998",
+        "item_2055720900583186845"
+      ],
+      "reason": "The same author appears twice on closely related China proxy-access stories; retain only one unless the second adds an essential distinct source."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a closer-to-primary Twitter source for the GitHub GH-600 Agentic AI Developer certification story.",
+      "suggested_query_theme": "GitHub GH-600 Agentic AI Developer certification since:2026-05-16"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source for Ring 2.6 1T claims, preferably from Ant Group, the model team, or an engineering-adjacent account.",
+      "suggested_query_theme": "Ring 2.6 1T Ant Group agent model since:2026-05-16"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source or additional context for the Claude Code webcam/user-presence claim if it replaces the duplicate China proxy item.",
+      "suggested_query_theme": "Claude Code webcam access programmatic use presence check since:2026-05-16"
+    },
+    {
+      "needed": true,
+      "reason": "Find one less agent-centric candidate to improve mix, prioritizing AI policy, platform, security, model release, or applied-industry news.",
+      "suggested_query_theme": "AI policy platform security model release industry AI since:2026-05-16"
+    }
+  ]
+}

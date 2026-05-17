@@ -1,0 +1,196 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a workable core, but several selected items are secondary, quote-driven, or weakly traceable. Keep the concrete market, product, platform, and research/tooling items with cautious framing; replace the vague OpenAI staff security note with the stronger related China proxy-economy reserve item; and run additional Twitter searches for stronger primary-source versions of the Claude Code webcam, GitHub certification, Chrome Gemini Nano, and agent-memory research stories.",
+  "decisions": [
+    {
+      "id": "item_2055710603482988998",
+      "decision": "keep",
+      "reason": "High-engagement concrete report on a China proxy market for cheap GPT-5.4/5.5 and Claude API access; useful market/infrastructure angle, especially with cautious framing as a reported proxy-economy story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Related to reserve item_2055720900583186845, which is more analytical on the same proxy-economy topic, but the selected item has much stronger engagement and a sharper market signal."
+      }
+    },
+    {
+      "id": "item_2055675389767516544",
+      "decision": "keep",
+      "reason": "High-engagement finance-industry analysis quoting Ken Griffin on a step change in AI-toolkit productivity at Citadel; worthwhile enterprise-adoption signal, though final copy should attribute it as a quote/report rather than primary data.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares an AI-productivity/economics angle with the Dario Amodei software-cost item, but the finance-industry adoption angle is distinct."
+      }
+    },
+    {
+      "id": "item_2055793010370306556",
+      "decision": "needs_more_search",
+      "reason": "The Claude Code webcam-access claim is high engagement and potentially important, but it is a terse secondary post and needs a stronger Twitter-source trail before being written as a product change.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate in selected items; source traceability is the issue."
+      }
+    },
+    {
+      "id": "item_2055841486714147177",
+      "decision": "keep",
+      "reason": "Concrete Dario Amodei quote on software becoming cheap or essentially free; useful software-economics analysis if framed as a CEO quote rather than a new event.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad AI-productivity/economics topic as the Ken Griffin item, but a distinct software-economics angle."
+      }
+    },
+    {
+      "id": "item_2055693644443623788",
+      "decision": "keep",
+      "reason": "OpenAI staff practitioner observation about Codex app as a new category and 'agentic Excel on Mac'; lightweight but relevant to ongoing agentic tooling/product framing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the recent Codex product cluster, but not the same event as prior degradation or mobile-app stories."
+      }
+    },
+    {
+      "id": "item_2055695957057036452",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The selected text is too vague as a standalone digest item: 'using GPT for defensive security' does not carry enough concrete information. Replace with the reserve analysis item on China's proxy-station economy, which complements the selected market report with more detail.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2055720900583186845",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate; this is a weak standalone item being replaced by a stronger eligible reserve."
+      }
+    },
+    {
+      "id": "item_2055668343743590615",
+      "decision": "needs_more_search",
+      "reason": "GitHub GH-600 Agentic AI Developer certification would be relevant if confirmed, but this selected tweet is a secondary hype-style report. Seek a closer-to-primary Twitter source before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent-workflow/tooling coverage but not duplicative of the Codex or AI Scientist items."
+      }
+    },
+    {
+      "id": "item_2055581616022732932",
+      "decision": "needs_more_search",
+      "reason": "Chrome/Gemini Nano local-model download story is potentially relevant platform news, but the selected tweet uses sensational framing and needs a stronger Twitter-source trail before final copy.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; traceability and framing are the concerns."
+      }
+    },
+    {
+      "id": "item_2055861693016625489",
+      "decision": "keep",
+      "reason": "Concrete pointer to Sakana AI Scientist and autonomous LLM-agent paper generation; concise but relevant research/tooling item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent-research tooling, but distinct from the LLM-agent memory research item."
+      }
+    },
+    {
+      "id": "item_2055919204591902771",
+      "decision": "needs_more_search",
+      "reason": "LLM-agent memory-rewrite reliability study is on-topic research, but engagement is very low and the packet only includes a secondary summary. Seek a stronger Twitter source or replacement research item if available.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad LLM-agent research area as AI Scientist, but it addresses memory reliability rather than autonomous paper generation."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2055675389767516544",
+        "item_2055841486714147177"
+      ],
+      "reason": "Both selected items are AI-productivity/economics quote or analysis pieces; they are distinct angles, but the set should avoid becoming too quote-driven."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2055861693016625489",
+        "item_2055919204591902771"
+      ],
+      "reason": "Both selected items concern LLM agents in research contexts, but one is about autonomous paper generation and the other about memory reliability."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2055793010370306556",
+        "item_2055668343743590615",
+        "item_2055581616022732932",
+        "item_2055919204591902771"
+      ],
+      "reason": "These selected items make concrete product, platform, certification, or research claims through secondary tweets without a clearly primary or strongly traceable Twitter source in the packet."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2055695957057036452",
+        "item_2055919204591902771"
+      ],
+      "reason": "The selected set includes one very vague security note and one very low-engagement secondary research summary, leaving room for stronger Twitter-sourced research, security, or tooling candidates."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source for the Claude Code webcam or user-presence check claim, or a better Claude Code product-change candidate.",
+      "suggested_query_theme": "Claude Code webcam access programmatic use presence check since:2026-05-16"
+    },
+    {
+      "needed": true,
+      "reason": "Find a closer-to-primary Twitter source for the GitHub GH-600 Agentic AI Developer certification story.",
+      "suggested_query_theme": "GitHub GH-600 Agentic AI Developer certification since:2026-05-16"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source for the Chrome Gemini Nano local model download/platform story.",
+      "suggested_query_theme": "Chrome Gemini Nano local model download AI features since:2026-05-16"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger research-source tweet for the LLM-agent memory rewrite reliability study or a higher-signal LLM-agent research replacement.",
+      "suggested_query_theme": "LLM agents memory rewriting reliability study since:2026-05-16"
+    }
+  ]
+}
