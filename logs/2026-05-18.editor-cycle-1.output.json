@@ -1,0 +1,198 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a solid core of official or practitioner-relevant items, including ChatGPT Images usage in India, GPU access constraints, Perplexity regression, Codex usage, and open-source production-risk analysis. The main weaknesses are several secondary or promotional claims that need stronger Twitter-source trails, plus an overrepresentation of broad agent-stack commentary. No reserve item is clearly strong enough to replace the weakest selected items without its own caveats, so the set should keep the strongest items and use additional Twitter search for source-traceable replacements.",
+  "decisions": [
+    {
+      "id": "item_2056165722804654196",
+      "decision": "keep",
+      "reason": "Official OpenAI CEO post with a concrete usage metric for ChatGPT Images 2.0 in India; high engagement and clear digest relevance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate selected item covers this ChatGPT Images India usage story."
+      }
+    },
+    {
+      "id": "item_2056214387980193909",
+      "decision": "keep",
+      "reason": "Karpathy practitioner note gives a concrete constraint around nanochat education and access to 8xH100 training resources; useful context for AI education and compute availability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related by compute-access angle to item_2056218976913694879, but this is a specific educational-resource constraint rather than a broader GPU-shortage claim."
+      }
+    },
+    {
+      "id": "item_2056218976913694879",
+      "decision": "keep",
+      "reason": "Concrete practitioner analysis of H100 scarcity and the effect of AI-lab supply lockups on university researchers and independent developers; timely infrastructure/access angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares a compute-access topic with the Karpathy nanochat item, but the angle is distinct and broader."
+      }
+    },
+    {
+      "id": "item_2055949207165677844",
+      "decision": "needs_more_search",
+      "reason": "Potentially interesting open-source AI/CAD model story, but the selected tweet is secondary and uses sensational industry-disruption framing. Seek a stronger Twitter-source trail before including as a release item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate selected item; source traceability and framing are the concerns."
+      }
+    },
+    {
+      "id": "item_2056081357374378410",
+      "decision": "needs_more_search",
+      "reason": "Claude Code setup plugin claim is concrete and relevant, but the selected tweet is a secondary hype-style post. Prefer an Anthropic, Claude Code, or maintainer-adjacent Twitter source before treating it as official product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent/tooling coverage generally, but not a duplicate of the Codex or agent-stack items."
+      }
+    },
+    {
+      "id": "item_2055969356127899668",
+      "decision": "keep",
+      "reason": "Technical post links LLM-agent delusion mitigation to causality and agency, with source links and enough specificity to add a research/analysis angle. Final copy should avoid repeating the absolute 'one line prevents delusions' claim without caveat.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent reliability and execution-risk themes, but distinct from the Perplexity regression and open-source production-risk items."
+      }
+    },
+    {
+      "id": "item_2056254810286956781",
+      "decision": "keep",
+      "reason": "Credible practitioner report from Gergely Orosz about Perplexity hallucination regression despite source crawling; concrete example of product-quality drift in AI search.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares an AI-reliability theme with the LLM-agent delusion item, but this is a specific product regression report."
+      }
+    },
+    {
+      "id": "item_2056089834532241667",
+      "decision": "keep",
+      "reason": "Useful practitioner analysis reframing production-AI risk around blind execution rather than open-source model use; relevant to deployment and governance decisions.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent/reliability themes, but distinct as production-risk analysis."
+      }
+    },
+    {
+      "id": "item_2055917811852034179",
+      "decision": "needs_more_search",
+      "reason": "Broad agent-stack progression analysis is thoughtful but abstract and not tied to a concrete release, event, or primary evidence. Prefer a more specific Twitter-sourced agent/tooling item if available.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad agent-systems topic as the Claude Code plugin, Codex use case, and production-risk analysis, but less concrete."
+      }
+    },
+    {
+      "id": "item_2056223743446245519",
+      "decision": "keep",
+      "reason": "OpenAI president gives a concrete everyday Codex use case around unsubscribing from unwanted marketing emails; lightweight but useful practitioner/product-color item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to coding-agent/tooling coverage, but not a duplicate of the Claude Code setup plugin or agent-stack analysis."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2056214387980193909",
+        "item_2056218976913694879"
+      ],
+      "reason": "Both selected items concern compute access constraints, but one is Karpathy's nanochat training-resource issue and the other is a broader H100 scarcity warning."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2056081357374378410",
+        "item_2055969356127899668",
+        "item_2056089834532241667",
+        "item_2055917811852034179",
+        "item_2056223743446245519"
+      ],
+      "reason": "The set is somewhat agent/tooling heavy across Claude Code setup, agent delusion mitigation, production execution risk, agent-stack progression, and Codex usage."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2055949207165677844",
+        "item_2056081357374378410"
+      ],
+      "reason": "These selected items make concrete release or official-tooling claims through secondary tweets without a clearly primary or strongly traceable Twitter source in the packet."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2055949207165677844",
+        "item_2056081357374378410",
+        "item_2055917811852034179"
+      ],
+      "reason": "Several selected slots are secondary or abstract; stronger Twitter-sourced product, research, security, or model-release items would improve the set."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a closer-to-primary Twitter source for the MIT photo-to-CAD open-source model claim, or a more traceable AI/CAD release candidate.",
+      "suggested_query_theme": "MIT photo to CAD open source AI model since:2026-05-17"
+    },
+    {
+      "needed": true,
+      "reason": "Find a closer-to-primary Twitter source for the Claude Code setup plugin claim.",
+      "suggested_query_theme": "Claude Code setup plugin Anthropic hooks skills MCP subagents since:2026-05-17"
+    },
+    {
+      "needed": true,
+      "reason": "Find a more concrete replacement for broad agent-stack commentary, prioritizing a specific agent tooling launch, benchmark, or practitioner workflow.",
+      "suggested_query_theme": "AI agent tooling launch benchmark practitioner workflow since:2026-05-17"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger non-agent item to improve mix, prioritizing AI policy, security, platform, model-release, or applied-industry news.",
+      "suggested_query_theme": "AI policy security platform model release applied AI since:2026-05-17"
+    }
+  ]
+}

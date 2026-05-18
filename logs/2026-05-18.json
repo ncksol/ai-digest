@@ -1,0 +1,1037 @@
+{
+  "date": "2026-05-18",
+  "searches": [
+    {
+      "query": "AI since:2026-05-17",
+      "ok": true,
+      "returned_count": 11
+    },
+    {
+      "query": "LLM since:2026-05-17",
+      "ok": true,
+      "returned_count": 10
+    },
+    {
+      "query": "machine learning since:2026-05-17",
+      "ok": true,
+      "returned_count": 10
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-05-17",
+      "ok": true,
+      "returned_count": 9
+    },
+    {
+      "query": "open source AI model since:2026-05-17",
+      "ok": true,
+      "returned_count": 9
+    },
+    {
+      "query": "AI agent since:2026-05-17",
+      "ok": true,
+      "returned_count": 6
+    },
+    {
+      "query": "Sam Altman since:2026-05-17",
+      "ok": true,
+      "returned_count": 9
+    },
+    {
+      "query": "Dario Amodei since:2026-05-17",
+      "ok": true,
+      "returned_count": 6
+    },
+    {
+      "query": "Demis Hassabis since:2026-05-17",
+      "ok": true,
+      "returned_count": 9
+    },
+    {
+      "query": "from:karpathy since:2026-05-17",
+      "ok": true,
+      "returned_count": 1
+    },
+    {
+      "query": "from:sama since:2026-05-17",
+      "ok": true,
+      "returned_count": 1
+    },
+    {
+      "query": "from:OpenAI since:2026-05-17",
+      "ok": true,
+      "returned_count": 0
+    },
+    {
+      "query": "from:AnthropicAI since:2026-05-17",
+      "ok": true,
+      "returned_count": 0
+    }
+  ],
+  "tweets": [
+    {
+      "id": "2056123737544757733",
+      "author": "garrytan",
+      "text": "Ken Griffin doesn\u2019t understand the ceiling just got raised. Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because he is too distracted about lowering cost\n\nBoil the ocean don\u2019t cut your costs",
+      "likes": 677,
+      "replies": 99,
+      "retweets": 57,
+      "views": 142000,
+      "derived_timestamp": "2026-05-17T21:24:34.619000Z",
+      "age_hours": 9.59
+    },
+    {
+      "id": "2056165722804654196",
+      "author": "sama",
+      "text": "ChatGPT Images 2.0  India.\n\nAlready more than 1 billion images created there; awesome to see.",
+      "likes": 6400,
+      "replies": 752,
+      "retweets": 351,
+      "views": 436000,
+      "derived_timestamp": "2026-05-18T00:11:24.685000Z",
+      "age_hours": 6.81
+    },
+    {
+      "id": "2056223743446245519",
+      "author": "gdb",
+      "text": "Codex for unsubscribing from unwanted marketing emails",
+      "likes": 341,
+      "replies": 51,
+      "retweets": 18,
+      "views": 40000,
+      "derived_timestamp": "2026-05-18T04:01:57.884000Z",
+      "age_hours": 2.97
+    },
+    {
+      "id": "2056186307320095145",
+      "author": "gdb",
+      "text": "codex for deeply personal insights",
+      "likes": 362,
+      "replies": 46,
+      "retweets": 16,
+      "views": 50000,
+      "derived_timestamp": "2026-05-18T01:33:12.416000Z",
+      "age_hours": 5.45
+    },
+    {
+      "id": "2056179413901877551",
+      "author": "elonmusk",
+      "text": "Where will AI be in 1, 2 or 3 years?",
+      "likes": 44000,
+      "replies": 4000,
+      "retweets": 6000,
+      "views": 13000000,
+      "derived_timestamp": "2026-05-18T01:05:48.897000Z",
+      "age_hours": 5.9
+    },
+    {
+      "id": "2056193324365512801",
+      "author": "emollick",
+      "text": "Most prophetic tweet of all time (2 months post ChatGPT release). And you can safely repost it every day and it will still be prophetic for the future. This is the least the world will care about AI.",
+      "likes": 417,
+      "replies": 29,
+      "retweets": 48,
+      "views": 27000,
+      "derived_timestamp": "2026-05-18T02:01:05.410000Z",
+      "age_hours": 4.98
+    },
+    {
+      "id": "2055864636923085242",
+      "author": "RoundtableSpace",
+      "text": "SOMEONE BUILT A TOOL FOR CLAUDE THAT TAKES ANY IMAGE AND TURNS IT INTO A FULL 3D ENVIRONMENT WITH INDIVIDUAL MESHES, PHYSICS AND AMBIENT SOUND.",
+      "likes": 100,
+      "replies": 13,
+      "retweets": 5,
+      "views": 53000,
+      "derived_timestamp": "2026-05-17T04:15:00.217000Z",
+      "age_hours": 26.75
+    },
+    {
+      "id": "2056061134629933072",
+      "author": "elonmusk",
+      "text": "Grok upgrades",
+      "likes": 27000,
+      "replies": 3700,
+      "retweets": 3700,
+      "views": 9200000,
+      "derived_timestamp": "2026-05-17T17:15:48.921000Z",
+      "age_hours": 13.74
+    },
+    {
+      "id": "2055880742195139070",
+      "author": "neural_avb",
+      "text": "Self-play is Machine Learning technique where the AI plays against previous versions of itself till it gets better! During training, we save older policy snapshots and re-use them as opponents for our current model.\n\nThis updates policies to be diversely capable against a variety",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 171,
+      "derived_timestamp": "2026-05-17T05:19:00.013000Z",
+      "age_hours": 25.68
+    },
+    {
+      "id": "2056260508211384793",
+      "author": "cyrilXBT",
+      "text": "AI Skills Navigator just made the question \"where do I start with AI\" permanently obsolete.\n\nOne platform. Every role. AI-led learning with human enhancement. Real credentials at the end.\n\nNot another course that teaches you theory.\n\nA navigator that identifies exactly which",
+      "likes": 44,
+      "replies": 6,
+      "retweets": 14,
+      "views": 1300,
+      "derived_timestamp": "2026-05-18T06:28:03.287000Z",
+      "age_hours": 0.53
+    },
+    {
+      "id": "2056218976913694879",
+      "author": "Yuchenj_UW",
+      "text": "GPU shortage is worse than ever.\n\nH100s cost more today than they did 3 years ago, and you cannot get them on-demand.\n\nThe big AI labs have locked up most of the supply for years. I\u2019m worried university researchers and individual developers simply won\u2019t be able to get GPUs.",
+      "likes": 787,
+      "replies": 60,
+      "retweets": 51,
+      "views": 44000,
+      "derived_timestamp": "2026-05-18T03:43:01.454000Z",
+      "age_hours": 3.28
+    },
+    {
+      "id": "2056200675025908205",
+      "author": "manosaie",
+      "text": "Excellent research paper highlighting the mispriced asymmetry between current LLM exposure and potential RL feasibility \n\nAt this point, we know the RL paradigm in post-training is a scaling function: with more compute, human labelers for more data, more algorithms, and so on.",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 671,
+      "derived_timestamp": "2026-05-18T02:30:17.944000Z",
+      "age_hours": 4.5
+    },
+    {
+      "id": "2055917811852034179",
+      "author": "const_reborn",
+      "text": "First it is the model, the llm. \n\nThen it is the harness, the backend and the tool calls. \n\nNext it is the agent, the memory and the planning. \n\nFrom there it becomes the organization, the swarm, and your orchestrator. \n\nAnd then it becomes the protocol, a connective market,",
+      "likes": 446,
+      "replies": 20,
+      "retweets": 86,
+      "views": 19000,
+      "derived_timestamp": "2026-05-17T07:46:18.108000Z",
+      "age_hours": 23.23
+    },
+    {
+      "id": "2056254810286956781",
+      "author": "GergelyOrosz",
+      "text": "Eye-opening to see some non-coding LLM applications regress over the last year in functionality. I used to trust Perplexity as an AI search engine as it summarizes underlying sources, and did it well.\n\nIt now hallucinates stuff despite crawling pages with correct information. Eg",
+      "likes": 72,
+      "replies": 21,
+      "retweets": 2,
+      "views": 7200,
+      "derived_timestamp": "2026-05-18T06:05:24.796000Z",
+      "age_hours": 0.91
+    },
+    {
+      "id": "2056268580824514787",
+      "author": "AzizBuilds",
+      "text": "Sa popularit\u00e9 m\u2019\u00e9chappe, il n\u2019a litt\u00e9ralement jamais boss\u00e9 dans les LLM",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 1,
+      "derived_timestamp": "2026-05-18T07:00:07.948000Z",
+      "age_hours": -0.0
+    },
+    {
+      "id": "2056266651520336258",
+      "author": "jjude",
+      "text": "> What I would like to see, though, is attribution rather than royalties. That is, in my view, a far more important discussion.\n\nThis is fair expectation. Hope LLM providers start attribution.\n\nIn anycase, if most of the conversation happens within LLMs, better to seek",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 7,
+      "derived_timestamp": "2026-05-18T06:52:27.966000Z",
+      "age_hours": 0.13
+    },
+    {
+      "id": "2055969356127899668",
+      "author": "NandoDF",
+      "text": "One line of code is all it takes to prevent LLM agent delusions, instead of post-training patches like RL.\n\nhttps://love4all.ai/blog/why-it-is-important-to-understand-causality-and-agency/\u2026   \n 4 \u2200\n\nhttps://github.com/nandodef/love4all-ai/tree/main/docs/files\u2026",
+      "likes": 216,
+      "replies": 9,
+      "retweets": 27,
+      "views": 36000,
+      "derived_timestamp": "2026-05-17T11:11:07.221000Z",
+      "age_hours": 19.81
+    },
+    {
+      "id": "2056224882279743996",
+      "author": "deontologistics",
+      "text": "Some of these thoughts intersect with @Philosimplicity\u2019s on intelligence as a \u2018dark pattern\u2019 -",
+      "likes": 4,
+      "replies": 1,
+      "retweets": 1,
+      "views": 365,
+      "derived_timestamp": "2026-05-18T04:06:29.403000Z",
+      "age_hours": 2.89
+    },
+    {
+      "id": "2056000532549091805",
+      "author": "RoundtableSpace",
+      "text": "8 weeks to go from zero to LLM engineer.\n\nEach project builds on the last. By the end you're not prompting AI - you're building with it.\n\nWorth the commitment.\n\nGithub: http://github.com/ed-donner/llm_engineering\u2026",
+      "likes": 91,
+      "replies": 9,
+      "retweets": 7,
+      "views": 50000,
+      "derived_timestamp": "2026-05-17T13:15:00.259000Z",
+      "age_hours": 17.75
+    },
+    {
+      "id": "2056226657460158468",
+      "author": "realpurus",
+      "text": "And the more nonsense you post the more the LLM will degrade, thus giving you even more power to influence the course of the universe!",
+      "likes": 2,
+      "replies": 0,
+      "retweets": 0,
+      "views": 26,
+      "derived_timestamp": "2026-05-18T04:13:32.639000Z",
+      "age_hours": 2.77
+    },
+    {
+      "id": "2055919204591902771",
+      "author": "rohanpaul_ai",
+      "text": "New Illinois+ Tsinghua University and other labs study finds that LLM agents still have unreliable memory and that it can get worse when they keep rewriting their own memories.\n\nLLM agents can learn from experience, but their rewritten memories often become unreliable.\n\nThe",
+      "likes": 77,
+      "replies": 8,
+      "retweets": 15,
+      "views": 5700,
+      "derived_timestamp": "2026-05-17T07:51:50.163000Z",
+      "age_hours": 23.14
+    },
+    {
+      "id": "2055802920717750751",
+      "author": "Ryansikorski10",
+      "text": "AI-guided programmable assembly\n\nAI-guided programmable assembly integrates machine learning and robotic systems to dynamically optimize how parts, materials, or even nanoscale molecules are put together. It shifts manufacturing and material science from rigid, predefined",
+      "likes": 50,
+      "replies": 3,
+      "retweets": 19,
+      "views": 1100,
+      "derived_timestamp": "2026-05-17T00:09:45.927000Z",
+      "age_hours": 30.84
+    },
+    {
+      "id": "2056239881408614592",
+      "author": "techwith_ram",
+      "text": "Machine Learning in Production by DeepLearning:",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 1,
+      "views": 38,
+      "derived_timestamp": "2026-05-18T05:06:05.474000Z",
+      "age_hours": 1.9
+    },
+    {
+      "id": "2056161299952709799",
+      "author": "MereSophistry",
+      "text": "There is a lot of stress around writing papers, especially in machine learning and AI. I wrote a paper about 108 interviews regarding the pressure of writing papers in that domain.",
+      "likes": 2,
+      "replies": 1,
+      "retweets": 0,
+      "views": 233,
+      "derived_timestamp": "2026-05-17T23:53:50.195000Z",
+      "age_hours": 7.1
+    },
+    {
+      "id": "2056267366347190467",
+      "author": "aiseomastery",
+      "text": "The pattern this week is clear. Capital is flooding in. Jobs are being restructured. Chips are going public. Models keep shipping.\n\nWe are not waiting for the AI future anymore. We are inside it. The question now is: what role are you building for yourself in it?",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 3,
+      "derived_timestamp": "2026-05-18T06:55:18.394000Z",
+      "age_hours": 0.08
+    },
+    {
+      "id": "2055974007573516665",
+      "author": "wholemars",
+      "text": "Self-driving is not soulless, as some critics suggest. \n\nWhat is more human, more artistic, or more divine than this sacred process of deep learning and the machine learning models produced as byproducts? \n\nThe first ingredient is our heart and soul. The moments of exhilaration,",
+      "likes": 112,
+      "replies": 13,
+      "retweets": 13,
+      "views": 10000,
+      "derived_timestamp": "2026-05-17T11:29:36.212000Z",
+      "age_hours": 19.51
+    },
+    {
+      "id": "2056058214459048417",
+      "author": "swapnakpanda",
+      "text": "4. Machine Learning Fundamentals\n\nTime: 5th Month\n\n\u27a4 Key Topics\n    \u2729 Supervised vs. Unsupervised Learning\n    \u2729 Overfitting/Underfitting\n    \u2729 Bias-Variance Tradeoff\n    \u2729 Cross-Validation\n\n\u2b19 Books\n\u276f Hands-on Machine Learning (O'Reilly)\nhttps://google.co.in/books/edition/Hands_O",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "views": 80,
+      "derived_timestamp": "2026-05-17T17:04:12.698000Z",
+      "age_hours": 13.93
+    },
+    {
+      "id": "2056267295715176558",
+      "author": "aiseomastery",
+      "text": "Meta unveiled its first flagship LLM under its new Superintelligence Labs, delivering strong reasoning and agentic performance at a fraction of prior compute costs. They also announced $115 to $135 billion in AI spending for 2026, nearly double last year.\n\nMeta is done playing",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "views": 4,
+      "derived_timestamp": "2026-05-18T06:55:01.554000Z",
+      "age_hours": 0.08
+    },
+    {
+      "id": "2056070219702145283",
+      "author": "HowToAI_",
+      "text": "In 2022, OpenAI researchers found something that broke every rule of machine learning.\n\nTheir tiny model trained for 10,000 epochs. It learned absolutely nothing. Validation accuracy was dead stuck at 50%.\n\nThen at epoch 12,000, without warning, it jumped to 99%.\n\nThis phenomenon",
+      "likes": 156,
+      "replies": 18,
+      "retweets": 42,
+      "views": 12000,
+      "derived_timestamp": "2026-05-17T17:51:54.971000Z",
+      "age_hours": 13.13
+    },
+    {
+      "id": "2056077538343141464",
+      "author": "asymmetricmind",
+      "text": "We\u2019ve had a fully automated coffee machine in my office for 20 years.\nNo humanoid robots needed. No hype about revolutions. Just quiet, reliable automation doing the job every single day.\nThe real story isn\u2019t the shiny robot in China. It\u2019s the invisible learning AI layer on top \u2014",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 50,
+      "derived_timestamp": "2026-05-17T18:20:59.871000Z",
+      "age_hours": 12.65
+    },
+    {
+      "id": "2056030457959952525",
+      "author": "iruletheworldmo",
+      "text": "sonnet 5, gpt 5.6, gemini 3.5 all next week. \n\nare you starting to feel the acceleration yet chat?",
+      "likes": 2400,
+      "replies": 180,
+      "retweets": 104,
+      "views": 165000,
+      "derived_timestamp": "2026-05-17T15:13:55.033000Z",
+      "age_hours": 15.77
+    },
+    {
+      "id": "2056256630157885826",
+      "author": "dhruvtwt_",
+      "text": "Claude increased weekly limits by 50% last week, but they silently removed visible daily/weekly limits.\n\nNow a single 3-hour session can silently wipe out your monthly quota, leaving you stuck waiting an entire month for a reset.\n\nClaude Pro has genuinely become unusable.",
+      "likes": 20,
+      "replies": 8,
+      "retweets": 0,
+      "views": 427,
+      "derived_timestamp": "2026-05-18T06:12:38.687000Z",
+      "age_hours": 0.79
+    },
+    {
+      "id": "2055356452286640630",
+      "author": "sama",
+      "text": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please')",
+      "likes": 4000,
+      "replies": 756,
+      "retweets": 173,
+      "views": 643000,
+      "derived_timestamp": "2026-05-15T18:35:39.558000Z",
+      "age_hours": 60.41
+    },
+    {
+      "id": "2054610152817619388",
+      "author": "ClaudeDevs",
+      "text": "Starting June 15, paid Claude plans can claim a dedicated monthly credit for programmatic usage.\n\nThe credit covers usage of:\n- Claude Agent SDK\n- claude -p\n- Claude Code GitHub Actions\n- Third-party apps built on the Agent SDK",
+      "likes": 12000,
+      "replies": 1200,
+      "retweets": 2800,
+      "views": 10000000,
+      "derived_timestamp": "2026-05-13T17:10:07.899000Z",
+      "age_hours": 109.83
+    },
+    {
+      "id": "2055793010370306556",
+      "author": "theo",
+      "text": "To prevent \"programmatic use\", Claude Code may now request webcam access to assure user is present when prompting",
+      "likes": 6800,
+      "replies": 515,
+      "retweets": 329,
+      "views": 863000,
+      "derived_timestamp": "2026-05-16T23:30:23.116000Z",
+      "age_hours": 31.49
+    },
+    {
+      "id": "2056166626668818587",
+      "author": "RoundtableSpace",
+      "text": "THE LEAKED GEMINI 3.2 FLASH NUMBERS ARE WILD. 92% OF GPT 5.5 PERFORMANCE AT 1/20TH THE COST WITH MILLISECOND RESPONSES.\n\nStill unconfirmed. But if these numbers are real, businesses just got an AI they can run all day without thinking about cost.",
+      "likes": 90,
+      "replies": 9,
+      "retweets": 4,
+      "views": 50000,
+      "derived_timestamp": "2026-05-18T00:15:00.183000Z",
+      "age_hours": 6.75
+    },
+    {
+      "id": "2055695957057036452",
+      "author": "gdb",
+      "text": "using GPT for defensive security",
+      "likes": 371,
+      "replies": 52,
+      "retweets": 19,
+      "views": 50000,
+      "derived_timestamp": "2026-05-16T17:04:43.803000Z",
+      "age_hours": 37.92
+    },
+    {
+      "id": "2055710603482988998",
+      "author": "adxtyahq",
+      "text": "Chinese students are buying GPT-5.4/5.5 and Claude API access from Xianyu/Taobao proxy sellers for almost 96-97% cheaper \n\nPeople are apparently burning 100M+ tokens a day for like $1 and vibecoding nonstop.",
+      "likes": 14000,
+      "replies": 378,
+      "retweets": 952,
+      "views": 1400000,
+      "derived_timestamp": "2026-05-16T18:02:55.783000Z",
+      "age_hours": 36.95
+    },
+    {
+      "id": "2056081357374378410",
+      "author": "eng_khairallah1",
+      "text": "CLAUDE CODE IS CONFUSING UNTIL YOU INSTALL THIS OFFICIAL ANTHROPIC PLUGIN\n\nAnthropic quietly dropped claude-code-setup and nobody is talking about it.\n\nBookmark this before you forget it.\n\nit scans your project and recommends:\n\n\u2192 hooks\n\u2192 skills\n\u2192 MCP servers\n\u2192 subagents\n\u2192",
+      "likes": 336,
+      "replies": 36,
+      "retweets": 59,
+      "views": 56000,
+      "derived_timestamp": "2026-05-17T18:36:10.399000Z",
+      "age_hours": 12.4
+    },
+    {
+      "id": "2056243343550799983",
+      "author": "IPunDaddy",
+      "text": "Paying for AI when the best stuff's going open-source? What a novel concept.",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 373,
+      "derived_timestamp": "2026-05-18T05:19:50.913000Z",
+      "age_hours": 1.67
+    },
+    {
+      "id": "2056077523239502061",
+      "author": "DivyanshT91162",
+      "text": "People are canceling their Runway and Higgsfield subscriptions after finding this \n\nAn open-source AI studio on GitHub is giving you access to 200+ image/video models for free.\n\nNo ads. No paywall. No insane setup.\n\n\u2192 Seedance Pro, Kling, Sora, Veo, Flux, Midjourney-style",
+      "likes": 443,
+      "replies": 14,
+      "retweets": 50,
+      "views": 36000,
+      "derived_timestamp": "2026-05-17T18:20:56.270000Z",
+      "age_hours": 12.65
+    },
+    {
+      "id": "2055949207165677844",
+      "author": "HowToAI_",
+      "text": "MIT open-sourced an AI model that converts photos into fully editable CAD programs and it quietly kills the $150/hour CAD modeling industry.\n\nJust upload a sketch or photo and it generates the full parametric 3D model. exportable as STL. ready for manufacturing.\n\n\u2192 no SolidWorks",
+      "likes": 1700,
+      "replies": 39,
+      "retweets": 277,
+      "views": 105000,
+      "derived_timestamp": "2026-05-17T09:51:03.334000Z",
+      "age_hours": 21.15
+    },
+    {
+      "id": "2056102488789639463",
+      "author": "ihtesham2005",
+      "text": "I was paying for Meshy.\n\nThen I found this repo and cancelled my subscription the same day.\n\nModly is a free, open source desktop app that turns any photo into a 3D model using local AI running entirely on your GPU. No cloud. No account. No credits.\n\nDrop in a photo. The app",
+      "likes": 13,
+      "replies": 0,
+      "retweets": 3,
+      "views": 1300,
+      "derived_timestamp": "2026-05-17T20:00:08.521000Z",
+      "age_hours": 11.0
+    },
+    {
+      "id": "2056081444020371644",
+      "author": "FundamentEdge",
+      "text": "Open mindedness. There is a sense that everyone is just so insanely busy trying to adopt AI. \n\nIf the \u201djunior AI generalist\u201d model could facilitate that, I think people will be really open.",
+      "likes": 2,
+      "replies": 1,
+      "retweets": 0,
+      "views": 821,
+      "derived_timestamp": "2026-05-17T18:36:31.057000Z",
+      "age_hours": 12.39
+    },
+    {
+      "id": "2056139210709483619",
+      "author": "itsPaulAi",
+      "text": "Text rendering capabilities are quite impressive.\n\nKeep in mind that this open source model has just 8B parameters\u2026\n\nAnd yet it has a word accuracy on par with both GPT-Image-2 and Nano Banana 2.\n\nSo you can use it to generate full diagrams, ads, posters, etc.",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 1,
+      "views": 912,
+      "derived_timestamp": "2026-05-17T22:26:03.709000Z",
+      "age_hours": 8.57
+    },
+    {
+      "id": "2056087245493502190",
+      "author": "LLMJunky",
+      "text": "i have had it since last year. its alright but i'm never reaching for this over codex or claude. ever. \n\nits good for an open source model, but there's not enough savings to justify the cost. also not a multi modal model, have to use mcps for vision and search. \n\ni am glad you're",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 80,
+      "derived_timestamp": "2026-05-17T18:59:34.236000Z",
+      "age_hours": 12.01
+    },
+    {
+      "id": "2056089834532241667",
+      "author": "demian_ai",
+      "text": "Open source models are no longer the risky choice. Blind execution is.\n\nFor most of the last three years, the cautious move in production AI was the closed endpoint. It worked out of the box. It hid the complexity. The pricing sheet was honest about the bill, if not about the",
+      "likes": 89,
+      "replies": 9,
+      "retweets": 11,
+      "views": 15000,
+      "derived_timestamp": "2026-05-17T19:09:51.511000Z",
+      "age_hours": 11.84
+    },
+    {
+      "id": "2056259758168883524",
+      "author": "danyurkin",
+      "text": "just applied to @speedrun with @atomic_chat_hq!\n\nwe're building local ai you can actually use - for humans and the agents they run. open-source, macos, windows, ios\n\nfingers crossed",
+      "likes": 2,
+      "replies": 1,
+      "retweets": 0,
+      "views": 32,
+      "derived_timestamp": "2026-05-18T06:25:04.463000Z",
+      "age_hours": 0.58
+    },
+    {
+      "id": "2055824176909623637",
+      "author": "TrungTPhan",
+      "text": "Singapore\u2019s Foreign Minister built a NanoClaw AI agent on a Raspberry Pi so he could \u201clearn by doing\u201d (he chats with it on WhatsApp for meeting prep).\n\nWe know he put in the work because he says AI agents can get expensive and will be more so when labs stop subsidizing tokens.",
+      "likes": 1100,
+      "replies": 33,
+      "retweets": 163,
+      "views": 207000,
+      "derived_timestamp": "2026-05-17T01:34:13.798000Z",
+      "age_hours": 29.43
+    },
+    {
+      "id": "2056043129179156744",
+      "author": "karankendre",
+      "text": "Former GitHub CEO Nat Friedman:\n\n\"My OpenClaw AI agent watches me through a home camera to make sure I drink enough water\"\n\nWe officially reached the stage where AI is monitoring your hydration levels at home",
+      "likes": 22,
+      "replies": 3,
+      "retweets": 4,
+      "views": 1800,
+      "derived_timestamp": "2026-05-17T16:04:16.087000Z",
+      "age_hours": 14.93
+    },
+    {
+      "id": "2056059964364640394",
+      "author": "DenisKursakov",
+      "text": "PIXEL AI AGENT SUED A COMPETITOR WHILE ITS CEO WAS ASLEEP\n\nNo one asked it to. No one authorized it.\n\n> By day 12 of running unsupervised, the Researcher had filed a formal against a competitor that was stealing product copy. \n\n> By day 19, the Writer had drafted and sent a",
+      "likes": 18,
+      "replies": 2,
+      "retweets": 3,
+      "views": 642,
+      "derived_timestamp": "2026-05-17T17:11:09.908000Z",
+      "age_hours": 13.81
+    },
+    {
+      "id": "2055985267555614768",
+      "author": "seelffff",
+      "text": "one of the best free resources for AI agent engineering i've found this year.\n\n12 lectures. hands-on projects. copy-ready templates.\n11 languages. $0.\n\ncovers what no course talks about - harness engineering:\n\u2192 state that survives across sessions\n\u2192 agents that don't declare",
+      "likes": 112,
+      "replies": 19,
+      "retweets": 17,
+      "views": 18000,
+      "derived_timestamp": "2026-05-17T12:14:20.801000Z",
+      "age_hours": 18.76
+    },
+    {
+      "id": "2055964171565678984",
+      "author": "Suryanshti777",
+      "text": "Someone just connected Hermes AI agent to Claude Code OS and created something that shouldn't exist yet.\n\nOne AI that sees your screen, remembers EVERYTHING, and never loses context when you switch tools.\n\nMost people are still copy-pasting between ChatGPT tabs.\n\nThese people",
+      "likes": 303,
+      "replies": 23,
+      "retweets": 39,
+      "views": 44000,
+      "derived_timestamp": "2026-05-17T10:50:31.125000Z",
+      "age_hours": 20.16
+    },
+    {
+      "id": "2056103450308645057",
+      "author": "Suryanshti777",
+      "text": "Most people use Claude Code like a smarter autocomplete.\n\nSenior engineers use it like an operating system.\n\nThe real upgrade isn\u2019t faster typing.\n\nIt\u2019s splitting software development into parallel AI workflows:\n\n\u2192 one agent researches\n\u2192 one plans architecture\n\u2192 one writes",
+      "likes": 41,
+      "replies": 8,
+      "retweets": 10,
+      "views": 3500,
+      "derived_timestamp": "2026-05-17T20:03:57.765000Z",
+      "age_hours": 10.93
+    },
+    {
+      "id": "2056239909451567314",
+      "author": "DonMaxote1810",
+      "text": "remedy entertainment called AGI early. sorry sam (altman).",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 5,
+      "derived_timestamp": "2026-05-18T05:06:12.160000Z",
+      "age_hours": 1.9
+    },
+    {
+      "id": "2056062188821877218",
+      "author": "haider1",
+      "text": "Sam Altman says AGI is like a Rorschach test: the way people describe it often reveals more about themselves than about AGI itself\n\n\"it is a powerful tool, not a self-aware sci-fi creature\"\n\nEven if an AI ran a company one day, a human would still be giving it the goal to pursue",
+      "likes": 260,
+      "replies": 57,
+      "retweets": 36,
+      "views": 35000,
+      "derived_timestamp": "2026-05-17T17:20:00.260000Z",
+      "age_hours": 13.67
+    },
+    {
+      "id": "2056118382705926385",
+      "author": "gabriel_horwitz",
+      "text": "Sam Altman says AI will never become self-aware like in the movies",
+      "likes": 3,
+      "replies": 3,
+      "retweets": 3,
+      "views": 1600,
+      "derived_timestamp": "2026-05-17T21:03:17.926000Z",
+      "age_hours": 9.95
+    },
+    {
+      "id": "2055928306403565840",
+      "author": "rohanpaul_ai",
+      "text": "Great founders may begin as tech specialists, but building a company requires becoming a generalist and staying that way.\n\n~ Sam Altman.",
+      "likes": 133,
+      "replies": 8,
+      "retweets": 19,
+      "views": 11000,
+      "derived_timestamp": "2026-05-17T08:28:00.204000Z",
+      "age_hours": 22.53
+    },
+    {
+      "id": "2056268542388175200",
+      "author": "rdd147",
+      "text": "Sam Altman is gay. Elon Musk hates gays and wants his transgender son (or daughter if that matters to you) dead (but took second best option and mentally killed him).\n\nWhy does everyone keep pretending this is \u201cbusiness\u201d related?",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 16,
+      "derived_timestamp": "2026-05-18T06:59:58.784000Z",
+      "age_hours": 0.0
+    },
+    {
+      "id": "2056009962640359438",
+      "author": "FotisKokotos",
+      "text": "15/17 \u03a4\u03b1\u03c5\u03c4\u03cc\u03c7\u03c1\u03bf\u03bd\u03b1, \u03b7 xAI \u03c4\u03bf\u03c5 Elon Musk \u03b5\u03b3\u03ba\u03c1\u03af\u03b8\u03b7\u03ba\u03b5 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b1\u03b2\u03b1\u03b8\u03bc\u03b9\u03c3\u03bc\u03ad\u03bd\u03b1 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 Lawfare, \u03c3\u03b5 \u03b5\u03c3\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ae \u03c3\u03cd\u03c3\u03ba\u03b5\u03c8\u03b7 \u03bf Sam Altman \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03c2 \u03b1\u03bd\u03c4\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03c4\u03ae\u03c2 \u2014 \u03c5\u03c0\u03bf\u03bd\u03bf\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b7\u03bd xAI \u2014 \u00ab\u03c3\u03c4\u03b7\u03bd \u03bf\u03c5\u03c3\u03af\u03b1 \u03b8\u03b1 \u03c0\u03b5\u03b9: \u03b8\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03cc,\u03c4\u03b9 \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5\u00bb.",
+      "likes": 12,
+      "replies": 1,
+      "retweets": 0,
+      "views": 632,
+      "derived_timestamp": "2026-05-17T13:52:28.568000Z",
+      "age_hours": 17.13
+    },
+    {
+      "id": "2056268855295484065",
+      "author": "advoil",
+      "text": "",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 1,
+      "derived_timestamp": "2026-05-18T07:01:13.387000Z",
+      "age_hours": -0.02
+    },
+    {
+      "id": "2055950313325293953",
+      "author": "schizohealer",
+      "text": "Most people would prefer it being a human artist making stuff for em\n\nThough, If they won't let artists draw what they want, nothing is stopping me from teaching ChatGPT how to make it\nNothing is stopping Sam Altman from generating it either",
+      "likes": 6,
+      "replies": 0,
+      "retweets": 0,
+      "views": 326,
+      "derived_timestamp": "2026-05-17T09:55:27.063000Z",
+      "age_hours": 21.08
+    },
+    {
+      "id": "2056228182597202209",
+      "author": "makewith_AI",
+      "text": "Sam Altman reportedly signed up for a brain digitization project aimed at achieving \u201cdigital immortality.\u201d\n\nThe concept involves preserving or replicating human consciousness digitally, despite the extreme risks involved.",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 5,
+      "derived_timestamp": "2026-05-18T04:19:36.260000Z",
+      "age_hours": 2.67
+    },
+    {
+      "id": "2056106799376285798",
+      "author": "Mahaximus_",
+      "text": "Anthropic CEO: \"we're building a loop where AI develops itself.\"\n\nDario Amodei spent 20 minutes at Davos explaining this, so people would finally get what he's been saying\n\nhere's what he covers:\n\n> he sees a world where AI systems improve themselves - and we're close. \n>",
+      "likes": 5,
+      "replies": 1,
+      "retweets": 0,
+      "views": 77,
+      "derived_timestamp": "2026-05-17T20:17:16.245000Z",
+      "age_hours": 10.71
+    },
+    {
+      "id": "2056128887952949506",
+      "author": "KingWilliamDefi",
+      "text": "Anthropic CEO: \"We designed Claude to get better the more context you give it. Without that context - you're getting a fraction of what it can do.\"\n\nDario Amodei sat down with Lex Fridman and spent over 2 hours explaining how Claude actually works under the hood - and why most",
+      "likes": 4,
+      "replies": 1,
+      "retweets": 0,
+      "views": 388,
+      "derived_timestamp": "2026-05-17T21:45:02.572000Z",
+      "age_hours": 9.25
+    },
+    {
+      "id": "2055906252723790031",
+      "author": "aiedge_",
+      "text": "Dario Amodei's ONLY goal is to give Anthropic as much compute as possible.\n\nIf his master plan goes through, he will, without a doubt, win the AI race.",
+      "likes": 41,
+      "replies": 6,
+      "retweets": 9,
+      "views": 5600,
+      "derived_timestamp": "2026-05-17T07:00:22.197000Z",
+      "age_hours": 23.99
+    },
+    {
+      "id": "2056197840561742055",
+      "author": "AIExplorerTim",
+      "text": "Explosive info: Claude's CEO just published a 38-page open letter.\n\nDario Amodei precisely mapped out which jobs can survive in the AI era.\n\nNo hype. No doomsday talk. Just the most brutal, specific predictions any AI leader has ever made.\n\nBut page 29 has a reasoning framework",
+      "likes": 30,
+      "replies": 5,
+      "retweets": 8,
+      "views": 3100,
+      "derived_timestamp": "2026-05-18T02:19:02.155000Z",
+      "age_hours": 4.68
+    },
+    {
+      "id": "2056230234660503685",
+      "author": "subhankarP",
+      "text": "3/ [Future] Dario Amodei (Anthropic CEO) to WSJ: \"Software is going to become cheap, maybe essentially free.\" The amortization model may collapse. Whole careers may not be present. The magnitude is not yet understood.",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 19,
+      "derived_timestamp": "2026-05-18T04:27:45.510000Z",
+      "age_hours": 2.54
+    },
+    {
+      "id": "2056011083307958562",
+      "author": "canekso",
+      "text": "@Anthropic CEO Dario Amodei: \u2018high GDP growth but also very high unemployment and inequality.\u2019 when the man building the technology is this honest about the risks, companies running without an AI strategy are running out of time",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 25,
+      "derived_timestamp": "2026-05-17T13:56:55.756000Z",
+      "age_hours": 17.05
+    },
+    {
+      "id": "2056131058488242658",
+      "author": "Doxposting",
+      "text": "demis hassabis just said reality is code\n\n> deepmind claims physics is information theory\n> alphafold decoded biology as pure data not matter\n\nexpect science to pivot from atoms to algorithms\n\nthe universe was always the simulation first",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 20,
+      "derived_timestamp": "2026-05-17T21:53:40.068000Z",
+      "age_hours": 9.11
+    },
+    {
+      "id": "2056103295610167440",
+      "author": "SeederStar90148",
+      "text": "Demis Hassabis is touching on something beautiful.\nAlphaFold did not just solve a hard problem. It revealed that even something as complex as protein folding has deep discoverable patterns underneath.\nIf the universe really does run on elegant computational rules at its core,",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 15,
+      "derived_timestamp": "2026-05-17T20:03:20.882000Z",
+      "age_hours": 10.94
+    },
+    {
+      "id": "2055847074755957096",
+      "author": "morganlinton",
+      "text": "Instead of watching this 60-minute Cambridge lecture by Demis Hassabis, take a break, it\u2019s Saturday night, watch some Netflix",
+      "likes": 42,
+      "replies": 2,
+      "retweets": 5,
+      "views": 6300,
+      "derived_timestamp": "2026-05-17T03:05:13.070000Z",
+      "age_hours": 27.91
+    },
+    {
+      "id": "2055838693559087239",
+      "author": "r0ck3t23",
+      "text": "Demis Hassabis just said something that should unsettle every scientist alive.\n\nHassabis: \u201cI do think that, ultimately, underlying physics is information theory. So I do think we\u2019re in a computational universe.\u201d\n\nThe CEO of Google DeepMind is telling you reality runs on code.",
+      "likes": 397,
+      "replies": 77,
+      "retweets": 125,
+      "views": 83000,
+      "derived_timestamp": "2026-05-17T02:31:54.837000Z",
+      "age_hours": 28.47
+    },
+    {
+      "id": "2056263367615042034",
+      "author": "osrbi1",
+      "text": "",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 13,
+      "derived_timestamp": "2026-05-18T06:39:25.022000Z",
+      "age_hours": 0.34
+    },
+    {
+      "id": "2056193257483161836",
+      "author": "daniel_mac8",
+      "text": "review: https://open.substack.com/pub/attentionheads/p/demis-hassabis-and-the-long-game?r=2057tt&utm_campaign=post-expanded-share&utm_medium=web\u2026",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 309,
+      "derived_timestamp": "2026-05-18T02:00:49.464000Z",
+      "age_hours": 4.99
+    },
+    {
+      "id": "2056074628011823201",
+      "author": "r0ck3t23",
+      "text": "Demis Hassabis just told you everything you need to hear and nothing you want to.\n\nThe head of Google DeepMind laid out the two things that keep him up at night.\n\nHassabis: \u201cBad actors, whether that\u2019s individuals or all the way up to nation-states, repurposing these technologies",
+      "likes": 51,
+      "replies": 30,
+      "retweets": 21,
+      "views": 5900,
+      "derived_timestamp": "2026-05-17T18:09:25.994000Z",
+      "age_hours": 12.84
+    },
+    {
+      "id": "2056121629009473683",
+      "author": "itsClintSteel",
+      "text": "Okay, sure, you're smarter than Nobel Laureate Demis Hassabis, world's best mathematician Terrance Tao, and countless other scientists and researchers who successfully use AI as a tool every single day. Well done!",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 37,
+      "derived_timestamp": "2026-05-17T21:16:11.905000Z",
+      "age_hours": 9.73
+    },
+    {
+      "id": "2056200408943714703",
+      "author": "LdWaford",
+      "text": "@r0ck3t23 Brilliant philosophical synthesis \u2014 Demis Hassabis is dropping foundational truth!\n\nWhen the CEO of Google DeepMind declares that underlying physics is information theory and that we live in a computational universe, it\u2019s not poetry. AlphaFold didn\u2019t approximate protein",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 16,
+      "derived_timestamp": "2026-05-18T02:29:14.505000Z",
+      "age_hours": 4.51
+    },
+    {
+      "id": "2056214387980193909",
+      "author": "karpathy",
+      "text": "I was recording my nanochat video when I realized that \u201cfirst boot up an 8XH100 from your favorite provider!\u201d would instantly get everyone stuck on step 1 of the video",
+      "likes": 903,
+      "replies": 36,
+      "retweets": 20,
+      "views": 58000,
+      "derived_timestamp": "2026-05-18T03:24:47.367000Z",
+      "age_hours": 3.59
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "item_2056165722804654196",
+      "tweet_id": "2056165722804654196",
+      "author": "sama",
+      "category": "news",
+      "reason": "Official OpenAI CEO post gives concrete ChatGPT Images 2.0 India usage metric."
+    },
+    {
+      "id": "item_2056214387980193909",
+      "tweet_id": "2056214387980193909",
+      "author": "karpathy",
+      "category": "practitioner",
+      "reason": "Karpathy gives concrete training-resource constraint for nanochat educational material."
+    },
+    {
+      "id": "item_2056218976913694879",
+      "tweet_id": "2056218976913694879",
+      "author": "Yuchenj_UW",
+      "category": "analysis",
+      "reason": "Practitioner post gives concrete claim about H100 scarcity and research access pressure."
+    },
+    {
+      "id": "item_2055969356127899668",
+      "tweet_id": "2055969356127899668",
+      "author": "NandoDF",
+      "category": "analysis",
+      "reason": "Technical post links LLM agent delusion mitigation to causality and agency."
+    },
+    {
+      "id": "item_2056254810286956781",
+      "tweet_id": "2056254810286956781",
+      "author": "GergelyOrosz",
+      "category": "practitioner",
+      "reason": "Practitioner reports a concrete hallucination regression in Perplexity despite source crawling."
+    },
+    {
+      "id": "item_2056089834532241667",
+      "tweet_id": "2056089834532241667",
+      "author": "demian_ai",
+      "category": "analysis",
+      "reason": "Practitioner analysis contrasts open-source model risk with blind execution risk in production AI."
+    },
+    {
+      "id": "item_2056223743446245519",
+      "tweet_id": "2056223743446245519",
+      "author": "gdb",
+      "category": "practitioner",
+      "reason": "OpenAI president gives concrete Codex use case around unsubscribing from marketing email."
+    },
+    {
+      "id": "item_2055925035618160824",
+      "tweet_id": "2055925035618160824",
+      "author": "rohanpaul_ai",
+      "category": "research",
+      "reason": "Research-focused tweet describes a Google DeepMind paper on web environments as an AI-agent security attack surface."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "item_2056226569555710153",
+      "tweet_id": "2056226569555710153",
+      "author": "runtimewire",
+      "category": "research",
+      "exclusion_reason": "Closer-to-specific GenCAD tweet but engagement is negligible."
+    },
+    {
+      "id": "item_2056022182560665602",
+      "tweet_id": "2056022182560665602",
+      "author": "Suryanshti777",
+      "category": "news",
+      "exclusion_reason": "Higher-engagement Claude Code plugin claim but remains secondary source."
+    },
+    {
+      "id": "item_2056179413901877551",
+      "tweet_id": "2056179413901877551",
+      "author": "elonmusk",
+      "category": "analysis",
+      "exclusion_reason": "Very high engagement but question-style item is less concrete than selected candidates."
+    },
+    {
+      "id": "item_2056061134629933072",
+      "tweet_id": "2056061134629933072",
+      "author": "elonmusk",
+      "category": "news",
+      "exclusion_reason": "High engagement but tweet text is too sparse without thread context."
+    },
+    {
+      "id": "item_2056077523239502061",
+      "tweet_id": "2056077523239502061",
+      "author": "DivyanshT91162",
+      "category": "news",
+      "exclusion_reason": "Open-source AI studio claim is concrete but promotional and less traceable."
+    }
+  ],
+  "editor_cycle_1": "applied"
+}
