@@ -1,0 +1,91 @@
+{
+  "idx": 1,
+  "query": "AI since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-1.json",
+  "err": ""
+}
+{
+  "idx": 2,
+  "query": "LLM since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-2.json",
+  "err": ""
+}
+{
+  "idx": 3,
+  "query": "machine learning since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-3.json",
+  "err": ""
+}
+{
+  "idx": 4,
+  "query": "GPT OR Claude OR Gemini since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-4.json",
+  "err": ""
+}
+{
+  "idx": 5,
+  "query": "open source AI model since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-5.json",
+  "err": ""
+}
+{
+  "idx": 6,
+  "query": "AI agent since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-6.json",
+  "err": ""
+}
+{
+  "idx": 7,
+  "query": "Sam Altman since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-7.json",
+  "err": ""
+}
+{
+  "idx": 8,
+  "query": "Dario Amodei since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-8.json",
+  "err": ""
+}
+{
+  "idx": 9,
+  "query": "Demis Hassabis since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-9.json",
+  "err": ""
+}
+{
+  "idx": 10,
+  "query": "from:karpathy since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-10.json",
+  "err": ""
+}
+{
+  "idx": 11,
+  "query": "from:sama since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-11.json",
+  "err": ""
+}
+{
+  "idx": 12,
+  "query": "from:OpenAI since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-12.json",
+  "err": "⚡ [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"cbc77bbb-434a-4f83-8fd9-e8dc700b4382\",\"ok\":false}"
+}
+{
+  "idx": 13,
+  "query": "from:AnthropicAI since:2026-05-18",
+  "ok": true,
+  "out": "logs/2026-05-19.search-13.json",
+  "err": ""
+}

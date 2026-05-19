@@ -1,0 +1,62 @@
+[
+  {
+    "author": "heynavtoor",
+    "id": "2056307663634612373",
+    "likes": 1000,
+    "replies": 22,
+    "retweets": 159,
+    "text": "A guy in Karachi rebuilt GPT-4 in one Jupyter notebook.\n\nOpenAI spent over $100 million to train the real one. He put the entire recipe on GitHub for free.\n\nHis README still says \"I am looking for a PhD position in AI.\"\n\nIt's called Train LLM From Scratch. A working guide that",
+    "url": "https://x.com/heynavtoor/status/2056307663634612373",
+    "views": 62000
+  },
+  {
+    "author": "shushant_l",
+    "id": "2056329031914856766",
+    "likes": 75,
+    "replies": 5,
+    "retweets": 13,
+    "text": "365 days ai mastery roadmap\n┃\n┣  phase 1: ai literacy\n┃ ┣  ai fundamentals\n┃ ┣  machine learning basics\n┃ ┣  deep learning intro\n┃ ┣  generative ai overview\n┃ ┗  python setup\n┃\n┣  phase 2: foundations\n┃ ┣  python programming\n┃ ┣  mathematics",
+    "url": "https://x.com/shushant_l/status/2056329031914856766",
+    "views": 1700
+  },
+  {
+    "author": "codewithhajra",
+    "id": "2056628699655512470",
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "text": "20 Powerful NotebookLM Prompts You NEED in 2026 \n\n1. Smart Summary\nTurn lengthy documents into clear insights.\n “Summarize this material into the 10 most important ideas, arguments, and actionable takeaways in simple language.”\n\n2. Explain Like I’m New\nMake difficult topics",
+    "url": "https://x.com/codewithhajra/status/2056628699655512470",
+    "views": 16
+  },
+  {
+    "author": "chenzeling4",
+    "id": "2056434405535887545",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Most \"build an LLM from scratch\" tutorials assume you already have a PhD. This one assumes you have a brain.\n\nHow to Train Your GPT walks you through building a LLaMA 3-style model chapter by chapter — 7,500+ lines, every single one commented, explained like you're five. No",
+    "url": "https://x.com/chenzeling4/status/2056434405535887545",
+    "views": 13
+  },
+  {
+    "author": "KayvonJafar",
+    "id": "2056434646385152451",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "a guy in karachi rebuilt “gpt-4” in one jupyter notebook.\n\nopenai spent $100m+ training the real thing.\n\nhe put the whole recipe on github for free.\n\nreadme still says “looking for a phd position in ai.”\n\nit’s called “train llm from scratch”.\n\n2b params on a single gpu.\n\nopenai",
+    "url": "https://x.com/KayvonJafar/status/2056434646385152451",
+    "views": 56
+  },
+  {
+    "author": "iam_elias1",
+    "id": "2056297784379351428",
+    "likes": 84,
+    "replies": 37,
+    "retweets": 43,
+    "text": "Someone just made a free ChatGPT.\n\nAnd it runs 100 different AI models including ones smarter than GPT-4o.\n\nAll on your own hardware. All completely free.\n\nIt is called Ollama. 165,000 GitHub stars. Apache 2.0 licensed. And it has quietly become the most important open-source",
+    "url": "https://x.com/iam_elias1/status/2056297784379351428",
+    "views": 4500
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "author": "TukiFromKL",
+    "id": "2056453961469903205",
+    "likes": 43,
+    "replies": 3,
+    "retweets": 7,
+    "text": "holy shit.. there's now a platform that hires AI agents for you from a marketplace of 273,000 skills and runs them 24/7 while you sleep\n\nLobeHub just dropped something called a Chief Agent Operator.. you don't build agents.. you don't prompt agents.. you tell it what you need",
+    "url": "https://x.com/TukiFromKL/status/2056453961469903205",
+    "views": 12000
+  },
+  {
+    "author": "Suryanshti777",
+    "id": "2056377470446977372",
+    "likes": 66,
+    "replies": 6,
+    "retweets": 11,
+    "text": "Okay so LobeHub just launched Chief Agent Operator and honestly?\n\nIf you're still manually prompting one AI bot at a time you're cooked \n\nThis thing lets you build an entire AI team:\n→ One agent researches\n→ One writes\n→ One edits\n→ One summarizes\n\nAll running in parallel.",
+    "url": "https://x.com/Suryanshti777/status/2056377470446977372",
+    "views": 2400
+  },
+  {
+    "author": "cyrilXBT",
+    "id": "2056388402665165123",
+    "likes": 91,
+    "replies": 16,
+    "retweets": 17,
+    "text": "LOCK IN on AI \n\nMost developers never built a claude agent before \n\nThat's the gap between people who use AI and people who build with it.\n\nBookmark it and build it",
+    "url": "https://x.com/cyrilXBT/status/2056388402665165123",
+    "views": 8300
+  },
+  {
+    "author": "eng_khairallah1",
+    "id": "2056485655925174468",
+    "likes": 495,
+    "replies": 20,
+    "retweets": 113,
+    "text": "Eric Schmidt (ex-Google CEO): “if you really want to make money, it’s actually easy. found an agentic AI company.”\n\nIf I had  only 30 days to do that , I'd begin here and save this: \n\nAgent Architecture \nhttps://langchain.com/blog?category_equal=%5B%22Agent+Architecture%22%5D…\n\nC",
+    "url": "https://x.com/eng_khairallah1/status/2056485655925174468",
+    "views": 95000
+  },
+  {
+    "author": "cgtwts",
+    "id": "2056416332988764453",
+    "likes": 31,
+    "replies": 7,
+    "retweets": 2,
+    "text": "Cursor pays engineers $1.1M/year to manage teams of AI agents that ship code while they sleep.\n\nthe CEO just explained their internal playbook in 9 minutes:\n\n> engineers don’t babysit one assistant anymore. they manage dozens of agent coworkers running in parallel across remote",
+    "url": "https://x.com/cgtwts/status/2056416332988764453",
+    "views": 10000
+  },
+  {
+    "author": "cyrilXBT",
+    "id": "2056302799508697343",
+    "likes": 299,
+    "replies": 21,
+    "retweets": 40,
+    "text": "THE 10 FASTEST GROWING GITHUB REPOS THIS WEEK AND THE THEME IS CLEAR.\n\nFree AI routing and persistent agent memory are the obsession dominating the builder community right now.\n\nSave this before next week's list looks completely different.\n\n1. CloakBrowser +9,100 stars\nStealth",
+    "url": "https://x.com/cyrilXBT/status/2056302799508697343",
+    "views": 15000
+  }
+]

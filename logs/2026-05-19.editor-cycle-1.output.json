@@ -1,0 +1,197 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has several strong concrete items, especially Anthropic acquiring Stainless, OpenAI's ChatGPT Images India usage metric, Cursor training-model commentary, and GBrain memory tooling. It also includes multiple weakly sourced or context-poor items: Demis's 'Locked in!' post is not self-contained, the GPT-4-from-scratch notebook and Meta layoff memo need stronger traceability, and the Dario 90%-of-code post is a low-quality recycled forecast. Replace the weakest forecast item with a stronger eligible reserve and run additional Twitter searches for source-traceable versions of the context-poor claims.",
+  "decisions": [
+    {
+      "id": "item_2056435834333934051",
+      "decision": "keep",
+      "reason": "Official Sam Altman post that ChatGPT has improved with the latest update; high engagement and product-relevant, though final copy should acknowledge that the tweet is broad rather than feature-specific.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers this ChatGPT update."
+      }
+    },
+    {
+      "id": "item_2056419620643541012",
+      "decision": "keep",
+      "reason": "Official Anthropic announcement that it is acquiring Stainless, an SDK and MCP server platform that powered Anthropic SDKs; concrete company/platform move with strong primary-source signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate selected item covers the Stainless acquisition."
+      }
+    },
+    {
+      "id": "item_2056531492080435452",
+      "decision": "needs_more_search",
+      "reason": "Demis Hassabis's 'Locked in!' tweet is too context-poor as a standalone selected item, even if the fingerprint suggests an AlphaFold-related milestone. It needs a clearer Twitter-source trail or replacement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not duplicative within the selected set; the problem is missing context in the selected tweet text."
+      }
+    },
+    {
+      "id": "item_2056389715293778192",
+      "decision": "keep",
+      "reason": "High-engagement practitioner question about why LLMs do not flag out-of-distribution requests; useful model-behavior discussion and distinct from product/company news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; this is an analysis/discussion item rather than a release."
+      }
+    },
+    {
+      "id": "item_2056307663634612373",
+      "decision": "needs_more_search",
+      "reason": "The 'rebuilt GPT-4 in one Jupyter notebook' framing is compelling but likely exaggerated and secondary. A stronger Twitter source for the underlying educational repo should be found before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not duplicative; source traceability and overclaiming are the concerns."
+      }
+    },
+    {
+      "id": "item_2056512380050555196",
+      "decision": "needs_more_search",
+      "reason": "Meta layoff/reorg memo item is potentially relevant if it ties workforce changes to AI reassignment, but the selected tweet is sensational and secondary. It needs a stronger Twitter-source trail before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; the issue is source traceability and fit."
+      }
+    },
+    {
+      "id": "item_2056426411695423823",
+      "decision": "keep",
+      "reason": "Clement Delangue's analysis of Cursor training its own models is relevant industry commentary about serious AI companies moving from API reliance toward self-trained/open-source-based models.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares a broad industry-strategy theme with other company items, but the Cursor/model-training angle is distinct."
+      }
+    },
+    {
+      "id": "item_2056606327984787932",
+      "decision": "needs_more_search",
+      "reason": "The claim that Demis Hassabis is an Anthropic angel investor may be interesting company/investment context, but the selected tweet is terse and cites FT indirectly. A clearer Twitter-source trail is needed.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not duplicative; the selected tweet is simply too thin for confident inclusion."
+      }
+    },
+    {
+      "id": "item_2056614053066248428",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Low-quality, typo-heavy repost of Dario Amodei's '90% of code' forecast; it overlaps with recent coverage of Anthropic executive coding forecasts and is weak as a standalone item. Replace with the eligible Claude Code prompt-video reserve, which is a more concrete developer-tooling item.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2056362875195686927",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Duplicate by angle with recent Dario/Anthropic AI-coding forecast coverage, not an exact selected-item duplicate."
+      }
+    },
+    {
+      "id": "item_2056565262632255615",
+      "decision": "keep",
+      "reason": "Concrete open-source memory/retrieval tooling claim around GBrain, LongMemEval, MIT licensing, and a real OpenClaw/Hermes agent-brain use case; low engagement but relevant to agent memory infrastructure.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers OSS memory/retrieval tooling."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2056531492080435452",
+        "item_2056307663634612373",
+        "item_2056512380050555196",
+        "item_2056606327984787932"
+      ],
+      "reason": "These selected items make context-dependent or substantial claims through terse or secondary tweets and need stronger Twitter-source trails before final writing."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2056435834333934051",
+        "item_2056426411695423823",
+        "item_2056565262632255615"
+      ],
+      "reason": "These are distinct product/tooling/model-strategy angles, but they cluster around developer and model-infrastructure work rather than broader policy or research coverage."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2056614053066248428"
+      ],
+      "reason": "The Dario 90%-of-code forecast is not a duplicate of another selected item, but it is redundant with recent digest coverage of Anthropic executive coding forecasts."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2056531492080435452",
+        "item_2056512380050555196",
+        "item_2056614053066248428"
+      ],
+      "reason": "Replacing or strengthening the context-poor Demis item, sensational Meta memo item, and recycled Dario forecast would improve the set with more concrete research, product, or policy coverage."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a clearer Twitter source for the AlphaFold or DeepMind milestone implied by Demis Hassabis's 'Locked in!' post.",
+      "suggested_query_theme": "Demis Hassabis Locked in AlphaFold DeepMind milestone since:2026-05-18"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter-source trail for the GPT-4-from-scratch notebook or the underlying educational repo without the exaggerated framing.",
+      "suggested_query_theme": "Train LLM from scratch notebook GPT-4 Jupyter AI education since:2026-05-18"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source for the Meta AI reorg or layoff memo story, preferably with concrete AI-reassignment details.",
+      "suggested_query_theme": "Meta AI reorg layoffs memo AI reassignment Reuters since:2026-05-18"
+    },
+    {
+      "needed": true,
+      "reason": "Find a less recycled replacement for the Dario 90%-of-code forecast, prioritizing concrete developer tooling, model release, research, or company-move tweets.",
+      "suggested_query_theme": "AI developer tooling model release research company move since:2026-05-18"
+    }
+  ]
+}

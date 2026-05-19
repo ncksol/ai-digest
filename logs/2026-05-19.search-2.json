@@ -1,0 +1,92 @@
+[
+  {
+    "author": "heynavtoor",
+    "id": "2056307663634612373",
+    "likes": 1000,
+    "replies": 22,
+    "retweets": 159,
+    "text": "A guy in Karachi rebuilt GPT-4 in one Jupyter notebook.\n\nOpenAI spent over $100 million to train the real one. He put the entire recipe on GitHub for free.\n\nHis README still says \"I am looking for a PhD position in AI.\"\n\nIt's called Train LLM From Scratch. A working guide that",
+    "url": "https://x.com/heynavtoor/status/2056307663634612373",
+    "views": 62000
+  },
+  {
+    "author": "adamdotdev",
+    "id": "2056367702181126596",
+    "likes": 109,
+    "replies": 10,
+    "retweets": 2,
+    "text": "People doing the craziest most exotic shit with their LLM coding tool, scientific papers backing all their decisions, pages and pages of content justifying why their tool is superior and the name will be like \"Qodery\", brother, hang it up, maybe try AI art or something",
+    "url": "https://x.com/adamdotdev/status/2056367702181126596",
+    "views": 6200
+  },
+  {
+    "author": "garrytan",
+    "id": "2056565262632255615",
+    "likes": 20,
+    "replies": 1,
+    "retweets": 3,
+    "text": "GBrain is SOTA on LongMemEval out of all known OSS retrieval and memory repos without LLM query rewriting by more than 1%. \n\nIt's MIT license and I run it on my own 100k markdown page OpenClaw/Hermes Agent brain.",
+    "url": "https://x.com/garrytan/status/2056565262632255615",
+    "views": 3500
+  },
+  {
+    "author": "DataChaz",
+    "id": "2056437931997290500",
+    "likes": 47,
+    "replies": 11,
+    "retweets": 19,
+    "text": "Heck...\n\nAuth + database + storage + front-end + LLM gateway + deployment.\n\nall natively operable by your coding agent",
+    "url": "https://x.com/DataChaz/status/2056437931997290500",
+    "views": 7800
+  },
+  {
+    "author": "askalphaxiv",
+    "id": "2056594968295178412",
+    "likes": 13,
+    "replies": 1,
+    "retweets": 1,
+    "text": "\"Steered LLM Activations are Non-Surjective\"\n\nActivation steering can make an LLM behave very differently, but that doesn't mean any prompt could have caused the same internal state.\n\nThis paper shows steering pushes activations off the prompt-reachable manifold into",
+    "url": "https://x.com/askalphaxiv/status/2056594968295178412",
+    "views": 802
+  },
+  {
+    "author": "OfficialLoganK",
+    "id": "2056389715293778192",
+    "likes": 1600,
+    "replies": 275,
+    "retweets": 82,
+    "text": "Why don’t LLM’s just tell you when you are asking a question / doing something that is out of distribution?",
+    "url": "https://x.com/OfficialLoganK/status/2056389715293778192",
+    "views": 172000
+  },
+  {
+    "author": "rohit4verse",
+    "id": "2056429557901877579",
+    "likes": 129,
+    "replies": 18,
+    "retweets": 29,
+    "text": "andrej karpathy spent two hours teaching one thing: tokens are the atom of llms. tokenization is at the heart of every llm weirdness you've ever debugged.\n\n[watch the 15-min clip below. then run the 7-day playbook]\n↓ save this before everyone copies it\n\nlearn how the tokenizer",
+    "url": "https://x.com/rohit4verse/status/2056429557901877579",
+    "views": 18000
+  },
+  {
+    "author": "garrytan",
+    "id": "2056464088969138431",
+    "likes": 53,
+    "replies": 2,
+    "retweets": 2,
+    "text": "Here are just a few of the built-in skillpacks you get. So GBrain is not just 97.6% top 5 LongMemEval retrieval with no LLM query rewriting (SOTA for OSS memory systems) - it is also going to be the biggest compendium of my own skills I use every day.",
+    "url": "https://x.com/garrytan/status/2056464088969138431",
+    "views": 10000
+  },
+  {
+    "author": "ashwingop",
+    "id": "2056451290150981719",
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "text": "7. This isn't an LLM trick — The eigenvalue cliff shows up wherever attention does. We tested on:\n\n· Mistral 7B → 5.95× KV compression, +7.5% perplexity\n· DINOv2 / Depth Anything → compression improves accuracy\n· ESM-2 → matched fold quality on CASP15\n· VideoMAE / AlphaFold",
+    "url": "https://x.com/ashwingop/status/2056451290150981719",
+    "views": 622
+  }
+]
