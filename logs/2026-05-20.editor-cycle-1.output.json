@@ -1,0 +1,216 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has several high-quality primary-source items: Karpathy joining Anthropic, OpenAI Guaranteed Capacity, OpenAI image provenance updates, Sam Altman's YC token offer, Anthropic's frontier-AI character dialogues, Azure image-model availability, and Claude's Devin case study. The main issues are one selected item outside the 24-hour window, several secondary or promotional claims that need stronger Twitter-source trails, and some OpenAI concentration. The set can pass after dropping the stale FT item and strengthening or replacing the weaker secondary/practitioner items through Twitter search.",
+  "decisions": [
+    {
+      "id": "item_2056753169888334312",
+      "decision": "keep",
+      "reason": "Primary-source announcement from Karpathy that he has joined Anthropic; exceptionally high engagement and clear frontier-lab significance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate selected item covers this hiring/company-move story."
+      }
+    },
+    {
+      "id": "item_2056823271774101907",
+      "decision": "keep",
+      "reason": "Official OpenAI launch of Guaranteed Capacity with concrete details about long-term compute access for customers; strong product-business and infrastructure relevance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve item item_2056863925791293675 is related commentary from gdb on discounted tokens and capacity certainty, but the official OpenAI launch tweet is the stronger representative."
+      }
+    },
+    {
+      "id": "item_2056793648571011232",
+      "decision": "keep",
+      "reason": "Official OpenAI provenance update adding SynthID watermarking and a public verification tool alongside C2PA Content Credentials; concrete product-policy item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers image provenance or verification."
+      }
+    },
+    {
+      "id": "item_2056933166875857290",
+      "decision": "keep",
+      "reason": "Primary Sam Altman source on OpenAI offering $2M in tokens to every startup in the current YC batch; concrete startup-program and token-infrastructure signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related broadly to OpenAI capacity and token supply, but it is a distinct startup investment/program story."
+      }
+    },
+    {
+      "id": "item_2056880308851708233",
+      "decision": "keep",
+      "reason": "Official Anthropic post about structured dialogues with scholars, philosophers, clergy, and ethicists on character and frontier-AI questions; useful governance/ethics coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the Karpathy joining Anthropic story and the Claude Devin case study."
+      }
+    },
+    {
+      "id": "item_2056658463229390936",
+      "decision": "needs_more_search",
+      "reason": "High-engagement practitioner post about open-source SAM3 object tracking is potentially strong model-release coverage, but the packet does not include an official or closer-to-primary Twitter source for the release and capability claims.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; source traceability is the concern."
+      }
+    },
+    {
+      "id": "item_2056812133065625804",
+      "decision": "keep",
+      "reason": "Official Azure platform update on Microsoft Foundry and Hugging Face bringing SDXL, FLUX.1-schnell, and Z-Image-Turbo to developers; low engagement but primary and concrete.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares an image-model/platform theme with OpenAI image provenance, but the platform/catalog angle is distinct."
+      }
+    },
+    {
+      "id": "item_2056595792450683328",
+      "decision": "reject",
+      "reason": "FT report that Demis Hassabis was an early Anthropic investor is outside the packet's 24-hour freshness window and is weaker than the current primary-source Anthropic/Karpathy company-move items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to Anthropic company context, but not the same event as Karpathy joining Anthropic or Anthropic's governance dialogue post."
+      }
+    },
+    {
+      "id": "item_2056842597117636890",
+      "decision": "needs_more_search",
+      "reason": "High-engagement leaked Meta all-hands audio story may be relevant to AI training and layoffs, but it is a secondary leak report and should have a stronger Twitter-source trail or clearer AI-specific framing before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; source traceability and framing are the main concerns."
+      }
+    },
+    {
+      "id": "item_2056805728774402428",
+      "decision": "keep",
+      "reason": "Official Claude account case study on Cognition and Devin being built on Claude; concrete agent/customer story from a primary account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related broadly to agent-case-study coverage, but distinct from the Kosmos pharmaceutical R&D memory-agent item."
+      }
+    },
+    {
+      "id": "item_2056743779298578791",
+      "decision": "needs_more_search",
+      "reason": "Pharmaceutical R&D memory-agent story is an interesting applied-agent angle, but the selected tweet is low-engagement practitioner commentary with promotional framing and needs a stronger Twitter source before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad applied-agent/case-study topic as the Claude Devin item, but a different industry and use case."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2056823271774101907",
+        "item_2056793648571011232",
+        "item_2056933166875857290"
+      ],
+      "reason": "OpenAI-related primary-source items are all strong, but three selected slots are from OpenAI or Sam Altman and should not crowd out non-OpenAI coverage if replacements are available."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2056823271774101907",
+        "item_2056933166875857290"
+      ],
+      "reason": "Both items involve OpenAI capacity or token availability, but Guaranteed Capacity is an enterprise compute product while the YC token offer is a startup-program investment."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2056805728774402428",
+        "item_2056743779298578791"
+      ],
+      "reason": "Both are applied AI-agent case studies, but Devin is software engineering on Claude while Kosmos is framed as pharmaceutical R&D memory."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2056658463229390936",
+        "item_2056842597117636890",
+        "item_2056743779298578791"
+      ],
+      "reason": "These selected items make concrete model, company-policy, or applied-agent claims through secondary or practitioner tweets rather than clearly primary Twitter sources."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2056595792450683328"
+      ],
+      "reason": "Dropping the stale FT item leaves room for a fresher Twitter-sourced research, model-release, policy, or applied-industry item."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find an official or closer-to-primary Twitter source for the SAM3 open-source computer-vision model and object-tracking claims.",
+      "suggested_query_theme": "SAM3 open source object tracking computer vision model since:2026-05-19"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter-source trail for the Meta leaked-audio AI training and layoffs story, or a cleaner company-policy replacement.",
+      "suggested_query_theme": "Meta leaked audio AI training layoffs all hands since:2026-05-19"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source for the Kosmos pharmaceutical R&D memory-agent story or a better applied-agent replacement.",
+      "suggested_query_theme": "Kosmos pharmaceutical R&D memory agent AI since:2026-05-19"
+    },
+    {
+      "needed": true,
+      "reason": "Find a fresh replacement for the stale FT Demis-Anthropic investor item, prioritizing concrete research, model release, policy, or applied-industry news.",
+      "suggested_query_theme": "AI research model release policy applied industry since:2026-05-19"
+    }
+  ]
+}

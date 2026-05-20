@@ -1,0 +1,403 @@
+{
+  "runId": "77ee46b5-4cbe-4127-a6f5-b031d6afa6f5",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has several high-quality primary-source items: Karpathy joining Anthropic, OpenAI Guaranteed Capacity, OpenAI image provenance updates, Sam Altman's YC token offer, Anthropic's frontier-AI character dialogues, Azure image-model availability, and Claude's Devin case study. The main issues are one selected item outside the 24-hour window, several secondary or promotional claims that need stronger Twitter-source trails, and some OpenAI concentration. The set can pass after dropping the stale FT item and strengthening or replacing the weaker secondary/practitioner items through Twitter search.\",\"decisions\":[{\"id\":\"item_2056753169888334312\",\"decision\":\"keep\",\"reason\":\"Primary-source announcement from Karpathy that he has joined Anthropic; exceptionally high engagement and clear frontier-lab significance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate selected item covers this hiring/company-move story.\"}},{\"id\":\"item_2056823271774101907\",\"decision\":\"keep\",\"reason\":\"Official OpenAI launch of Guaranteed Capacity with concrete details about long-term compute access for customers; strong product-business and infrastructure relevance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Reserve item item_2056863925791293675 is related commentary from gdb on discounted tokens and capacity certainty, but the official OpenAI launch tweet is the stronger representative.\"}},{\"id\":\"item_2056793648571011232\",\"decision\":\"keep\",\"reason\":\"Official OpenAI provenance update adding SynthID watermarking and a public verification tool alongside C2PA Content Credentials; concrete product-policy item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers image provenance or verification.\"}},{\"id\":\"item_2056933166875857290\",\"decision\":\"keep\",\"reason\":\"Primary Sam Altman source on OpenAI offering $2M in tokens to every startup in the current YC batch; concrete startup-program and token-infrastructure signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to OpenAI capacity and token supply, but it is a distinct startup investment/program story.\"}},{\"id\":\"item_2056880308851708233\",\"decision\":\"keep\",\"reason\":\"Official Anthropic post about structured dialogues with scholars, philosophers, clergy, and ethicists on character and frontier-AI questions; useful governance/ethics coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct from the Karpathy joining Anthropic story and the Claude Devin case study.\"}},{\"id\":\"item_2056658463229390936\",\"decision\":\"needs_more_search\",\"reason\":\"High-engagement practitioner post about open-source SAM3 object tracking is potentially strong model-release coverage, but the packet does not include an official or closer-to-primary Twitter source for the release and capability claims.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate; source traceability is the concern.\"}},{\"id\":\"item_2056812133065625804\",\"decision\":\"keep\",\"reason\":\"Official Azure platform update on Microsoft Foundry and Hugging Face bringing SDXL, FLUX.1-schnell, and Z-Image-Turbo to developers; low engagement but primary and concrete.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares an image-model/platform theme with OpenAI image provenance, but the platform/catalog angle is distinct.\"}},{\"id\":\"item_2056595792450683328\",\"decision\":\"reject\",\"reason\":\"FT report that Demis Hassabis was an early Anthropic investor is outside the packet's 24-hour freshness window and is weaker than the current primary-source Anthropic/Karpathy company-move items.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to Anthropic company context, but not the same event as Karpathy joining Anthropic or Anthropic's governance dialogue post.\"}},{\"id\":\"item_2056842597117636890\",\"decision\":\"needs_more_search\",\"reason\":\"High-engagement leaked Meta all-hands audio story may be relevant to AI training and layoffs, but it is a secondary leak report and should have a stronger Twitter-source trail or clearer AI-specific framing before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate; source traceability and framing are the main concerns.\"}},{\"id\":\"item_2056805728774402428\",\"decision\":\"keep\",\"reason\":\"Official Claude account case study on Cognition and Devin being built on Claude; concrete agent/customer story from a primary account.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to agent-case-study coverage, but distinct from the Kosmos pharmaceutical R&D memory-agent item.\"}},{\"id\":\"item_2056743779298578791\",\"decision\":\"needs_more_search\",\"reason\":\"Pharmaceutical R&D memory-agent story is an interesting applied-agent angle, but the selected tweet is low-engagement practitioner commentary with promotional framing and needs a stronger Twitter source before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad applied-agent/case-study topic as the Claude Devin item, but a different industry and use case.\"}}],\"set_level_flags\":[{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2056823271774101907\",\"item_2056793648571011232\",\"item_2056933166875857290\"],\"reason\":\"OpenAI-related primary-source items are all strong, but three selected slots are from OpenAI or Sam Altman and should not crowd out non-OpenAI coverage if replacements are available.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2056823271774101907\",\"item_2056933166875857290\"],\"reason\":\"Both items involve OpenAI capacity or token availability, but Guaranteed Capacity is an enterprise compute product while the YC token offer is a startup-program investment.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2056805728774402428\",\"item_2056743779298578791\"],\"reason\":\"Both are applied AI-agent case studies, but Devin is software engineering on Claude while Kosmos is framed as pharmaceutical R&D memory.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2056658463229390936\",\"item_2056842597117636890\",\"item_2056743779298578791\"],\"reason\":\"These selected items make concrete model, company-policy, or applied-agent claims through secondary or practitioner tweets rather than clearly primary Twitter sources.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2056595792450683328\"],\"reason\":\"Dropping the stale FT item leaves room for a fresher Twitter-sourced research, model-release, policy, or applied-industry item.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find an official or closer-to-primary Twitter source for the SAM3 open-source computer-vision model and object-tracking claims.\",\"suggested_query_theme\":\"SAM3 open source object tracking computer vision model since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter-source trail for the Meta leaked-audio AI training and layoffs story, or a cleaner company-policy replacement.\",\"suggested_query_theme\":\"Meta leaked audio AI training layoffs all hands since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for the Kosmos pharmaceutical R&D memory-agent story or a better applied-agent replacement.\",\"suggested_query_theme\":\"Kosmos pharmaceutical R&D memory agent AI since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a fresh replacement for the stale FT Demis-Anthropic investor item, prioritizing concrete research, model release, policy, or applied-industry news.\",\"suggested_query_theme\":\"AI research model release policy applied industry since:2026-05-19\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 49755,
+      "agentMeta": {
+        "sessionId": "72670507-7037-4450-95a0-88842cfaf921",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/72670507-7037-4450-95a0-88842cfaf921.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "pi",
+        "usage": {
+          "input": 5248,
+          "output": 2812,
+          "cacheRead": 218112,
+          "total": 116113
+        },
+        "lastCallUsage": {
+          "input": 4158,
+          "output": 2387,
+          "cacheRead": 109568,
+          "cacheWrite": 0,
+          "total": 116113
+        },
+        "promptTokens": 113726
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1779260706011,
+        "sessionId": "72670507-7037-4450-95a0-88842cfaf921",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 12000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "once",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 37023,
+          "projectContextChars": 13867,
+          "nonProjectContextChars": 23156
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 26761,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "schemaChars": 304,
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "schemaChars": 834,
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "schemaChars": 225,
+              "propertiesCount": 2
+            },
+            {
+              "name": "exec",
+              "summaryChars": 446,
+              "schemaChars": 1139,
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 322,
+              "schemaChars": 1011,
+              "propertiesCount": 12
+            },
+            {
+              "name": "canvas",
+              "summaryChars": 106,
+              "schemaChars": 661,
+              "propertiesCount": 18
+            },
+            {
+              "name": "message",
+              "summaryChars": 623,
+              "schemaChars": 6717,
+              "propertiesCount": 111
+            },
+            {
+              "name": "tts",
+              "summaryChars": 305,
+              "schemaChars": 316,
+              "propertiesCount": 3
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 118,
+              "schemaChars": 33,
+              "propertiesCount": 0
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 225,
+              "schemaChars": 432,
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 180,
+              "schemaChars": 161,
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 314,
+              "schemaChars": 274,
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 585,
+              "schemaChars": 1789,
+              "propertiesCount": 18
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 97,
+              "schemaChars": 60,
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 105,
+              "schemaChars": 191,
+              "propertiesCount": 4
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 456,
+              "schemaChars": 89,
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 83,
+              "schemaChars": 1209,
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 129,
+              "schemaChars": 374,
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 260,
+              "schemaChars": 342,
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "schemaChars": 2976,
+              "propertiesCount": 52
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "schemaChars": 237,
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "schemaChars": 215,
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "schemaChars": 1667,
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 233,
+              "schemaChars": 592,
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "schemaChars": 987,
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "schemaChars": 1191,
+              "propertiesCount": 7
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "schemaChars": 1439,
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "schemaChars": 1296,
+              "propertiesCount": 10
+            }
+          ]
+        }
+      },
+      "finalPromptText": "[Wed 2026-05-20 08:05 GMT+1] Previous editor output failed validation because it returned decisions for item ids that are not in the current packet and omitted all current selected ids. You must inspect /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-05-20.editor-cycle-1.input.json and return decisions only for its selected_items ids.\n\nValidation error summary: decision_id_not_selected for stale ids; missing_decision for item_2056753169888334312, item_2056823271774101907, item_2056793648571011232, item_2056933166875857290, item_2056880308851708233, item_2056658463229390936, item_2056812133065625804, item_2056595792450683328, item_2056842597117636890, item_2056805728774402428, item_2056743779298578791.\n\nReview the Twitter AI Digest candidate packet at /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-05-20.editor-cycle-1.input.json and return only valid JSON following twitter_ai_digest_editor_output.v1.\n\nRequired output contract:\n- Return exactly one JSON object, no markdown and no prose outside JSON.\n- Required top-level fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests.\n- Allowed set_level_flags.type values: same_topic_distinct_angle, redundant_story, fingerprint_collision, source_traceability_failure, overrepresented_author, coverage_gap.\n- schema_version must be exactly twitter_ai_digest_editor_output.v1.\n- cycle_number must match the packet editor_cycle.\n- decisions must contain one object for every selected item id from the packet and no other ids.\n- replacement_candidate_id may only reference eligible reserve ids from rejected_notable_items.\n- Do not use pool_role pool items as replacement_candidate_id values.\n- If no eligible reserve fits, use needs_more_search instead of replace_with_existing_candidate.\n- Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment.\n- duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes.\n- Each set_level_flags entry must be an object: {\"type\":\"redundant_story\",\"item_ids\":[\"item_2051234567890123456\"],\"reason\":\"Concrete duplicate rationale.\"}. Use [] if none.\n- Each additional_search_requests entry must be an object: {\"needed\":false,\"reason\":null,\"suggested_query_theme\":null}. Use [] if none.\n- set_level_flags and additional_search_requests entries are objects, never strings.\n- additional_search_requests are for additional Twitter search only. suggested_query_theme must describe a Twitter/X search theme, not a web verification task.\n- Do not request web, GitHub, docs, browser, or non-Twitter searches.\n- Do not publish, send messages, update files, use autocli, or include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has several high-quality primary-source items: Karpathy joining Anthropic, OpenAI Guaranteed Capacity, OpenAI image provenance updates, Sam Altman's YC token offer, Anthropic's frontier-AI character dialogues, Azure image-model availability, and Claude's Devin case study. The main issues are one selected item outside the 24-hour window, several secondary or promotional claims that need stronger Twitter-source trails, and some OpenAI concentration. The set can pass after dropping the stale FT item and strengthening or replacing the weaker secondary/practitioner items through Twitter search.\",\"decisions\":[{\"id\":\"item_2056753169888334312\",\"decision\":\"keep\",\"reason\":\"Primary-source announcement from Karpathy that he has joined Anthropic; exceptionally high engagement and clear frontier-lab significance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate selected item covers this hiring/company-move story.\"}},{\"id\":\"item_2056823271774101907\",\"decision\":\"keep\",\"reason\":\"Official OpenAI launch of Guaranteed Capacity with concrete details about long-term compute access for customers; strong product-business and infrastructure relevance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Reserve item item_2056863925791293675 is related commentary from gdb on discounted tokens and capacity certainty, but the official OpenAI launch tweet is the stronger representative.\"}},{\"id\":\"item_2056793648571011232\",\"decision\":\"keep\",\"reason\":\"Official OpenAI provenance update adding SynthID watermarking and a public verification tool alongside C2PA Content Credentials; concrete product-policy item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers image provenance or verification.\"}},{\"id\":\"item_2056933166875857290\",\"decision\":\"keep\",\"reason\":\"Primary Sam Altman source on OpenAI offering $2M in tokens to every startup in the current YC batch; concrete startup-program and token-infrastructure signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to OpenAI capacity and token supply, but it is a distinct startup investment/program story.\"}},{\"id\":\"item_2056880308851708233\",\"decision\":\"keep\",\"reason\":\"Official Anthropic post about structured dialogues with scholars, philosophers, clergy, and ethicists on character and frontier-AI questions; useful governance/ethics coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct from the Karpathy joining Anthropic story and the Claude Devin case study.\"}},{\"id\":\"item_2056658463229390936\",\"decision\":\"needs_more_search\",\"reason\":\"High-engagement practitioner post about open-source SAM3 object tracking is potentially strong model-release coverage, but the packet does not include an official or closer-to-primary Twitter source for the release and capability claims.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate; source traceability is the concern.\"}},{\"id\":\"item_2056812133065625804\",\"decision\":\"keep\",\"reason\":\"Official Azure platform update on Microsoft Foundry and Hugging Face bringing SDXL, FLUX.1-schnell, and Z-Image-Turbo to developers; low engagement but primary and concrete.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares an image-model/platform theme with OpenAI image provenance, but the platform/catalog angle is distinct.\"}},{\"id\":\"item_2056595792450683328\",\"decision\":\"reject\",\"reason\":\"FT report that Demis Hassabis was an early Anthropic investor is outside the packet's 24-hour freshness window and is weaker than the current primary-source Anthropic/Karpathy company-move items.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to Anthropic company context, but not the same event as Karpathy joining Anthropic or Anthropic's governance dialogue post.\"}},{\"id\":\"item_2056842597117636890\",\"decision\":\"needs_more_search\",\"reason\":\"High-engagement leaked Meta all-hands audio story may be relevant to AI training and layoffs, but it is a secondary leak report and should have a stronger Twitter-source trail or clearer AI-specific framing before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate; source traceability and framing are the main concerns.\"}},{\"id\":\"item_2056805728774402428\",\"decision\":\"keep\",\"reason\":\"Official Claude account case study on Cognition and Devin being built on Claude; concrete agent/customer story from a primary account.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to agent-case-study coverage, but distinct from the Kosmos pharmaceutical R&D memory-agent item.\"}},{\"id\":\"item_2056743779298578791\",\"decision\":\"needs_more_search\",\"reason\":\"Pharmaceutical R&D memory-agent story is an interesting applied-agent angle, but the selected tweet is low-engagement practitioner commentary with promotional framing and needs a stronger Twitter source before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad applied-agent/case-study topic as the Claude Devin item, but a different industry and use case.\"}}],\"set_level_flags\":[{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2056823271774101907\",\"item_2056793648571011232\",\"item_2056933166875857290\"],\"reason\":\"OpenAI-related primary-source items are all strong, but three selected slots are from OpenAI or Sam Altman and should not crowd out non-OpenAI coverage if replacements are available.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2056823271774101907\",\"item_2056933166875857290\"],\"reason\":\"Both items involve OpenAI capacity or token availability, but Guaranteed Capacity is an enterprise compute product while the YC token offer is a startup-program investment.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2056805728774402428\",\"item_2056743779298578791\"],\"reason\":\"Both are applied AI-agent case studies, but Devin is software engineering on Claude while Kosmos is framed as pharmaceutical R&D memory.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2056658463229390936\",\"item_2056842597117636890\",\"item_2056743779298578791\"],\"reason\":\"These selected items make concrete model, company-policy, or applied-agent claims through secondary or practitioner tweets rather than clearly primary Twitter sources.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2056595792450683328\"],\"reason\":\"Dropping the stale FT item leaves room for a fresher Twitter-sourced research, model-release, policy, or applied-industry item.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find an official or closer-to-primary Twitter source for the SAM3 open-source computer-vision model and object-tracking claims.\",\"suggested_query_theme\":\"SAM3 open source object tracking computer vision model since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter-source trail for the Meta leaked-audio AI training and layoffs story, or a cleaner company-policy replacement.\",\"suggested_query_theme\":\"Meta leaked audio AI training layoffs all hands since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for the Kosmos pharmaceutical R&D memory-agent story or a better applied-agent replacement.\",\"suggested_query_theme\":\"Kosmos pharmaceutical R&D memory agent AI since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a fresh replacement for the stale FT Demis-Anthropic investor item, prioritizing concrete research, model release, policy, or applied-industry news.\",\"suggested_query_theme\":\"AI research model release policy applied industry since:2026-05-19\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has several high-quality primary-source items: Karpathy joining Anthropic, OpenAI Guaranteed Capacity, OpenAI image provenance updates, Sam Altman's YC token offer, Anthropic's frontier-AI character dialogues, Azure image-model availability, and Claude's Devin case study. The main issues are one selected item outside the 24-hour window, several secondary or promotional claims that need stronger Twitter-source trails, and some OpenAI concentration. The set can pass after dropping the stale FT item and strengthening or replacing the weaker secondary/practitioner items through Twitter search.\",\"decisions\":[{\"id\":\"item_2056753169888334312\",\"decision\":\"keep\",\"reason\":\"Primary-source announcement from Karpathy that he has joined Anthropic; exceptionally high engagement and clear frontier-lab significance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate selected item covers this hiring/company-move story.\"}},{\"id\":\"item_2056823271774101907\",\"decision\":\"keep\",\"reason\":\"Official OpenAI launch of Guaranteed Capacity with concrete details about long-term compute access for customers; strong product-business and infrastructure relevance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Reserve item item_2056863925791293675 is related commentary from gdb on discounted tokens and capacity certainty, but the official OpenAI launch tweet is the stronger representative.\"}},{\"id\":\"item_2056793648571011232\",\"decision\":\"keep\",\"reason\":\"Official OpenAI provenance update adding SynthID watermarking and a public verification tool alongside C2PA Content Credentials; concrete product-policy item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers image provenance or verification.\"}},{\"id\":\"item_2056933166875857290\",\"decision\":\"keep\",\"reason\":\"Primary Sam Altman source on OpenAI offering $2M in tokens to every startup in the current YC batch; concrete startup-program and token-infrastructure signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to OpenAI capacity and token supply, but it is a distinct startup investment/program story.\"}},{\"id\":\"item_2056880308851708233\",\"decision\":\"keep\",\"reason\":\"Official Anthropic post about structured dialogues with scholars, philosophers, clergy, and ethicists on character and frontier-AI questions; useful governance/ethics coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct from the Karpathy joining Anthropic story and the Claude Devin case study.\"}},{\"id\":\"item_2056658463229390936\",\"decision\":\"needs_more_search\",\"reason\":\"High-engagement practitioner post about open-source SAM3 object tracking is potentially strong model-release coverage, but the packet does not include an official or closer-to-primary Twitter source for the release and capability claims.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate; source traceability is the concern.\"}},{\"id\":\"item_2056812133065625804\",\"decision\":\"keep\",\"reason\":\"Official Azure platform update on Microsoft Foundry and Hugging Face bringing SDXL, FLUX.1-schnell, and Z-Image-Turbo to developers; low engagement but primary and concrete.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares an image-model/platform theme with OpenAI image provenance, but the platform/catalog angle is distinct.\"}},{\"id\":\"item_2056595792450683328\",\"decision\":\"reject\",\"reason\":\"FT report that Demis Hassabis was an early Anthropic investor is outside the packet's 24-hour freshness window and is weaker than the current primary-source Anthropic/Karpathy company-move items.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to Anthropic company context, but not the same event as Karpathy joining Anthropic or Anthropic's governance dialogue post.\"}},{\"id\":\"item_2056842597117636890\",\"decision\":\"needs_more_search\",\"reason\":\"High-engagement leaked Meta all-hands audio story may be relevant to AI training and layoffs, but it is a secondary leak report and should have a stronger Twitter-source trail or clearer AI-specific framing before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate; source traceability and framing are the main concerns.\"}},{\"id\":\"item_2056805728774402428\",\"decision\":\"keep\",\"reason\":\"Official Claude account case study on Cognition and Devin being built on Claude; concrete agent/customer story from a primary account.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to agent-case-study coverage, but distinct from the Kosmos pharmaceutical R&D memory-agent item.\"}},{\"id\":\"item_2056743779298578791\",\"decision\":\"needs_more_search\",\"reason\":\"Pharmaceutical R&D memory-agent story is an interesting applied-agent angle, but the selected tweet is low-engagement practitioner commentary with promotional framing and needs a stronger Twitter source before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad applied-agent/case-study topic as the Claude Devin item, but a different industry and use case.\"}}],\"set_level_flags\":[{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2056823271774101907\",\"item_2056793648571011232\",\"item_2056933166875857290\"],\"reason\":\"OpenAI-related primary-source items are all strong, but three selected slots are from OpenAI or Sam Altman and should not crowd out non-OpenAI coverage if replacements are available.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2056823271774101907\",\"item_2056933166875857290\"],\"reason\":\"Both items involve OpenAI capacity or token availability, but Guaranteed Capacity is an enterprise compute product while the YC token offer is a startup-program investment.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2056805728774402428\",\"item_2056743779298578791\"],\"reason\":\"Both are applied AI-agent case studies, but Devin is software engineering on Claude while Kosmos is framed as pharmaceutical R&D memory.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2056658463229390936\",\"item_2056842597117636890\",\"item_2056743779298578791\"],\"reason\":\"These selected items make concrete model, company-policy, or applied-agent claims through secondary or practitioner tweets rather than clearly primary Twitter sources.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2056595792450683328\"],\"reason\":\"Dropping the stale FT item leaves room for a fresher Twitter-sourced research, model-release, policy, or applied-industry item.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find an official or closer-to-primary Twitter source for the SAM3 open-source computer-vision model and object-tracking claims.\",\"suggested_query_theme\":\"SAM3 open source object tracking computer vision model since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter-source trail for the Meta leaked-audio AI training and layoffs story, or a cleaner company-policy replacement.\",\"suggested_query_theme\":\"Meta leaked audio AI training layoffs all hands since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for the Kosmos pharmaceutical R&D memory-agent story or a better applied-agent replacement.\",\"suggested_query_theme\":\"Kosmos pharmaceutical R&D memory agent AI since:2026-05-19\"},{\"needed\":true,\"reason\":\"Find a fresh replacement for the stale FT Demis-Anthropic investor item, prioritizing concrete research, model release, policy, or applied-industry news.\",\"suggested_query_theme\":\"AI research model release policy applied industry since:2026-05-19\"}]}",
+      "replayInvalid": true,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "toolSummary": {
+        "calls": 1,
+        "tools": [
+          "exec"
+        ],
+        "failures": 0
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    },
+    "deliverySucceeded": false
+  }
+}
