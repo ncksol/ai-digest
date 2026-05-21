@@ -1,0 +1,32 @@
+[
+  {
+    "author": "OpenAI",
+    "id": "2057176201782075690",
+    "likes": 18000,
+    "replies": 636,
+    "retweets": 3600,
+    "text": "Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946.\n\nFor nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids.\n\nAn OpenAI model has now disproved that",
+    "url": "https://x.com/OpenAI/status/2057176201782075690",
+    "views": 6200000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2057176203166171317",
+    "likes": 2100,
+    "replies": 36,
+    "retweets": 226,
+    "text": "The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities.",
+    "url": "https://x.com/OpenAI/status/2057176203166171317",
+    "views": 922000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2057176204541866087",
+    "likes": 1600,
+    "replies": 44,
+    "retweets": 121,
+    "text": "This result points to something larger: AI systems are becoming capable of holding together long, difficult chains of reasoning, connecting ideas across distant fields, and surfacing paths researchers may not have explored.\n\nWe believe those same abilities will soon accelerate",
+    "url": "https://x.com/OpenAI/status/2057176204541866087",
+    "views": 259000
+  }
+]

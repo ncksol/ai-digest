@@ -1,0 +1,62 @@
+[
+  {
+    "author": "cyrilXBT",
+    "id": "2056983527401644248",
+    "likes": 113,
+    "replies": 19,
+    "retweets": 19,
+    "text": "SOMEONE JUST OPEN SOURCED 800 MILLION FREE TOKENS A MONTH ACROSS EVERY MAJOR LLM.\n\nNot a discount.\n\nNot a trial.\n\n800 million free tokens every single month.\n\nClaude. GPT. Gemini. Llama. Every major model.\n\nOne repo. Zero cost. No limits.\n\nThe developers paying $200 to $500 a",
+    "url": "https://x.com/cyrilXBT/status/2056983527401644248",
+    "views": 5600
+  },
+  {
+    "author": "garrytan",
+    "id": "2057133235700924707",
+    "likes": 20,
+    "replies": 1,
+    "retweets": 4,
+    "text": "GBrain is my brain and infra and skillpacks, all open sourced for your use, MIT license\n\nIt's SOTA for LongMemEval without LLM query rewriting by 1% vs MemPalace\n\nIf you use OpenClaw or Hermes Agent this is what you should use to supercharge your agent",
+    "url": "https://x.com/garrytan/status/2057133235700924707",
+    "views": 4000
+  },
+  {
+    "author": "adibvafa",
+    "id": "2057206428507504857",
+    "likes": 15,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Cohere's new frontier LLM is here!\n\nSo cool to see this ship. I got to work on its pretraining during my internship last year.\n\nThe team was insanely talented, congratulations on the release!",
+    "url": "https://x.com/adibvafa/status/2057206428507504857",
+    "views": 1000
+  },
+  {
+    "author": "jiqizhixin",
+    "id": "2057273858219213163",
+    "likes": 13,
+    "replies": 2,
+    "retweets": 5,
+    "text": "Cool, your AI could learn new information without ever retraining its core brain!\n\nMIT, A*STAR, NUS, and Liquid AI researchers introduce MEMO (Memory as a Model).\n\nInstead of fine-tuning the LLM, MEMO stores fresh knowledge in a separate \"memory\" model. Think of it like adding a",
+    "url": "https://x.com/jiqizhixin/status/2057273858219213163",
+    "views": 1000
+  },
+  {
+    "author": "kimmonismus",
+    "id": "2057209872765382958",
+    "likes": 391,
+    "replies": 13,
+    "retweets": 25,
+    "text": "OpenAI is aiming for a release of their upcoming general-purpose LLM. \n\n„We have not pushed this model to the limit on open problems. Our focus is to get it out quickly so that everyone can use it for themselves.“\n\nWhat makes this so impressive is that a general-purpose LLM, not",
+    "url": "https://x.com/kimmonismus/status/2057209872765382958",
+    "views": 44000
+  },
+  {
+    "author": "techwith_ram",
+    "id": "2057328992462803317",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Everyone talks about training bigger and more powerful LLMs. But in production, the real challenge is making them efficient.    \n\nThat’s where quantization becomes one of the most important concepts in LLM engineering.   \n\nQuantization is the process of reducing the numerical",
+    "url": "https://x.com/techwith_ram/status/2057328992462803317",
+    "views": 93
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "author": "AndrewYNg",
+    "id": "2057146565500998024",
+    "likes": 631,
+    "replies": 59,
+    "retweets": 100,
+    "text": "New course: Build AI agents that generate images and videos -- an under-explored frontier. A key to performance is having the agent evaluate its own output, and iterate to improve quality. This short course is built together with @googlecloudtech and taught by Katie Nguyen  and",
+    "url": "https://x.com/AndrewYNg/status/2057146565500998024",
+    "views": 55000
+  },
+  {
+    "author": "RoundtableSpace",
+    "id": "2057125445200499112",
+    "likes": 60,
+    "replies": 12,
+    "retweets": 3,
+    "text": "ANTHROPIC JUST ENDED THE “AI AGENT DEMO” ERA\n\n* Their Agents team revealed a real four-layer framework for production multi-agent systems  \n* Focused on reliability, coordination, memory, and real-world deployment, not toy demos",
+    "url": "https://x.com/RoundtableSpace/status/2057125445200499112",
+    "views": 44000
+  },
+  {
+    "author": "askalphaxiv",
+    "id": "2057320625572643205",
+    "likes": 47,
+    "replies": 2,
+    "retweets": 11,
+    "text": "\"AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration\"\n\nAs real science is iterative, this paper builds AutoResearchClaw, a multi-agent system that debates ideas, self-repairs experiments, decides when to Pivot or Refine, verifies numbers and",
+    "url": "https://x.com/askalphaxiv/status/2057320625572643205",
+    "views": 2100
+  },
+  {
+    "author": "scottastevenson",
+    "id": "2057163180225556881",
+    "likes": 33,
+    "replies": 3,
+    "retweets": 4,
+    "text": "Every company is going to have its customer data hacked by an AI agent in the next 5 years. \n\nThe question is: will you run the agent on yourself, or will you wait for an adversary to?\n\n@runsybil (founder @adversariel) is one of the most compelling pitches I’ve come across",
+    "url": "https://x.com/scottastevenson/status/2057163180225556881",
+    "views": 2800
+  },
+  {
+    "author": "usenaive",
+    "id": "2057131149768663118",
+    "likes": 153,
+    "replies": 12,
+    "retweets": 11,
+    "text": "Introducing Naive Studio v2 — build an entire company by chat.\n\nNow you have:\n\n> Hosted AI Employees (powered by Hermes) execute tasks 24/7\n> 100+ primitives from incorporation to payout\n> Shared business context across every agent \n> Recursive learning so agents run your company",
+    "url": "https://x.com/usenaive/status/2057131149768663118",
+    "views": 16000
+  },
+  {
+    "author": "NewsFromGoogle",
+    "id": "2057132125414179311",
+    "likes": 37,
+    "replies": 4,
+    "retweets": 3,
+    "text": "Across Google Ads, Google Analytics and Google Marketing Platform, our family of in-product AI agents have already helped marketers streamline campaigns and boost performance, with a Merchant Center agent joining the lineup soon. At Google Marketing Live, we introduced Ask",
+    "url": "https://x.com/NewsFromGoogle/status/2057132125414179311",
+    "views": 3500
+  },
+  {
+    "author": "starmexxx",
+    "id": "2056987381065040036",
+    "likes": 119,
+    "replies": 20,
+    "retweets": 20,
+    "text": "ALEX LEISCHOW JUST DROPPED A FULL TUTORIAL ON HOW TO BUILD AN AI THAT COLD CALLS LEADS FOR $1,500/MONTH PER CLIENT AND 67,000 PEOPLE ALREADY WATCHED IT\n\nhe uses vapi + make com + google sheets + openai to build a voice agent that sounds completely human, pitches your offer",
+    "url": "https://x.com/starmexxx/status/2056987381065040036",
+    "views": 20000
+  },
+  {
+    "author": "0xMovez",
+    "id": "2057103411783307293",
+    "likes": 2800,
+    "replies": 69,
+    "retweets": 438,
+    "text": "Microsoft Senior AI developer just showed how they build AI agents with Claude at Microsoft.\n\n34-minutes. free. By Microsoft team\n\nOpus 4.7 + 1,400+ pre-built MCP tools\n\nplug Claude into agent → give it tools → ship to production\n\nworth more than any $500 vibe-coding course.",
+    "url": "https://x.com/0xMovez/status/2057103411783307293",
+    "views": 689000
+  }
+]

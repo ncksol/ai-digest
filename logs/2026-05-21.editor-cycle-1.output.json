@@ -1,0 +1,234 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a strong core of primary-source items: OpenAI's planar unit distance result, SpaceXAI hiring, OpenAI/Altman AGI framing, Andrew Ng's generative-agent course, White House AI safety EO reporting, Anthropic/Claude agent case-study material, and agent-memory research. The main weaknesses are duplicate OpenAI math/AGI framing, several secondary or promotional agent-tooling claims, and low-context model-release claims that need stronger Twitter-source trails before final writing.",
+  "decisions": [
+    {
+      "id": "item_2057176201782075690",
+      "decision": "keep",
+      "reason": "Official OpenAI announcement of a reasoning-model breakthrough on the planar unit distance problem; primary-source, high-engagement, and clearly significant for AI-assisted scientific discovery.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "This is the strongest representative of the OpenAI mathematics result cluster."
+      }
+    },
+    {
+      "id": "item_2057327547411570907",
+      "decision": "keep",
+      "reason": "Direct Elon Musk post that SpaceXAI is hiring engineers and physicists; concrete company-building signal with very high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers SpaceXAI hiring."
+      }
+    },
+    {
+      "id": "item_2057218997503086888",
+      "decision": "superseded_by",
+      "reason": "Sam Altman's AGI-priorities post is high-engagement but overlaps heavily with the selected OpenAI unit-distance announcement and adds broad framing rather than a distinct new event.",
+      "superseded_by": "item_2057176201782075690",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same OpenAI unit-distance/news cycle; the official OpenAI announcement is the stronger source, while this is broader CEO framing."
+      }
+    },
+    {
+      "id": "item_2057146565500998024",
+      "decision": "keep",
+      "reason": "Andrew Ng announced a concrete new Google Cloud course on agents that generate images and videos; practical education/tooling item with direct source signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related broadly to agent/tooling education, but distinct from Microsoft/Claude and Anthropic Skills material."
+      }
+    },
+    {
+      "id": "item_2057217091489669620",
+      "decision": "keep",
+      "reason": "Reporter-sourced item listing tech CEOs invited to a White House AI safety executive-order signing; relevant policy/governance coverage and distinct from product releases.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers the White House AI safety EO event."
+      }
+    },
+    {
+      "id": "item_2057108069776011602",
+      "decision": "needs_more_search",
+      "reason": "Gemini for Science and Hassabis's scientific-infrastructure framing are relevant, but this is a secondary quote-summary tweet. A closer-to-primary Twitter source from DeepMind, Google, or Hassabis would be preferable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the OpenAI scientific-discovery result, but it concerns Google's Gemini for Science framing rather than the same event."
+      }
+    },
+    {
+      "id": "item_2057103411783307293",
+      "decision": "needs_more_search",
+      "reason": "Microsoft-building-agents-with-Claude item is high-engagement and potentially useful, but the selected tweet is a secondary promotional summary. Seek a Microsoft, Claude, or presenter-adjacent Twitter source before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad Claude/agent tooling topic as reserve Anthropic Skills and Claude Code routing items, but not the same event."
+      }
+    },
+    {
+      "id": "item_2057131149768663118",
+      "decision": "keep",
+      "reason": "Naive Studio v2 is a direct product announcement with concrete hosted AI employee and company-building primitives; useful agent-startup/product launch coverage if framed as vendor claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent-company/productivity themes, but distinct as a specific product launch."
+      }
+    },
+    {
+      "id": "item_2057253910016843982",
+      "decision": "needs_more_search",
+      "reason": "The open-source Canadian frontier-model claim is potentially newsworthy, but the tweet is vague and does not name the model or provide enough technical context. A stronger Twitter source is needed.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; source specificity is the issue."
+      }
+    },
+    {
+      "id": "item_2057133235700924707",
+      "decision": "keep",
+      "reason": "GBrain is a direct announcement of an MIT-licensed long-memory system for agents, with concrete LongMemEval and OpenClaw/Hermes use-case claims; low engagement but relevant to agent memory infrastructure.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to MEMO memory-as-model research, but this is an applied open-source agent-memory tool."
+      }
+    },
+    {
+      "id": "item_2057273858219213163",
+      "decision": "keep",
+      "reason": "MEMO memory-as-model research item gives a concrete research direction from MIT, A*STAR, NUS, and Liquid AI; useful complement to agent-memory tooling coverage despite low engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad memory theme as GBrain, but distinct as research rather than applied tooling."
+      }
+    },
+    {
+      "id": "item_2057206428507504857",
+      "decision": "needs_more_search",
+      "reason": "Cohere frontier-LLM release is potentially important, but this employee post is low-context and low-engagement. Seek an official Cohere or stronger Twitter source before selecting.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; the selected tweet lacks enough release detail."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2057176201782075690",
+        "item_2057218997503086888"
+      ],
+      "reason": "Both selected items are tied to OpenAI's planar unit distance result; the official OpenAI announcement is the stronger representative, while Sam Altman's post is broader framing."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2057176201782075690",
+        "item_2057108069776011602"
+      ],
+      "reason": "Both items frame AI as scientific infrastructure or discovery acceleration, but OpenAI's math result and Google's Gemini for Science framing are distinct events."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2057146565500998024",
+        "item_2057103411783307293",
+        "item_2057131149768663118",
+        "item_2057133235700924707",
+        "item_2057273858219213163"
+      ],
+      "reason": "The set is agent-heavy across education, Microsoft/Claude workflows, company-building agents, long-memory tooling, and memory-as-model research."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2057108069776011602",
+        "item_2057103411783307293",
+        "item_2057253910016843982",
+        "item_2057206428507504857"
+      ],
+      "reason": "These selected items make concrete science, tooling, model-release, or company claims through secondary or low-context tweets rather than clearly primary Twitter sources."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2057218997503086888",
+        "item_2057253910016843982",
+        "item_2057206428507504857"
+      ],
+      "reason": "Deduping broad OpenAI framing and strengthening vague model-release items would create room for fresher, better-sourced model, research, or policy coverage."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a closer-to-primary Twitter source for Gemini for Science and Hassabis's scientific-infrastructure framing.",
+      "suggested_query_theme": "Gemini for Science Demis Hassabis Google DeepMind since:2026-05-20"
+    },
+    {
+      "needed": true,
+      "reason": "Find a primary or presenter-adjacent Twitter source for Microsoft developers building agents with Claude and MCP tooling.",
+      "suggested_query_theme": "Microsoft Claude agents MCP tools production since:2026-05-20"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source naming and describing the Canadian open-source frontier model.",
+      "suggested_query_theme": "Canadian open source frontier model fastest model since:2026-05-20"
+    },
+    {
+      "needed": true,
+      "reason": "Find an official or stronger Twitter source for the new Cohere frontier LLM release.",
+      "suggested_query_theme": "Cohere frontier LLM release since:2026-05-20"
+    }
+  ]
+}
