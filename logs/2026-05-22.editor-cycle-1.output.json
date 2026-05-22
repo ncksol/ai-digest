@@ -1,0 +1,232 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a strong official Codex Thursday story, a credible Claude Code enterprise-cost story, and a useful LLM-driven security-practitioner idea. However, it over-selects four tweets from the same OpenAI Codex launch thread, includes a high-engagement but non-news Sam Altman question, repeats the prior OpenAI math-result story, and has several low-signal or weakly sourced tooling items. Keep one Codex representative, collapse the duplicate feature bullets, prefer the CNBC reporter angle for the Claude Code cost story, and use Twitter/X search for fresher replacements.",
+  "decisions": [
+    {
+      "id": "item_2057617844800794878",
+      "decision": "keep",
+      "reason": "Official OpenAI Codex Thursday launch summary with the clearest high-level product news: Codex can securely use Mac apps from a phone even while the Mac is locked.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Best representative of the Codex Thursday launch cluster; the other OpenAI feature bullets are details from the same launch thread."
+      }
+    },
+    {
+      "id": "item_2057617860986593680",
+      "decision": "superseded_by",
+      "reason": "Goal mode is a concrete feature, but it belongs to the same Codex Thursday launch cluster already represented by the broader OpenAI launch-summary item.",
+      "superseded_by": "item_2057617844800794878",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same OpenAI Codex Thursday launch; distinct feature angle but too narrow to justify its own digest slot."
+      }
+    },
+    {
+      "id": "item_2057617862479708650",
+      "decision": "superseded_by",
+      "reason": "Advanced annotation mode is a feature detail from the same Codex Thursday launch thread; keep it as context under the broader launch rather than a separate selected story.",
+      "superseded_by": "item_2057617844800794878",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same OpenAI Codex Thursday launch; distinct feature angle but redundant as an independent digest item."
+      }
+    },
+    {
+      "id": "item_2057617846449197480",
+      "decision": "superseded_by",
+      "reason": "Appshots is another feature detail from the same Codex Thursday launch cluster and should be folded into the main OpenAI Codex launch item.",
+      "superseded_by": "item_2057617844800794878",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same OpenAI Codex Thursday launch; screen-context feature is useful detail but not a separate story."
+      }
+    },
+    {
+      "id": "item_2057614780727480741",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Sam Altman's question about future AI problems has high engagement but is not a concrete news, product, research, or practitioner item. Replace it with the eligible Hermes Agent desktop-app reserve, which is a more concrete agent-product story.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2057653926913085952",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate; rejected for low standalone editorial value."
+      }
+    },
+    {
+      "id": "item_2057531661785628841",
+      "decision": "superseded_by",
+      "reason": "High-engagement claim about Microsoft canceling Claude Code licenses is important if true, but the selected account is market-commentary style. The CNBC reporter item is the stronger selected representative of the same enterprise token-cost story.",
+      "superseded_by": "item_2057620598365593685",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Microsoft/Claude Code enterprise-cost story; this post has broader claims, while the CNBC reporter post is the more source-credible angle."
+      }
+    },
+    {
+      "id": "item_2057620598365593685",
+      "decision": "keep",
+      "reason": "CNBC reporter analysis of Microsoft engineers preferring Claude Code while enterprise token pricing forces cost scrutiny is a strong angle on real-world model economics.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Best selected representative of the Microsoft/Claude Code enterprise-cost cluster."
+      }
+    },
+    {
+      "id": "item_2057390202650267970",
+      "decision": "keep",
+      "reason": "Concrete security-practitioner idea from Florian Roth: fake internal DNS entries as canaries for future LLM-driven recon agents. It adds a useful defensive-security angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner/security item."
+      }
+    },
+    {
+      "id": "item_2057365298873811303",
+      "decision": "reject",
+      "reason": "Greg Brockman's post about the OpenAI math result is thoughtful, but the planar unit distance result was already a major prior story and this adds commentary rather than a new event.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Duplicate by recent-history angle: same OpenAI math-result story already covered, not a fresh selected item for this cycle."
+      }
+    },
+    {
+      "id": "item_2057434782087151826",
+      "decision": "replace_with_existing_candidate",
+      "reason": "TradingAgents is concrete, but this open-source multi-agent trading framework appears to repeat a recently covered story and the selected tweet is secondary. Replace with the eligible local-Gemma-vs-cloud comparison reserve for a fresher open-source/practitioner angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2057444440382562649",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Likely duplicate by recent-history topic: TradingAgents was already covered as an open-source multi-agent trading framework."
+      }
+    },
+    {
+      "id": "item_2057560393577267703",
+      "decision": "replace_with_existing_candidate",
+      "reason": "DAIR.AI's LLM Wikis and Artifacts post is low-detail and overlaps with recent LLM wiki/knowledge-base coverage. Replace with the eligible next-token-critique reserve for a more distinct analysis item.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2057489947725091137",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Duplicate by angle with recent LLM wiki/artifact knowledge-workflow coverage rather than the same exact event."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2057617844800794878",
+        "item_2057617860986593680",
+        "item_2057617862479708650",
+        "item_2057617846449197480"
+      ],
+      "reason": "Four selected items are feature bullets from the same OpenAI Codex Thursday launch thread; keep one representative and fold the other feature details into it."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2057531661785628841",
+        "item_2057620598365593685"
+      ],
+      "reason": "Both selected items cover the Microsoft/Claude Code enterprise token-cost story; use the CNBC reporter angle as the stronger selected representative."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2057617844800794878",
+        "item_2057617860986593680",
+        "item_2057617862479708650",
+        "item_2057617846449197480"
+      ],
+      "reason": "OpenAI occupies four selected slots through one launch thread, crowding out other stories."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2057617844800794878",
+        "item_2057620598365593685",
+        "item_2057434782087151826"
+      ],
+      "reason": "The set leans heavily toward coding-agent and developer-tool economics: Codex launches, Claude Code costs, and TradingAgents tooling."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2057531661785628841",
+        "item_2057434782087151826"
+      ],
+      "reason": "These selected items make concrete enterprise-cost or open-source-framework claims through secondary posts rather than clearly primary Twitter sources."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2057617860986593680",
+        "item_2057617862479708650",
+        "item_2057617846449197480",
+        "item_2057614780727480741",
+        "item_2057365298873811303",
+        "item_2057560393577267703"
+      ],
+      "reason": "Deduping Codex feature bullets and dropping low-news or repeated commentary creates room for fresher, better-sourced AI research, model, policy, or practitioner items."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find one or two stronger Twitter/X replacement candidates after collapsing the Codex feature bullets into one story.",
+      "suggested_query_theme": "Twitter/X search for AI model release research result policy product launch since 2026-05-21"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the Microsoft Claude Code enterprise token-cost story, preferably from a reporter, Microsoft-adjacent account, or enterprise AI buyer.",
+      "suggested_query_theme": "Twitter/X search for Microsoft Claude Code token pricing enterprise cost since 2026-05-21"
+    },
+    {
+      "needed": true,
+      "reason": "Find a primary or maintainer Twitter/X source for TradingAgents if the trading-framework story is still considered for inclusion.",
+      "suggested_query_theme": "Twitter/X search for TradingAgents multi agent LLM trading framework Python since 2026-05-21"
+    },
+    {
+      "needed": true,
+      "reason": "Find a fresher non-Codex, non-Claude developer-tooling story to balance the set.",
+      "suggested_query_theme": "Twitter/X search for AI developer tooling open source model agent security since 2026-05-21"
+    }
+  ]
+}

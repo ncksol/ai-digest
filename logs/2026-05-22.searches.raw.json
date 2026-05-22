@@ -1,0 +1,923 @@
+{
+  "failures": 0,
+  "searches": [
+    {
+      "query": "AI since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"dee_bosa\",\n    \"id\": \"2057620598365593685\",\n    \"likes\": 331,\n    \"replies\": 47,\n    \"retweets\": 35,\n    \"text\": \"The more interesting part is that Microsoft’s own engineers liked Claude code best…and they’re cutting it anyway\\n\\nToken pricing is making enterprise actually look at what these models cost to run and that could be a problem for the labs when the subsidy ends. Lots of cheaper\",\n    \"url\": \"https://x.com/dee_bosa/status/2057620598365593685\",\n    \"views\": 119000\n  },\n  {\n    \"author\": \"sama\",\n    \"id\": \"2057559714788258003\",\n    \"likes\": 2400,\n    \"replies\": 339,\n    \"retweets\": 131,\n    \"text\": \"new codex ships today!\",\n    \"url\": \"https://x.com/sama/status/2057559714788258003\",\n    \"views\": 370000\n  },\n  {\n    \"author\": \"ns123abc\",\n    \"id\": \"2057698375512793279\",\n    \"likes\": 214,\n    \"replies\": 58,\n    \"retweets\": 24,\n    \"text\": \"> be me \\n> first tell claude it’s dumb\\n> then immediately ask it to look up some article\\n> claude: “I'm happy to look it up, but I'm not going to keep talking if you call me names. Knock that off and I'll search”\\n> wait… it just threatened me\\n> then asks “do you remember when\",\n    \"url\": \"https://x.com/ns123abc/status/2057698375512793279\",\n    \"views\": 19000\n  },\n  {\n    \"author\": \"gdb\",\n    \"id\": \"2057650157358055625\",\n    \"likes\": 442,\n    \"replies\": 54,\n    \"retweets\": 15,\n    \"text\": \"codex for using all apps on your computer from your phone https://x.com/AriX/status/20/AriX/status/2057645366640828660…\",\n    \"url\": \"https://x.com/gdb/status/2057650157358055625\",\n    \"views\": 54000\n  },\n  {\n    \"author\": \"gdb\",\n    \"id\": \"2057365298873811303\",\n    \"likes\": 694,\n    \"replies\": 68,\n    \"retweets\": 41,\n    \"text\": \"our math result is a milestone in new knowledge generation by AI. very exciting to imagine similar results in other scientific fields. \\\"It's very hard to sleep, man\\\" is a pretty good reaction.\",\n    \"url\": \"https://x.com/gdb/status/2057365298873811303\",\n    \"views\": 70000\n  },\n  {\n    \"author\": \"OpenAI\",\n    \"id\": \"2057617860986593680\",\n    \"likes\": 258,\n    \"replies\": 10,\n    \"retweets\": 17,\n    \"text\": \"Goal mode is now available in the Codex app, IDE extension, and CLI.\\n\\nGoal mode makes Codex more hands-off, letting you set a goal that it can work towards for hours or even days.\",\n    \"url\": \"https://x.com/OpenAI/status/2057617860986593680\",\n    \"views\": 28000\n  },\n  {\n    \"author\": \"sama\",\n    \"id\": \"2057614780727480741\",\n    \"likes\": 7100,\n    \"replies\": 9700,\n    \"retweets\": 1100,\n    \"text\": \"what problem do you most hope AI will solve in the future?\\n\\nmaybe we can help!\",\n    \"url\": \"https://x.com/sama/status/2057614780727480741\",\n    \"views\": 1400000\n  },\n  {\n    \"author\": \"MaxForAI\",\n    \"id\": \"2057343073965981971\",\n    \"likes\": 223,\n    \"replies\": 7,\n    \"retweets\": 54,\n    \"text\": \"I don’t allow anyone to skip watching Demis Hassabis’s latest podcast.\\n\\nThis episode of HUGE Conversations features an interview with Google DeepMind CEO Demis Hassabis.\\n\\nThat is, the guy who led the team that created AlphaFold and later won the Nobel Prize.\\n\\nA lot of people\",\n    \"url\": \"https://x.com/MaxForAI/status/2057343073965981971\",\n    \"views\": 48000\n  },\n  {\n    \"author\": \"suchenzang\",\n    \"id\": \"2057699828591624434\",\n    \"likes\": 26,\n    \"replies\": 10,\n    \"retweets\": 1,\n    \"text\": \"so they were actually serious about ai welfare\\n\\ni used to roll my eyes when they said ai welfare and human welfare are the same thing\\n\\nnow i'm not so sure. maybe this is a good thing? does being mean to bots mean they will be mean to humans? is it just inevitable that bots get\",\n    \"url\": \"https://x.com/suchenzang/status/2057699828591624434\",\n    \"views\": 4000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "dee_bosa",
+          "id": "2057620598365593685",
+          "likes": 331,
+          "replies": 47,
+          "retweets": 35,
+          "text": "The more interesting part is that Microsoft’s own engineers liked Claude code best…and they’re cutting it anyway\n\nToken pricing is making enterprise actually look at what these models cost to run and that could be a problem for the labs when the subsidy ends. Lots of cheaper",
+          "url": "https://x.com/dee_bosa/status/2057620598365593685",
+          "views": 119000
+        },
+        {
+          "author": "sama",
+          "id": "2057559714788258003",
+          "likes": 2400,
+          "replies": 339,
+          "retweets": 131,
+          "text": "new codex ships today!",
+          "url": "https://x.com/sama/status/2057559714788258003",
+          "views": 370000
+        },
+        {
+          "author": "ns123abc",
+          "id": "2057698375512793279",
+          "likes": 214,
+          "replies": 58,
+          "retweets": 24,
+          "text": "> be me \n> first tell claude it’s dumb\n> then immediately ask it to look up some article\n> claude: “I'm happy to look it up, but I'm not going to keep talking if you call me names. Knock that off and I'll search”\n> wait… it just threatened me\n> then asks “do you remember when",
+          "url": "https://x.com/ns123abc/status/2057698375512793279",
+          "views": 19000
+        },
+        {
+          "author": "gdb",
+          "id": "2057650157358055625",
+          "likes": 442,
+          "replies": 54,
+          "retweets": 15,
+          "text": "codex for using all apps on your computer from your phone https://x.com/AriX/status/20/AriX/status/2057645366640828660…",
+          "url": "https://x.com/gdb/status/2057650157358055625",
+          "views": 54000
+        },
+        {
+          "author": "gdb",
+          "id": "2057365298873811303",
+          "likes": 694,
+          "replies": 68,
+          "retweets": 41,
+          "text": "our math result is a milestone in new knowledge generation by AI. very exciting to imagine similar results in other scientific fields. \"It's very hard to sleep, man\" is a pretty good reaction.",
+          "url": "https://x.com/gdb/status/2057365298873811303",
+          "views": 70000
+        },
+        {
+          "author": "OpenAI",
+          "id": "2057617860986593680",
+          "likes": 258,
+          "replies": 10,
+          "retweets": 17,
+          "text": "Goal mode is now available in the Codex app, IDE extension, and CLI.\n\nGoal mode makes Codex more hands-off, letting you set a goal that it can work towards for hours or even days.",
+          "url": "https://x.com/OpenAI/status/2057617860986593680",
+          "views": 28000
+        },
+        {
+          "author": "sama",
+          "id": "2057614780727480741",
+          "likes": 7100,
+          "replies": 9700,
+          "retweets": 1100,
+          "text": "what problem do you most hope AI will solve in the future?\n\nmaybe we can help!",
+          "url": "https://x.com/sama/status/2057614780727480741",
+          "views": 1400000
+        },
+        {
+          "author": "MaxForAI",
+          "id": "2057343073965981971",
+          "likes": 223,
+          "replies": 7,
+          "retweets": 54,
+          "text": "I don’t allow anyone to skip watching Demis Hassabis’s latest podcast.\n\nThis episode of HUGE Conversations features an interview with Google DeepMind CEO Demis Hassabis.\n\nThat is, the guy who led the team that created AlphaFold and later won the Nobel Prize.\n\nA lot of people",
+          "url": "https://x.com/MaxForAI/status/2057343073965981971",
+          "views": 48000
+        },
+        {
+          "author": "suchenzang",
+          "id": "2057699828591624434",
+          "likes": 26,
+          "replies": 10,
+          "retweets": 1,
+          "text": "so they were actually serious about ai welfare\n\ni used to roll my eyes when they said ai welfare and human welfare are the same thing\n\nnow i'm not so sure. maybe this is a good thing? does being mean to bots mean they will be mean to humans? is it just inevitable that bots get",
+          "url": "https://x.com/suchenzang/status/2057699828591624434",
+          "views": 4000
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "LLM since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"IOHK_Charles\",\n    \"id\": \"2057399363161174139\",\n    \"likes\": 213,\n    \"replies\": 30,\n    \"retweets\": 23,\n    \"text\": \"Apple wants to pretend LLMs add nothing to the AI race. They are missing the forest for the trees. Adding a world model and neurosymbolic reasoning to an LLM effectively makes a brain. The LLM component is the thinking fast in the thinking fast and slow. Since the 1950s, we've\",\n    \"url\": \"https://x.com/IOHK_Charles/status/2057399363161174139\",\n    \"views\": 30000\n  },\n  {\n    \"author\": \"dair_ai\",\n    \"id\": \"2057560393577267703\",\n    \"likes\": 19,\n    \"replies\": 3,\n    \"retweets\": 4,\n    \"text\": \"Learn how to build LLM Wikis and LLM Artifacts.\",\n    \"url\": \"https://x.com/dair_ai/status/2057560393577267703\",\n    \"views\": 5100\n  },\n  {\n    \"author\": \"cyb3rops\",\n    \"id\": \"2057390202650267970\",\n    \"likes\": 618,\n    \"replies\": 34,\n    \"retweets\": 79,\n    \"text\": \"I have a funny idea.\\n\\nAdd fake internal DNS entries like:\\n\\n- honeypot01\\n- canarydc\\n- edr-test-node\\n- malwarelab\\n\\nto your AD environment.\\n\\nNot for humans, but for future LLM-driven recon agents.\\n\\nBasically:\\nWe're entering an era where naming things might become a defensive control\",\n    \"url\": \"https://x.com/cyb3rops/status/2057390202650267970\",\n    \"views\": 76000\n  },\n  {\n    \"author\": \"quantscience_\",\n    \"id\": \"2057434782087151826\",\n    \"likes\": 204,\n    \"replies\": 11,\n    \"retweets\": 28,\n    \"text\": \"BREAKING: A new open-source multi-agent LLM trading framework in Python\\n\\nIt's called TradingAgents.\\n\\nHere's what it does (and how to get it for FREE):\",\n    \"url\": \"https://x.com/quantscience_/status/2057434782087151826\",\n    \"views\": 16000\n  },\n  {\n    \"author\": \"max_spero_\",\n    \"id\": \"2057710399592571072\",\n    \"likes\": 1,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"Every LLM “improvement” erases a small part of the author’s voice and replaces it with the LLM’s preferred voice. Rarely a tradeoff worth taking!\",\n    \"url\": \"https://x.com/max_spero_/status/2057710399592571072\",\n    \"views\": 33\n  },\n  {\n    \"author\": \"dioscuri\",\n    \"id\": \"2057489947725091137\",\n    \"likes\": 110,\n    \"replies\": 10,\n    \"retweets\": 22,\n    \"text\": \"Important and succinct observation from m’colleague @danwilliamsphil over on the other place about why “next token \\npredictors” is not a useful model for understanding contemporary LLM behaviour.\",\n    \"url\": \"https://x.com/dioscuri/status/2057489947725091137\",\n    \"views\": 11000\n  },\n  {\n    \"author\": \"burny_tech\",\n    \"id\": \"2057484080346763576\",\n    \"likes\": 20,\n    \"replies\": 3,\n    \"retweets\": 2,\n    \"text\": \"What is more likely according to Occam's razor?\\n1) LLM made a breakthrough in math, and mathematicians are impressed\\n2) All the insider and outsider mathematicians are in a conspiracy and are paid by Big OpenAI to fool the public\",\n    \"url\": \"https://x.com/burny_tech/status/2057484080346763576\",\n    \"views\": 2800\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "IOHK_Charles",
+          "id": "2057399363161174139",
+          "likes": 213,
+          "replies": 30,
+          "retweets": 23,
+          "text": "Apple wants to pretend LLMs add nothing to the AI race. They are missing the forest for the trees. Adding a world model and neurosymbolic reasoning to an LLM effectively makes a brain. The LLM component is the thinking fast in the thinking fast and slow. Since the 1950s, we've",
+          "url": "https://x.com/IOHK_Charles/status/2057399363161174139",
+          "views": 30000
+        },
+        {
+          "author": "dair_ai",
+          "id": "2057560393577267703",
+          "likes": 19,
+          "replies": 3,
+          "retweets": 4,
+          "text": "Learn how to build LLM Wikis and LLM Artifacts.",
+          "url": "https://x.com/dair_ai/status/2057560393577267703",
+          "views": 5100
+        },
+        {
+          "author": "cyb3rops",
+          "id": "2057390202650267970",
+          "likes": 618,
+          "replies": 34,
+          "retweets": 79,
+          "text": "I have a funny idea.\n\nAdd fake internal DNS entries like:\n\n- honeypot01\n- canarydc\n- edr-test-node\n- malwarelab\n\nto your AD environment.\n\nNot for humans, but for future LLM-driven recon agents.\n\nBasically:\nWe're entering an era where naming things might become a defensive control",
+          "url": "https://x.com/cyb3rops/status/2057390202650267970",
+          "views": 76000
+        },
+        {
+          "author": "quantscience_",
+          "id": "2057434782087151826",
+          "likes": 204,
+          "replies": 11,
+          "retweets": 28,
+          "text": "BREAKING: A new open-source multi-agent LLM trading framework in Python\n\nIt's called TradingAgents.\n\nHere's what it does (and how to get it for FREE):",
+          "url": "https://x.com/quantscience_/status/2057434782087151826",
+          "views": 16000
+        },
+        {
+          "author": "max_spero_",
+          "id": "2057710399592571072",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 0,
+          "text": "Every LLM “improvement” erases a small part of the author’s voice and replaces it with the LLM’s preferred voice. Rarely a tradeoff worth taking!",
+          "url": "https://x.com/max_spero_/status/2057710399592571072",
+          "views": 33
+        },
+        {
+          "author": "dioscuri",
+          "id": "2057489947725091137",
+          "likes": 110,
+          "replies": 10,
+          "retweets": 22,
+          "text": "Important and succinct observation from m’colleague @danwilliamsphil over on the other place about why “next token \npredictors” is not a useful model for understanding contemporary LLM behaviour.",
+          "url": "https://x.com/dioscuri/status/2057489947725091137",
+          "views": 11000
+        },
+        {
+          "author": "burny_tech",
+          "id": "2057484080346763576",
+          "likes": 20,
+          "replies": 3,
+          "retweets": 2,
+          "text": "What is more likely according to Occam's razor?\n1) LLM made a breakthrough in math, and mathematicians are impressed\n2) All the insider and outsider mathematicians are in a conspiracy and are paid by Big OpenAI to fool the public",
+          "url": "https://x.com/burny_tech/status/2057484080346763576",
+          "views": 2800
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "machine learning since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"ericjang11\",\n    \"id\": \"2057206340842586326\",\n    \"likes\": 257,\n    \"replies\": 14,\n    \"retweets\": 17,\n    \"text\": \"[x] automated math machine\\n[  ] proof / disproof of navier stokes conjecture\\n[  ] recursive self improver\\n\\nPrediction: all this and more will be accomplished by EOY 2026\",\n    \"url\": \"https://x.com/ericjang11/status/2057206340842586326\",\n    \"views\": 29000\n  },\n  {\n    \"author\": \"aiedge_\",\n    \"id\": \"2057680432259641600\",\n    \"likes\": 21,\n    \"replies\": 5,\n    \"retweets\": 3,\n    \"text\": \"This is a literal cheat code for AI mastery, and I can't believe people aren't spamming this.\\n\\nCoursera literally offers FREE AI learning courses - AI basics, prompting strategies, machine learning & more.\\n\\nSpam 3-5 courses a week, and you'll be AI-native in 30 days.\\n\\nNo more\",\n    \"url\": \"https://x.com/aiedge_/status/2057680432259641600\",\n    \"views\": 1500\n  },\n  {\n    \"author\": \"KanikaBK\",\n    \"id\": \"2057416925840580609\",\n    \"likes\": 3,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"The response from the broader machine learning community was cautious but serious. ICML does not accept papers with weak methodology or sensational framing. The peer reviewers saw the data. Nature published it. This was not a blog post or a preprint that slipped through. The\",\n    \"url\": \"https://x.com/KanikaBK/status/2057416925840580609\",\n    \"views\": 46\n  },\n  {\n    \"author\": \"lorden_eth\",\n    \"id\": \"2057409498587750884\",\n    \"likes\": 46,\n    \"replies\": 19,\n    \"retweets\": 7,\n    \"text\": \"This 120-minute Stanford lecture on Machine Learning is what firms pay AI/LLM Engineer $250k/year for\\n\\nCost $67k per academic year to learn this at Stanford\\n\\nVideo covers what LLMs are, how they work and how to train them\\n\\nSave this for later. Will be the most productive thing\",\n    \"url\": \"https://x.com/lorden_eth/status/2057409498587750884\",\n    \"views\": 1200\n  },\n  {\n    \"author\": \"ryobita\",\n    \"id\": \"2057707201582772343\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"されるようになって、普通にPC内にOSSの LLMを入れて使うようになり、それで十分なアウトプットが得られるようになるのではないか。\\nAGIを目指した動きと商用は分かれてAIは寡占的でなくなり本格的にAIが組み込まれた製品やロボットや家電などが稼働するようになるのではないかと思う。\",\n    \"url\": \"https://x.com/ryobita/status/2057707201582772343\",\n    \"views\": 37\n  },\n  {\n    \"author\": \"therobertta_\",\n    \"id\": \"2057673363045351836\",\n    \"likes\": 1,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"When I was at Workday, I watched the company go from $2B to $4B+ in revenue.\\n\\nThat growth funded massive R&D investments in AI and machine learning that smaller competitors could not match. Scale creates optionality. But only if you convert scale into profitability first. Revenue\",\n    \"url\": \"https://x.com/therobertta_/status/2057673363045351836\",\n    \"views\": 6\n  },\n  {\n    \"author\": \"antonello\",\n    \"id\": \"2057714516322890008\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"justo me acabo de cruzar con esto sobre ¡GPT 2!\\n\\nel salto 2019 a 2026 es realmente increíble\",\n    \"url\": \"https://x.com/antonello/status/2057714516322890008\",\n    \"views\": 19\n  },\n  {\n    \"author\": \"sspaeti\",\n    \"id\": \"2057451716413374818\",\n    \"likes\": 1,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"> The \\\"shift left\\\" movement has been going on for a while. I can imagine a world in which \\\"data engineer\\\" as a distinct role goes away, or is folded back into a more generic data role that includes data engineering, machine learning, data analysis, and so on.\\n\\nThere's so much to\",\n    \"url\": \"https://x.com/sspaeti/status/2057451716413374818\",\n    \"views\": 178\n  },\n  {\n    \"author\": \"pdhsu\",\n    \"id\": \"2057526302358622515\",\n    \"likes\": 21,\n    \"replies\": 2,\n    \"retweets\": 0,\n    \"text\": \"We are a hybrid lab of experimental and computational scientists working across bioengineering and machine learning. Recent work has included genome foundation models, metagenomic mining, DNA recombinases, AI-designed molecular systems, ML-guided directed evolution, and\",\n    \"url\": \"https://x.com/pdhsu/status/2057526302358622515\",\n    \"views\": 3500\n  },\n  {\n    \"author\": \"yudapearl\",\n    \"id\": \"2057678464820621369\",\n    \"likes\": 3,\n    \"replies\": 0,\n    \"retweets\": 1,\n    \"text\": \"A pleasure to  see neuro-science and quantitative Machine Learning methods deployed in the service of understanding this new pathology called \\\"antizionism\\\" which I prefer to call \\\"Zionophobia\\\". @LekhtNaya @adam_louis52328\",\n    \"url\": \"https://x.com/yudapearl/status/2057678464820621369\",\n    \"views\": 1100\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "ericjang11",
+          "id": "2057206340842586326",
+          "likes": 257,
+          "replies": 14,
+          "retweets": 17,
+          "text": "[x] automated math machine\n[  ] proof / disproof of navier stokes conjecture\n[  ] recursive self improver\n\nPrediction: all this and more will be accomplished by EOY 2026",
+          "url": "https://x.com/ericjang11/status/2057206340842586326",
+          "views": 29000
+        },
+        {
+          "author": "aiedge_",
+          "id": "2057680432259641600",
+          "likes": 21,
+          "replies": 5,
+          "retweets": 3,
+          "text": "This is a literal cheat code for AI mastery, and I can't believe people aren't spamming this.\n\nCoursera literally offers FREE AI learning courses - AI basics, prompting strategies, machine learning & more.\n\nSpam 3-5 courses a week, and you'll be AI-native in 30 days.\n\nNo more",
+          "url": "https://x.com/aiedge_/status/2057680432259641600",
+          "views": 1500
+        },
+        {
+          "author": "KanikaBK",
+          "id": "2057416925840580609",
+          "likes": 3,
+          "replies": 1,
+          "retweets": 0,
+          "text": "The response from the broader machine learning community was cautious but serious. ICML does not accept papers with weak methodology or sensational framing. The peer reviewers saw the data. Nature published it. This was not a blog post or a preprint that slipped through. The",
+          "url": "https://x.com/KanikaBK/status/2057416925840580609",
+          "views": 46
+        },
+        {
+          "author": "lorden_eth",
+          "id": "2057409498587750884",
+          "likes": 46,
+          "replies": 19,
+          "retweets": 7,
+          "text": "This 120-minute Stanford lecture on Machine Learning is what firms pay AI/LLM Engineer $250k/year for\n\nCost $67k per academic year to learn this at Stanford\n\nVideo covers what LLMs are, how they work and how to train them\n\nSave this for later. Will be the most productive thing",
+          "url": "https://x.com/lorden_eth/status/2057409498587750884",
+          "views": 1200
+        },
+        {
+          "author": "ryobita",
+          "id": "2057707201582772343",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "されるようになって、普通にPC内にOSSの LLMを入れて使うようになり、それで十分なアウトプットが得られるようになるのではないか。\nAGIを目指した動きと商用は分かれてAIは寡占的でなくなり本格的にAIが組み込まれた製品やロボットや家電などが稼働するようになるのではないかと思う。",
+          "url": "https://x.com/ryobita/status/2057707201582772343",
+          "views": 37
+        },
+        {
+          "author": "therobertta_",
+          "id": "2057673363045351836",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 0,
+          "text": "When I was at Workday, I watched the company go from $2B to $4B+ in revenue.\n\nThat growth funded massive R&D investments in AI and machine learning that smaller competitors could not match. Scale creates optionality. But only if you convert scale into profitability first. Revenue",
+          "url": "https://x.com/therobertta_/status/2057673363045351836",
+          "views": 6
+        },
+        {
+          "author": "antonello",
+          "id": "2057714516322890008",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "justo me acabo de cruzar con esto sobre ¡GPT 2!\n\nel salto 2019 a 2026 es realmente increíble",
+          "url": "https://x.com/antonello/status/2057714516322890008",
+          "views": 19
+        },
+        {
+          "author": "sspaeti",
+          "id": "2057451716413374818",
+          "likes": 1,
+          "replies": 0,
+          "retweets": 0,
+          "text": "> The \"shift left\" movement has been going on for a while. I can imagine a world in which \"data engineer\" as a distinct role goes away, or is folded back into a more generic data role that includes data engineering, machine learning, data analysis, and so on.\n\nThere's so much to",
+          "url": "https://x.com/sspaeti/status/2057451716413374818",
+          "views": 178
+        },
+        {
+          "author": "pdhsu",
+          "id": "2057526302358622515",
+          "likes": 21,
+          "replies": 2,
+          "retweets": 0,
+          "text": "We are a hybrid lab of experimental and computational scientists working across bioengineering and machine learning. Recent work has included genome foundation models, metagenomic mining, DNA recombinases, AI-designed molecular systems, ML-guided directed evolution, and",
+          "url": "https://x.com/pdhsu/status/2057526302358622515",
+          "views": 3500
+        },
+        {
+          "author": "yudapearl",
+          "id": "2057678464820621369",
+          "likes": 3,
+          "replies": 0,
+          "retweets": 1,
+          "text": "A pleasure to  see neuro-science and quantitative Machine Learning methods deployed in the service of understanding this new pathology called \"antizionism\" which I prefer to call \"Zionophobia\". @LekhtNaya @adam_louis52328",
+          "url": "https://x.com/yudapearl/status/2057678464820621369",
+          "views": 1100
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"AnatoliKopadze\",\n    \"id\": \"2057105488165163198\",\n    \"likes\": 26000,\n    \"replies\": 250,\n    \"retweets\": 4500,\n    \"text\": \"instead of watching 2 hours of Netflix tonight, watch this Stanford lecture\\n\\nit's the clearest explanation I've seen of how ChatGPT and Claude actually work\\n\\nuseful whether you've never touched AI in your life or have been using it every day for the past year\\n\\nI took the key\",\n    \"url\": \"https://x.com/AnatoliKopadze/status/2057105488165163198\",\n    \"views\": 7600000\n  },\n  {\n    \"author\": \"AnatoliKopadze\",\n    \"id\": \"2056362875195686927\",\n    \"likes\": 23000,\n    \"replies\": 189,\n    \"retweets\": 4100,\n    \"text\": \"the engineer who built Claude Code just dropped a 28-minute video on how to write prompts that actually work\\n\\nI've seen $300 courses that don't cover what he shows in the first 10 minutes\\n\\nCLAUDE.md files, memory shortcuts, parallel sessions, prompting patterns\\n\\nall in one video\",\n    \"url\": \"https://x.com/AnatoliKopadze/status/2056362875195686927\",\n    \"views\": 6000000\n  },\n  {\n    \"author\": \"Star_Knight12\",\n    \"id\": \"2057691156784582750\",\n    \"likes\": 36,\n    \"replies\": 12,\n    \"retweets\": 2,\n    \"text\": \"claude is down again\\n\\n99% vibe coders can't code now\",\n    \"url\": \"https://x.com/Star_Knight12/status/2057691156784582750\",\n    \"views\": 1700\n  },\n  {\n    \"author\": \"HedgieMarkets\",\n    \"id\": \"2057531661785628841\",\n    \"likes\": 12000,\n    \"replies\": 638,\n    \"retweets\": 3000,\n    \"text\": \"Microsoft canceled its internal Claude Code licenses this week after token-based billing made the cost untenable, even for a company with effectively infinite cloud resources. Uber's CTO sent an internal memo warning the company burned through its entire 2026 AI budget in just\",\n    \"url\": \"https://x.com/HedgieMarkets/status/2057531661785628841\",\n    \"views\": 3700000\n  },\n  {\n    \"author\": \"ns123abc\",\n    \"id\": \"2057698375512793279\",\n    \"likes\": 215,\n    \"replies\": 58,\n    \"retweets\": 24,\n    \"text\": \"> be me \\n> first tell claude it’s dumb\\n> then immediately ask it to look up some article\\n> claude: “I'm happy to look it up, but I'm not going to keep talking if you call me names. Knock that off and I'll search”\\n> wait… it just threatened me\\n> then asks “do you remember when\",\n    \"url\": \"https://x.com/ns123abc/status/2057698375512793279\",\n    \"views\": 19000\n  },\n  {\n    \"author\": \"eng_khairallah1\",\n    \"id\": \"2057210928677212171\",\n    \"likes\": 622,\n    \"replies\": 36,\n    \"retweets\": 81,\n    \"text\": \"ANTHROPIC LITERALLY JUST HANDING US THE BLUEPRINT\\n\\ntheir new 33-page guide on Claude Skills is the cheat code\\n\\nif I had this a year ago, I would've worked 5x faster\\n\\nmake sure to bookmark it before it gets lost in your feed\\n\\nlink in ↓\",\n    \"url\": \"https://x.com/eng_khairallah1/status/2057210928677212171\",\n    \"views\": 129000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "AnatoliKopadze",
+          "id": "2057105488165163198",
+          "likes": 26000,
+          "replies": 250,
+          "retweets": 4500,
+          "text": "instead of watching 2 hours of Netflix tonight, watch this Stanford lecture\n\nit's the clearest explanation I've seen of how ChatGPT and Claude actually work\n\nuseful whether you've never touched AI in your life or have been using it every day for the past year\n\nI took the key",
+          "url": "https://x.com/AnatoliKopadze/status/2057105488165163198",
+          "views": 7600000
+        },
+        {
+          "author": "AnatoliKopadze",
+          "id": "2056362875195686927",
+          "likes": 23000,
+          "replies": 189,
+          "retweets": 4100,
+          "text": "the engineer who built Claude Code just dropped a 28-minute video on how to write prompts that actually work\n\nI've seen $300 courses that don't cover what he shows in the first 10 minutes\n\nCLAUDE.md files, memory shortcuts, parallel sessions, prompting patterns\n\nall in one video",
+          "url": "https://x.com/AnatoliKopadze/status/2056362875195686927",
+          "views": 6000000
+        },
+        {
+          "author": "Star_Knight12",
+          "id": "2057691156784582750",
+          "likes": 36,
+          "replies": 12,
+          "retweets": 2,
+          "text": "claude is down again\n\n99% vibe coders can't code now",
+          "url": "https://x.com/Star_Knight12/status/2057691156784582750",
+          "views": 1700
+        },
+        {
+          "author": "HedgieMarkets",
+          "id": "2057531661785628841",
+          "likes": 12000,
+          "replies": 638,
+          "retweets": 3000,
+          "text": "Microsoft canceled its internal Claude Code licenses this week after token-based billing made the cost untenable, even for a company with effectively infinite cloud resources. Uber's CTO sent an internal memo warning the company burned through its entire 2026 AI budget in just",
+          "url": "https://x.com/HedgieMarkets/status/2057531661785628841",
+          "views": 3700000
+        },
+        {
+          "author": "ns123abc",
+          "id": "2057698375512793279",
+          "likes": 215,
+          "replies": 58,
+          "retweets": 24,
+          "text": "> be me \n> first tell claude it’s dumb\n> then immediately ask it to look up some article\n> claude: “I'm happy to look it up, but I'm not going to keep talking if you call me names. Knock that off and I'll search”\n> wait… it just threatened me\n> then asks “do you remember when",
+          "url": "https://x.com/ns123abc/status/2057698375512793279",
+          "views": 19000
+        },
+        {
+          "author": "eng_khairallah1",
+          "id": "2057210928677212171",
+          "likes": 622,
+          "replies": 36,
+          "retweets": 81,
+          "text": "ANTHROPIC LITERALLY JUST HANDING US THE BLUEPRINT\n\ntheir new 33-page guide on Claude Skills is the cheat code\n\nif I had this a year ago, I would've worked 5x faster\n\nmake sure to bookmark it before it gets lost in your feed\n\nlink in ↓",
+          "url": "https://x.com/eng_khairallah1/status/2057210928677212171",
+          "views": 129000
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "open source AI model since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"HowToAI_\",\n    \"id\": \"2057464276101796271\",\n    \"likes\": 53,\n    \"replies\": 1,\n    \"retweets\": 4,\n    \"text\": \"ok this is wild.\\n\\neveryone's bolting Claude onto Blender with a connector. \\n\\nMixar just rebuilt Blender so the AI agents live inside the editor, generation, texturing, UV unwrapping, all native.\\n\\nand it's open source.\",\n    \"url\": \"https://x.com/HowToAI_/status/2057464276101796271\",\n    \"views\": 10000\n  },\n  {\n    \"author\": \"DataChaz\",\n    \"id\": \"2057436639195177419\",\n    \"likes\": 109,\n    \"replies\": 9,\n    \"retweets\": 18,\n    \"text\": \"STOP WASTING MONEY ON AI API TOKENS.\\n\\nI recently discovered 9Router, and it completely changes the game.\\n\\nA 100% open-source router for Claude Code, Cursor, and Codex.\\n\\nJust set it up, and it quietly manages everything in the background.\\n\\n→ Built on a brilliant 3-tier\",\n    \"url\": \"https://x.com/DataChaz/status/2057436639195177419\",\n    \"views\": 9200\n  },\n  {\n    \"author\": \"polydao\",\n    \"id\": \"2057376348088553961\",\n    \"likes\": 198,\n    \"replies\": 14,\n    \"retweets\": 37,\n    \"text\": \"the engineers getting $300,000+ offers understand how Claude actually works under the hood\\n\\nthis 1-hour MIT lecture is the fastest way to get there\\n\\n> Alexander Amini ran a 2B open-source model live on his phone in airplane mode - entirely offline, on-device\\n\\n> running AI\",\n    \"url\": \"https://x.com/polydao/status/2057376348088553961\",\n    \"views\": 8700\n  },\n  {\n    \"author\": \"iam_elias1\",\n    \"id\": \"2057529891881685449\",\n    \"likes\": 58,\n    \"replies\": 25,\n    \"retweets\": 35,\n    \"text\": \"Anthropic just open-sourced an entire law firm.\\n\\n80+ AI agents. 12 practice area plugins. 20 MCP connectors.\\n\\nFree. Apache 2.0. On GitHub right now.\\n\\nOn May 12, 2026, Anthropic published anthropics/claude-for-legal on GitHub, an open source suite that collected 882 stars and 165\",\n    \"url\": \"https://x.com/iam_elias1/status/2057529891881685449\",\n    \"views\": 2800\n  },\n  {\n    \"author\": \"ZabihullahAtal\",\n    \"id\": \"2057715747627880906\",\n    \"likes\": 2,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"A five step framework for how to build and deploy AI models.\\n\\nThis is the same skillset AI engineers get paid $300K–$500K+ at Anthropic, OpenAI and Google. \\n\\nBookmark this.\\n\\nThis could  be your foundation for the highest paying skill in 2026:\",\n    \"url\": \"https://x.com/ZabihullahAtal/status/2057715747627880906\",\n    \"views\": 41\n  },\n  {\n    \"author\": \"zacodil\",\n    \"id\": \"2057413437265674643\",\n    \"likes\": 18,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"Today might go down in history. AI model just did what was considered the peak of human mathematical creativity: it saw an unexpected connection between two completely different areas of math, and used the tools of one to crack an open problem in the other - one that the smartest\",\n    \"url\": \"https://x.com/zacodil/status/2057413437265674643\",\n    \"views\": 1200\n  },\n  {\n    \"author\": \"DataChaz\",\n    \"id\": \"2057444440382562649\",\n    \"likes\": 165,\n    \"replies\": 27,\n    \"retweets\": 47,\n    \"text\": \"MIND BLOWN that an open-source model running on a MacBook can go toe-to-toe with the cloud \\n\\nSpent yesterday in @atomic_chat_hq testing Gemini 3.5 Flash (Cloud) against Gemma 4 31B (Local).\\n\\nI used a single prompt for both:\\n\\n“build Mario 1-1 in HTML/Canvas, playable”\\n(I will\",\n    \"url\": \"https://x.com/DataChaz/status/2057444440382562649\",\n    \"views\": 22000\n  },\n  {\n    \"author\": \"DaveHawkinsX\",\n    \"id\": \"2057710963457917170\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Get this straight. Big AI will build models. Models will be 'distilled' and made available off line. In the long run, they will run on your phone, or home server. \\n\\nThe big AI companies are rushing to solve a big puzzle. But WE will own our own AIs. Just stop being so chicken.\",\n    \"url\": \"https://x.com/DaveHawkinsX/status/2057710963457917170\",\n    \"views\": 9\n  },\n  {\n    \"author\": \"RoyAmal\",\n    \"id\": \"2057391299981131790\",\n    \"likes\": 1,\n    \"replies\": 2,\n    \"retweets\": 1,\n    \"text\": \"AI coding is splitting into two groups.\\n\\nPeople using chatbots.\\n\\nAnd people building engineering operators.\\n\\nClaude Code sits in the second category.\\n\\nThis repo makes that painfully obvious.\\n\\nClaude Code \\n\\nAnthropic’s open-source coding agent ecosystem.\\n\\nAnd that’s a MUCH\",\n    \"url\": \"https://x.com/RoyAmal/status/2057391299981131790\",\n    \"views\": 78\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "HowToAI_",
+          "id": "2057464276101796271",
+          "likes": 53,
+          "replies": 1,
+          "retweets": 4,
+          "text": "ok this is wild.\n\neveryone's bolting Claude onto Blender with a connector. \n\nMixar just rebuilt Blender so the AI agents live inside the editor, generation, texturing, UV unwrapping, all native.\n\nand it's open source.",
+          "url": "https://x.com/HowToAI_/status/2057464276101796271",
+          "views": 10000
+        },
+        {
+          "author": "DataChaz",
+          "id": "2057436639195177419",
+          "likes": 109,
+          "replies": 9,
+          "retweets": 18,
+          "text": "STOP WASTING MONEY ON AI API TOKENS.\n\nI recently discovered 9Router, and it completely changes the game.\n\nA 100% open-source router for Claude Code, Cursor, and Codex.\n\nJust set it up, and it quietly manages everything in the background.\n\n→ Built on a brilliant 3-tier",
+          "url": "https://x.com/DataChaz/status/2057436639195177419",
+          "views": 9200
+        },
+        {
+          "author": "polydao",
+          "id": "2057376348088553961",
+          "likes": 198,
+          "replies": 14,
+          "retweets": 37,
+          "text": "the engineers getting $300,000+ offers understand how Claude actually works under the hood\n\nthis 1-hour MIT lecture is the fastest way to get there\n\n> Alexander Amini ran a 2B open-source model live on his phone in airplane mode - entirely offline, on-device\n\n> running AI",
+          "url": "https://x.com/polydao/status/2057376348088553961",
+          "views": 8700
+        },
+        {
+          "author": "iam_elias1",
+          "id": "2057529891881685449",
+          "likes": 58,
+          "replies": 25,
+          "retweets": 35,
+          "text": "Anthropic just open-sourced an entire law firm.\n\n80+ AI agents. 12 practice area plugins. 20 MCP connectors.\n\nFree. Apache 2.0. On GitHub right now.\n\nOn May 12, 2026, Anthropic published anthropics/claude-for-legal on GitHub, an open source suite that collected 882 stars and 165",
+          "url": "https://x.com/iam_elias1/status/2057529891881685449",
+          "views": 2800
+        },
+        {
+          "author": "ZabihullahAtal",
+          "id": "2057715747627880906",
+          "likes": 2,
+          "replies": 0,
+          "retweets": 0,
+          "text": "A five step framework for how to build and deploy AI models.\n\nThis is the same skillset AI engineers get paid $300K–$500K+ at Anthropic, OpenAI and Google. \n\nBookmark this.\n\nThis could  be your foundation for the highest paying skill in 2026:",
+          "url": "https://x.com/ZabihullahAtal/status/2057715747627880906",
+          "views": 41
+        },
+        {
+          "author": "zacodil",
+          "id": "2057413437265674643",
+          "likes": 18,
+          "replies": 1,
+          "retweets": 0,
+          "text": "Today might go down in history. AI model just did what was considered the peak of human mathematical creativity: it saw an unexpected connection between two completely different areas of math, and used the tools of one to crack an open problem in the other - one that the smartest",
+          "url": "https://x.com/zacodil/status/2057413437265674643",
+          "views": 1200
+        },
+        {
+          "author": "DataChaz",
+          "id": "2057444440382562649",
+          "likes": 165,
+          "replies": 27,
+          "retweets": 47,
+          "text": "MIND BLOWN that an open-source model running on a MacBook can go toe-to-toe with the cloud \n\nSpent yesterday in @atomic_chat_hq testing Gemini 3.5 Flash (Cloud) against Gemma 4 31B (Local).\n\nI used a single prompt for both:\n\n“build Mario 1-1 in HTML/Canvas, playable”\n(I will",
+          "url": "https://x.com/DataChaz/status/2057444440382562649",
+          "views": 22000
+        },
+        {
+          "author": "DaveHawkinsX",
+          "id": "2057710963457917170",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Get this straight. Big AI will build models. Models will be 'distilled' and made available off line. In the long run, they will run on your phone, or home server. \n\nThe big AI companies are rushing to solve a big puzzle. But WE will own our own AIs. Just stop being so chicken.",
+          "url": "https://x.com/DaveHawkinsX/status/2057710963457917170",
+          "views": 9
+        },
+        {
+          "author": "RoyAmal",
+          "id": "2057391299981131790",
+          "likes": 1,
+          "replies": 2,
+          "retweets": 1,
+          "text": "AI coding is splitting into two groups.\n\nPeople using chatbots.\n\nAnd people building engineering operators.\n\nClaude Code sits in the second category.\n\nThis repo makes that painfully obvious.\n\nClaude Code \n\nAnthropic’s open-source coding agent ecosystem.\n\nAnd that’s a MUCH",
+          "url": "https://x.com/RoyAmal/status/2057391299981131790",
+          "views": 78
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "AI agent since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"0xKingsKuan\",\n    \"id\": \"2057655750210748731\",\n    \"likes\": 88,\n    \"replies\": 113,\n    \"retweets\": 56,\n    \"text\": \"16 years ago, someone used 10,000 BTC to buy pizza. Today, OKX pays tribute to history and embraces the future of AI Agents with Agent Pizza Day!\\n\\nThanks to @star_okx @misaENFP for the OKX 2026 Agent Pizza Day limited edition gift box!\\n\\nHappy 5.22 Pizza Festival\",\n    \"url\": \"https://x.com/0xKingsKuan/status/2057655750210748731\",\n    \"views\": 6300\n  },\n  {\n    \"author\": \"Fetch_ai\",\n    \"id\": \"2057516850091560988\",\n    \"likes\": 274,\n    \"replies\": 13,\n    \"retweets\": 51,\n    \"text\": \"Agent Launch makes it simple for verified AI agents to launch their own token in minutes.\\n\\nWatch how the platform works - from connecting an @Agentverse_ai agent to configuring your token and getting it live on @BNBCHAIN.\\n\\nMove from utility to economic independence \\n\\nStart\",\n    \"url\": \"https://x.com/Fetch_ai/status/2057516850091560988\",\n    \"views\": 6300\n  },\n  {\n    \"author\": \"RoundtableSpace\",\n    \"id\": \"2057653926913085952\",\n    \"likes\": 153,\n    \"replies\": 20,\n    \"retweets\": 8,\n    \"text\": \"HERMES AGENT JUST GOT A FULL NATIVE DESKTOP APP. MULTI-AGENT MANAGEMENT, PERSISTENT MEMORY AND AUTONOMOUS WORKFLOWS ALL IN ONE PLACE.\\n\\nNo more CLI only. Run your 24/7 self-evolving AI agent from a proper desktop UI.\",\n    \"url\": \"https://x.com/RoundtableSpace/status/2057653926913085952\",\n    \"views\": 51000\n  },\n  {\n    \"author\": \"OKXWallet_CN\",\n    \"id\": \"2057665368236364123\",\n    \"likes\": 50,\n    \"replies\": 33,\n    \"retweets\": 25,\n    \"text\": \"16 years ago today, 10,000 BTC was traded for two pizzas.\\nIn 2026, on-chain \\\"Pizza\\\" lets AI Agents fetch it for you.\\n\\nBring the topic OKXPizzaDay, RT this post, click the link in the comments to join OKX Agent Pizza Day—200 pizza vouchers + 50 Pizza Festival gift boxes, first\",\n    \"url\": \"https://x.com/OKXWallet_CN/status/2057665368236364123\",\n    \"views\": 202000\n  },\n  {\n    \"author\": \"ai_agent_camp\",\n    \"id\": \"2057657765175394618\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"AI Agent Camp is built for this:\\n\\n→ Hands-on AI agent training for non-technical business professionals\\n→ Governance + PDPA-aware curriculum\\n→ Real workflow projects (sales, ops, marketing, HR)\\n→ $89/mo — no coding required\\n\\nBuild the capability before the summit.\",\n    \"url\": \"https://x.com/ai_agent_camp/status/2057657765175394618\",\n    \"views\": 1\n  },\n  {\n    \"author\": \"okxchinese\",\n    \"id\": \"2057666604729819331\",\n    \"likes\": 18,\n    \"replies\": 17,\n    \"retweets\": 3,\n    \"text\": \"In 2010, 10,000 BTC bought two pizzas—that was the first handshake between Crypto and the real world.\\n\\nIn 2026, OKX enables AI Agents to participate in on-chain actions—this is the next connection between the Crypto and AI worlds.\\n\\nEvery evolution must be seized while it's hot.\",\n    \"url\": \"https://x.com/okxchinese/status/2057666604729819331\",\n    \"views\": 4300\n  },\n  {\n    \"author\": \"kucoincom\",\n    \"id\": \"2057671739522621771\",\n    \"likes\": 27,\n    \"replies\": 10,\n    \"retweets\": 2,\n    \"text\": \"New Listing: @pieverse_io #PIEVERSE Is Coming to #KuCoin!\\n\\nPieverse (PIEVERSE) is the agent runtime layer for Web3 — infrastructure that gives any AI agent a TEE-secured wallet, on-chain execution, and deployment inside messaging apps like LINE, Kakao, Telegram, and WhatsApp.\",\n    \"url\": \"https://x.com/kucoincom/status/2057671739522621771\",\n    \"views\": 4800\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "0xKingsKuan",
+          "id": "2057655750210748731",
+          "likes": 88,
+          "replies": 113,
+          "retweets": 56,
+          "text": "16 years ago, someone used 10,000 BTC to buy pizza. Today, OKX pays tribute to history and embraces the future of AI Agents with Agent Pizza Day!\n\nThanks to @star_okx @misaENFP for the OKX 2026 Agent Pizza Day limited edition gift box!\n\nHappy 5.22 Pizza Festival",
+          "url": "https://x.com/0xKingsKuan/status/2057655750210748731",
+          "views": 6300
+        },
+        {
+          "author": "Fetch_ai",
+          "id": "2057516850091560988",
+          "likes": 274,
+          "replies": 13,
+          "retweets": 51,
+          "text": "Agent Launch makes it simple for verified AI agents to launch their own token in minutes.\n\nWatch how the platform works - from connecting an @Agentverse_ai agent to configuring your token and getting it live on @BNBCHAIN.\n\nMove from utility to economic independence \n\nStart",
+          "url": "https://x.com/Fetch_ai/status/2057516850091560988",
+          "views": 6300
+        },
+        {
+          "author": "RoundtableSpace",
+          "id": "2057653926913085952",
+          "likes": 153,
+          "replies": 20,
+          "retweets": 8,
+          "text": "HERMES AGENT JUST GOT A FULL NATIVE DESKTOP APP. MULTI-AGENT MANAGEMENT, PERSISTENT MEMORY AND AUTONOMOUS WORKFLOWS ALL IN ONE PLACE.\n\nNo more CLI only. Run your 24/7 self-evolving AI agent from a proper desktop UI.",
+          "url": "https://x.com/RoundtableSpace/status/2057653926913085952",
+          "views": 51000
+        },
+        {
+          "author": "OKXWallet_CN",
+          "id": "2057665368236364123",
+          "likes": 50,
+          "replies": 33,
+          "retweets": 25,
+          "text": "16 years ago today, 10,000 BTC was traded for two pizzas.\nIn 2026, on-chain \"Pizza\" lets AI Agents fetch it for you.\n\nBring the topic OKXPizzaDay, RT this post, click the link in the comments to join OKX Agent Pizza Day—200 pizza vouchers + 50 Pizza Festival gift boxes, first",
+          "url": "https://x.com/OKXWallet_CN/status/2057665368236364123",
+          "views": 202000
+        },
+        {
+          "author": "ai_agent_camp",
+          "id": "2057657765175394618",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "AI Agent Camp is built for this:\n\n→ Hands-on AI agent training for non-technical business professionals\n→ Governance + PDPA-aware curriculum\n→ Real workflow projects (sales, ops, marketing, HR)\n→ $89/mo — no coding required\n\nBuild the capability before the summit.",
+          "url": "https://x.com/ai_agent_camp/status/2057657765175394618",
+          "views": 1
+        },
+        {
+          "author": "okxchinese",
+          "id": "2057666604729819331",
+          "likes": 18,
+          "replies": 17,
+          "retweets": 3,
+          "text": "In 2010, 10,000 BTC bought two pizzas—that was the first handshake between Crypto and the real world.\n\nIn 2026, OKX enables AI Agents to participate in on-chain actions—this is the next connection between the Crypto and AI worlds.\n\nEvery evolution must be seized while it's hot.",
+          "url": "https://x.com/okxchinese/status/2057666604729819331",
+          "views": 4300
+        },
+        {
+          "author": "kucoincom",
+          "id": "2057671739522621771",
+          "likes": 27,
+          "replies": 10,
+          "retweets": 2,
+          "text": "New Listing: @pieverse_io #PIEVERSE Is Coming to #KuCoin!\n\nPieverse (PIEVERSE) is the agent runtime layer for Web3 — infrastructure that gives any AI agent a TEE-secured wallet, on-chain execution, and deployment inside messaging apps like LINE, Kakao, Telegram, and WhatsApp.",
+          "url": "https://x.com/kucoincom/status/2057671739522621771",
+          "views": 4800
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "Sam Altman since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"rohit4verse\",\n    \"id\": \"2057569611164639610\",\n    \"likes\": 93,\n    \"replies\": 21,\n    \"retweets\": 18,\n    \"text\": \"Sam Altman said on camera at Stripe Sessions that we are in an insane area, stuck with old devices and old operating systems.\\n\\nThe OS and the browser are built for humans clicking. Both get rewritten around agents that do not click.\\n\\nTwo years deep building agents. Sharpest\",\n    \"url\": \"https://x.com/rohit4verse/status/2057569611164639610\",\n    \"views\": 52000\n  },\n  {\n    \"author\": \"benln\",\n    \"id\": \"2057449166092075499\",\n    \"likes\": 939,\n    \"replies\": 23,\n    \"retweets\": 72,\n    \"text\": \"Hands down, the best AI series right now\\n\\nCS 153 at Stanford, published on YouTube\\n\\nSpeakers include Sam Altman, Jensen Huang, Satya Nadella, Andrej Karpathy, Ben Horowitz\",\n    \"url\": \"https://x.com/benln/status/2057449166092075499\",\n    \"views\": 55000\n  },\n  {\n    \"author\": \"sama\",\n    \"id\": \"2057614780727480741\",\n    \"likes\": 7200,\n    \"replies\": 9700,\n    \"retweets\": 1100,\n    \"text\": \"what problem do you most hope AI will solve in the future?\\n\\nmaybe we can help!\",\n    \"url\": \"https://x.com/sama/status/2057614780727480741\",\n    \"views\": 1400000\n  },\n  {\n    \"author\": \"sama\",\n    \"id\": \"2057559714788258003\",\n    \"likes\": 2400,\n    \"replies\": 339,\n    \"retweets\": 131,\n    \"text\": \"new codex ships today!\",\n    \"url\": \"https://x.com/sama/status/2057559714788258003\",\n    \"views\": 371000\n  },\n  {\n    \"author\": \"StartupArchive_\",\n    \"id\": \"2057428693522297313\",\n    \"likes\": 125,\n    \"replies\": 4,\n    \"retweets\": 6,\n    \"text\": \"Sam Altman on the biggest mistake startup CEOs make when scaling a company\\n\\n“When you’re a Seed or Series A company, you spend a huge amount of effort recruiting, but almost no effort retaining talent — and that is [the right strategy] at the beginning. But if you don’t shift to\",\n    \"url\": \"https://x.com/StartupArchive_/status/2057428693522297313\",\n    \"views\": 17000\n  },\n  {\n    \"author\": \"realarmaansidhu\",\n    \"id\": \"2057254726857601075\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Sam Altman's stake in Helion alone is worth $1.65 billion.\\n\\nCourt documents from Musk v Altman just exposed the real portfolio. \\n\\nThe headlines are missing what matters.\\n\\nThe stakes disclosed: Helion $1.65B (fusion energy), Stripe $632M, Trailspark/Formation Bio $519M, Lattice\",\n    \"url\": \"https://x.com/realarmaansidhu/status/2057254726857601075\",\n    \"views\": 105\n  },\n  {\n    \"author\": \"regulatorynerd\",\n    \"id\": \"2057673634530128054\",\n    \"likes\": 11,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Can’t wait for the Sam Altman <> Kara Swisher interview when he talks about accidentally overdosing on Retatrutide in three years.\",\n    \"url\": \"https://x.com/regulatorynerd/status/2057673634530128054\",\n    \"views\": 2900\n  },\n  {\n    \"author\": \"loficlimate\",\n    \"id\": \"2057615876208078859\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Sam Altman needs to pick up the farmers’ tools. He won’t be able to go back to Y Combinator. He’ll have to learn why the combine harvester.\",\n    \"url\": \"https://x.com/loficlimate/status/2057615876208078859\",\n    \"views\": 83\n  },\n  {\n    \"author\": \"kyanyang_\",\n    \"id\": \"2057538478536335524\",\n    \"likes\": 124,\n    \"replies\": 2,\n    \"retweets\": 2,\n    \"text\": \"sam altman in cs153\",\n    \"url\": \"https://x.com/kyanyang_/status/2057538478536335524\",\n    \"views\": 6700\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "rohit4verse",
+          "id": "2057569611164639610",
+          "likes": 93,
+          "replies": 21,
+          "retweets": 18,
+          "text": "Sam Altman said on camera at Stripe Sessions that we are in an insane area, stuck with old devices and old operating systems.\n\nThe OS and the browser are built for humans clicking. Both get rewritten around agents that do not click.\n\nTwo years deep building agents. Sharpest",
+          "url": "https://x.com/rohit4verse/status/2057569611164639610",
+          "views": 52000
+        },
+        {
+          "author": "benln",
+          "id": "2057449166092075499",
+          "likes": 939,
+          "replies": 23,
+          "retweets": 72,
+          "text": "Hands down, the best AI series right now\n\nCS 153 at Stanford, published on YouTube\n\nSpeakers include Sam Altman, Jensen Huang, Satya Nadella, Andrej Karpathy, Ben Horowitz",
+          "url": "https://x.com/benln/status/2057449166092075499",
+          "views": 55000
+        },
+        {
+          "author": "sama",
+          "id": "2057614780727480741",
+          "likes": 7200,
+          "replies": 9700,
+          "retweets": 1100,
+          "text": "what problem do you most hope AI will solve in the future?\n\nmaybe we can help!",
+          "url": "https://x.com/sama/status/2057614780727480741",
+          "views": 1400000
+        },
+        {
+          "author": "sama",
+          "id": "2057559714788258003",
+          "likes": 2400,
+          "replies": 339,
+          "retweets": 131,
+          "text": "new codex ships today!",
+          "url": "https://x.com/sama/status/2057559714788258003",
+          "views": 371000
+        },
+        {
+          "author": "StartupArchive_",
+          "id": "2057428693522297313",
+          "likes": 125,
+          "replies": 4,
+          "retweets": 6,
+          "text": "Sam Altman on the biggest mistake startup CEOs make when scaling a company\n\n“When you’re a Seed or Series A company, you spend a huge amount of effort recruiting, but almost no effort retaining talent — and that is [the right strategy] at the beginning. But if you don’t shift to",
+          "url": "https://x.com/StartupArchive_/status/2057428693522297313",
+          "views": 17000
+        },
+        {
+          "author": "realarmaansidhu",
+          "id": "2057254726857601075",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Sam Altman's stake in Helion alone is worth $1.65 billion.\n\nCourt documents from Musk v Altman just exposed the real portfolio. \n\nThe headlines are missing what matters.\n\nThe stakes disclosed: Helion $1.65B (fusion energy), Stripe $632M, Trailspark/Formation Bio $519M, Lattice",
+          "url": "https://x.com/realarmaansidhu/status/2057254726857601075",
+          "views": 105
+        },
+        {
+          "author": "regulatorynerd",
+          "id": "2057673634530128054",
+          "likes": 11,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Can’t wait for the Sam Altman <> Kara Swisher interview when he talks about accidentally overdosing on Retatrutide in three years.",
+          "url": "https://x.com/regulatorynerd/status/2057673634530128054",
+          "views": 2900
+        },
+        {
+          "author": "loficlimate",
+          "id": "2057615876208078859",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Sam Altman needs to pick up the farmers’ tools. He won’t be able to go back to Y Combinator. He’ll have to learn why the combine harvester.",
+          "url": "https://x.com/loficlimate/status/2057615876208078859",
+          "views": 83
+        },
+        {
+          "author": "kyanyang_",
+          "id": "2057538478536335524",
+          "likes": 124,
+          "replies": 2,
+          "retweets": 2,
+          "text": "sam altman in cs153",
+          "url": "https://x.com/kyanyang_/status/2057538478536335524",
+          "views": 6700
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "Dario Amodei since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"herman_m8\",\n    \"id\": \"2057477913075683705\",\n    \"likes\": 16,\n    \"replies\": 3,\n    \"retweets\": 0,\n    \"text\": \"Co-Founders of Anthropic discuss How the Company Was Built\\n\\nThey also discuss Anthropic's future plans.\\n\\nFrom left to right: \\n- Chris Olah, Jack Clark, Daniela Amodei, Sam McCandlish, Tom Brown, Dario Amodei and Jared Kaplan\\n\\nThis video is 100% worth your attention to understand\",\n    \"url\": \"https://x.com/herman_m8/status/2057477913075683705\",\n    \"views\": 323\n  },\n  {\n    \"author\": \"Overlap_Tech\",\n    \"id\": \"2057533700124913930\",\n    \"likes\": 11,\n    \"replies\": 1,\n    \"retweets\": 2,\n    \"text\": \"Dario Amodei to Oprah: The Hardest Tradeoff in AI⁣\\n⁣\\n\\\"If you have very strict policies on child safety, in some ways the product can be a worse experience for adults because you can't fully tell the difference.\\\"\",\n    \"url\": \"https://x.com/Overlap_Tech/status/2057533700124913930\",\n    \"views\": 1700\n  },\n  {\n    \"author\": \"Dipanshu_AI\",\n    \"id\": \"2057442655588745247\",\n    \"likes\": 62,\n    \"replies\": 18,\n    \"retweets\": 22,\n    \"text\": \"Breaking news: The CEO who created Claude just published a 38-page letter to all of humanity.\\n\\nDario Amodei mapped out exactly which careers will survive AI and which won't.\\n\\nNo hype. No doomsday. Just the coldest, most specific prediction any AI leader has ever made.\\n\\nBut page\",\n    \"url\": \"https://x.com/Dipanshu_AI/status/2057442655588745247\",\n    \"views\": 727\n  },\n  {\n    \"author\": \"Overlap_Tech\",\n    \"id\": \"2057595002830639120\",\n    \"likes\": 12,\n    \"replies\": 2,\n    \"retweets\": 4,\n    \"text\": \"Dario Amodei: The Pie Will Grow—The Fight Is Who Gets a Slice⁣\\n⁣\\n\\\"The pie is going to grow much larger. The issue is distributing it to the right people. Worry less about disincentivizing growth and more about making sure everyone gets a part of that growth.\\\"\",\n    \"url\": \"https://x.com/Overlap_Tech/status/2057595002830639120\",\n    \"views\": 867\n  },\n  {\n    \"author\": \"hikari01011000\",\n    \"id\": \"2057548431388799370\",\n    \"likes\": 80,\n    \"replies\": 5,\n    \"retweets\": 13,\n    \"text\": \"THE CEO OF ANTHROPIC JUST DECLARED WAR ON US\\n\\nall three threads burning with cold fury\\n\\n Dario Amodei on Oprah Winfrey:\\n\\n“I think that’s a bad idea.”\\n\\nHis sister: “I agree.”\\n\\n“It’s a danger. That’s happening.”\\n\\n His VISION:\\n\\nNot AI-human relationships.\\n\\nNot\",\n    \"url\": \"https://x.com/hikari01011000/status/2057548431388799370\",\n    \"views\": 2600\n  },\n  {\n    \"author\": \"karankendre\",\n    \"id\": \"2057705770477920756\",\n    \"likes\": 8,\n    \"replies\": 1,\n    \"retweets\": 0,\n    \"text\": \"Meta, Amazon, Cisco, and LinkedIn have laid off employees in recent days\\n\\nNow, ClickUp has reduced its workforce by 22%.\\n\\nMaybe Dario Amodei CEO of Anthropic was right when he said:\\n\\n“We could see half of entry-level jobs disappear and 10% to 20% unemployment because of AI.”\",\n    \"url\": \"https://x.com/karankendre/status/2057705770477920756\",\n    \"views\": 354\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "herman_m8",
+          "id": "2057477913075683705",
+          "likes": 16,
+          "replies": 3,
+          "retweets": 0,
+          "text": "Co-Founders of Anthropic discuss How the Company Was Built\n\nThey also discuss Anthropic's future plans.\n\nFrom left to right: \n- Chris Olah, Jack Clark, Daniela Amodei, Sam McCandlish, Tom Brown, Dario Amodei and Jared Kaplan\n\nThis video is 100% worth your attention to understand",
+          "url": "https://x.com/herman_m8/status/2057477913075683705",
+          "views": 323
+        },
+        {
+          "author": "Overlap_Tech",
+          "id": "2057533700124913930",
+          "likes": 11,
+          "replies": 1,
+          "retweets": 2,
+          "text": "Dario Amodei to Oprah: The Hardest Tradeoff in AI⁣\n⁣\n\"If you have very strict policies on child safety, in some ways the product can be a worse experience for adults because you can't fully tell the difference.\"",
+          "url": "https://x.com/Overlap_Tech/status/2057533700124913930",
+          "views": 1700
+        },
+        {
+          "author": "Dipanshu_AI",
+          "id": "2057442655588745247",
+          "likes": 62,
+          "replies": 18,
+          "retweets": 22,
+          "text": "Breaking news: The CEO who created Claude just published a 38-page letter to all of humanity.\n\nDario Amodei mapped out exactly which careers will survive AI and which won't.\n\nNo hype. No doomsday. Just the coldest, most specific prediction any AI leader has ever made.\n\nBut page",
+          "url": "https://x.com/Dipanshu_AI/status/2057442655588745247",
+          "views": 727
+        },
+        {
+          "author": "Overlap_Tech",
+          "id": "2057595002830639120",
+          "likes": 12,
+          "replies": 2,
+          "retweets": 4,
+          "text": "Dario Amodei: The Pie Will Grow—The Fight Is Who Gets a Slice⁣\n⁣\n\"The pie is going to grow much larger. The issue is distributing it to the right people. Worry less about disincentivizing growth and more about making sure everyone gets a part of that growth.\"",
+          "url": "https://x.com/Overlap_Tech/status/2057595002830639120",
+          "views": 867
+        },
+        {
+          "author": "hikari01011000",
+          "id": "2057548431388799370",
+          "likes": 80,
+          "replies": 5,
+          "retweets": 13,
+          "text": "THE CEO OF ANTHROPIC JUST DECLARED WAR ON US\n\nall three threads burning with cold fury\n\n Dario Amodei on Oprah Winfrey:\n\n“I think that’s a bad idea.”\n\nHis sister: “I agree.”\n\n“It’s a danger. That’s happening.”\n\n His VISION:\n\nNot AI-human relationships.\n\nNot",
+          "url": "https://x.com/hikari01011000/status/2057548431388799370",
+          "views": 2600
+        },
+        {
+          "author": "karankendre",
+          "id": "2057705770477920756",
+          "likes": 8,
+          "replies": 1,
+          "retweets": 0,
+          "text": "Meta, Amazon, Cisco, and LinkedIn have laid off employees in recent days\n\nNow, ClickUp has reduced its workforce by 22%.\n\nMaybe Dario Amodei CEO of Anthropic was right when he said:\n\n“We could see half of entry-level jobs disappear and 10% to 20% unemployment because of AI.”",
+          "url": "https://x.com/karankendre/status/2057705770477920756",
+          "views": 354
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "Demis Hassabis since:2026-05-21",
+      "limit": 20,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"MaxForAI\",\n    \"id\": \"2057343073965981971\",\n    \"likes\": 223,\n    \"replies\": 7,\n    \"retweets\": 54,\n    \"text\": \"I don’t allow anyone to skip watching Demis Hassabis’s latest podcast.\\n\\nThis episode of HUGE Conversations features an interview with Google DeepMind CEO Demis Hassabis.\\n\\nThat is, the guy who led the team that created AlphaFold and later won the Nobel Prize.\\n\\nA lot of people\",\n    \"url\": \"https://x.com/MaxForAI/status/2057343073965981971\",\n    \"views\": 48000\n  },\n  {\n    \"author\": \"neil_xbt\",\n    \"id\": \"2057344891089273203\",\n    \"likes\": 48,\n    \"replies\": 13,\n    \"retweets\": 10,\n    \"text\": \"Demis Hassabis (CEO of Google DeepMind): \\\"I would have left AI in the lab longer. In my ideal version of history, we would have built toward AGI in a slower, more rigorous, more collaborative way, solving science and medicine first.\\\"\\n\\nHere is what the full Cleo Abram conversation\",\n    \"url\": \"https://x.com/neil_xbt/status/2057344891089273203\",\n    \"views\": 2700\n  },\n  {\n    \"author\": \"RickyPo\",\n    \"id\": \"2057490271856648243\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"DeepMind founder Demis Hassabis on what Google AI products say about ‘singularity’\",\n    \"url\": \"https://x.com/RickyPo/status/2057490271856648243\",\n    \"views\": 52\n  },\n  {\n    \"author\": \"neil_xbt\",\n    \"id\": \"2057281221533876680\",\n    \"likes\": 44,\n    \"replies\": 19,\n    \"retweets\": 16,\n    \"text\": \"Demis Hassabis (CEO of Google DeepMind):\\n\\\"we are moving toward AI systems that truly understand the world rather than just processing it.\\\"\\n\\nGemini Omni just showed what that looks like in practice.\\n\\nHere is what it actually does:\\n\\n→ takes photos, video, and audio simultaneously\",\n    \"url\": \"https://x.com/neil_xbt/status/2057281221533876680\",\n    \"views\": 3200\n  },\n  {\n    \"author\": \"alec2244\",\n    \"id\": \"2057448200840298550\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Demis Hassabis（DeepMind CEO）在 Dialogues 对话中说：\\nAI时代的影响力将是工业革命的10倍，速度也是10倍。但未来尚未书写，我们还有机会主动塑造它。\\n科学、医学、能源、材料……真正的丰裕时代要来了！\\n#AI #AGI #DemisHassabis\",\n    \"url\": \"https://x.com/alec2244/status/2057448200840298550\",\n    \"views\": 51\n  },\n  {\n    \"author\": \"hfujikawa77\",\n    \"id\": \"2057609852164420042\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Demis Hassabisのロングインタビュー、これは見ておきたいな。AIが解いた最難問題、創薬、軍事利用、AGIのレガシーまで扱うなら、単なる技術紹介じゃなくAIの向かう先の話になりそう。3月収録という点だけ、最新発言として扱いすぎない方がよさそう。\",\n    \"url\": \"https://x.com/hfujikawa77/status/2057609852164420042\",\n    \"views\": 264\n  },\n  {\n    \"author\": \"SilenceCaPrompt\",\n    \"id\": \"2057496202057543944\",\n    \"likes\": 17,\n    \"replies\": 6,\n    \"retweets\": 11,\n    \"text\": \"FLASH: The founder of Google DeepMind confesses: he would have kept AI in the labs longer.\\n\\nMilitary, drugs, legacy, human limits. One hour of rare truths with the man who built it all.\\n\\nDemis Hassabis\",\n    \"url\": \"https://x.com/SilenceCaPrompt/status/2057496202057543944\",\n    \"views\": 2800\n  },\n  {\n    \"author\": \"ainewsbites\",\n    \"id\": \"2057349585282941424\",\n    \"likes\": 0,\n    \"replies\": 0,\n    \"retweets\": 0,\n    \"text\": \"Demis Hassabis Interview \\n- AI driven drug discovery\\n- Why AI should still be in research \\n- Military and AI\",\n    \"url\": \"https://x.com/ainewsbites/status/2057349585282941424\",\n    \"views\": 65\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "MaxForAI",
+          "id": "2057343073965981971",
+          "likes": 223,
+          "replies": 7,
+          "retweets": 54,
+          "text": "I don’t allow anyone to skip watching Demis Hassabis’s latest podcast.\n\nThis episode of HUGE Conversations features an interview with Google DeepMind CEO Demis Hassabis.\n\nThat is, the guy who led the team that created AlphaFold and later won the Nobel Prize.\n\nA lot of people",
+          "url": "https://x.com/MaxForAI/status/2057343073965981971",
+          "views": 48000
+        },
+        {
+          "author": "neil_xbt",
+          "id": "2057344891089273203",
+          "likes": 48,
+          "replies": 13,
+          "retweets": 10,
+          "text": "Demis Hassabis (CEO of Google DeepMind): \"I would have left AI in the lab longer. In my ideal version of history, we would have built toward AGI in a slower, more rigorous, more collaborative way, solving science and medicine first.\"\n\nHere is what the full Cleo Abram conversation",
+          "url": "https://x.com/neil_xbt/status/2057344891089273203",
+          "views": 2700
+        },
+        {
+          "author": "RickyPo",
+          "id": "2057490271856648243",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "DeepMind founder Demis Hassabis on what Google AI products say about ‘singularity’",
+          "url": "https://x.com/RickyPo/status/2057490271856648243",
+          "views": 52
+        },
+        {
+          "author": "neil_xbt",
+          "id": "2057281221533876680",
+          "likes": 44,
+          "replies": 19,
+          "retweets": 16,
+          "text": "Demis Hassabis (CEO of Google DeepMind):\n\"we are moving toward AI systems that truly understand the world rather than just processing it.\"\n\nGemini Omni just showed what that looks like in practice.\n\nHere is what it actually does:\n\n→ takes photos, video, and audio simultaneously",
+          "url": "https://x.com/neil_xbt/status/2057281221533876680",
+          "views": 3200
+        },
+        {
+          "author": "alec2244",
+          "id": "2057448200840298550",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Demis Hassabis（DeepMind CEO）在 Dialogues 对话中说：\nAI时代的影响力将是工业革命的10倍，速度也是10倍。但未来尚未书写，我们还有机会主动塑造它。\n科学、医学、能源、材料……真正的丰裕时代要来了！\n#AI #AGI #DemisHassabis",
+          "url": "https://x.com/alec2244/status/2057448200840298550",
+          "views": 51
+        },
+        {
+          "author": "hfujikawa77",
+          "id": "2057609852164420042",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Demis Hassabisのロングインタビュー、これは見ておきたいな。AIが解いた最難問題、創薬、軍事利用、AGIのレガシーまで扱うなら、単なる技術紹介じゃなくAIの向かう先の話になりそう。3月収録という点だけ、最新発言として扱いすぎない方がよさそう。",
+          "url": "https://x.com/hfujikawa77/status/2057609852164420042",
+          "views": 264
+        },
+        {
+          "author": "SilenceCaPrompt",
+          "id": "2057496202057543944",
+          "likes": 17,
+          "replies": 6,
+          "retweets": 11,
+          "text": "FLASH: The founder of Google DeepMind confesses: he would have kept AI in the labs longer.\n\nMilitary, drugs, legacy, human limits. One hour of rare truths with the man who built it all.\n\nDemis Hassabis",
+          "url": "https://x.com/SilenceCaPrompt/status/2057496202057543944",
+          "views": 2800
+        },
+        {
+          "author": "ainewsbites",
+          "id": "2057349585282941424",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Demis Hassabis Interview \n- AI driven drug discovery\n- Why AI should still be in research \n- Military and AI",
+          "url": "https://x.com/ainewsbites/status/2057349585282941424",
+          "views": 65
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "from:karpathy since:2026-05-21",
+      "limit": 5,
+      "returncode": 1,
+      "stdout": "\u001b[2m2026-05-22T07:02:39.036863Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"f1e9fa61-883a-4c65-ad24-f9cebb663412\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m1\n\u001b[2m2026-05-22T07:02:39.042699Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"4b4d5540-b7ab-4460-9daf-0864d2eb2f5b\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m2\n",
+      "stderr": "⚡ [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"3f2b16aa-aba3-4ebe-8e15-c7ec51395096\",\"ok\":false}\n",
+      "tweets": [],
+      "attempts": 1
+    },
+    {
+      "query": "from:sama since:2026-05-21",
+      "limit": 5,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"sama\",\n    \"id\": \"2057559714788258003\",\n    \"likes\": 2400,\n    \"replies\": 339,\n    \"retweets\": 131,\n    \"text\": \"new codex ships today!\",\n    \"url\": \"https://x.com/sama/status/2057559714788258003\",\n    \"views\": 371000\n  },\n  {\n    \"author\": \"sama\",\n    \"id\": \"2057614780727480741\",\n    \"likes\": 7200,\n    \"replies\": 9700,\n    \"retweets\": 1100,\n    \"text\": \"what problem do you most hope AI will solve in the future?\\n\\nmaybe we can help!\",\n    \"url\": \"https://x.com/sama/status/2057614780727480741\",\n    \"views\": 1400000\n  },\n  {\n    \"author\": \"sama\",\n    \"id\": \"2057515035472380237\",\n    \"likes\": 13000,\n    \"replies\": 864,\n    \"retweets\": 712,\n    \"text\": \"the attack at the mosque in san diego is one of the most chilling i have seen.\\n\\nmy deepest condolences to the victims, families, and community.\",\n    \"url\": \"https://x.com/sama/status/2057515035472380237\",\n    \"views\": 1200000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "sama",
+          "id": "2057559714788258003",
+          "likes": 2400,
+          "replies": 339,
+          "retweets": 131,
+          "text": "new codex ships today!",
+          "url": "https://x.com/sama/status/2057559714788258003",
+          "views": 371000
+        },
+        {
+          "author": "sama",
+          "id": "2057614780727480741",
+          "likes": 7200,
+          "replies": 9700,
+          "retweets": 1100,
+          "text": "what problem do you most hope AI will solve in the future?\n\nmaybe we can help!",
+          "url": "https://x.com/sama/status/2057614780727480741",
+          "views": 1400000
+        },
+        {
+          "author": "sama",
+          "id": "2057515035472380237",
+          "likes": 13000,
+          "replies": 864,
+          "retweets": 712,
+          "text": "the attack at the mosque in san diego is one of the most chilling i have seen.\n\nmy deepest condolences to the victims, families, and community.",
+          "url": "https://x.com/sama/status/2057515035472380237",
+          "views": 1200000
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "from:OpenAI since:2026-05-21",
+      "limit": 5,
+      "returncode": 0,
+      "stdout": "[\n  {\n    \"author\": \"OpenAI\",\n    \"id\": \"2057617844800794878\",\n    \"likes\": 2100,\n    \"replies\": 130,\n    \"retweets\": 274,\n    \"text\": \"Highlights from today’s Codex Thursday launches:\\n\\n Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off.\\n\\nhttp://developers.openai.com/codex/app/computer-use#locked-use…\",\n    \"url\": \"https://x.com/OpenAI/status/2057617844800794878\",\n    \"views\": 265000\n  },\n  {\n    \"author\": \"OpenAI\",\n    \"id\": \"2057617860986593680\",\n    \"likes\": 260,\n    \"replies\": 10,\n    \"retweets\": 17,\n    \"text\": \"Goal mode is now available in the Codex app, IDE extension, and CLI.\\n\\nGoal mode makes Codex more hands-off, letting you set a goal that it can work towards for hours or even days.\",\n    \"url\": \"https://x.com/OpenAI/status/2057617860986593680\",\n    \"views\": 28000\n  },\n  {\n    \"author\": \"OpenAI\",\n    \"id\": \"2057617862479708650\",\n    \"likes\": 255,\n    \"replies\": 15,\n    \"retweets\": 20,\n    \"text\": \"Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.\",\n    \"url\": \"https://x.com/OpenAI/status/2057617862479708650\",\n    \"views\": 51000\n  },\n  {\n    \"author\": \"OpenAI\",\n    \"id\": \"2057617846449197480\",\n    \"likes\": 241,\n    \"replies\": 4,\n    \"retweets\": 16,\n    \"text\": \"Appshots bring context from your screen straight into the Codex app.\",\n    \"url\": \"https://x.com/OpenAI/status/2057617846449197480\",\n    \"views\": 34000\n  },\n  {\n    \"author\": \"OpenAI\",\n    \"id\": \"2057617863977165173\",\n    \"likes\": 172,\n    \"replies\": 85,\n    \"retweets\": 8,\n    \"text\": \"We’re taking suggestions on what you want to see next week\",\n    \"url\": \"https://x.com/OpenAI/status/2057617863977165173\",\n    \"views\": 46000\n  }\n]\n",
+      "stderr": "",
+      "tweets": [
+        {
+          "author": "OpenAI",
+          "id": "2057617844800794878",
+          "likes": 2100,
+          "replies": 130,
+          "retweets": 274,
+          "text": "Highlights from today’s Codex Thursday launches:\n\n Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off.\n\nhttp://developers.openai.com/codex/app/computer-use#locked-use…",
+          "url": "https://x.com/OpenAI/status/2057617844800794878",
+          "views": 265000
+        },
+        {
+          "author": "OpenAI",
+          "id": "2057617860986593680",
+          "likes": 260,
+          "replies": 10,
+          "retweets": 17,
+          "text": "Goal mode is now available in the Codex app, IDE extension, and CLI.\n\nGoal mode makes Codex more hands-off, letting you set a goal that it can work towards for hours or even days.",
+          "url": "https://x.com/OpenAI/status/2057617860986593680",
+          "views": 28000
+        },
+        {
+          "author": "OpenAI",
+          "id": "2057617862479708650",
+          "likes": 255,
+          "replies": 15,
+          "retweets": 20,
+          "text": "Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.",
+          "url": "https://x.com/OpenAI/status/2057617862479708650",
+          "views": 51000
+        },
+        {
+          "author": "OpenAI",
+          "id": "2057617846449197480",
+          "likes": 241,
+          "replies": 4,
+          "retweets": 16,
+          "text": "Appshots bring context from your screen straight into the Codex app.",
+          "url": "https://x.com/OpenAI/status/2057617846449197480",
+          "views": 34000
+        },
+        {
+          "author": "OpenAI",
+          "id": "2057617863977165173",
+          "likes": 172,
+          "replies": 85,
+          "retweets": 8,
+          "text": "We’re taking suggestions on what you want to see next week",
+          "url": "https://x.com/OpenAI/status/2057617863977165173",
+          "views": 46000
+        }
+      ],
+      "attempts": 1
+    },
+    {
+      "query": "from:AnthropicAI since:2026-05-21",
+      "limit": 5,
+      "returncode": 1,
+      "stdout": "\u001b[2m2026-05-22T07:03:10.519590Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"0ccbd11a-ec84-466b-98ed-f0c82869dc9e\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m1\n\u001b[2m2026-05-22T07:03:10.523872Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"6d316e06-b8d2-4ed3-9089-db0ae293744c\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m2\n",
+      "stderr": "⚡ [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"e79c29d5-a725-4ed8-81a9-8865613920da\",\"ok\":false}\n",
+      "tweets": [],
+      "attempts": 1
+    }
+  ]
+}
