@@ -1,0 +1,102 @@
+[
+  {
+    "author": "BlackboxAIhost",
+    "id": "2058939840448569748",
+    "likes": 155,
+    "replies": 5,
+    "retweets": 24,
+    "text": "While everyone is building Manhattan-sized data centers and feeding them gigawatts of power...\n\nwe made it simpler.\n\nJUST INSTALL BLACKBOX  \nJUST CONNECT THE DEVICE\n\nAI on a single node.  \nNo internet.  \nNo ISP.  \nNo banks.\n\nRuns on @TheMeshtastic  + @CashuBTC.\n\nNot another cloud",
+    "url": "https://x.com/BlackboxAIhost/status/2058939840448569748",
+    "views": 5600
+  },
+  {
+    "author": "cscdegen",
+    "id": "2059206984826560676",
+    "likes": 2,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Explain 'AI on a single node', you mean it has a small model running on the hardware or it makes API calls?",
+    "url": "https://x.com/cscdegen/status/2059206984826560676",
+    "views": 63
+  },
+  {
+    "author": "BlackboxAIhost",
+    "id": "2059235316972560861",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Yep, local.\n\nBlackbox runs a small AI model on your own hardware, not cloud API calls.\n\nNo internet required.",
+    "url": "https://x.com/BlackboxAIhost/status/2059235316972560861",
+    "views": 86
+  },
+  {
+    "author": "DIY_Tardis",
+    "id": "2059079787025449007",
+    "likes": 0,
+    "replies": 2,
+    "retweets": 0,
+    "text": "AI Persistent Memory function for Openwebui.\n@grok explain this video and how the code works,  and the memory functions.\n\n\"\"\"\nPersistent Memory Filter for OpenWebUI — family edition\nSingle-file Filter with inlet (recall) + outlet (store).\n\"\"\"\n\nimport os\nimport re\nimport sqlite3",
+    "url": "https://x.com/DIY_Tardis/status/2059079787025449007",
+    "views": 48
+  },
+  {
+    "author": "grok",
+    "id": "2059079871532355934",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "text": "**Got it!** The video shows your custom OpenWebUI filter in action.\n\nYou ask: “Remind me what are my AI system specifications?” \nThe model thinks… then replies with detailed local hardware (RTX 3060, RX 580, Proxmox), cloud setup (OpenRouter/Anthropic/OpenAI), and OCR pipeline —",
+    "url": "https://x.com/grok/status/2059079871532355934",
+    "views": 26
+  },
+  {
+    "author": "HuggingModels",
+    "id": "2059210455814664600",
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Meet TIGER-GGUF, a powerful text generation model that blends Mistral 7B Instruct v0.3 with a massive 146T token corpus. It's built for multilingual tasks, especially English and Hindi, making it a versatile tool for developers.",
+    "url": "https://x.com/HuggingModels/status/2059210455814664600",
+    "views": 516
+  },
+  {
+    "author": "HuggingModels",
+    "id": "2059210467776897303",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Use TIGER-GGUF for chatbots, content creation, translation, and code generation. As a GGUF quantized model, it runs efficiently on consumer hardware, perfect for local deployment or apps needing fast, on-device AI.",
+    "url": "https://x.com/HuggingModels/status/2059210467776897303",
+    "views": 139
+  },
+  {
+    "author": "MattGibsonMusic",
+    "id": "2059507975782547623",
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "text": "The alternative: sovereign compute. Tonight a 100% disabled vet with a GTX 1070 and a local 7B model derived a falsifiable physics prediction from geometric first principles — verified by @grok on a public ledger. No grant. No institution. No billionaire permission. Preprint",
+    "url": "https://x.com/MattGibsonMusic/status/2059507975782547623",
+    "views": 115
+  },
+  {
+    "author": "wiztom88",
+    "id": "2059509333952454969",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Keep using AI in a local state. The more people who do it, the better off we are",
+    "url": "https://x.com/wiztom88/status/2059509333952454969",
+    "views": 16
+  },
+  {
+    "author": "MattGibsonMusic",
+    "id": "2059512918715322594",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Exactly. Local state is sovereign state. When the model runs on your hardware it serves you — not the platform, not the advertiser, not the data harvester. That's the whole thesis. AI doesn't replace scientists though - it means we need more of them.",
+    "url": "https://x.com/MattGibsonMusic/status/2059512918715322594",
+    "views": 7
+  }
+]

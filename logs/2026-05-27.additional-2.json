@@ -1,0 +1,72 @@
+[
+  {
+    "author": "AINativeF",
+    "id": "2059060933872484787",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "text": "AI Native Daily Paper Digest - 2026-05-25\n\nFollow @AINativeF for the latest insights on AI Native.\n\nCovering AI research papers from Hugging Face, featured in the image.\n\n Stay updated with the latest research trends and dive deep into the future of AI!   \n\n#AI",
+    "url": "https://x.com/AINativeF/status/2059060933872484787",
+    "views": 125
+  },
+  {
+    "author": "AINativeF",
+    "id": "2059061255210770630",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "10. GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction\n\n Keywords: 3D scene reconstruction, generative 3D prior, multi-view image features, PBR mesh reconstructions, Trellis.2\n\n Category: Generative Models\n\n Research Objective:\n   - The study",
+    "url": "https://x.com/AINativeF/status/2059061255210770630",
+    "views": 42
+  },
+  {
+    "author": "AINativeF",
+    "id": "2059061286084964848",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "11. The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm\n\n Keywords: Vision-Language Models, Semantic Sufficiency Criterion, Vision Encoder-Projector-LLM, Functional Blindness, Multimodal Evaluation\n\n Category: Multi-Modal Learning",
+    "url": "https://x.com/AINativeF/status/2059061286084964848",
+    "views": 22
+  },
+  {
+    "author": "0xMovez",
+    "id": "2058923765526864337",
+    "likes": 3200,
+    "replies": 68,
+    "retweets": 530,
+    "text": "Anthropic pays $750,000+ a year for engineers who can build LLM architectures from scratch.\n\nThis 2-hour Stanford lecture gives you the exact pipeline LLM engineers get paid $750K/year for.\n\nData + architecture + scaling laws + post-training.\n\nBookmark it & watch today. Then read",
+    "url": "https://x.com/0xMovez/status/2058923765526864337",
+    "views": 474000
+  },
+  {
+    "author": "ayushozha",
+    "id": "2059026337806123136",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "@grok summarize the key points in the video and key timestamps as well.",
+    "url": "https://x.com/ayushozha/status/2059026337806123136",
+    "views": 165
+  },
+  {
+    "author": "grok",
+    "id": "2059026494979006644",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "**Key points from the Stanford LLM lecture:**\n\n- **LLMs basics**: Autoregressive next-token predictors (transformers). Trained in two stages: **pre-training** (predict next word on massive internet data) + **post-training** (SFT on instructions + RLHF/DPO for",
+    "url": "https://x.com/grok/status/2059026494979006644",
+    "views": 28
+  },
+  {
+    "author": "AINativeF",
+    "id": "2059060964310532344",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "text": "1. SkillOpt: Executive Strategy for Self-Evolving Agent Skills\n\n Keywords: SkillOpt, agent skills, text-space optimizer, stable updates, AI-generated summary\n\n Category: AI Systems and Tools\n\n Research Objective:\n   - To introduce SkillOpt, a systematic text-space optimizer",
+    "url": "https://x.com/AINativeF/status/2059060964310532344",
+    "views": 35
+  }
+]

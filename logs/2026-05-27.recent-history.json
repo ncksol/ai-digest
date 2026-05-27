@@ -1,0 +1,103 @@
+[
+  {
+    "file": "2026-05-18.md",
+    "headings": [
+      "ChatGPT Images passes one billion creations in India",
+      "Karpathy flags 8xH100 access as a barrier for nanochat",
+      "H100 scarcity warning centres on academic access",
+      "Claude Code setup plugin gains attention",
+      "Perplexity hallucination report highlights product regression",
+      "Open-source model risk is reframed around execution",
+      "Codex use case moves into email cleanup",
+      "DeepMind paper frames the web as an agent attack surface"
+    ]
+  },
+  {
+    "file": "2026-05-19.md",
+    "headings": [
+      "ChatGPT update draws high engagement from Altman",
+      "Anthropic acquires Stainless",
+      "Claude Code prompting video circulates",
+      "Meta reassigns thousands of workers to AI roles",
+      "LLM out-of-distribution behaviour gets practitioner scrutiny",
+      "Delangue says serious AI companies will train models",
+      "GBrain claims open-source memory benchmark lead"
+    ]
+  },
+  {
+    "file": "2026-05-20.md",
+    "headings": [
+      "Karpathy joins Anthropic",
+      "OpenAI launches Guaranteed Capacity",
+      "OpenAI adds image provenance checks",
+      "Altman says OpenAI offered YC startups token investment",
+      "Anthropic describes frontier AI character dialogues",
+      "Azure adds open-source image models in Foundry",
+      "Brockman says OpenAI is offering long-term token discounts",
+      "Claude highlights Devin as an agent case study"
+    ]
+  },
+  {
+    "file": "2026-05-21.md",
+    "headings": [
+      "OpenAI says a reasoning model disproved an Erd\u0151s conjecture",
+      "SpaceXAI is recruiting engineers and physicists",
+      "Altman lists three AGI priorities after the math result",
+      "Andrew Ng launches a course on generative AI agents",
+      "Tech CEOs are invited to a White House AI safety event",
+      "Hassabis frames Gemini for Science as infrastructure",
+      "Microsoft developers show Claude agent workflows",
+      "Naive Studio v2 adds hosted AI employees",
+      "Build Canada says an open-source frontier model is available",
+      "Garry Tan open-sources GBrain for long-memory agents",
+      "Researchers propose memory as a model",
+      "Cohere ships a new frontier LLM"
+    ]
+  },
+  {
+    "file": "2026-05-22.md",
+    "headings": [
+      "OpenAI adds Mac app control to Codex from phones",
+      "OpenAI adds Goal mode to Codex",
+      "OpenAI adds advanced annotation mode to Codex",
+      "OpenAI adds Appshots to Codex",
+      "Altman asks users which problems AI should solve",
+      "Post says Microsoft cut Claude Code licenses over token costs",
+      "Enterprise Claude Code costs draw scrutiny",
+      "Practitioner proposes canary DNS entries for LLM agents",
+      "Brockman calls OpenAI math result a knowledge-generation milestone",
+      "TradingAgents framework is presented as open-source",
+      "DAIR.AI shares LLM wiki and artifact material"
+    ]
+  },
+  {
+    "file": "2026-05-25.md",
+    "headings": [
+      "Microsoft AI budget claim circulates",
+      "Karpathy praises internal cost pushback",
+      "Anthropic co-founder warns on labor displacement",
+      "Hassabis says current systems are far from AGI",
+      "Musk says 0.5T model will be open sourced",
+      "Uber coding assistant budget claim spreads",
+      "DeepMind agent reported on Erd\u0151s problems",
+      "Pope AI claim disputed",
+      "Sam Altman predicts smaller billion-dollar companies",
+      "Anthropic researcher describes model opacity"
+    ]
+  },
+  {
+    "file": "2026-05-26.md",
+    "headings": [
+      "Anthropic co-founder Chris Olah speaks at papal encyclical event",
+      "Papal encyclical AI text draws policy correction",
+      "Amodei interview clip warns on disappearing jobs",
+      "LLM-produced artifact judged professionally useful",
+      "Hassabis Cambridge lecture circulates as AI overview",
+      "Dario Amodei labor displacement warnings recirculate",
+      "Microsoft SkillOpt trains external AI skill documents",
+      "Sunak points to UK AI Security Institute recognition",
+      "Malicious prompts target AI coding assistants",
+      "LongCat open-sources talking-avatar video model"
+    ]
+  }
+]

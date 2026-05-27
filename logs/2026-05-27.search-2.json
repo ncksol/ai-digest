@@ -1,0 +1,112 @@
+[
+  {
+    "author": "StanfordHAI",
+    "id": "2059380537555649004",
+    "likes": 21,
+    "replies": 3,
+    "retweets": 6,
+    "text": "One-shot LLM training demands reliable scaling laws to predict model behavior, but current scaling techniques are compute-intensive. New research introduces a method that reduces training demands significantly, lowering the time and cost of scaling:",
+    "url": "https://x.com/StanfordHAI/status/2059380537555649004",
+    "views": 1600
+  },
+  {
+    "author": "snwy_me",
+    "id": "2059504217015169430",
+    "likes": 29,
+    "replies": 2,
+    "retweets": 1,
+    "text": "if you post a tweet about “research” you did and the tweet is obviously GPT generated (has that weirdly dramatic and stressed tone) then i’m not reading a word of your publication i’m sorry",
+    "url": "https://x.com/snwy_me/status/2059504217015169430",
+    "views": 680
+  },
+  {
+    "author": "xeophon",
+    "id": "2059520978137366783",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "If I feel it has no effort behind it, I close the tab. If you’ve rewritten a lot, it obviously has effort behind them",
+    "url": "https://x.com/xeophon/status/2059520978137366783",
+    "views": 13
+  },
+  {
+    "author": "alkimiadev",
+    "id": "2059525863574507848",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Yeah I guess it is probably pretty easy for people who work with llms a lot to spot low effort work. There is actual credible research that shows so-called \"power users\" actually are pretty accurate at detecting llm generated text. \n\nMost people aren't really any better than",
+    "url": "https://x.com/alkimiadev/status/2059525863574507848",
+    "views": 18
+  },
+  {
+    "author": "DataChaz",
+    "id": "2059290414205587748",
+    "likes": 42,
+    "replies": 7,
+    "retweets": 15,
+    "text": "ALL IT TAKES IS LITERALLY ONE LINE OF CODE\n\nChange your base URL to http://gateway.merge.dev/v1 and BOOM  \n\nNow you have cost controls, failover, and access to every LLM on the market.\n\nyour CFO is about to become your biggest fan",
+    "url": "https://x.com/DataChaz/status/2059290414205587748",
+    "views": 7200
+  },
+  {
+    "author": "alex_prompter",
+    "id": "2059211954762531100",
+    "likes": 365,
+    "replies": 33,
+    "retweets": 54,
+    "text": "I asked every major LLM to describe the other LLMs as if they were classmates at the same university.\n\nThey did NOT hold back. Here's what ChatGPT, Claude, Gemini, Grok, and Perplexity said about each other:",
+    "url": "https://x.com/alex_prompter/status/2059211954762531100",
+    "views": 268000
+  },
+  {
+    "author": "wordgrammer",
+    "id": "2059371266578989212",
+    "likes": 1500,
+    "replies": 225,
+    "retweets": 112,
+    "text": "If you think that LLMs are conscious you must accept a lot of weird conclusions. Like:\n- we can clone conscious experience\n- we can reverse time in conscious experience\n- we can pause and resume conscious experience\n- we can distribute conscious experience in space",
+    "url": "https://x.com/wordgrammer/status/2059371266578989212",
+    "views": 91000
+  },
+  {
+    "author": "leebriskcyrano",
+    "id": "2059400504887955896",
+    "likes": 2,
+    "replies": 1,
+    "retweets": 0,
+    "text": "https://gutenberg.org/files/56852/56852-h/56852-h.htm#Page_100…",
+    "url": "https://x.com/leebriskcyrano/status/2059400504887955896",
+    "views": 104
+  },
+  {
+    "author": "remusrisnov",
+    "id": "2059469351124914543",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "There’s no continuous input stream of “being” that the LLM is receiving or communing with.  If an LLM is conscious indifferent to what we experience you’re stipulating our rendition of the world is solely illusory and there’s no objectivity to it. Otherwise you can’t reverse time",
+    "url": "https://x.com/remusrisnov/status/2059469351124914543",
+    "views": 25
+  },
+  {
+    "author": "Restructuring__",
+    "id": "2059306354494341202",
+    "likes": 25,
+    "replies": 3,
+    "retweets": 2,
+    "text": "This is quite interesting from investor POV\n\nEnterprises are getting hundreds of millions of LLM bills as AI models are getting very expensive\n\nThis said, most of the tasks do not require a frontier model \n\nThe LLM that takes my Burger King order does not need to be quick or be",
+    "url": "https://x.com/Restructuring__/status/2059306354494341202",
+    "views": 11000
+  },
+  {
+    "author": "pvergadia",
+    "id": "2059528634747289827",
+    "likes": 2,
+    "replies": 2,
+    "retweets": 0,
+    "text": "ChatGPT didn't come from nowhere. It came from 60 years of researchers hitting walls, breaking things, and rebuilding from scratch. I wrote about the real history behind Transformers, from a cat's visual cortex in 1959 to the architecture running every LLM today. Coming soon but",
+    "url": "https://x.com/pvergadia/status/2059528634747289827",
+    "views": 43
+  }
+]

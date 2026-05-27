@@ -1,0 +1,82 @@
+[
+  {
+    "author": "aiwithjainam",
+    "id": "2059228811733172736",
+    "likes": 53,
+    "replies": 1,
+    "retweets": 14,
+    "text": "10 GITHUB REPOS THAT BUILD A FULL TRADING AND FINANCE STACK.\n\nBookmark every single one. Hedge funds pay six figures for less than this.\n\n1. Fincept Terminal - http://github.com/Fincept-Corporation/FinceptTerminal…\n\nOpen source Bloomberg Terminal. CFA Level 1-3 analytics, 20+ inv",
+    "url": "https://x.com/aiwithjainam/status/2059228811733172736",
+    "views": 3700
+  },
+  {
+    "author": "DrEliDavid",
+    "id": "2059282494663401913",
+    "likes": 25,
+    "replies": 2,
+    "retweets": 3,
+    "text": "Impressive results. The gap between open source and proprietary AI models has narrowed, and in some cases open source is actually superior",
+    "url": "https://x.com/DrEliDavid/status/2059282494663401913",
+    "views": 9000
+  },
+  {
+    "author": "AlphaSignalAI",
+    "id": "2059288929874981245",
+    "likes": 5,
+    "replies": 1,
+    "retweets": 1,
+    "text": "This open-source AI dev platform ships code end-to-end, fully customizable.\n\nOpenHands is the open source answer to autonomous coding agents like Devin.\n \nIt runs agents that plan, write, test, debug, and deploy code across your codebase, not just suggest snippets.\n \nThe agent",
+    "url": "https://x.com/AlphaSignalAI/status/2059288929874981245",
+    "views": 397
+  },
+  {
+    "author": "simplifyinAI",
+    "id": "2059286597418340646",
+    "likes": 29,
+    "replies": 1,
+    "retweets": 7,
+    "text": "this peanut-sized chinese model beats Gemini at reading documents.. \n\nit’s called glm-ocr. it’s a tiny 0.9b parameter vision-language model that is about to replace every expensive ocr api you use.\n\nAnd it’s 100% open-source.",
+    "url": "https://x.com/simplifyinAI/status/2059286597418340646",
+    "views": 1700
+  },
+  {
+    "author": "TheTuringPost",
+    "id": "2059137971543269860",
+    "likes": 69,
+    "replies": 7,
+    "retweets": 25,
+    "text": "Train the AI’s playbook instead of retraining the AI itself\n\nMicrosoft introduced a new open-source training method – SkillOpt\n\nIt optimizes external skill documents, while the model’s internal weights stay frozen.\n\nHere's the workflow:\n\n• The AI tries tasks\n• An optimizer",
+    "url": "https://x.com/TheTuringPost/status/2059137971543269860",
+    "views": 5400
+  },
+  {
+    "author": "AppliedSciAI",
+    "id": "2059301323867377818",
+    "likes": 11,
+    "replies": 2,
+    "retweets": 1,
+    "text": "Anyone using AI in biology knows the feeling: a perfectly legitimate research request throws a [CONTENT_FILTERED] error because a frontier model decided it looked like a biosecurity risk.\n\nWe're releasing RefusalBench, an open benchmark for auditing the refusal accuracy of",
+    "url": "https://x.com/AppliedSciAI/status/2059301323867377818",
+    "views": 695
+  },
+  {
+    "author": "VaibhavSisinty",
+    "id": "2059196754030153908",
+    "likes": 52,
+    "replies": 8,
+    "retweets": 9,
+    "text": "I found this crazy open source tool that scans your hardware and tells you exactly which local AI model will run on your machine.\n\nit's called whichllm. built by a developer named Andyyyy64.\n\nThis scans your hardware and ranks the models that actually fit and actually perform.",
+    "url": "https://x.com/VaibhavSisinty/status/2059196754030153908",
+    "views": 3600
+  },
+  {
+    "author": "AmirMushich",
+    "id": "2059321893732163616",
+    "likes": 126,
+    "replies": 16,
+    "retweets": 12,
+    "text": "Figma-to-video is real now (GitHub repo)\nwe just open-sourced VibeMotion-1 (pre-alpha):\n\nthe video editing tool that can\n> auto-edit your videos\n> import your Figma frames + all layers\n> animate layers by prompt\n> animate images using LTX-2.3 AI model (local, open-sourced)\n\nall",
+    "url": "https://x.com/AmirMushich/status/2059321893732163616",
+    "views": 15000
+  }
+]

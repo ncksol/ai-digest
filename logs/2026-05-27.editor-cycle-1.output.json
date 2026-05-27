@@ -1,0 +1,191 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a solid core: Anthropic's official agent-sandboxing post, official Claude project examples, a practitioner comparison of Codex/Claude Code/Cursor, Stanford HAI scaling-law research, VibeMotion's open-source Figma-to-video release, Co-Invest's ChatGPT/Claude trading launch, David Sacks on AI deregulation, and a Demis Hassabis interview. Weaknesses are several secondary or low-engagement open-source/tool claims, one mismatched selection_reason for whichllm, and some promotional framing. Replace or search around the weakest secondary items rather than expanding stale prior-day stories.",
+  "decisions": [
+    {
+      "id": "item_2059351260243919269",
+      "decision": "keep",
+      "reason": "Official Anthropic engineering-blog announcement on agent sandboxing and permissions; primary-source, concrete, and directly relevant to safe agent deployment as capabilities increase.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent-tooling and Claude-code coverage, but distinct as an official safety/permissions engineering post."
+      }
+    },
+    {
+      "id": "item_2059292334714466595",
+      "decision": "keep",
+      "reason": "Official Claude account highlighting six Claude projects with very high engagement. The text is terse, but the source is primary and the item provides useful product/practitioner inspiration if final copy names the projects from the linked thread or media.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad Claude ecosystem as Anthropic sandboxing, but a different angle: user/project examples rather than agent safety engineering."
+      }
+    },
+    {
+      "id": "item_2059383664585404730",
+      "decision": "keep",
+      "reason": "Practitioner comparison of Codex, Claude Code, and Cursor with a distinct philosophical framing; useful for readers choosing among coding agents and not merely a launch recap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to agent/coding-tool coverage but not the same event as Anthropic sandboxing or Claude projects."
+      }
+    },
+    {
+      "id": "item_2059380537555649004",
+      "decision": "keep",
+      "reason": "Stanford HAI research post on reducing one-shot LLM scaling cost and compute demands; low engagement but primary institutional source and a concrete research item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate selected research item covers one-shot LLM scaling laws."
+      }
+    },
+    {
+      "id": "item_2059321893732163616",
+      "decision": "keep",
+      "reason": "Builder announcement for VibeMotion-1, an open-source pre-alpha Figma-to-video tool with concrete features including layer import, prompt animation, and local LTX-2.3 model use.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to open-source AI tools, but distinct from GLM-OCR and whichllm."
+      }
+    },
+    {
+      "id": "item_2059286597418340646",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The GLM-OCR item is potentially useful but comes from a low-engagement secondary hype post making strong 'beats Gemini' and 'replace every OCR API' claims without primary model evidence in the tweet. Replace with the higher-engagement LLM-consciousness analysis reserve for a more distinct, safer analysis item.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2059371266578989212",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad open-source/model-claim territory as other model/tool posts, but not the same event; rejected mainly for weak source traceability."
+      }
+    },
+    {
+      "id": "item_2059196754030153908",
+      "decision": "needs_more_search",
+      "reason": "The whichllm local-model hardware scanner could be practical, but the selected tweet is a secondary discovery post with only modest engagement, and its selection_reason incorrectly references an Anthropic agent engineering talk rather than the actual tool. A maintainer or stronger Twitter source is needed.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to local/open-source AI tooling, but distinct from VibeMotion and GLM-OCR."
+      }
+    },
+    {
+      "id": "item_2059265865573409258",
+      "decision": "keep",
+      "reason": "Co-Invest launch claims direct trading through ChatGPT and Claude, with high retweet count and a concrete product angle. It is sourceable to the product account mention and adds applied AI/finance variety, though final copy should avoid implying platform endorsement without evidence.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers AI-assisted trading through ChatGPT and Claude."
+      }
+    },
+    {
+      "id": "item_2059482315219460150",
+      "decision": "keep",
+      "reason": "David Sacks is a relevant White House AI policy figure, and the post states a concrete deregulatory position on the AI race, China competition, and state/federal regulatory hurdles.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct policy item, not duplicative of technical or product coverage."
+      }
+    },
+    {
+      "id": "item_2059307613485940950",
+      "decision": "keep",
+      "reason": "Rowan Cheung's Demis Hassabis interview item gives a concrete agenda around 'foothills of the singularity,' curing disease, AGI timelines, and human meaning post-AGI; useful interview/analysis coverage with solid engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related broadly to AI future and policy discussions, but no selected duplicate covers this Hassabis interview."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2059351260243919269",
+        "item_2059292334714466595",
+        "item_2059383664585404730"
+      ],
+      "reason": "The set includes multiple Claude/agent ecosystem items, but they cover different angles: Anthropic sandboxing, Claude project examples, and coding-agent comparison."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2059321893732163616",
+        "item_2059286597418340646",
+        "item_2059196754030153908"
+      ],
+      "reason": "Three selected items are open-source or local-tool claims; VibeMotion is the strongest because it is a builder release, while GLM-OCR and whichllm need stronger sourcing."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2059286597418340646",
+        "item_2059196754030153908"
+      ],
+      "reason": "These selected items make concrete model/tool claims through secondary posts with limited engagement or mismatched metadata rather than primary maintainer/model sources."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2059286597418340646",
+        "item_2059196754030153908"
+      ],
+      "reason": "Replacing the weakest secondary open-source/tool claims would improve balance with stronger research, analysis, policy, or primary-source model-release coverage."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a primary or maintainer Twitter/X source for the whichllm local-model hardware scanner before including it.",
+      "suggested_query_theme": "whichllm Andyyyy64 local AI model hardware scanner since:2026-05-26"
+    },
+    {
+      "needed": true,
+      "reason": "Find a primary or more source-traceable Twitter/X source for GLM-OCR and its OCR benchmark claims.",
+      "suggested_query_theme": "GLM-OCR open source OCR vision language model benchmark since:2026-05-26"
+    },
+    {
+      "needed": true,
+      "reason": "Find stronger replacement candidates if the weak secondary open-source tooling posts are dropped.",
+      "suggested_query_theme": "AI research product launch model release policy agent tooling since:2026-05-26"
+    }
+  ]
+}

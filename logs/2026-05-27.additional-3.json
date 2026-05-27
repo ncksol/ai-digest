@@ -1,0 +1,102 @@
+[
+  {
+    "author": "AmirMushich",
+    "id": "2059321893732163616",
+    "likes": 129,
+    "replies": 16,
+    "retweets": 13,
+    "text": "Figma-to-video is real now (GitHub repo)\nwe just open-sourced VibeMotion-1 (pre-alpha):\n\nthe video editing tool that can\n> auto-edit your videos\n> import your Figma frames + all layers\n> animate layers by prompt\n> animate images using LTX-2.3 AI model (local, open-sourced)\n\nall",
+    "url": "https://x.com/AmirMushich/status/2059321893732163616",
+    "views": 15000
+  },
+  {
+    "author": "aiseomastery",
+    "id": "2059529504201294103",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Open sourced in pre-alpha and already this capable is a very promising starting point",
+    "url": "https://x.com/aiseomastery/status/2059529504201294103",
+    "views": 1
+  },
+  {
+    "author": "aipoch_ai",
+    "id": "2059505905587392808",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Tired of designing biomedical studies that look perfect on paper but crash into reality?\n\nMeet AIPOCH’s new Feasibility-Aware Study Planner: an AI agent skill that actually respects your real-world constraints.\nhttps://github.com/aipoch/medical-research-skills/tree/main/awesome-m",
+    "url": "https://x.com/aipoch_ai/status/2059505905587392808",
+    "views": 18
+  },
+  {
+    "author": "aipoch_ai",
+    "id": "2059531398672003346",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Ranking these 3 skills for a colorectal cancer GWAS-QTL colocalization project:\n\n 1. QTL Colocalization Study Planner (AIPOCH)\n 2. bioconductor-multistateqtl\n 3. qtl-analysis\n\nWhy this ranking?\nhttps://github.com/aipoch/medical-research-skills…\n\nThe biggest difference wasn’t “bet",
+    "url": "https://x.com/aipoch_ai/status/2059531398672003346",
+    "views": 2
+  },
+  {
+    "author": "aipoch_ai",
+    "id": "2059531402136506742",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "AIPOCH’s QTL Colocalization Study Planner was the only one that consistently treated the task as a full causal-evidence prioritization problem instead of just a QTL workflow problem.\nhttps://github.com/aipoch/medical-research-skills/tree/main/awesome-med-research-skills/Protocol%",
+    "url": "https://x.com/aipoch_ai/status/2059531402136506742",
+    "views": 0
+  },
+  {
+    "author": "devhunt_",
+    "id": "2059529092639150096",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "⇨ @Skywork_ai is an AI workspace suite with specialized agents for research documents, spreadsheets, slides, and multimedia creation.",
+    "url": "https://x.com/devhunt_/status/2059529092639150096",
+    "views": 9
+  },
+  {
+    "author": "devhunt_",
+    "id": "2059529094996357592",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "⇨ Key features:\n    • AI-powered workspace agents\n    • Research-grade document generation\n    • Spreadsheet and slide automation\n    • Multimedia content tools\n    • Productivity-focused AI workflows",
+    "url": "https://x.com/devhunt_/status/2059529094996357592",
+    "views": 6
+  },
+  {
+    "author": "thetect0nic",
+    "id": "2059106870900527428",
+    "likes": 3,
+    "replies": 1,
+    "retweets": 3,
+    "text": "Global AI model weekly usage ranking (May 18–24) via OpenRouter: DeepSeek V4 Flash leads with 3.43 (in 100M tokens) and +66% week-over-week growth, significantly ahead of the next models. These numbers aren’t just about capability. They reflect how distillation, pricing, and",
+    "url": "https://x.com/thetect0nic/status/2059106870900527428",
+    "views": 2400
+  },
+  {
+    "author": "thetect0nic",
+    "id": "2059111979134935145",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "text": "The deeper signal here is architectural.\n\nUS labs retain the lead in creating frontier-level intelligence. But distillation + open weights + aggressive inference pricing has given others a powerful lever in the deployment and volume layer.\n\nThe OpenRouter token numbers reflect",
+    "url": "https://x.com/thetect0nic/status/2059111979134935145",
+    "views": 134
+  },
+  {
+    "author": "thetect0nic",
+    "id": "2059127180626374807",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Sources:\n\n- Anthropic report on industrial-scale distillation campaigns: [https://anthropic.com/news/detecting-and-preventing-distillation-attacks…](https://anthropic.com/news/detecting-and-preventing-distillation-attacks…)\n\n- White House NSTM-4 memorandum (April 2026): [https://",
+    "url": "https://x.com/thetect0nic/status/2059127180626374807",
+    "views": 87
+  }
+]

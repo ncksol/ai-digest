@@ -1,0 +1,92 @@
+[
+  {
+    "author": "GoshawkTrades",
+    "id": "2059240510917931125",
+    "likes": 232,
+    "replies": 11,
+    "retweets": 17,
+    "text": "Cliff Asness (the co-founder of AQR, who manages billions) on the one belief about that most of his peers would disagree with:\n\n\"as we move into a world where machine learning is becoming a bigger part of the quant toolkit, we are big believers that economic intuition as a",
+    "url": "https://x.com/GoshawkTrades/status/2059240510917931125",
+    "views": 46000
+  },
+  {
+    "author": "lorden_eth",
+    "id": "2059309302746165589",
+    "likes": 65,
+    "replies": 11,
+    "retweets": 15,
+    "text": "Machine Learning Engineers at Google earn $199,000 to $742,000/year\n\nThis 10-minute crash course from TED by Andrew Ng shows how AI could Empower ANY business\n\nHere he covers:\n\n• How little tasks can net in 1000% ROI over the years\n• Using data to spot patterns and increase",
+    "url": "https://x.com/lorden_eth/status/2059309302746165589",
+    "views": 2400
+  },
+  {
+    "author": "BuffetFreud",
+    "id": "2058912143123062844",
+    "likes": 1200,
+    "replies": 11,
+    "retweets": 91,
+    "text": "The problem with AI is that it is a language that has a metalanguage. And that metalanguage is code. The path to psychosis is guaranteed.",
+    "url": "https://x.com/BuffetFreud/status/2058912143123062844",
+    "views": 48000
+  },
+  {
+    "author": "utyman",
+    "id": "2059266078153244993",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Igualmente si las idea es que las LLM se automejoren el lenguaje para hablar del lenguaje (metalenguaje) sería el mismo lenguaje y Turing y Gödel mostraron que también de esa forma hay \"huecos\".",
+    "url": "https://x.com/utyman/status/2059266078153244993",
+    "views": 147
+  },
+  {
+    "author": "utyman",
+    "id": "2059266657801863409",
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "text": "De todos modos, me parece que las LLM no funcionan como un \"código que genera otro código\" que se ajusta a esta imagen cerrada. Está más basado en machine learning, así que la metáfora sería otra \"ajuste de los coeficientes de una matriz\", probabilidad de predecir el próximo",
+    "url": "https://x.com/utyman/status/2059266657801863409",
+    "views": 120
+  },
+  {
+    "author": "pvergadia",
+    "id": "2059528634747289827",
+    "likes": 2,
+    "replies": 2,
+    "retweets": 0,
+    "text": "ChatGPT didn't come from nowhere. It came from 60 years of researchers hitting walls, breaking things, and rebuilding from scratch. I wrote about the real history behind Transformers, from a cat's visual cortex in 1959 to the architecture running every LLM today. Coming soon but",
+    "url": "https://x.com/pvergadia/status/2059528634747289827",
+    "views": 49
+  },
+  {
+    "author": "pvergadia",
+    "id": "2059528637888725376",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "RNN: Gave neural networks memory, then promptly forgot everything important after 20 steps.",
+    "url": "https://x.com/pvergadia/status/2059528637888725376",
+    "views": 10
+  },
+  {
+    "author": "pvergadia",
+    "id": "2059528640963174559",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "LSTM: Fixed the forgetting problem with gates and a dedicated memory lane that gradients could actually survive.",
+    "url": "https://x.com/pvergadia/status/2059528640963174559",
+    "views": 24
+  },
+  {
+    "author": "TheProjectUnity",
+    "id": "2058942188772299034",
+    "likes": 7900,
+    "replies": 134,
+    "retweets": 667,
+    "text": "The Serapeum gives me goosebumps every time I go inside.\n\n70+ ton, mirror-polished granite boxes, all housed in their own special chambers deep inside a subterranean labyrinth in the Egyptian desert. \n\nLike looking at the remnants of an alien world.",
+    "url": "https://x.com/TheProjectUnity/status/2058942188772299034",
+    "views": 371000
+  }
+]

@@ -1,0 +1,403 @@
+{
+  "runId": "8b844316-44d0-45e2-a0f1-b8154645229e",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a solid core: Anthropic's official agent-sandboxing post, official Claude project examples, a practitioner comparison of Codex/Claude Code/Cursor, Stanford HAI scaling-law research, VibeMotion's open-source Figma-to-video release, Co-Invest's ChatGPT/Claude trading launch, David Sacks on AI deregulation, and a Demis Hassabis interview. Weaknesses are several secondary or low-engagement open-source/tool claims, one mismatched selection_reason for whichllm, and some promotional framing. Replace or search around the weakest secondary items rather than expanding stale prior-day stories.\",\"decisions\":[{\"id\":\"item_2059351260243919269\",\"decision\":\"keep\",\"reason\":\"Official Anthropic engineering-blog announcement on agent sandboxing and permissions; primary-source, concrete, and directly relevant to safe agent deployment as capabilities increase.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent-tooling and Claude-code coverage, but distinct as an official safety/permissions engineering post.\"}},{\"id\":\"item_2059292334714466595\",\"decision\":\"keep\",\"reason\":\"Official Claude account highlighting six Claude projects with very high engagement. The text is terse, but the source is primary and the item provides useful product/practitioner inspiration if final copy names the projects from the linked thread or media.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad Claude ecosystem as Anthropic sandboxing, but a different angle: user/project examples rather than agent safety engineering.\"}},{\"id\":\"item_2059383664585404730\",\"decision\":\"keep\",\"reason\":\"Practitioner comparison of Codex, Claude Code, and Cursor with a distinct philosophical framing; useful for readers choosing among coding agents and not merely a launch recap.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent/coding-tool coverage but not the same event as Anthropic sandboxing or Claude projects.\"}},{\"id\":\"item_2059380537555649004\",\"decision\":\"keep\",\"reason\":\"Stanford HAI research post on reducing one-shot LLM scaling cost and compute demands; low engagement but primary institutional source and a concrete research item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate selected research item covers one-shot LLM scaling laws.\"}},{\"id\":\"item_2059321893732163616\",\"decision\":\"keep\",\"reason\":\"Builder announcement for VibeMotion-1, an open-source pre-alpha Figma-to-video tool with concrete features including layer import, prompt animation, and local LTX-2.3 model use.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to open-source AI tools, but distinct from GLM-OCR and whichllm.\"}},{\"id\":\"item_2059286597418340646\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The GLM-OCR item is potentially useful but comes from a low-engagement secondary hype post making strong 'beats Gemini' and 'replace every OCR API' claims without primary model evidence in the tweet. Replace with the higher-engagement LLM-consciousness analysis reserve for a more distinct, safer analysis item.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2059371266578989212\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad open-source/model-claim territory as other model/tool posts, but not the same event; rejected mainly for weak source traceability.\"}},{\"id\":\"item_2059196754030153908\",\"decision\":\"needs_more_search\",\"reason\":\"The whichllm local-model hardware scanner could be practical, but the selected tweet is a secondary discovery post with only modest engagement, and its selection_reason incorrectly references an Anthropic agent engineering talk rather than the actual tool. A maintainer or stronger Twitter source is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to local/open-source AI tooling, but distinct from VibeMotion and GLM-OCR.\"}},{\"id\":\"item_2059265865573409258\",\"decision\":\"keep\",\"reason\":\"Co-Invest launch claims direct trading through ChatGPT and Claude, with high retweet count and a concrete product angle. It is sourceable to the product account mention and adds applied AI/finance variety, though final copy should avoid implying platform endorsement without evidence.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers AI-assisted trading through ChatGPT and Claude.\"}},{\"id\":\"item_2059482315219460150\",\"decision\":\"keep\",\"reason\":\"David Sacks is a relevant White House AI policy figure, and the post states a concrete deregulatory position on the AI race, China competition, and state/federal regulatory hurdles.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct policy item, not duplicative of technical or product coverage.\"}},{\"id\":\"item_2059307613485940950\",\"decision\":\"keep\",\"reason\":\"Rowan Cheung's Demis Hassabis interview item gives a concrete agenda around 'foothills of the singularity,' curing disease, AGI timelines, and human meaning post-AGI; useful interview/analysis coverage with solid engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to AI future and policy discussions, but no selected duplicate covers this Hassabis interview.\"}}],\"set_level_flags\":[{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059351260243919269\",\"item_2059292334714466595\",\"item_2059383664585404730\"],\"reason\":\"The set includes multiple Claude/agent ecosystem items, but they cover different angles: Anthropic sandboxing, Claude project examples, and coding-agent comparison.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059321893732163616\",\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"Three selected items are open-source or local-tool claims; VibeMotion is the strongest because it is a builder release, while GLM-OCR and whichllm need stronger sourcing.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"These selected items make concrete model/tool claims through secondary posts with limited engagement or mismatched metadata rather than primary maintainer/model sources.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"Replacing the weakest secondary open-source/tool claims would improve balance with stronger research, analysis, policy, or primary-source model-release coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a primary or maintainer Twitter/X source for the whichllm local-model hardware scanner before including it.\",\"suggested_query_theme\":\"whichllm Andyyyy64 local AI model hardware scanner since:2026-05-26\"},{\"needed\":true,\"reason\":\"Find a primary or more source-traceable Twitter/X source for GLM-OCR and its OCR benchmark claims.\",\"suggested_query_theme\":\"GLM-OCR open source OCR vision language model benchmark since:2026-05-26\"},{\"needed\":true,\"reason\":\"Find stronger replacement candidates if the weak secondary open-source tooling posts are dropped.\",\"suggested_query_theme\":\"AI research product launch model release policy agent tooling since:2026-05-26\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 54907,
+      "agentMeta": {
+        "sessionId": "265ab68b-21e2-4c8f-90b2-6f80bf49ee1f",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/265ab68b-21e2-4c8f-90b2-6f80bf49ee1f.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "pi",
+        "usage": {
+          "input": 6047,
+          "output": 2762,
+          "cacheRead": 162304,
+          "total": 88348
+        },
+        "lastCallUsage": {
+          "input": 4137,
+          "output": 2291,
+          "cacheRead": 81920,
+          "cacheWrite": 0,
+          "total": 88348
+        },
+        "promptTokens": 86057
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1779865623149,
+        "sessionId": "265ab68b-21e2-4c8f-90b2-6f80bf49ee1f",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 12000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "once",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 37023,
+          "projectContextChars": 13867,
+          "nonProjectContextChars": 23156
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 26761,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "schemaChars": 304,
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "schemaChars": 834,
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "schemaChars": 225,
+              "propertiesCount": 2
+            },
+            {
+              "name": "exec",
+              "summaryChars": 446,
+              "schemaChars": 1139,
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 322,
+              "schemaChars": 1011,
+              "propertiesCount": 12
+            },
+            {
+              "name": "canvas",
+              "summaryChars": 106,
+              "schemaChars": 661,
+              "propertiesCount": 18
+            },
+            {
+              "name": "message",
+              "summaryChars": 623,
+              "schemaChars": 6717,
+              "propertiesCount": 111
+            },
+            {
+              "name": "tts",
+              "summaryChars": 305,
+              "schemaChars": 316,
+              "propertiesCount": 3
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 118,
+              "schemaChars": 33,
+              "propertiesCount": 0
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 225,
+              "schemaChars": 432,
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 180,
+              "schemaChars": 161,
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 314,
+              "schemaChars": 274,
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 585,
+              "schemaChars": 1789,
+              "propertiesCount": 18
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 97,
+              "schemaChars": 60,
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 105,
+              "schemaChars": 191,
+              "propertiesCount": 4
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 456,
+              "schemaChars": 89,
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 83,
+              "schemaChars": 1209,
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 129,
+              "schemaChars": 374,
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 260,
+              "schemaChars": 342,
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "schemaChars": 2976,
+              "propertiesCount": 52
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "schemaChars": 237,
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "schemaChars": 215,
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "schemaChars": 1667,
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 233,
+              "schemaChars": 592,
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "schemaChars": 987,
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "schemaChars": 1191,
+              "propertiesCount": 7
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "schemaChars": 1439,
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "schemaChars": 1296,
+              "propertiesCount": 10
+            }
+          ]
+        }
+      },
+      "finalPromptText": "[Wed 2026-05-27 08:07 GMT+1] Previous editor output failed validation because decisions used ids not present in the input selected_items and omitted all required selected item decisions. Re-read exactly /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-05-27.editor-cycle-1.input.json and return decisions ONLY for its selected_items IDs.\n\nValidation summary: {\n  \"ok\": false,\n  \"errors\": [\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058983299092009421 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058900494014402568 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058923765526864337 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058966650137813173 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058941342638813431 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058980993693061200 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2059023954711548198 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058943670918037641 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2058966012679340521 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2059043080532267418 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2059122352856658274 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"decision_id_not_selected\",\n      \"path\": \"/decisions\",\n      \"message\": \"Decision id item_2059137971543269860 not found in selected_items\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059351260243919269\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059292334714466595\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059383664585404730\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059380537555649004\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059321893732163616\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059286597418340646\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059196754030153908\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059265865573409258\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059482315219460150\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"semantic\",\n      \"code\": \"missing_decision\",\n      \"path\": \"/decisions\",\n      \"message\": \"No decision for selected item item_2059307613485940950\"\n    }\n  ]\n}\n\nRequired output contract:\n- Return exactly one JSON object, no markdown and no prose outside JSON.\n- Required top-level fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests.\n- Allowed set_level_flags.type values: same_topic_distinct_angle, redundant_story, fingerprint_collision, source_traceability_failure, overrepresented_author, coverage_gap.\n- schema_version must be exactly twitter_ai_digest_editor_output.v1.\n- cycle_number must match the packet editor_cycle.\n- decisions must contain one object for every selected item id from the packet and no other ids.\n- replacement_candidate_id may only reference eligible reserve ids from rejected_notable_items.\n- If no eligible reserve fits, use needs_more_search instead of replace_with_existing_candidate.\n- Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment.\n- duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes.\n- Each set_level_flags entry must be an object, never a string. Use [] if none.\n- Each additional_search_requests entry must be an object, never a string. Use [] if none.\n- additional_search_requests are for additional Twitter search only, not web verification.\n- Do not publish, send messages, update files, use autocli, or include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a solid core: Anthropic's official agent-sandboxing post, official Claude project examples, a practitioner comparison of Codex/Claude Code/Cursor, Stanford HAI scaling-law research, VibeMotion's open-source Figma-to-video release, Co-Invest's ChatGPT/Claude trading launch, David Sacks on AI deregulation, and a Demis Hassabis interview. Weaknesses are several secondary or low-engagement open-source/tool claims, one mismatched selection_reason for whichllm, and some promotional framing. Replace or search around the weakest secondary items rather than expanding stale prior-day stories.\",\"decisions\":[{\"id\":\"item_2059351260243919269\",\"decision\":\"keep\",\"reason\":\"Official Anthropic engineering-blog announcement on agent sandboxing and permissions; primary-source, concrete, and directly relevant to safe agent deployment as capabilities increase.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent-tooling and Claude-code coverage, but distinct as an official safety/permissions engineering post.\"}},{\"id\":\"item_2059292334714466595\",\"decision\":\"keep\",\"reason\":\"Official Claude account highlighting six Claude projects with very high engagement. The text is terse, but the source is primary and the item provides useful product/practitioner inspiration if final copy names the projects from the linked thread or media.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad Claude ecosystem as Anthropic sandboxing, but a different angle: user/project examples rather than agent safety engineering.\"}},{\"id\":\"item_2059383664585404730\",\"decision\":\"keep\",\"reason\":\"Practitioner comparison of Codex, Claude Code, and Cursor with a distinct philosophical framing; useful for readers choosing among coding agents and not merely a launch recap.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent/coding-tool coverage but not the same event as Anthropic sandboxing or Claude projects.\"}},{\"id\":\"item_2059380537555649004\",\"decision\":\"keep\",\"reason\":\"Stanford HAI research post on reducing one-shot LLM scaling cost and compute demands; low engagement but primary institutional source and a concrete research item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate selected research item covers one-shot LLM scaling laws.\"}},{\"id\":\"item_2059321893732163616\",\"decision\":\"keep\",\"reason\":\"Builder announcement for VibeMotion-1, an open-source pre-alpha Figma-to-video tool with concrete features including layer import, prompt animation, and local LTX-2.3 model use.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to open-source AI tools, but distinct from GLM-OCR and whichllm.\"}},{\"id\":\"item_2059286597418340646\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The GLM-OCR item is potentially useful but comes from a low-engagement secondary hype post making strong 'beats Gemini' and 'replace every OCR API' claims without primary model evidence in the tweet. Replace with the higher-engagement LLM-consciousness analysis reserve for a more distinct, safer analysis item.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2059371266578989212\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad open-source/model-claim territory as other model/tool posts, but not the same event; rejected mainly for weak source traceability.\"}},{\"id\":\"item_2059196754030153908\",\"decision\":\"needs_more_search\",\"reason\":\"The whichllm local-model hardware scanner could be practical, but the selected tweet is a secondary discovery post with only modest engagement, and its selection_reason incorrectly references an Anthropic agent engineering talk rather than the actual tool. A maintainer or stronger Twitter source is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to local/open-source AI tooling, but distinct from VibeMotion and GLM-OCR.\"}},{\"id\":\"item_2059265865573409258\",\"decision\":\"keep\",\"reason\":\"Co-Invest launch claims direct trading through ChatGPT and Claude, with high retweet count and a concrete product angle. It is sourceable to the product account mention and adds applied AI/finance variety, though final copy should avoid implying platform endorsement without evidence.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers AI-assisted trading through ChatGPT and Claude.\"}},{\"id\":\"item_2059482315219460150\",\"decision\":\"keep\",\"reason\":\"David Sacks is a relevant White House AI policy figure, and the post states a concrete deregulatory position on the AI race, China competition, and state/federal regulatory hurdles.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct policy item, not duplicative of technical or product coverage.\"}},{\"id\":\"item_2059307613485940950\",\"decision\":\"keep\",\"reason\":\"Rowan Cheung's Demis Hassabis interview item gives a concrete agenda around 'foothills of the singularity,' curing disease, AGI timelines, and human meaning post-AGI; useful interview/analysis coverage with solid engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to AI future and policy discussions, but no selected duplicate covers this Hassabis interview.\"}}],\"set_level_flags\":[{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059351260243919269\",\"item_2059292334714466595\",\"item_2059383664585404730\"],\"reason\":\"The set includes multiple Claude/agent ecosystem items, but they cover different angles: Anthropic sandboxing, Claude project examples, and coding-agent comparison.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059321893732163616\",\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"Three selected items are open-source or local-tool claims; VibeMotion is the strongest because it is a builder release, while GLM-OCR and whichllm need stronger sourcing.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"These selected items make concrete model/tool claims through secondary posts with limited engagement or mismatched metadata rather than primary maintainer/model sources.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"Replacing the weakest secondary open-source/tool claims would improve balance with stronger research, analysis, policy, or primary-source model-release coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a primary or maintainer Twitter/X source for the whichllm local-model hardware scanner before including it.\",\"suggested_query_theme\":\"whichllm Andyyyy64 local AI model hardware scanner since:2026-05-26\"},{\"needed\":true,\"reason\":\"Find a primary or more source-traceable Twitter/X source for GLM-OCR and its OCR benchmark claims.\",\"suggested_query_theme\":\"GLM-OCR open source OCR vision language model benchmark since:2026-05-26\"},{\"needed\":true,\"reason\":\"Find stronger replacement candidates if the weak secondary open-source tooling posts are dropped.\",\"suggested_query_theme\":\"AI research product launch model release policy agent tooling since:2026-05-26\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a solid core: Anthropic's official agent-sandboxing post, official Claude project examples, a practitioner comparison of Codex/Claude Code/Cursor, Stanford HAI scaling-law research, VibeMotion's open-source Figma-to-video release, Co-Invest's ChatGPT/Claude trading launch, David Sacks on AI deregulation, and a Demis Hassabis interview. Weaknesses are several secondary or low-engagement open-source/tool claims, one mismatched selection_reason for whichllm, and some promotional framing. Replace or search around the weakest secondary items rather than expanding stale prior-day stories.\",\"decisions\":[{\"id\":\"item_2059351260243919269\",\"decision\":\"keep\",\"reason\":\"Official Anthropic engineering-blog announcement on agent sandboxing and permissions; primary-source, concrete, and directly relevant to safe agent deployment as capabilities increase.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent-tooling and Claude-code coverage, but distinct as an official safety/permissions engineering post.\"}},{\"id\":\"item_2059292334714466595\",\"decision\":\"keep\",\"reason\":\"Official Claude account highlighting six Claude projects with very high engagement. The text is terse, but the source is primary and the item provides useful product/practitioner inspiration if final copy names the projects from the linked thread or media.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad Claude ecosystem as Anthropic sandboxing, but a different angle: user/project examples rather than agent safety engineering.\"}},{\"id\":\"item_2059383664585404730\",\"decision\":\"keep\",\"reason\":\"Practitioner comparison of Codex, Claude Code, and Cursor with a distinct philosophical framing; useful for readers choosing among coding agents and not merely a launch recap.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to agent/coding-tool coverage but not the same event as Anthropic sandboxing or Claude projects.\"}},{\"id\":\"item_2059380537555649004\",\"decision\":\"keep\",\"reason\":\"Stanford HAI research post on reducing one-shot LLM scaling cost and compute demands; low engagement but primary institutional source and a concrete research item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate selected research item covers one-shot LLM scaling laws.\"}},{\"id\":\"item_2059321893732163616\",\"decision\":\"keep\",\"reason\":\"Builder announcement for VibeMotion-1, an open-source pre-alpha Figma-to-video tool with concrete features including layer import, prompt animation, and local LTX-2.3 model use.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to open-source AI tools, but distinct from GLM-OCR and whichllm.\"}},{\"id\":\"item_2059286597418340646\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The GLM-OCR item is potentially useful but comes from a low-engagement secondary hype post making strong 'beats Gemini' and 'replace every OCR API' claims without primary model evidence in the tweet. Replace with the higher-engagement LLM-consciousness analysis reserve for a more distinct, safer analysis item.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2059371266578989212\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad open-source/model-claim territory as other model/tool posts, but not the same event; rejected mainly for weak source traceability.\"}},{\"id\":\"item_2059196754030153908\",\"decision\":\"needs_more_search\",\"reason\":\"The whichllm local-model hardware scanner could be practical, but the selected tweet is a secondary discovery post with only modest engagement, and its selection_reason incorrectly references an Anthropic agent engineering talk rather than the actual tool. A maintainer or stronger Twitter source is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to local/open-source AI tooling, but distinct from VibeMotion and GLM-OCR.\"}},{\"id\":\"item_2059265865573409258\",\"decision\":\"keep\",\"reason\":\"Co-Invest launch claims direct trading through ChatGPT and Claude, with high retweet count and a concrete product angle. It is sourceable to the product account mention and adds applied AI/finance variety, though final copy should avoid implying platform endorsement without evidence.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers AI-assisted trading through ChatGPT and Claude.\"}},{\"id\":\"item_2059482315219460150\",\"decision\":\"keep\",\"reason\":\"David Sacks is a relevant White House AI policy figure, and the post states a concrete deregulatory position on the AI race, China competition, and state/federal regulatory hurdles.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct policy item, not duplicative of technical or product coverage.\"}},{\"id\":\"item_2059307613485940950\",\"decision\":\"keep\",\"reason\":\"Rowan Cheung's Demis Hassabis interview item gives a concrete agenda around 'foothills of the singularity,' curing disease, AGI timelines, and human meaning post-AGI; useful interview/analysis coverage with solid engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to AI future and policy discussions, but no selected duplicate covers this Hassabis interview.\"}}],\"set_level_flags\":[{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059351260243919269\",\"item_2059292334714466595\",\"item_2059383664585404730\"],\"reason\":\"The set includes multiple Claude/agent ecosystem items, but they cover different angles: Anthropic sandboxing, Claude project examples, and coding-agent comparison.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059321893732163616\",\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"Three selected items are open-source or local-tool claims; VibeMotion is the strongest because it is a builder release, while GLM-OCR and whichllm need stronger sourcing.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"These selected items make concrete model/tool claims through secondary posts with limited engagement or mismatched metadata rather than primary maintainer/model sources.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2059286597418340646\",\"item_2059196754030153908\"],\"reason\":\"Replacing the weakest secondary open-source/tool claims would improve balance with stronger research, analysis, policy, or primary-source model-release coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a primary or maintainer Twitter/X source for the whichllm local-model hardware scanner before including it.\",\"suggested_query_theme\":\"whichllm Andyyyy64 local AI model hardware scanner since:2026-05-26\"},{\"needed\":true,\"reason\":\"Find a primary or more source-traceable Twitter/X source for GLM-OCR and its OCR benchmark claims.\",\"suggested_query_theme\":\"GLM-OCR open source OCR vision language model benchmark since:2026-05-26\"},{\"needed\":true,\"reason\":\"Find stronger replacement candidates if the weak secondary open-source tooling posts are dropped.\",\"suggested_query_theme\":\"AI research product launch model release policy agent tooling since:2026-05-26\"}]}",
+      "replayInvalid": true,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "toolSummary": {
+        "calls": 1,
+        "tools": [
+          "exec"
+        ],
+        "failures": 0
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    },
+    "deliverySucceeded": false
+  }
+}

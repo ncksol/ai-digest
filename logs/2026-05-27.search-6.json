@@ -1,0 +1,62 @@
+[
+  {
+    "author": "AnatoliKopadze",
+    "id": "2059431694701113858",
+    "likes": 24,
+    "replies": 3,
+    "retweets": 1,
+    "text": "SOMEONE HANDED AN AI AGENT THEIR ENTIRE MARKETING OPERATION AND IT NOW RUNS BETTER THAN ANY TEAM THEY EVER HIRED\n\nthe agent analyzes the niche, identifies the winning formula, generates over 100 ad variations, launches A/B tests across all of them simultaneously and then studies",
+    "url": "https://x.com/AnatoliKopadze/status/2059431694701113858",
+    "views": 2500
+  },
+  {
+    "author": "higgsfield",
+    "id": "2059337370114375969",
+    "likes": 485,
+    "replies": 56,
+    "retweets": 68,
+    "text": "Sanji shares his Higgsfield Supercomputer playbook to run marketing end-to-end.\n\nHe lets the agent analyze his niche, find the winning formula, generate 100+ variations, and run A/B tests at scale, with the agent learning from every run.\n\nHow do you use Supercomputer for scaling?",
+    "url": "https://x.com/higgsfield/status/2059337370114375969",
+    "views": 33000
+  },
+  {
+    "author": "AnatoliKopadze",
+    "id": "2059265911656177676",
+    "likes": 141,
+    "replies": 18,
+    "retweets": 25,
+    "text": "Anthropic engineer just dropped a full walkthrough on building AI agents from scratch\n\nthis single video is worth more than any $600 AI agents course\n\nhere's what she covers:\n> what Agent, Environment, and Session actually mean\n> how to stream live events from your agent\n> wiring",
+    "url": "https://x.com/AnatoliKopadze/status/2059265911656177676",
+    "views": 23000
+  },
+  {
+    "author": "Av1dlive",
+    "id": "2059203880316223557",
+    "likes": 107,
+    "replies": 28,
+    "retweets": 24,
+    "text": "Anthropic pays Applied AI Engineers $750,000+ a year to build AI agents that run for hours.\n\ntwo of them just broke down the exact principles behind every agent that actually ships.for free.\n\n[in this 75 min talk they cover:]\n\n→ how one engineer with Claude outperforms an entire",
+    "url": "https://x.com/Av1dlive/status/2059203880316223557",
+    "views": 13000
+  },
+  {
+    "author": "0xMovez",
+    "id": "2059346354984612126",
+    "likes": 389,
+    "replies": 25,
+    "retweets": 74,
+    "text": "Anthropic AI engineer just dropped a live masterclass on how to ship a team of production‑ready AI agents.\n\n37 minutes. Free. From the Anthropic team.\n\nhere’s what she covers:\n\n• 3 building blocks: brain, hands, sessions\n• server-side loop, so nothing breaks on refresh\n• agent",
+    "url": "https://x.com/0xMovez/status/2059346354984612126",
+    "views": 77000
+  },
+  {
+    "author": "itsolelehmann",
+    "id": "2059275058632409230",
+    "likes": 27,
+    "replies": 7,
+    "retweets": 2,
+    "text": "ive been waiting for an easy version of this forever\n\none of the most annoying things when working with my AI agent is having to manually pick which model to use for each task.\n\n> send a simple question to opus 4.7 and im wasting money.\n> send a hard question to a cheap model and",
+    "url": "https://x.com/itsolelehmann/status/2059275058632409230",
+    "views": 7000
+  }
+]
