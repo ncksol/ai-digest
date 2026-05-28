@@ -1,0 +1,422 @@
+--- /Users/nick/.openclaw/workspace/ai-digest-site/digests/2026-05-19.md
+# 19 May 2026
+
+## ChatGPT update draws high engagement from Altman
+
+Sam Altman said ChatGPT has improved with its latest update and credited the team behind the release. The post did not name the specific model or feature change.
+
+<span class="source"><a href="https://xcancel.com/sama/status/2056435834333934051">sama, 18 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>2,200</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>647</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>12,000</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>14,847</span></span></span>
+
+## Anthropic acquires Stainless
+
+Anthropic said it is acquiring Stainless, the SDK and MCP server platform behind Anthropic's SDKs since the early days of its API. The company positioned the acquisition as developer-infrastructure work around its API platform.
+
+<span class="source"><a href="https://xcancel.com/AnthropicAI/status/2056419620643541012">AnthropicAI, 18 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>224</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>330</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2,500</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>3,054</span></span></span>
+
+## Claude Code prompting video circulates
+
+A high-engagement post highlighted a 28-minute video from an engineer who worked on Claude Code. The post said the video covers CLAUDE.md files, memory shortcuts, parallel sessions, and prompting patterns.
+
+<span class="source"><a href="https://xcancel.com/AnatoliKopadze/status/2056362875195686927">AnatoliKopadze, 18 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>70</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>1,600</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>9,600</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>11,270</span></span></span>
+
+## Meta reassigns thousands of workers to AI roles
+
+Bloomberg reported that Meta is reassigning 7,000 workers to AI-related jobs as part of a restructuring that also includes planned staff reductions. The tweet described the move as based on an internal memo.
+
+<span class="source"><a href="https://xcancel.com/business/status/2056524381191344580">business, 18 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>8</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>16</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>42</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>66</span></span></span>
+
+## LLM out-of-distribution behaviour gets practitioner scrutiny
+
+Logan Kilpatrick asked why LLMs do not explicitly tell users when a request is out of distribution. The post drew a large discussion around model uncertainty, refusal behaviour, and whether assistants should expose confidence boundaries more directly.
+
+<span class="source"><a href="https://xcancel.com/OfficialLoganK/status/2056389715293778192">OfficialLoganK, 18 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>275</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>82</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1,600</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1,957</span></span></span>
+
+## Delangue says serious AI companies will train models
+
+Hugging Face chief executive Clement Delangue said Cursor's move toward training its own models reflects a broader pattern. He argued that serious AI companies will want to train models themselves, preferably from open-source bases, rather than outsource intelligence only through APIs.
+
+<span class="source"><a href="https://xcancel.com/ClementDelangue/status/2056426411695423823">ClementDelangue, 18 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>12</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>26</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>186</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>224</span></span></span>
+
+## GBrain claims open-source memory benchmark lead
+
+Garry Tan said GBrain is more than one percentage point ahead of known open-source retrieval and memory repositories on LongMemEval without LLM query rewriting. He said the MIT-licensed system runs on his own 100,000-page OpenClaw and Hermes Agent knowledge base.
+
+<span class="source"><a href="https://xcancel.com/garrytan/status/2056565262632255615">garrytan, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>1</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>3</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>20</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>24</span></span></span>
+--- /Users/nick/.openclaw/workspace/ai-digest-site/digests/2026-05-20.md
+# 20 May 2026
+
+## Karpathy joins Anthropic
+
+Andrej Karpathy said he has joined Anthropic and will return to frontier LLM research and development. He said he remains interested in education work but plans to resume it later.
+
+<span class="source"><a href="https://xcancel.com/karpathy/status/2056753169888334312">karpathy, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>7,100</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>16,000</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>131,000</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>154,100</span></span></span>
+
+## OpenAI launches Guaranteed Capacity
+
+OpenAI introduced Guaranteed Capacity, a service for customers that need long-term access to OpenAI compute. The company said the offer is tied to infrastructure investment, partnerships, and capacity planning for reliable scaling.
+
+<span class="source"><a href="https://xcancel.com/OpenAI/status/2056823271774101907">OpenAI, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>207</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>330</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2,200</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2,737</span></span></span>
+
+## OpenAI adds image provenance checks
+
+OpenAI said AI-generated images now include SynthID watermarking in addition to C2PA Content Credentials. The company also described a public verification tool for checking whether an image was made by its systems.
+
+<span class="source"><a href="https://xcancel.com/OpenAI/status/2056793648571011232">OpenAI, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>259</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>455</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>3,500</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>4,214</span></span></span>
+
+## Altman says OpenAI offered YC startups token investment
+
+Sam Altman said OpenAI offered to invest $2 million in tokens into every startup in the current Y Combinator batch. He framed the offer around startups using more tokens internally and in products.
+
+<span class="source"><a href="https://xcancel.com/sama/status/2056933166875857290">sama, 20 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>403</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>179</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2,100</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2,682</span></span></span>
+
+## Anthropic describes frontier AI character dialogues
+
+Anthropic said it has been holding dialogues with scholars, philosophers, clergy, and ethicists about questions raised by AI, beginning with how good character forms. The company positioned the work as part of a wider conversation on frontier AI.
+
+<span class="source"><a href="https://xcancel.com/AnthropicAI/status/2056880308851708233">AnthropicAI, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>186</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>195</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1,200</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1,581</span></span></span>
+
+## Azure adds open-source image models in Foundry
+
+Microsoft Azure said Microsoft Foundry and Hugging Face now provide access to open-source image models including Stability AI's SDXL, Black Forest Labs' FLUX.1-schnell, and Tongyi-MAI's Z-Image-Turbo.
+
+<span class="source"><a href="https://xcancel.com/Azure/status/2056812133065625804">Azure, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>2</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>6</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>37</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>45</span></span></span>
+
+## Brockman says OpenAI is offering long-term token discounts
+
+Greg Brockman said OpenAI is offering discounted tokens and capacity certainty in exchange for one-to-three-year commitments. He said the company expects capacity constraints to persist as models become more useful.
+
+<span class="source"><a href="https://xcancel.com/gdb/status/2056863925791293675">gdb, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>90</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>81</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1,100</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1,271</span></span></span>
+
+## Claude highlights Devin as an agent case study
+
+Claude said Cognition's Devin, an AI software engineer, is built on Claude. The post quoted Cognition chief executive Scott Wu on making software development faster for engineering teams.
+
+<span class="source"><a href="https://xcancel.com/claudeai/status/2056805728774402428">claudeai, 19 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>142</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>158</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2,400</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2,700</span></span></span>
+--- /Users/nick/.openclaw/workspace/ai-digest-site/digests/2026-05-21.md
+# 21 May 2026
+
+## OpenAI says a reasoning model disproved an Erdős conjecture
+
+OpenAI said a general-purpose reasoning model disproved the planar unit distance problem, an open question in discrete geometry first posed by Paul Erdős in 1946. The company said the result came from a model not built specifically for the problem.
+
+<span class="source"><a href="https://xcancel.com/OpenAI/status/2057176201782075690">OpenAI, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>636</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>3600</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>18000</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>22236</span></span></span>
+
+## SpaceXAI is recruiting engineers and physicists
+
+Elon Musk said SpaceX is hiring engineers and physicists for SpaceXAI, including candidates without prior AI experience. Applicants were asked to send evidence of exceptional ability in three bullet points.
+
+<span class="source"><a href="https://xcancel.com/elonmusk/status/2057327547411570907">elonmusk, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>1700</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>4900</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>30000</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>36600</span></span></span>
+
+## Altman lists three AGI priorities after the math result
+
+Sam Altman said OpenAI is focused on AGI accelerating research, companies, and personal goal achievement. He linked the statement to OpenAI's planar unit distance result and said the company had also announced progress on startups.
+
+<span class="source"><a href="https://xcancel.com/sama/status/2057218997503086888">sama, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>801</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>432</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>5800</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>7033</span></span></span>
+
+## Andrew Ng launches a course on generative AI agents
+
+Andrew Ng announced a short course with Google Cloud on AI agents that generate images and videos. He said the course focuses on agents evaluating their own outputs and iterating to improve quality.
+
+<span class="source"><a href="https://xcancel.com/AndrewYNg/status/2057146565500998024">AndrewYNg, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>59</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>100</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>631</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>790</span></span></span>
+
+## Tech CEOs are invited to a White House AI safety event
+
+Alex Heath reported that tech CEOs were invited to the White House for the signing of President Trump's AI safety executive order. The reported invite list included Elon Musk, Andy Jassy, Sundar Pichai, Mark Zuckerberg, Satya Nadella, Tim Cook, Sam Altman, and Dario Amodei.
+
+<span class="source"><a href="https://xcancel.com/alexeheath/status/2057217091489669620">alexeheath, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>99</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>87</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>603</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>789</span></span></span>
+
+## Hassabis frames Gemini for Science as infrastructure
+
+A post quoting Demis Hassabis said AI is becoming a scientific infrastructure layer rather than only a productivity tool. The post said Google introduced Gemini for Science at I/O as part of that shift.
+
+<span class="source"><a href="https://xcancel.com/JonhernandezIA/status/2057108069776011602">JonhernandezIA, 20 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>18</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>40</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>350</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>408</span></span></span>
+
+## Microsoft developers show Claude agent workflows
+
+A practitioner post described a Microsoft team video on building AI agents with Claude, Opus 4.7, and MCP tools. The post framed the workflow as connecting Claude to tools and shipping agentic products.
+
+<span class="source"><a href="https://xcancel.com/0xMovez/status/2057103411783307293">0xMovez, 20 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>226</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>282</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2799</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>3307</span></span></span>
+
+## Naive Studio v2 adds hosted AI employees
+
+Naive announced Studio v2, describing it as a chat-based way to build a company. The product now includes hosted AI employees powered by Hermes, business primitives, and shared business context across tasks.
+
+<span class="source"><a href="https://xcancel.com/usenaive/status/2057131149768663118">usenaive, 20 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>21</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>29</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>126</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>176</span></span></span>
+
+## Build Canada says an open-source frontier model is available
+
+Build Canada said the fastest frontier model on the market is now available and described it as open source and Canadian. The post positioned the release as evidence that Canada can compete in AI.
+
+<span class="source"><a href="https://xcancel.com/build_canada/status/2057253910016843982">build_canada, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>27</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>46</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>323</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>396</span></span></span>
+
+## Garry Tan open-sources GBrain for long-memory agents
+
+Garry Tan said GBrain, a system containing his brain, infrastructure, and skill packs, is available under an MIT license. He said it performs strongly on LongMemEval without LLM query rewriting and is intended for OpenClaw or Hermes Agent users.
+
+<span class="source"><a href="https://xcancel.com/garrytan/status/2057133235700924707">garrytan, 20 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>1</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>4</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>20</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>25</span></span></span>
+
+## Researchers propose memory as a model
+
+A machine learning post highlighted MEMO, a method from MIT, A*STAR, NUS, and Liquid AI that stores new information in memory instead of retraining the core model. The post described the approach as a way for AI systems to learn new information without changing the base model.
+
+<span class="source"><a href="https://xcancel.com/jiqizhixin/status/2057273858219213163">jiqizhixin, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>3</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>1</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>16</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>20</span></span></span>
+
+## Cohere ships a new frontier LLM
+
+A Cohere researcher said the company's new frontier LLM has been released and noted direct work on its pretraining during an internship. The post credited the release to Cohere's model team.
+
+<span class="source"><a href="https://xcancel.com/adibvafa/status/2057206428507504857">adibvafa, 21 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>2</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>2</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>12</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>16</span></span></span>
+--- /Users/nick/.openclaw/workspace/ai-digest-site/digests/2026-05-22.md
+# 22 May 2026
+
+## OpenAI adds Mac app control to Codex from phones
+
+OpenAI said Codex can now securely use apps on a Mac from a phone, including when the Mac is locked and the screen is off. The post framed the feature as part of the company’s Codex Thursday launches.
+
+<span class="source"><a href="https://xcancel.com/OpenAI/status/2057617844800794878">OpenAI, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>130</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>274</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2100</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2504</span></span></span>
+
+## OpenAI adds Goal mode to Codex
+
+OpenAI said Goal mode is available in the Codex app, IDE extension, and CLI. The company described it as a more hands-off mode for work that can run for hours or days.
+
+<span class="source"><a href="https://xcancel.com/OpenAI/status/2057617860986593680">OpenAI, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>10</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>17</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>260</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>287</span></span></span>
+
+## OpenAI adds advanced annotation mode to Codex
+
+OpenAI said advanced annotation mode lets users directly adjust how web pages look while leaving feedback. The company positioned the feature as a collaboration tool for Codex workflows.
+
+<span class="source"><a href="https://xcancel.com/OpenAI/status/2057617862479708650">OpenAI, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>15</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>20</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>255</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>290</span></span></span>
+
+## OpenAI adds Appshots to Codex
+
+OpenAI said Appshots bring context from a user’s screen into the Codex app. The announcement was part of a set of Codex updates released in the same launch thread.
+
+<span class="source"><a href="https://xcancel.com/OpenAI/status/2057617846449197480">OpenAI, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>4</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>16</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>241</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>261</span></span></span>
+
+## Altman asks users which problems AI should solve
+
+Sam Altman asked users which future problem they most hope AI will solve and said OpenAI may be able to help. The post drew heavy reply volume compared with other AI posts in the collection.
+
+<span class="source"><a href="https://xcancel.com/sama/status/2057614780727480741">sama, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>9700</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>1100</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>7200</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>18000</span></span></span>
+
+## Post says Microsoft cut Claude Code licenses over token costs
+
+Hedgie Markets said Microsoft canceled internal Claude Code licenses after token-based billing made the cost difficult to justify. The post also cited an internal Uber warning about daily token costs per engineer.
+
+<span class="source"><a href="https://xcancel.com/HedgieMarkets/status/2057531661785628841">HedgieMarkets, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>638</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>3000</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>12000</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>15638</span></span></span>
+
+## Enterprise Claude Code costs draw scrutiny
+
+CNBC reporter Deirdre Bosa said the notable point in the reported Microsoft Claude Code cut was that Microsoft engineers preferred the tool while token pricing still forced an enterprise cost decision.
+
+<span class="source"><a href="https://xcancel.com/dee_bosa/status/2057620598365593685">dee_bosa, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>47</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>35</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>331</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>413</span></span></span>
+
+## Practitioner proposes canary DNS entries for LLM agents
+
+Security researcher Florian Roth proposed adding fake internal DNS entries such as honeypots and canary nodes for future LLM-driven reconnaissance agents. The suggestion treats agentic recon as a new defensive surface.
+
+<span class="source"><a href="https://xcancel.com/cyb3rops/status/2057390202650267970">cyb3rops, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>34</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>79</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>618</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>731</span></span></span>
+
+## Brockman calls OpenAI math result a knowledge-generation milestone
+
+Greg Brockman described OpenAI’s math result as a milestone in new knowledge generation by AI. The post linked the result to the possibility of similar progress in other scientific fields.
+
+<span class="source"><a href="https://xcancel.com/gdb/status/2057365298873811303">gdb, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>68</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>41</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>694</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>803</span></span></span>
+
+## TradingAgents framework is presented as open-source
+
+Quant Science presented TradingAgents as an open-source multi-agent LLM trading framework in Python. The post said the framework uses multiple agents for market analysis and trading workflows.
+
+<span class="source"><a href="https://xcancel.com/quantscience_/status/2057434782087151826">quantscience_, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>11</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>28</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>204</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>243</span></span></span>
+
+## DAIR.AI shares LLM wiki and artifact material
+
+DAIR.AI shared material on building LLM Wikis and LLM Artifacts. The post pointed readers to implementation-oriented resources rather than a model release.
+
+<span class="source"><a href="https://xcancel.com/dair_ai/status/2057560393577267703">dair_ai, 22 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>3</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>4</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>19</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>26</span></span></span>
+--- /Users/nick/.openclaw/workspace/ai-digest-site/digests/2026-05-25.md
+# 25 May 2026
+
+## Microsoft AI budget claim circulates
+
+A tweet claimed Microsoft banned an AI coding tool after the cost of using it outweighed the expected engineering savings, saying the engineers remained while the AI tool was removed.
+
+<span class="source"><a href="https://xcancel.com/cyber_razz/status/2058787800359604450">cyber_razz, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>20</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>1000</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>6100</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>7120</span></span></span>
+
+## Karpathy praises internal cost pushback
+
+Andrej Karpathy described it as refreshing to see a large company push back on excessive AI spending, crediting a focused internal technical group for the decision.
+
+<span class="source"><a href="https://xcancel.com/karpathy/status/2058576120870789173">karpathy, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>119</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>154</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>7600</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>7873</span></span></span>
+
+## Anthropic co-founder warns on labor displacement
+
+A video clip quoted an Anthropic co-founder saying there is a real possibility that AI could displace human labor at very large scale, and that supporting affected people would be a moral imperative.
+
+<span class="source"><a href="https://xcancel.com/disclosetv/status/2058859889619763654">disclosetv, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>305</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>536</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1800</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2641</span></span></span>
+
+## Hassabis says current systems are far from AGI
+
+A tweet quoted Google DeepMind CEO Demis Hassabis saying today's systems are nowhere near AGI, adding that solving Erdős problems is far from true invention.
+
+<span class="source"><a href="https://xcancel.com/ns123abc/status/2058705608564457733">ns123abc, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>113</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>222</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2200</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2535</span></span></span>
+
+## Musk says 0.5T model will be open sourced
+
+Elon Musk said a 0.5T model will be open sourced toward the end of the year, adding that it should remain useful despite its size relative to larger systems.
+
+<span class="source"><a href="https://xcancel.com/elonmusk/status/2058796067592736866">elonmusk, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>124</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>178</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1700</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2002</span></span></span>
+
+## Uber coding assistant budget claim spreads
+
+A tweet claimed Uber gave 5,000 engineers an AI coding assistant in December and had used its full 2026 AI budget by April, with two thirds of the year still remaining.
+
+<span class="source"><a href="https://xcancel.com/anishmoonka/status/2058652758866296952">anishmoonka, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>43</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>191</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>878</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1112</span></span></span>
+
+## DeepMind agent reported on Erdős problems
+
+A tweet said a Google DeepMind AI agent autonomously solved 9 of 353 open Erdős problems, describing the cost as a few hundred dollars per problem.
+
+<span class="source"><a href="https://xcancel.com/Dr_Singularity/status/2058618352692572596">Dr_Singularity, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>32</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>63</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>439</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>534</span></span></span>
+
+## Pope AI claim disputed
+
+A tweet disputed a viral claim about the Pope and AI, saying the underlying text was a 235-page encyclical arguing that AI should be disarmed and not used to secure geopolitical dominance.
+
+<span class="source"><a href="https://xcancel.com/RnaudBertrand/status/2058900494014402568">RnaudBertrand, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>19</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>122</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>353</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>494</span></span></span>
+
+## Sam Altman predicts smaller billion-dollar companies
+
+A tweet quoted Sam Altman saying he expects 10-person billion-dollar companies soon, framing the current period as unusually favourable for young founders.
+
+<span class="source"><a href="https://xcancel.com/sairahul1/status/2058582027209965598">sairahul1, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>26</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>54</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>348</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>428</span></span></span>
+
+## Anthropic researcher describes model opacity
+
+A video clip quoted Anthropic co-founder Christopher Olah saying his team studies model internals and continues to find mysterious structures inside AI systems.
+
+<span class="source"><a href="https://xcancel.com/TheChiefNerd/status/2058872013679165611">TheChiefNerd, 25 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>35</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>52</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>198</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>285</span></span></span>
+--- /Users/nick/.openclaw/workspace/ai-digest-site/digests/2026-05-26.md
+# 26 May 2026
+
+## Anthropic co-founder Chris Olah speaks at papal encyclical event
+
+Anthropic said co-founder Chris Olah was invited to speak at the presentation of Pope Leo XIV's encyclical "Magnifica humanitas." The company linked to the full text of his remarks.
+
+<span class="source"><a href="https://xcancel.com/AnthropicAI/status/2058983299092009421">AnthropicAI, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>278</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>654</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>3,100</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>4,032</span></span></span>
+
+## Papal encyclical AI text draws policy correction
+
+Arnaud Bertrand disputed a viral characterization of Pope Leo XIV's encyclical, saying the document calls for AI to be disarmed and not used to secure geopolitical or commercial dominance.
+
+<span class="source"><a href="https://xcancel.com/RnaudBertrand/status/2058900494014402568">RnaudBertrand, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>49</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>601</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2,200</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2,850</span></span></span>
+
+## Amodei interview clip warns on disappearing jobs
+
+A widely shared post quoted Anthropic chief executive Dario Amodei saying jobs that took generations to build may disappear. The post framed the interview around high GDP growth and high unemployment occurring together.
+
+<span class="source"><a href="https://xcancel.com/AnatoliKopadze/status/2058966650137813173">AnatoliKopadze, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>54</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>197</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>938</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1,189</span></span></span>
+
+## LLM-produced artifact judged professionally useful
+
+Patrick McKenzie said he had read an LLM-produced public artifact that was professionally relevant and complete enough that the absence of a human author did not materially compromise its utility.
+
+<span class="source"><a href="https://xcancel.com/patio11/status/2058941342638813431">patio11, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>18</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>35</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>663</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>716</span></span></span>
+
+## Hassabis Cambridge lecture circulates as AI overview
+
+A high-engagement post recommended a 60-minute Cambridge lecture by Demis Hassabis as a compact overview of the future of AI. The post positioned the lecture as an educational resource rather than a product announcement.
+
+<span class="source"><a href="https://xcancel.com/sulekhat95/status/2058853828884357279">sulekhat95, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>34</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>622</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>2,700</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>3,356</span></span></span>
+
+## Dario Amodei labor displacement warnings recirculate
+
+A post summarised Anthropic co-founder Dario Amodei's repeated warnings about AI and white-collar employment, citing claims about entry-level job losses and potential unemployment pressure.
+
+<span class="source"><a href="https://xcancel.com/kimmonismus/status/2058864107432943796">kimmonismus, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>127</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>108</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1,000</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1,235</span></span></span>
+
+## Microsoft SkillOpt trains external AI skill documents
+
+The Turing Post said Microsoft introduced SkillOpt, an open-source method that optimizes external skill documents while leaving the model weights frozen. The described workflow has the AI attempt tasks while an optimizer revises the skill instructions.
+
+<span class="source"><a href="https://xcancel.com/TheTuringPost/status/2059137971543269860">TheTuringPost, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>4</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>6</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>14</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>24</span></span></span>
+
+## Sunak points to UK AI Security Institute recognition
+
+Rishi Sunak said the New York Times had recognised Britain's AI Security Institute and its work helping governments understand and evaluate AI risks.
+
+<span class="source"><a href="https://xcancel.com/RishiSunak/status/2059164391111589977">RishiSunak, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>0</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>0</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>33</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>33</span></span></span>
+
+## Malicious prompts target AI coding assistants
+
+Coin Bureau said hackers are hiding malicious prompts inside CLAUDE.md and .cursorrules files across npm repositories, describing AI coding assistants as a target for prompt-based supply-chain attacks.
+
+<span class="source"><a href="https://xcancel.com/coinbureau/status/2059031762504974525">coinbureau, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>0</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>0</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>122</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>122</span></span></span>
+
+## LongCat open-sources talking-avatar video model
+
+Meituan LongCat said LongCat-Video-Avatar 1.5 is open source and ready to build with, describing a one-image and one-audio workflow for generating talking-avatar video.
+
+<span class="source"><a href="https://xcancel.com/Meituan_LongCat/status/2059151826906411479">Meituan_LongCat, 26 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>0</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>0</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1</span></span></span>
+--- /Users/nick/.openclaw/workspace/ai-digest-site/digests/2026-05-27.md
+# 27 May 2026
+
+## Anthropic describes sandboxing for AI agents
+
+Anthropic said agent access and permissions should change as systems become more capable. Its engineering blog post describes sandboxing as a way to limit the scope of potentially destructive actions in its own products.
+
+<span class="source"><a href="https://xcancel.com/AnthropicAI/status/2059351260243919269">AnthropicAI, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>186</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>231</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1300</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1717</span></span></span>
+
+## Claude account highlights six project examples
+
+The official Claude account highlighted six projects built around the question “why not?” The post positioned the examples as demonstrations of practical Claude use rather than a product launch.
+
+<span class="source"><a href="https://xcancel.com/claudeai/status/2059292334714466595">claudeai, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>483</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>399</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>8600</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>9482</span></span></span>
+
+## Coding-agent comparison frames tool differences
+
+Theo Browne said Codex, Claude Code, and Cursor differ more than their shared coding-assistant category suggests. His comparison focuses on the tools’ underlying product philosophies rather than a feature checklist.
+
+<span class="source"><a href="https://xcancel.com/theo/status/2059383664585404730">theo, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>38</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>41</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>746</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>825</span></span></span>
+
+## Stanford HAI posts one-shot LLM scaling research
+
+Stanford HAI said one-shot LLM training needs reliable scaling laws, but current methods are compute-intensive. The cited research proposes a method intended to reduce the time and cost of scaling predictions.
+
+<span class="source"><a href="https://xcancel.com/StanfordHAI/status/2059380537555649004">StanfordHAI, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>3</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>6</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>21</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>30</span></span></span>
+
+## VibeMotion-1 open-sources Figma-to-video workflow
+
+Amir Mushich announced VibeMotion-1, a pre-alpha open-source video editing tool that imports Figma frames and layers, animates layers by prompt, and uses the local open-source LTX-2.3 model for image animation.
+
+<span class="source"><a href="https://xcancel.com/AmirMushich/status/2059321893732163616">AmirMushich, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>16</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>12</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>126</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>154</span></span></span>
+
+## LLM consciousness argument lists edge-case consequences
+
+The Wordgrammer account argued that treating LLMs as conscious leads to unusual implications, including cloned, paused, resumed, reversed, and spatially distributed conscious experience. The post framed the issue as a philosophical consequence of the premise.
+
+<span class="source"><a href="https://xcancel.com/wordgrammer/status/2059371266578989212">wordgrammer, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>225</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>112</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1500</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1837</span></span></span>
+
+## Co-Invest claims trading through ChatGPT and Claude
+
+Liquid Trading introduced Co-Invest and described it as a way to trade directly through ChatGPT and Claude. The post did not provide implementation details in the visible tweet text.
+
+<span class="source"><a href="https://xcancel.com/liquidtrading/status/2059265865573409258">liquidtrading, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>140</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>1300</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1000</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>2440</span></span></span>
+
+## David Sacks argues against AI regulation
+
+David Sacks said unnecessary regulation is a major threat to American AI innovation. He framed the AI race around competition with China and criticised state-level and federal bureaucratic hurdles.
+
+<span class="source"><a href="https://xcancel.com/DavidSacks/status/2059482315219460150">DavidSacks, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>170</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>84</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>1200</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>1454</span></span></span>
+
+## Demis Hassabis interview covers singularity and AI science
+
+Rowan Cheung promoted an interview with Google DeepMind CEO Demis Hassabis covering the “foothills of the singularity,” AI timelines, curing disease, and human meaning after AGI.
+
+<span class="source"><a href="https://xcancel.com/rowancheung/status/2059307613485940950">rowancheung, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>44</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>117</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>572</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>733</span></span></span>
+
+## Altman inference-company remark gets practitioner analysis
+
+Demian Reidel highlighted Sam Altman’s statement that OpenAI has to become an AI inference company. The post argued that inference economics may be a more important current frame than training-scale competition.
+
+<span class="source"><a href="https://xcancel.com/demian_ai/status/2059411783795065080">demian_ai, 27 May 2026</a><span class="tweet-stats"><span class="tweet-stat"><span class="icon-comment" aria-label="comments"></span>7</span><span class="tweet-stat"><span class="icon-retweet" aria-label="retweets"></span>19</span><span class="tweet-stat"><span class="icon-heart" aria-label="likes"></span>131</span><span class="tweet-stat"><span class="icon-views" aria-label="engagement count"></span>157</span></span></span>

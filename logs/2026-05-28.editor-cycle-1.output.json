@@ -1,0 +1,166 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Editor unavailable; local fallback rejects weak/duplicative political commentary and keeps concrete AI items.",
+  "decisions": [
+    {
+      "id": "item_2059677202917331431",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    },
+    {
+      "id": "item_2059652337690448344",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    },
+    {
+      "id": "item_2059646251180720193",
+      "decision": "reject",
+      "reason": "Weak political insult with no concrete AI news value.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Weak political insult with no concrete AI news value."
+      }
+    },
+    {
+      "id": "item_2059737723255357645",
+      "decision": "reject",
+      "reason": "Duplicative Sam Altman jobs discourse and less concrete than the OpenAI Foundation item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Duplicative Sam Altman jobs discourse and less concrete than the OpenAI Foundation item."
+      }
+    },
+    {
+      "id": "item_2059564372754841636",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    },
+    {
+      "id": "item_2059632149716942923",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    },
+    {
+      "id": "item_2059680446997311689",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    },
+    {
+      "id": "item_2059784106955993236",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    },
+    {
+      "id": "item_2059701042565013513",
+      "decision": "reject",
+      "reason": "High-level sentiment about model results without enough concrete detail for the digest.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "High-level sentiment about model results without enough concrete detail for the digest."
+      }
+    },
+    {
+      "id": "item_2059548913485672672",
+      "decision": "reject",
+      "reason": "Duplicative Sam Altman jobs discourse and sourced from a secondary quote clip.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Duplicative Sam Altman jobs discourse and sourced from a secondary quote clip."
+      }
+    },
+    {
+      "id": "item_2059789044427682280",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    },
+    {
+      "id": "item_2059888697471078544",
+      "decision": "keep",
+      "reason": "Concrete enough for the digest and traceable to a tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate conflict identified."
+      }
+    }
+  ],
+  "set_level_flags": [],
+  "additional_search_requests": []
+}

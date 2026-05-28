@@ -1,0 +1,523 @@
+{
+  "runId": "fcee3b27-aaa7-47c1-96dd-7fe978e1d195",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a usable core of concrete Twitter-sourced AI items: OpenAI Foundation's $250M commitment, Robinhood's agentic trading account rollout, Hassabis/AGI timeline analysis, and Claude enterprise-cost discussion. The selected set is weakened by multiple Sam Altman/job-displacement reaction posts, several vague or truncated hype items, and agent-enterprise claims that need stronger Twitter source trails. One reserve item can improve the labor-impact slot, but several selected items should go back to additional Twitter search rather than be filled from marginal reserves.\",\"decisions\":[{\"id\":\"item_2059677202917331431\",\"decision\":\"keep\",\"reason\":\"Primary Sam Altman post with a concrete OpenAI Foundation commitment of $250M for measurement, transition support, and shared prosperity; high engagement and clearly relevant to AI's economic impact.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares the broader Altman/jobs/prosperity theme with other selected items, but this is the primary and most concrete foundation-commitment item.\"}},{\"id\":\"item_2059652337690448344\",\"decision\":\"keep\",\"reason\":\"Official Robinhood product announcement for Agentic Accounts connecting AI agents to trading ideas, portfolio building, rebalancing, custom tools, and order placement; concrete applied-AI finance story with very high reach.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to reserve item_2059598460278423559 on autonomous trading, but Robinhood is an official rollout while the reserve is an anecdotal secondary claim.\"}},{\"id\":\"item_2059646251180720193\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The selected tweet is a low-information insult about Sam Altman and does not meet the bar for AI news or analysis. Reserve item_2059636584165822771 is a more substantive labor-impact discussion involving Dario Amodei, Altman, job-loss forecasts, and Jevons Paradox.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2059636584165822771\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Not the same event, but both sit in the AI-leadership/labor-impact discourse; the reserve item is far more digest-worthy.\"}},{\"id\":\"item_2059737723255357645\",\"decision\":\"needs_more_search\",\"reason\":\"The tweet raises a relevant criticism of Sam Altman's changed framing on AI and jobs, but it is polemical and truncated, including an unfinished claim. A cleaner Twitter source for the underlying Altman comments or labor-impact debate is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps with item_2059548913485672672 on Altman/job-displacement rhetoric, but neither is a clean primary source.\"}},{\"id\":\"item_2059564372754841636\",\"decision\":\"keep\",\"reason\":\"Strong analysis item on Demis Hassabis reportedly moving his AGI timeline to 2029 and describing the field as in the foothills of the singularity; useful frontier-lab leadership and AGI-definition coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Reserve items item_2059617983270699241 and item_2059700985782534371 also discuss Hassabis/AGI media, but this selected item has the clearest analysis angle.\"}},{\"id\":\"item_2059632149716942923\",\"decision\":\"needs_more_search\",\"reason\":\"The Claude Code autonomous-company blueprint claim is relevant, but this tweet is secondary, hype-framed, and makes sweeping claims about work dying. A stronger Twitter source from Anthropic, Claude Code, or the original blueprint author is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to item_2059680446997311689's Claude/company-line claim and reserve item_2059686896746516612's autonomous-company product pitch, but not a direct duplicate.\"}},{\"id\":\"item_2059680446997311689\",\"decision\":\"needs_more_search\",\"reason\":\"The claim that two people with Claude can replicate a Fortune 500 business line in 60–90 days is striking but appears to be secondary quote/promo framing. A primary or closer-to-source Twitter item is needed before using it as enterprise-agent coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad Claude-enterprise/autonomous-organization theme as item_2059632149716942923, but a different quoted claim and angle.\"}},{\"id\":\"item_2059784106955993236\",\"decision\":\"needs_more_search\",\"reason\":\"The post is from Greg Brockman and hints at OpenAI work on self-improving tax agents, but the captured text is too terse to stand alone and likely depends on missing quote or link context. More Twitter context is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to applied-agent items, but the tax-agent application is distinct; the issue is missing context rather than duplication.\"}},{\"id\":\"item_2059701042565013513\",\"decision\":\"needs_more_search\",\"reason\":\"The Mythos/GPT-5.5 reaction is too vague and hyperbolic to support a digest item without a clearer benchmark, release, or source context. No eligible reserve is clearly strong enough as a direct replacement for this slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares broad GPT-5.5 enthusiasm with item_2059548913485672672, but this tweet provides even less concrete information.\"}},{\"id\":\"item_2059548913485672672\",\"decision\":\"needs_more_search\",\"reason\":\"The all-caps quote-summary contains a potentially useful Altman claim about AI job-loss rhetoric and GPT-5.5/Codex productivity, but it is secondary and lacks source context. Search for the original or a more reliable Twitter source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps with item_2059737723255357645 on Altman/job-displacement rhetoric; both need a cleaner source trail.\"}},{\"id\":\"item_2059789044427682280\",\"decision\":\"keep\",\"reason\":\"Useful practitioner/business analysis reframing Claude subscription cost concerns around revenue per head rather than token cost. It adds a distinct enterprise-AI adoption and ROI angle, even though it should be framed as commentary rather than news.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the Claude-enterprise items, but focused specifically on enterprise AI account economics and productivity measurement.\"}},{\"id\":\"item_2059888697471078544\",\"decision\":\"needs_more_search\",\"reason\":\"The benchmark-contamination point is timely, but the selected tweet is a fragment that does not identify the benchmark or underlying result. More Twitter search is needed for the actual independent benchmark story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers independent benchmark contamination; the issue is insufficient context and traceability.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2059737723255357645\",\"item_2059548913485672672\"],\"reason\":\"Both selected items cover Sam Altman's AI-jobs rhetoric through secondary, incomplete, or low-quality quote/reaction framing; one cleaner source would be better than both.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059677202917331431\",\"item_2059737723255357645\",\"item_2059548913485672672\"],\"reason\":\"These items all touch Altman, AI labor impact, or shared prosperity, but the foundation commitment, critical reaction, and quote-summary are different angles with uneven source quality.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059632149716942923\",\"item_2059680446997311689\",\"item_2059789044427682280\"],\"reason\":\"The selected set is heavy on Claude/enterprise productivity narratives: autonomous-company blueprint, Fortune 500 business-line replication claim, and Claude account ROI analysis.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059652337690448344\",\"item_2059784106955993236\"],\"reason\":\"Both selected items involve applied AI agents in regulated or professional domains, but Robinhood is an official trading-account rollout while Brockman's post points to tax-agent work.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2059737723255357645\",\"item_2059632149716942923\",\"item_2059680446997311689\",\"item_2059784106955993236\",\"item_2059701042565013513\",\"item_2059548913485672672\",\"item_2059888697471078544\"],\"reason\":\"These selected items make concrete or potentially important claims through secondary, vague, truncated, missing-context, or reply-like tweets without enough source context in the packet.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2059646251180720193\",\"item_2059701042565013513\",\"item_2059888697471078544\"],\"reason\":\"Removing the low-information insult, vague GPT-5.5/Mythos enthusiasm, and fragmentary benchmark comment would create room for clearer model, benchmark, research, policy, or platform coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a cleaner Twitter source for Sam Altman's recent AI jobs and tone-deaf CEOs comments, ideally with fuller quote context.\",\"suggested_query_theme\":\"Sam Altman AI jobs tone deaf CEOs GPT-5.5 Codex since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter source for the Claude Code autonomous-company blueprint claim.\",\"suggested_query_theme\":\"Claude Code autonomous company blueprint Anthropic since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for the Claude enterprise organizational-singularity or Fortune 500 business-line replication claim.\",\"suggested_query_theme\":\"Claude Fortune 500 business line Organizational Singularity Salim Ismail since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find fuller Twitter context for Greg Brockman's self-improving tax agents post.\",\"suggested_query_theme\":\"OpenAI self-improving tax agents Greg Brockman since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a concrete source for the Mythos and GPT-5.5 result claims, ideally naming the benchmark or release context.\",\"suggested_query_theme\":\"Mythos GPT-5.5 results benchmark since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find the underlying independent uncontaminated benchmark story referenced by the selected benchmark-contamination comment.\",\"suggested_query_theme\":\"independent uncontaminated AI benchmark major models trained on since:2026-05-28\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 130379,
+      "agentMeta": {
+        "sessionId": "4ae9729e-cde7-43ae-96a7-42de3d556cb2",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/4ae9729e-cde7-43ae-96a7-42de3d556cb2.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "pi",
+        "usage": {
+          "input": 52030,
+          "output": 5630,
+          "total": 57660
+        },
+        "lastCallUsage": {
+          "input": 52030,
+          "output": 5630,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 57660
+        },
+        "promptTokens": 52030,
+        "contextBudgetStatus": {
+          "schemaVersion": 1,
+          "source": "pre-prompt-estimate",
+          "updatedAt": 1779952226326,
+          "provider": "github-copilot",
+          "model": "gpt-5.5",
+          "route": "fits",
+          "shouldCompact": false,
+          "estimatedPromptTokens": 95870,
+          "contextTokenBudget": 400000,
+          "promptBudgetBeforeReserve": 383616,
+          "reserveTokens": 16384,
+          "effectiveReserveTokens": 16384,
+          "remainingPromptBudgetTokens": 287746,
+          "overflowTokens": 0,
+          "toolResultReducibleChars": 49690,
+          "messageCount": 9,
+          "unwindowedMessageCount": 9,
+          "sessionId": "4ae9729e-cde7-43ae-96a7-42de3d556cb2"
+        }
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1779952226250,
+        "sessionId": "4ae9729e-cde7-43ae-96a7-42de3d556cb2",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 12000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "always",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 35379,
+          "projectContextChars": 13795,
+          "nonProjectContextChars": 21584,
+          "hash": "13d105b1aa156c18d99812b9e66d92e1ef37181d052c8059eda1ab2c7ad26557"
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "hash": "80bb2537b3d6aa26922437384a4a5bc1c795cd7382c470ea9df9c6eb8cefe002",
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 34503,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "summaryHash": "f8a1d7cf1ecfe02b1b5865c93387e6a5891e5079117b4fe18614b6f912521727",
+              "schemaChars": 304,
+              "schemaHash": "5fad0fa7493528bc4284f5c447781325f67099f5fc018206efdc461d33962e85",
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "summaryHash": "c498a85576e187d069e8e8ea4f70f81bddd57829600d385ef61c4359fd634c9e",
+              "schemaChars": 834,
+              "schemaHash": "35f838a1c312a5795b1fc1f7b36fba400cc87229a0025c42c248f12f43ff6d6f",
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "summaryHash": "cdb1c46027b22d1f1b923b47bfe297821d9fe589a9f9d92994961948060a4d89",
+              "schemaChars": 225,
+              "schemaHash": "7e51d1de0f2ccb5fe8de82d51ee3a1d9065e3c4f7c53497ce12f283d6f2f5aa0",
+              "propertiesCount": 2
+            },
+            {
+              "name": "exec",
+              "summaryChars": 539,
+              "summaryHash": "4825198988fbfa8ebf5c2a8fbe3946da0be639b1e3b737ceaa4364195bba3f04",
+              "schemaChars": 1187,
+              "schemaHash": "75ca88a76588ace4567865f751df8a229a04a7470a102a001cc46ec8ec005bff",
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 456,
+              "summaryHash": "55297e65d460e0e1e06e7fad4cedb75ffda8fac9fa8b10aa06d6cead3c5a76ea",
+              "schemaChars": 1074,
+              "schemaHash": "5343155751d4a8889347cf88f926ce566c04915e7f4a0c8088158de566c7cab6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "nodes",
+              "summaryChars": 143,
+              "summaryHash": "ea1b0a5498ca3c788b26d164245652e1aaa989806e0123715793ab25f9578121",
+              "schemaChars": 1589,
+              "schemaHash": "9a9ea45282099c99cae1f7b17e163ed64a205aacad939317062dbacf984caa06",
+              "propertiesCount": 32
+            },
+            {
+              "name": "cron",
+              "summaryChars": 3610,
+              "summaryHash": "262e6a7b421538d13ca6d79fc14616de3ea0c24fde8b050d6fa1652fe991e5c5",
+              "schemaChars": 7191,
+              "schemaHash": "9822b3fba31ad33586c004bcf3256b66c29da16f429ea7f3e3daad9f0eaa1aa2",
+              "propertiesCount": 14
+            },
+            {
+              "name": "message",
+              "summaryChars": 605,
+              "summaryHash": "c9064ba9ed2203fa81efbd9e5a696506feb02b406196e2df541e2cbde964991b",
+              "schemaChars": 6312,
+              "schemaHash": "398f2af95b52467cd9380b140bc691d851aff606bf9e248a6534cf468894764c",
+              "propertiesCount": 111
+            },
+            {
+              "name": "tts",
+              "summaryChars": 217,
+              "summaryHash": "652c1970c199d82b61061a40be2adddfc7e5634df5d896d776a8a0047c8a6b75",
+              "schemaChars": 263,
+              "schemaHash": "d9efc73ba725b1355070c0f43f4de8fbb4462a80dc2efc58c11cb81ead09ddcf",
+              "propertiesCount": 3
+            },
+            {
+              "name": "gateway",
+              "summaryChars": 377,
+              "summaryHash": "61f7e422103698365bb389c00ae4c46b9630840b16971cd141e91ac8f486029d",
+              "schemaChars": 537,
+              "schemaHash": "7c57ca70288dd5e84b8dbd01e49d6d6c5affcbf2467e9db149a3cf84e338b839",
+              "propertiesCount": 13
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 63,
+              "summaryHash": "a7afb8adbaf98833df68160db0677ec2a6bc30b1b96f3592392c9df59e310c65",
+              "schemaChars": 33,
+              "schemaHash": "efddc7bd8bbcef73a14eb1ace1ffdaec81e518ef1e13c1e9271d0b8acb694a49",
+              "propertiesCount": 0
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 135,
+              "summaryHash": "c7e411ae02e3adff5504aaee48f02d262a8abb9152558a3172aae289e3b05faf",
+              "schemaChars": 432,
+              "schemaHash": "9b2e90e1e527755ec253d08fc8da4e3068c3a7b3db6f92847f1c30c4d3eeab1b",
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 117,
+              "summaryHash": "f5d45b76f11a8ac63cc45d456fb6f675f0b1a2e191feb9671924cb5830058f03",
+              "schemaChars": 161,
+              "schemaHash": "7edc087015c0cd2a6af16a10fb25f5e7a64823179e979584f459d062c2596dc6",
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 224,
+              "summaryHash": "56fd935fc97400f8c60b16ae58268660a2d84d8014a60abed515576c45a6f307",
+              "schemaChars": 274,
+              "schemaHash": "8967c4962b1ef9809a47cc8d3e2527366a6fcf48d6ca5f1fd1a90958bc9dcb74",
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 471,
+              "summaryHash": "ae9c266493d1a11ece59ae07f445910d4a17a1547d8afa2ef5f9cba6c6931877",
+              "schemaChars": 1565,
+              "schemaHash": "010fba2f3bda056f6be602db42b1e60cdb17dab6988d6c29f7bac895ac89fbcd",
+              "propertiesCount": 19
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 79,
+              "summaryHash": "f3782fc41c1522657e1d3494f486a2df998fed38a6b89dcf7f6934fb41424320",
+              "schemaChars": 60,
+              "schemaHash": "d803b8cd6aef950bd59c7467fe8ce4d612d0730f5b0270a521b792f7ef6e4550",
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 132,
+              "summaryHash": "1c2ffd38549c0444b118d43736fc4b875ea1aaabc446bbf8bc1fc4ee9180cca4",
+              "schemaChars": 121,
+              "schemaHash": "4fa3ea33309fe77b07fd561e6ccc69ad3b35853d34e693b51f384090dd2ef3fa",
+              "propertiesCount": 2
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 278,
+              "summaryHash": "71177e543dc6235bad4b1a26761995681dcec27ab58dcb4f4f8a7fc9a7b2b5aa",
+              "schemaChars": 89,
+              "schemaHash": "1822f3efd219be167f1d4c7da1657089217484783b790caaddd3483480b767eb",
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 65,
+              "summaryHash": "b38e9b3c079beaa988d3c576303660b91a55c2e72f56351da04160529173273f",
+              "schemaChars": 991,
+              "schemaHash": "24de6a88147bd50f6312e3c93615c22537d283238c6862750994fd2d13a1c228",
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 93,
+              "summaryHash": "8875afbb51bd63673e5e6836ca31eeda73914a464862665cd73b346e28d28fd5",
+              "schemaChars": 316,
+              "schemaHash": "f7b8b6dd7148b305ec2ee39e31eb9e6c47812506e5f180012644403d6abe4585",
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 169,
+              "summaryHash": "a46820ca8952445d3663a8908bfa5d3adddff5b53d18b9d8e9eed8f9e593b494",
+              "schemaChars": 316,
+              "schemaHash": "cc88f0ff22a20bbf9606b71cf838fbd8ff8f2f32baf566b3ba561b28a3fcc9f1",
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "summaryHash": "8a4aab8d6a66131c4f065bc2672af8fbcc19555e55fb4fbb1c24261d02e63e28",
+              "schemaChars": 3005,
+              "schemaHash": "7898669f7b82f485495ba9f89f54ce68ff759dd2480fcb7a217815c89e41ebfc",
+              "propertiesCount": 53
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "summaryHash": "0f918d28864d3682ae77731f149273997c84773592a466b18c7cd0121b599a05",
+              "schemaChars": 237,
+              "schemaHash": "0cc2ef5113533f7e2e08a684b41eeb3eb31f65cdd1f55ff3eb8fc59ddf33683b",
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "summaryHash": "bff1141a3da31a345c550337417efc9ace4da2909004606c727c59ca1a294495",
+              "schemaChars": 215,
+              "schemaHash": "559dad1c0c7e971d1cbc830bca1966c87e451a9f42c8a9b94dc4a583f42d88bd",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "summaryHash": "affbacbf0f44b3be410376ea0313005f3d1a98c06d60a39b9d73bb8348de5dee",
+              "schemaChars": 1667,
+              "schemaHash": "f66fa69bfaee245cef252c9643db366f2e11a9febe7290bdee4556c8658b3441",
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 233,
+              "summaryHash": "88d8f6c086178017ecc4e01e06c1ea99aec650fb072a61bd31386bf46d9e54c2",
+              "schemaChars": 592,
+              "schemaHash": "375dffc78d22bd89b2a76761883b4031e69ad3482bfb1dbade9bec58f2d24807",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "summaryHash": "aa164171b38ca575dc4bdf4f24656561da79ce6d789b03188e91780975cac3b6",
+              "schemaChars": 987,
+              "schemaHash": "ca73cb7ca261c0350904cff33780c73270081e52f5e94151bbd18a259cb24ddb",
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "summaryHash": "ab77cdbb7a9e756591159e3056051405d8e639f9840e8f611ee999b18efecfe7",
+              "schemaChars": 1191,
+              "schemaHash": "daacd8542e404de23c32befd6b7e66d19f9ef991045d067daf85fc4a8bb76830",
+              "propertiesCount": 7
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "summaryHash": "3d8baa7de69d8a18706da77f6ae9e6f758d699abd81551380e6cc4a13e2011cb",
+              "schemaChars": 1439,
+              "schemaHash": "18502e1eca47474729ed37e06cc674c5b25cfd15246e972d71e09ffc23c71fb6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "summaryHash": "3a76cce18e18140589a3cba72722a0d76a338d5a3dcf46d93af39fd015e0e77c",
+              "schemaChars": 1296,
+              "schemaHash": "978afb7c97eeccaebfc9379d9abca1bb68ef8d3cedd5c54ddc56640b3c7214b3",
+              "propertiesCount": 10
+            }
+          ]
+        },
+        "currentTurn": {
+          "promptChars": 2306,
+          "runtimeContextChars": 0
+        }
+      },
+      "finalPromptText": "[Thu 2026-05-28 08:09 GMT+1] Review the Twitter AI Digest candidate packet at /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-05-28.editor-cycle-1.input.json and return only valid JSON following twitter_ai_digest_editor_output.v1.\n\nRequired output contract:\n- Return exactly one JSON object, no markdown and no prose outside JSON.\n- Required top-level fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests.\n- Allowed set_level_flags.type values: same_topic_distinct_angle, redundant_story, fingerprint_collision, source_traceability_failure, overrepresented_author, coverage_gap. Use source_traceability_failure or coverage_gap for verification gaps; do not invent new flag types such as verification_needed.\n- schema_version must be exactly twitter_ai_digest_editor_output.v1.\n- cycle_number must match the packet editor_cycle.\n- decisions must contain one object for every selected item id from the packet.\n- replacement_candidate_id may only reference eligible reserve ids from rejected_notable_items.\n- Do not use pool_role pool items as replacement_candidate_id values.\n- If no eligible reserve fits, use needs_more_search instead of replace_with_existing_candidate.\n- Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment.\n- duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes.\n- Each set_level_flags entry must be an object: {\"type\":\"redundant_story\",\"item_ids\":[\"item_2051234567890123456\"],\"reason\":\"Concrete duplicate rationale.\"}. Use [] if none.\n- Each additional_search_requests entry must be an object: {\"needed\":false,\"reason\":null,\"suggested_query_theme\":null}. Use [] if none.\n- additional_search_requests are for additional Twitter search only. suggested_query_theme must describe a Twitter/X search theme, not a web verification task.\n- Do not request web, GitHub, docs, browser, or non-Twitter searches. The main digest workflow only runs sequential autocli twitter search for replacements.\n- Never return strings inside set_level_flags or additional_search_requests; every entry in those arrays must be an object.\n- Do not publish, send messages, update files, use autocli, or include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a usable core of concrete Twitter-sourced AI items: OpenAI Foundation's $250M commitment, Robinhood's agentic trading account rollout, Hassabis/AGI timeline analysis, and Claude enterprise-cost discussion. The selected set is weakened by multiple Sam Altman/job-displacement reaction posts, several vague or truncated hype items, and agent-enterprise claims that need stronger Twitter source trails. One reserve item can improve the labor-impact slot, but several selected items should go back to additional Twitter search rather than be filled from marginal reserves.\",\"decisions\":[{\"id\":\"item_2059677202917331431\",\"decision\":\"keep\",\"reason\":\"Primary Sam Altman post with a concrete OpenAI Foundation commitment of $250M for measurement, transition support, and shared prosperity; high engagement and clearly relevant to AI's economic impact.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares the broader Altman/jobs/prosperity theme with other selected items, but this is the primary and most concrete foundation-commitment item.\"}},{\"id\":\"item_2059652337690448344\",\"decision\":\"keep\",\"reason\":\"Official Robinhood product announcement for Agentic Accounts connecting AI agents to trading ideas, portfolio building, rebalancing, custom tools, and order placement; concrete applied-AI finance story with very high reach.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to reserve item_2059598460278423559 on autonomous trading, but Robinhood is an official rollout while the reserve is an anecdotal secondary claim.\"}},{\"id\":\"item_2059646251180720193\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The selected tweet is a low-information insult about Sam Altman and does not meet the bar for AI news or analysis. Reserve item_2059636584165822771 is a more substantive labor-impact discussion involving Dario Amodei, Altman, job-loss forecasts, and Jevons Paradox.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2059636584165822771\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Not the same event, but both sit in the AI-leadership/labor-impact discourse; the reserve item is far more digest-worthy.\"}},{\"id\":\"item_2059737723255357645\",\"decision\":\"needs_more_search\",\"reason\":\"The tweet raises a relevant criticism of Sam Altman's changed framing on AI and jobs, but it is polemical and truncated, including an unfinished claim. A cleaner Twitter source for the underlying Altman comments or labor-impact debate is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps with item_2059548913485672672 on Altman/job-displacement rhetoric, but neither is a clean primary source.\"}},{\"id\":\"item_2059564372754841636\",\"decision\":\"keep\",\"reason\":\"Strong analysis item on Demis Hassabis reportedly moving his AGI timeline to 2029 and describing the field as in the foothills of the singularity; useful frontier-lab leadership and AGI-definition coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Reserve items item_2059617983270699241 and item_2059700985782534371 also discuss Hassabis/AGI media, but this selected item has the clearest analysis angle.\"}},{\"id\":\"item_2059632149716942923\",\"decision\":\"needs_more_search\",\"reason\":\"The Claude Code autonomous-company blueprint claim is relevant, but this tweet is secondary, hype-framed, and makes sweeping claims about work dying. A stronger Twitter source from Anthropic, Claude Code, or the original blueprint author is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to item_2059680446997311689's Claude/company-line claim and reserve item_2059686896746516612's autonomous-company product pitch, but not a direct duplicate.\"}},{\"id\":\"item_2059680446997311689\",\"decision\":\"needs_more_search\",\"reason\":\"The claim that two people with Claude can replicate a Fortune 500 business line in 60–90 days is striking but appears to be secondary quote/promo framing. A primary or closer-to-source Twitter item is needed before using it as enterprise-agent coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad Claude-enterprise/autonomous-organization theme as item_2059632149716942923, but a different quoted claim and angle.\"}},{\"id\":\"item_2059784106955993236\",\"decision\":\"needs_more_search\",\"reason\":\"The post is from Greg Brockman and hints at OpenAI work on self-improving tax agents, but the captured text is too terse to stand alone and likely depends on missing quote or link context. More Twitter context is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to applied-agent items, but the tax-agent application is distinct; the issue is missing context rather than duplication.\"}},{\"id\":\"item_2059701042565013513\",\"decision\":\"needs_more_search\",\"reason\":\"The Mythos/GPT-5.5 reaction is too vague and hyperbolic to support a digest item without a clearer benchmark, release, or source context. No eligible reserve is clearly strong enough as a direct replacement for this slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares broad GPT-5.5 enthusiasm with item_2059548913485672672, but this tweet provides even less concrete information.\"}},{\"id\":\"item_2059548913485672672\",\"decision\":\"needs_more_search\",\"reason\":\"The all-caps quote-summary contains a potentially useful Altman claim about AI job-loss rhetoric and GPT-5.5/Codex productivity, but it is secondary and lacks source context. Search for the original or a more reliable Twitter source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps with item_2059737723255357645 on Altman/job-displacement rhetoric; both need a cleaner source trail.\"}},{\"id\":\"item_2059789044427682280\",\"decision\":\"keep\",\"reason\":\"Useful practitioner/business analysis reframing Claude subscription cost concerns around revenue per head rather than token cost. It adds a distinct enterprise-AI adoption and ROI angle, even though it should be framed as commentary rather than news.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the Claude-enterprise items, but focused specifically on enterprise AI account economics and productivity measurement.\"}},{\"id\":\"item_2059888697471078544\",\"decision\":\"needs_more_search\",\"reason\":\"The benchmark-contamination point is timely, but the selected tweet is a fragment that does not identify the benchmark or underlying result. More Twitter search is needed for the actual independent benchmark story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers independent benchmark contamination; the issue is insufficient context and traceability.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2059737723255357645\",\"item_2059548913485672672\"],\"reason\":\"Both selected items cover Sam Altman's AI-jobs rhetoric through secondary, incomplete, or low-quality quote/reaction framing; one cleaner source would be better than both.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059677202917331431\",\"item_2059737723255357645\",\"item_2059548913485672672\"],\"reason\":\"These items all touch Altman, AI labor impact, or shared prosperity, but the foundation commitment, critical reaction, and quote-summary are different angles with uneven source quality.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059632149716942923\",\"item_2059680446997311689\",\"item_2059789044427682280\"],\"reason\":\"The selected set is heavy on Claude/enterprise productivity narratives: autonomous-company blueprint, Fortune 500 business-line replication claim, and Claude account ROI analysis.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059652337690448344\",\"item_2059784106955993236\"],\"reason\":\"Both selected items involve applied AI agents in regulated or professional domains, but Robinhood is an official trading-account rollout while Brockman's post points to tax-agent work.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2059737723255357645\",\"item_2059632149716942923\",\"item_2059680446997311689\",\"item_2059784106955993236\",\"item_2059701042565013513\",\"item_2059548913485672672\",\"item_2059888697471078544\"],\"reason\":\"These selected items make concrete or potentially important claims through secondary, vague, truncated, missing-context, or reply-like tweets without enough source context in the packet.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2059646251180720193\",\"item_2059701042565013513\",\"item_2059888697471078544\"],\"reason\":\"Removing the low-information insult, vague GPT-5.5/Mythos enthusiasm, and fragmentary benchmark comment would create room for clearer model, benchmark, research, policy, or platform coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a cleaner Twitter source for Sam Altman's recent AI jobs and tone-deaf CEOs comments, ideally with fuller quote context.\",\"suggested_query_theme\":\"Sam Altman AI jobs tone deaf CEOs GPT-5.5 Codex since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter source for the Claude Code autonomous-company blueprint claim.\",\"suggested_query_theme\":\"Claude Code autonomous company blueprint Anthropic since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for the Claude enterprise organizational-singularity or Fortune 500 business-line replication claim.\",\"suggested_query_theme\":\"Claude Fortune 500 business line Organizational Singularity Salim Ismail since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find fuller Twitter context for Greg Brockman's self-improving tax agents post.\",\"suggested_query_theme\":\"OpenAI self-improving tax agents Greg Brockman since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a concrete source for the Mythos and GPT-5.5 result claims, ideally naming the benchmark or release context.\",\"suggested_query_theme\":\"Mythos GPT-5.5 results benchmark since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find the underlying independent uncontaminated benchmark story referenced by the selected benchmark-contamination comment.\",\"suggested_query_theme\":\"independent uncontaminated AI benchmark major models trained on since:2026-05-28\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a usable core of concrete Twitter-sourced AI items: OpenAI Foundation's $250M commitment, Robinhood's agentic trading account rollout, Hassabis/AGI timeline analysis, and Claude enterprise-cost discussion. The selected set is weakened by multiple Sam Altman/job-displacement reaction posts, several vague or truncated hype items, and agent-enterprise claims that need stronger Twitter source trails. One reserve item can improve the labor-impact slot, but several selected items should go back to additional Twitter search rather than be filled from marginal reserves.\",\"decisions\":[{\"id\":\"item_2059677202917331431\",\"decision\":\"keep\",\"reason\":\"Primary Sam Altman post with a concrete OpenAI Foundation commitment of $250M for measurement, transition support, and shared prosperity; high engagement and clearly relevant to AI's economic impact.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares the broader Altman/jobs/prosperity theme with other selected items, but this is the primary and most concrete foundation-commitment item.\"}},{\"id\":\"item_2059652337690448344\",\"decision\":\"keep\",\"reason\":\"Official Robinhood product announcement for Agentic Accounts connecting AI agents to trading ideas, portfolio building, rebalancing, custom tools, and order placement; concrete applied-AI finance story with very high reach.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to reserve item_2059598460278423559 on autonomous trading, but Robinhood is an official rollout while the reserve is an anecdotal secondary claim.\"}},{\"id\":\"item_2059646251180720193\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The selected tweet is a low-information insult about Sam Altman and does not meet the bar for AI news or analysis. Reserve item_2059636584165822771 is a more substantive labor-impact discussion involving Dario Amodei, Altman, job-loss forecasts, and Jevons Paradox.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2059636584165822771\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Not the same event, but both sit in the AI-leadership/labor-impact discourse; the reserve item is far more digest-worthy.\"}},{\"id\":\"item_2059737723255357645\",\"decision\":\"needs_more_search\",\"reason\":\"The tweet raises a relevant criticism of Sam Altman's changed framing on AI and jobs, but it is polemical and truncated, including an unfinished claim. A cleaner Twitter source for the underlying Altman comments or labor-impact debate is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps with item_2059548913485672672 on Altman/job-displacement rhetoric, but neither is a clean primary source.\"}},{\"id\":\"item_2059564372754841636\",\"decision\":\"keep\",\"reason\":\"Strong analysis item on Demis Hassabis reportedly moving his AGI timeline to 2029 and describing the field as in the foothills of the singularity; useful frontier-lab leadership and AGI-definition coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Reserve items item_2059617983270699241 and item_2059700985782534371 also discuss Hassabis/AGI media, but this selected item has the clearest analysis angle.\"}},{\"id\":\"item_2059632149716942923\",\"decision\":\"needs_more_search\",\"reason\":\"The Claude Code autonomous-company blueprint claim is relevant, but this tweet is secondary, hype-framed, and makes sweeping claims about work dying. A stronger Twitter source from Anthropic, Claude Code, or the original blueprint author is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to item_2059680446997311689's Claude/company-line claim and reserve item_2059686896746516612's autonomous-company product pitch, but not a direct duplicate.\"}},{\"id\":\"item_2059680446997311689\",\"decision\":\"needs_more_search\",\"reason\":\"The claim that two people with Claude can replicate a Fortune 500 business line in 60–90 days is striking but appears to be secondary quote/promo framing. A primary or closer-to-source Twitter item is needed before using it as enterprise-agent coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad Claude-enterprise/autonomous-organization theme as item_2059632149716942923, but a different quoted claim and angle.\"}},{\"id\":\"item_2059784106955993236\",\"decision\":\"needs_more_search\",\"reason\":\"The post is from Greg Brockman and hints at OpenAI work on self-improving tax agents, but the captured text is too terse to stand alone and likely depends on missing quote or link context. More Twitter context is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to applied-agent items, but the tax-agent application is distinct; the issue is missing context rather than duplication.\"}},{\"id\":\"item_2059701042565013513\",\"decision\":\"needs_more_search\",\"reason\":\"The Mythos/GPT-5.5 reaction is too vague and hyperbolic to support a digest item without a clearer benchmark, release, or source context. No eligible reserve is clearly strong enough as a direct replacement for this slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares broad GPT-5.5 enthusiasm with item_2059548913485672672, but this tweet provides even less concrete information.\"}},{\"id\":\"item_2059548913485672672\",\"decision\":\"needs_more_search\",\"reason\":\"The all-caps quote-summary contains a potentially useful Altman claim about AI job-loss rhetoric and GPT-5.5/Codex productivity, but it is secondary and lacks source context. Search for the original or a more reliable Twitter source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps with item_2059737723255357645 on Altman/job-displacement rhetoric; both need a cleaner source trail.\"}},{\"id\":\"item_2059789044427682280\",\"decision\":\"keep\",\"reason\":\"Useful practitioner/business analysis reframing Claude subscription cost concerns around revenue per head rather than token cost. It adds a distinct enterprise-AI adoption and ROI angle, even though it should be framed as commentary rather than news.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the Claude-enterprise items, but focused specifically on enterprise AI account economics and productivity measurement.\"}},{\"id\":\"item_2059888697471078544\",\"decision\":\"needs_more_search\",\"reason\":\"The benchmark-contamination point is timely, but the selected tweet is a fragment that does not identify the benchmark or underlying result. More Twitter search is needed for the actual independent benchmark story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers independent benchmark contamination; the issue is insufficient context and traceability.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2059737723255357645\",\"item_2059548913485672672\"],\"reason\":\"Both selected items cover Sam Altman's AI-jobs rhetoric through secondary, incomplete, or low-quality quote/reaction framing; one cleaner source would be better than both.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059677202917331431\",\"item_2059737723255357645\",\"item_2059548913485672672\"],\"reason\":\"These items all touch Altman, AI labor impact, or shared prosperity, but the foundation commitment, critical reaction, and quote-summary are different angles with uneven source quality.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059632149716942923\",\"item_2059680446997311689\",\"item_2059789044427682280\"],\"reason\":\"The selected set is heavy on Claude/enterprise productivity narratives: autonomous-company blueprint, Fortune 500 business-line replication claim, and Claude account ROI analysis.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2059652337690448344\",\"item_2059784106955993236\"],\"reason\":\"Both selected items involve applied AI agents in regulated or professional domains, but Robinhood is an official trading-account rollout while Brockman's post points to tax-agent work.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2059737723255357645\",\"item_2059632149716942923\",\"item_2059680446997311689\",\"item_2059784106955993236\",\"item_2059701042565013513\",\"item_2059548913485672672\",\"item_2059888697471078544\"],\"reason\":\"These selected items make concrete or potentially important claims through secondary, vague, truncated, missing-context, or reply-like tweets without enough source context in the packet.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2059646251180720193\",\"item_2059701042565013513\",\"item_2059888697471078544\"],\"reason\":\"Removing the low-information insult, vague GPT-5.5/Mythos enthusiasm, and fragmentary benchmark comment would create room for clearer model, benchmark, research, policy, or platform coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a cleaner Twitter source for Sam Altman's recent AI jobs and tone-deaf CEOs comments, ideally with fuller quote context.\",\"suggested_query_theme\":\"Sam Altman AI jobs tone deaf CEOs GPT-5.5 Codex since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter source for the Claude Code autonomous-company blueprint claim.\",\"suggested_query_theme\":\"Claude Code autonomous company blueprint Anthropic since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter source for the Claude enterprise organizational-singularity or Fortune 500 business-line replication claim.\",\"suggested_query_theme\":\"Claude Fortune 500 business line Organizational Singularity Salim Ismail since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find fuller Twitter context for Greg Brockman's self-improving tax agents post.\",\"suggested_query_theme\":\"OpenAI self-improving tax agents Greg Brockman since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find a concrete source for the Mythos and GPT-5.5 result claims, ideally naming the benchmark or release context.\",\"suggested_query_theme\":\"Mythos GPT-5.5 results benchmark since:2026-05-27\"},{\"needed\":true,\"reason\":\"Find the underlying independent uncontaminated benchmark story referenced by the selected benchmark-contamination comment.\",\"suggested_query_theme\":\"independent uncontaminated AI benchmark major models trained on since:2026-05-28\"}]}",
+      "replayInvalid": false,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    }
+  }
+}
+",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "toolSummary": {
+        "calls": 3,
+        "tools": [
+          "read",
+          "exec"
+        ],
+        "failures": 0
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    }
+  }
+}
