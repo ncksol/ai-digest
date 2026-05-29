@@ -1,0 +1,183 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 2,
+  "overall_verdict": "needs_replacements",
+  "summary": "Cycle 2 improves source quality for the Microsoft Foundry agent CI/CD item and removes the redundant Anthropic revenue slot, but the packet is still below the normal 10-item minimum and remains heavily weighted toward Anthropic/Claude. The strongest keepers are the official Claude Opus 4.8 release, Anthropic funding, OpenAI R&D post, Box's enterprise Opus 4.8 testing note, Simon Willison's corrective AI-budget analysis, and the Microsoft Foundry CI/CD source. The main problems are a viral but weakly sourced Claude/Meta cost story, a very low-context RLM explainer tweet, and the need for at least one additional Twitter-sourced item outside the Anthropic/Claude cluster.",
+  "decisions": [
+    {
+      "id": "item_2060042702150930686",
+      "decision": "keep",
+      "reason": "Official Claude account announcement of Claude Opus 4.8 with concrete release claims, pricing note, very high engagement, and clear source traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Opus 4.8 release cycle as the Box testing item, but this is the primary product-release source while Box adds an enterprise-customer testing angle."
+      }
+    },
+    {
+      "id": "item_2060061347522433422",
+      "decision": "keep",
+      "reason": "Official Anthropic funding announcement with specific round size, valuation, lead investors, and stated use of funds; primary-source and highly newsworthy despite the set's Anthropic concentration.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate now covers the Anthropic funding event after the separate revenue tweet was removed."
+      }
+    },
+    {
+      "id": "item_2060032839991914619",
+      "decision": "keep",
+      "reason": "Official OpenAI post for 'R&D Part 1: Here to Win'; terse tweet text, but the source is primary and the item gives the set a distinct OpenAI company/research-strategy slot.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers this OpenAI R&D post."
+      }
+    },
+    {
+      "id": "item_2060091844361683063",
+      "decision": "keep",
+      "reason": "Box CEO/customer-side report on testing Opus 4.8 for enterprise document and knowledge-worker tasks; same release cycle as Claude Opus 4.8, but a distinct real-world enterprise-evaluation angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Opus 4.8 event as the official Claude release tweet, but not the same angle: vendor release versus enterprise deployment/testing signal."
+      }
+    },
+    {
+      "id": "item_2060209010486493500",
+      "decision": "keep",
+      "reason": "Simon Willison's skepticism about the viral Uber AI-budget story is a useful corrective analysis item, especially because similar enterprise AI cost claims have been circulating recently.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related by theme to the viral Claude/Meta cost story, but this is a source-quality corrective about a separate Uber budget narrative."
+      }
+    },
+    {
+      "id": "item_2060178357145227373",
+      "decision": "keep",
+      "reason": "Distinct synthesis analysis framing inference as the product, tied to reasoning billing and model-use economics; lower engagement than major news items but useful as a broader market/architecture lens.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate makes the same inference-economics argument."
+      }
+    },
+    {
+      "id": "item_2060067580342112696",
+      "decision": "needs_more_search",
+      "reason": "The Claude cost and Meta leaderboard story has very high engagement, but the selected tweet is viral, anecdotal, and makes large concrete claims without a strong source trail. It also sits awkwardly next to Simon Willison's warning that recent AI-budget stories are shaky.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad enterprise AI cost theme as Simon Willison's corrective item, but not the same event. The issue is source reliability, not direct duplication."
+      }
+    },
+    {
+      "id": "item_2060127380841386040",
+      "decision": "keep",
+      "reason": "Closer-to-primary Microsoft-side source pointing to production-grade CI/CD for agents in Microsoft Foundry; low engagement, but it fixes the cycle-1 source-traceability problem for this concrete agent-engineering topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related broadly to agent engineering and developer-tooling coverage, but no selected duplicate covers Microsoft Foundry CI/CD."
+      }
+    },
+    {
+      "id": "item_2060249277260349896",
+      "decision": "needs_more_search",
+      "reason": "The Recursive Language Models topic is potentially relevant, but the selected tweet is just a link post with almost no context, tiny engagement, and no clear primary research or implementation source in the tweet text.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; the item is weak because it lacks enough context and source strength to stand alone."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2060042702150930686",
+        "item_2060091844361683063"
+      ],
+      "reason": "Both selected items concern Claude Opus 4.8, but the official Claude tweet is the release announcement while the Box tweet is an enterprise testing/use-case angle."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2060209010486493500",
+        "item_2060067580342112696"
+      ],
+      "reason": "Both selected items address enterprise AI spending or cost narratives, but Simon Willison provides a source-quality corrective while the cyber_razz tweet amplifies a separate viral Claude/Meta cost story."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2060067580342112696",
+        "item_2060249277260349896"
+      ],
+      "reason": "The viral Claude/Meta cost claim and the RLM link post both lack enough source detail in the selected tweet to support confident digest treatment."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2060042702150930686",
+        "item_2060061347522433422",
+        "item_2060091844361683063",
+        "item_2060067580342112696"
+      ],
+      "reason": "The set remains heavily Anthropic/Claude weighted through the official Claude release, Anthropic funding, Box Opus testing, and a viral Claude cost claim."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [],
+      "reason": "The selected set has only 9 items, below the normal minimum of 10, and needs at least one additional Twitter-sourced candidate, preferably outside Anthropic/Claude and enterprise cost discourse."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "The selected set is below the normal minimum of 10 items and needs at least one additional Twitter/X-sourced candidate.",
+      "suggested_query_theme": "Twitter/X search for AI model release research result policy product launch since:2026-05-28"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the viral Claude/Meta cost and leaderboard claims, or a better-sourced enterprise AI cost item to replace it.",
+      "suggested_query_theme": "Twitter/X search for Claude enterprise AI costs Meta AI leaderboard budget since:2026-05-28"
+    },
+    {
+      "needed": true,
+      "reason": "Find a clearer Twitter/X source for Recursive Language Models, preferably a researcher, paper author, or implementation source with concrete details.",
+      "suggested_query_theme": "Twitter/X search for Recursive Language Models RLM paper implementation LLM since:2026-05-28"
+    }
+  ]
+}
