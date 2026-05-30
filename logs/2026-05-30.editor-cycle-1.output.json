@@ -1,0 +1,204 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a solid primary-source core around OpenAI Codex for Windows, OpenAI Rosalind Biodefense, Nous Hermes Agent Tool Search, Gemini Spark, and practitioner observations about agent adoption. The set is nevertheless too concentrated in OpenAI and agent/coding-agent themes, and several selected items are weak, secondary, vague, or recently covered: the OpenAI/Terence Tao research-framing post overlaps with recent OpenAI R&D coverage, the Codex commentary tweet is too low-context, the Anthropic agent-building thread is secondary and overlaps with recent Anthropic agent material, and the AI-agent sales anecdote is not strong enough for a news digest slot. Additional Twitter/X search should replace the weak slots with fresher, better-sourced model, research, policy, or practitioner items.",
+  "decisions": [
+    {
+      "id": "item_2060428604727771421",
+      "decision": "keep",
+      "reason": "Official OpenAI announcement that Codex computer use now works on Windows and can be controlled from the ChatGPT mobile app; concrete product news with strong engagement and clear source traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad Codex/coding-agent area as item_2060504172873793709, but this is the primary product-launch item and should represent the Codex story."
+      }
+    },
+    {
+      "id": "item_2060451757818601808",
+      "decision": "needs_more_search",
+      "reason": "Official and high-engagement, but the Terence Tao/OpenAI research-friction framing overlaps with recent OpenAI R&D-series coverage and adds another OpenAI slot to an already overrepresented author set. Prefer a fresher non-OpenAI research or model item if available.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Not a duplicate of another selected item, but it is duplicative by recent-history angle with prior OpenAI R&D/research-framing coverage."
+      }
+    },
+    {
+      "id": "item_2060376598642405492",
+      "decision": "keep",
+      "reason": "Official OpenAI announcement of Rosalind Biodefense and expanded trusted access to GPT-Rosalind; concrete company/product-policy move with clear source traceability and distinct biodefense angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected item covers biodefense, pandemic preparedness, or GPT-Rosalind access."
+      }
+    },
+    {
+      "id": "item_2060490936124105179",
+      "decision": "keep",
+      "reason": "Direct NousResearch announcement that Hermes Agent now has Tool Search; concrete agent-infrastructure update with strong engagement and distinct technical/product angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares the broad agent theme with several selected items, but it is a distinct tool-loading/product capability rather than adoption commentary."
+      }
+    },
+    {
+      "id": "item_2060409288280133837",
+      "decision": "keep",
+      "reason": "Direct GeminiApp post describing Gemini Spark as an autonomous background personal agent with user confirmation for major actions; low engagement, but it is a concrete product announcement and adds a Google/Gemini counterweight to OpenAI-heavy coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad autonomous-agent topic as Nous Hermes Agent and practitioner agent posts, but distinct as a consumer/product announcement."
+      }
+    },
+    {
+      "id": "item_2060504172873793709",
+      "decision": "needs_more_search",
+      "reason": "The tweet is too terse to stand alone as digest material and the set already has a stronger official Codex item. If a Codex self-analysis or practitioner workflow angle is desired, search Twitter/X for a fuller source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the selected official OpenAI Codex item by product/topic, but it appears to be a separate commentary angle rather than the same event."
+      }
+    },
+    {
+      "id": "item_2060424789190160651",
+      "decision": "keep",
+      "reason": "Useful practitioner snapshot of current AI-agent adoption gaps, including leaders who still have not seen agents run at work; it is lower engagement than the official news items but adds a grounded enterprise-adoption perspective.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad agent-adoption theme as the sales and oversight posts, but this is a distinct practitioner/market-observation angle."
+      }
+    },
+    {
+      "id": "item_2060462993524093026",
+      "decision": "keep",
+      "reason": "A clear practitioner caution about losing situational awareness when coding agents work autonomously; engagement is weak, but the angle is useful and distinct enough if the final set needs an agent-operations analysis item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to Codex and agent-adoption coverage, but it focuses specifically on supervision and drift in coding-agent workflows."
+      }
+    },
+    {
+      "id": "item_2060323511516725448",
+      "decision": "needs_more_search",
+      "reason": "The Anthropic agent-building video may be useful, but this selected tweet is a secondary promotional summary and overlaps with recent Anthropic agent/Claude Code blueprint coverage. A primary Anthropic, presenter, or event-adjacent Twitter/X source would be preferable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Likely duplicative by recent-history angle with recent Anthropic agent-building and Claude Code company-blueprint items, though not a duplicate of a current selected item."
+      }
+    },
+    {
+      "id": "item_2060350342773322130",
+      "decision": "needs_more_search",
+      "reason": "The AI-agent sales anecdote is high enough engagement for consideration, but it is a broad growth-thread style claim with weak traceability and less editorial value than product, research, policy, or technical practitioner items. No reserve item is clearly strong enough as a direct replacement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad AI-agent adoption/business theme as item_2060424789190160651, but it is a sales anecdote rather than enterprise-adoption analysis."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2060428604727771421",
+        "item_2060451757818601808",
+        "item_2060376598642405492"
+      ],
+      "reason": "OpenAI occupies three selected slots, exceeding the stated single-author cap of 1-2 and crowding out other model, research, policy, or practitioner coverage."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2060428604727771421",
+        "item_2060490936124105179",
+        "item_2060409288280133837",
+        "item_2060504172873793709",
+        "item_2060424789190160651",
+        "item_2060462993524093026",
+        "item_2060323511516725448",
+        "item_2060350342773322130"
+      ],
+      "reason": "The set is heavily agent- and coding-agent-centered across Codex, Hermes Agent, Gemini Spark, agent adoption, agent supervision, Anthropic agent-building, and AI-agent sales."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2060504172873793709",
+        "item_2060323511516725448",
+        "item_2060350342773322130"
+      ],
+      "reason": "These selected items rely on terse commentary, secondary promotional framing, or anecdotal claims rather than sufficiently traceable primary Twitter/X sources."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2060451757818601808",
+        "item_2060504172873793709",
+        "item_2060323511516725448",
+        "item_2060350342773322130"
+      ],
+      "reason": "Replacing the weak or repetitive OpenAI/Codex/agent slots would make room for fresher non-OpenAI research, model-release, policy, open-source, or stronger practitioner coverage."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find fresher non-OpenAI research, model-release, or policy items to offset the current OpenAI-heavy selection.",
+      "suggested_query_theme": "Twitter/X search for AI model release research result policy launch since:2026-05-29"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the Anthropic agent-building video or internal agent-shipping practices if that story remains desired.",
+      "suggested_query_theme": "Twitter/X search for Anthropic agent building video engineer agents internal practices since:2026-05-29"
+    },
+    {
+      "needed": true,
+      "reason": "Find a fuller practitioner source on coding-agent oversight or autonomous coding workflows to replace the terse Codex commentary or low-engagement supervision post if needed.",
+      "suggested_query_theme": "Twitter/X search for coding agents oversight Codex Claude Code autonomous workflow since:2026-05-29"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger business or enterprise AI-agent adoption item to replace the weak AI-agent sales anecdote.",
+      "suggested_query_theme": "Twitter/X search for enterprise AI agents deployment ROI adoption workflow since:2026-05-29"
+    }
+  ]
+}
