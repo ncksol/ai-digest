@@ -1,0 +1,281 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The selected set has a few usable items, especially the high-engagement Claude Code background-workflow post, the Apollo/AI-jobs labor-economics item, Dario/Claude usage commentary, and Goldman Sachs agent-token-cost analysis. However, the packet is heavily skewed toward agentic-AI hype, Anthropic/Claude Code retellings, secondary quote threads, and low-context resource posts. Several selected items are redundant or source-thin, and the stronger reserve candidates should be used to add model, open-source, voice-agent, technical, and defense-AI variety while additional Twitter search fills the remaining weak slots.",
+  "decisions": [
+    {
+      "id": "item_2060728613872234644",
+      "decision": "keep",
+      "reason": "This is the strongest representative of the Claude Code background-workflow story: high engagement, concrete quoted framing, and a clear practitioner angle about reviewing autonomous coding output rather than watching the terminal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "It overlaps strongly with item_2060753217546297532 and item_2060829097140387988, but this post has much higher engagement and should be treated as the canonical version of the story."
+      }
+    },
+    {
+      "id": "item_2060895086859407406",
+      "decision": "keep",
+      "reason": "A high-engagement AI labor-market item citing Apollo's chief economist on lack of evidence for AI-related job losses. It adds a distinct macroeconomic counterpoint to the usual AI-displacement narrative, though final framing should attribute it as a quoted claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares the broader AI-jobs theme with item_2060724933248831725, but the Apollo economics angle is distinct from the Altman/Amodei IPO accusation narrative."
+      }
+    },
+    {
+      "id": "item_2060912225364115848",
+      "decision": "needs_more_search",
+      "reason": "The tweet addresses a relevant shift toward multi-agent autonomous coding, but it is low-engagement, sweeping, and secondary, including an unsupported claim that Codex can do the job of a five-person engineering team. A cleaner Twitter source on OpenAI/Anthropic multi-agent features is needed.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Overlaps thematically with the Claude Code workflow posts and other agentic-AI items, but it also references OpenAI Codex and broader multi-agent features rather than the same single demo."
+      }
+    },
+    {
+      "id": "item_2060724933248831725",
+      "decision": "needs_more_search",
+      "reason": "The post is sensationally framed as a '$2 trillion scam' and includes a serious claim about a secret OpenAI trillion-dollar IPO without enough source traceability in the packet. The labor/IPO narrative may be relevant, but this version is too inflammatory for the digest without a stronger Twitter source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to item_2060895086859407406 and reserve item_2060623515154555240 through AI-jobs and AI-leadership discourse, but the claim set and tone are different."
+      }
+    },
+    {
+      "id": "item_2060753217546297532",
+      "decision": "replace_with_existing_candidate",
+      "reason": "This is a weaker, hype-framed duplicate of the Claude Code live-workflow story already better represented by item_2060728613872234644, and it adds questionable extra claims such as 'Opus 4.8' and '10-15x faster to production.' Reserve item_2060639105596399962 gives the set a more distinct open-source local-model angle around MiniCPM-5 1B.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2060639105596399962",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same apparent Anthropic/Claude Code live-demo workflow as item_2060728613872234644 and item_2060829097140387988, but lower quality and lower engagement than the zodchiii version."
+      }
+    },
+    {
+      "id": "item_2060735542418182146",
+      "decision": "keep",
+      "reason": "A high-engagement Dario Amodei/Claude usage interview recap that adds a practical model-usage and context-management angle. It is secondary and should be framed as interview commentary, but it is more substantive than the generic agentic-AI resource posts.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares Anthropic/Claude territory with the Claude Code workflow items, but focuses on cost-effective Claude use and context/memory rather than background coding agents."
+      }
+    },
+    {
+      "id": "item_2060652043296182521",
+      "decision": "keep",
+      "reason": "Concrete, differentiated analysis around Goldman Sachs projecting AI-agent token use multiplying 24x by 2030, with a useful cost-pressure angle involving enterprise agent usage. This broadens the set beyond demos into AI infrastructure economics.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to other agentic-AI posts through the agent theme, but its angle is cost, token consumption, and enterprise scaling rather than product demos or workflow hype."
+      }
+    },
+    {
+      "id": "item_2060824760859431275",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The Eric Schmidt quote/resource roundup is generic, secondhand, and from an author already represented by a stronger Dario/Claude item. Reserve item_2060626251715629176 adds a more technical and distinctive test-time-scaling/math-capabilities angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2060626251715629176",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Not a duplicate of item_2060735542418182146, but both are eng_khairallah1 secondary analysis/resource posts in the agentic-AI/Claude business cluster."
+      }
+    },
+    {
+      "id": "item_2060672910402969883",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The selected tweet is too context-free: it criticizes an unspecified open-source-related move without naming the project, event, or underlying dispute. Reserve item_2060634980213227833 is a more concrete open-source AI item about training billion-parameter LLMs on a single GPU.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2060634980213227833",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No direct duplicate in the selected set; the problem is missing context, not redundancy."
+      }
+    },
+    {
+      "id": "item_2060964743402455212",
+      "decision": "needs_more_search",
+      "reason": "The Karpathy/YC lecture/software-3.0 framing is relevant but low-engagement, hype-heavy, and indirect. A stronger Twitter source from Karpathy, YC, or a clearer lecture summary would be preferable before using this slot.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Overlaps with other agentic-AI worldview posts, but it is centered on Karpathy/software-3.0 and a YC lecture rather than the Claude Code demo itself."
+      }
+    },
+    {
+      "id": "item_2060951348175401430",
+      "decision": "needs_more_search",
+      "reason": "NVIDIA and ServiceNow's Project Arc could be a strong applied-agent story, but this selected tweet has extremely low engagement and provides no clear primary-source trace in the packet. Search Twitter for a stronger NVIDIA, ServiceNow, or reputable-source post on Project Arc.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the desktop/persistent-agent theme, but distinct from Claude Code and coding-agent workflow posts."
+      }
+    },
+    {
+      "id": "item_2060683755506073604",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The tweet is a light joke about AI agents increasing working hours, not a news or analysis item. Reserve item_2060649407239053783 is at least a concrete voice-agent/open-source product claim and adds product-category variety.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2060649407239053783",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "It shares the broad AI-agent work-impact theme with several selected posts, but it is a meme rather than a duplicate of a specific story."
+      }
+    },
+    {
+      "id": "item_2060627157618241622",
+      "decision": "needs_more_search",
+      "reason": "The Stanford LLM lecture/resource angle could be useful, but this selected tweet is a salary-hooked secondary hype post centered on an unverified Anthropic compensation claim. A cleaner Twitter source for the actual lecture or learning resource is needed.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to other Claude/Anthropic and educational-resource posts, but not the same event as the Claude Code workflow items."
+      }
+    },
+    {
+      "id": "item_2060829097140387988",
+      "decision": "replace_with_existing_candidate",
+      "reason": "This is another duplicate retelling of the Claude Code background-workflow story already better represented by item_2060728613872234644. Reserve item_2060975410645442981 adds a distinct defense/geopolitical AI angle about AI-assisted drone operations, though final copy should still be cautious about attribution.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2060975410645442981",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same apparent Anthropic/Claude Code live workflow as item_2060728613872234644 and item_2060753217546297532, with lower engagement and no need for a separate slot."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2060728613872234644",
+        "item_2060753217546297532",
+        "item_2060829097140387988"
+      ],
+      "reason": "These three selected items appear to retell the same Anthropic/Claude Code background-workflow demo: do not watch the terminal, close the laptop, and review what the agent built later. Keep the high-engagement zodchiii version and replace the weaker duplicates."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2060728613872234644",
+        "item_2060912225364115848",
+        "item_2060753217546297532",
+        "item_2060735542418182146",
+        "item_2060652043296182521",
+        "item_2060824760859431275",
+        "item_2060964743402455212",
+        "item_2060951348175401430",
+        "item_2060829097140387988"
+      ],
+      "reason": "The selected set is heavily concentrated on agentic AI, Claude/Anthropic, autonomous coding, desktop agents, and agent economics. Several are distinct angles, but the cluster crowds out model, research, policy, safety, and broader product coverage."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2060753217546297532",
+        "item_2060829097140387988",
+        "item_2060735542418182146",
+        "item_2060824760859431275"
+      ],
+      "reason": "Two selected items each come from 0xwhrrari and eng_khairallah1; in both cases, one post is enough unless the second is clearly stronger and non-overlapping."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2060912225364115848",
+        "item_2060724933248831725",
+        "item_2060753217546297532",
+        "item_2060824760859431275",
+        "item_2060672910402969883",
+        "item_2060964743402455212",
+        "item_2060951348175401430",
+        "item_2060627157618241622",
+        "item_2060829097140387988"
+      ],
+      "reason": "These selected items make concrete or potentially important claims through secondary, truncated, hype-framed, or missing-context tweets rather than clear primary Twitter sources."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2060912225364115848",
+        "item_2060724933248831725",
+        "item_2060672910402969883",
+        "item_2060964743402455212",
+        "item_2060951348175401430",
+        "item_2060683755506073604",
+        "item_2060627157618241622"
+      ],
+      "reason": "Replacing or re-searching these weak slots should improve coverage of concrete model releases, open-source tools, research, safety/security, policy, and applied AI beyond Claude/agent hype."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a cleaner source for the OpenAI/Anthropic multi-agent autonomous coding feature story, ideally primary or closer-to-primary rather than a sweeping secondary claim.",
+      "suggested_query_theme": "OpenAI Codex Anthropic Claude multi-agent autonomous coding features since:2026-05-30"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source for the Altman/Amodei AI-jobs and IPO narrative without the sensational scam framing.",
+      "suggested_query_theme": "Sam Altman Dario Amodei AI jobs IPO labor impact since:2026-05-30"
+    },
+    {
+      "needed": true,
+      "reason": "Find a primary or higher-engagement Twitter source for NVIDIA and ServiceNow Project Arc as a persistent desktop AI agent.",
+      "suggested_query_theme": "NVIDIA ServiceNow Project Arc desktop AI agent since:2026-05-30"
+    },
+    {
+      "needed": true,
+      "reason": "Find a better Twitter source for the Karpathy/software-3.0 or YC lecture angle if it is worth covering.",
+      "suggested_query_theme": "Karpathy software 3.0 YC lecture LLM operating system agents since:2026-05-30"
+    },
+    {
+      "needed": true,
+      "reason": "Find stronger Twitter candidates that broaden the set beyond agentic-AI hype into model releases, open-source AI, research, safety, policy, or applied AI deployments.",
+      "suggested_query_theme": "AI model release open source research safety policy applied AI since:2026-05-30"
+    }
+  ]
+}
