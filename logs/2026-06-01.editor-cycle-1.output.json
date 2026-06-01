@@ -1,0 +1,213 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The set has several strong keepers: Sam Altman's primary OpenAI Robotics hiring post, NVIDIA's official Nemotron 3 Ultra teaser, Aaron Levie's enterprise-agent context analysis, Garry Tan's direct GBrain open-source tool post, and a useful practitioner note on vibe-coded applications. The weaknesses are source traceability on the Meta/Instagram security claim and the Demis Hassabis rogue-AI quote, plus over-concentration around NVIDIA/Jensen Huang hardware, labour, and market commentary. Keep the primary and practitioner items, but seek stronger Twitter/X sources or replacements for the secondary security, workforce, and safety items.",
+  "decisions": [
+    {
+      "id": "item_2061117302528188712",
+      "decision": "keep",
+      "reason": "Primary Sam Altman post announcing OpenAI Robotics hiring across hardware, ops, systems, and ML, with a clear physical-world AI/company-building angle and very high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct company move; no selected item duplicates OpenAI Robotics hiring."
+      }
+    },
+    {
+      "id": "item_2061223556994965643",
+      "decision": "needs_more_search",
+      "reason": "The Meta AI support-agent Instagram takeover claim is highly engaging and potentially important, but it is a single secondary OSINT-style post making a serious security claim. A stronger Twitter/X source from a researcher, Meta, affected account owner, or detailed incident thread is needed before treating it as a digest item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Reserve item_2061328690886177217 appears to cover the same Meta/Instagram AI-support hijack story, but it is also secondary and lower-engagement, so it is not a clear replacement."
+      }
+    },
+    {
+      "id": "item_2061305524700758050",
+      "decision": "keep",
+      "reason": "Official NVIDIA AI account teaser for Nemotron 3 Ultra coming this week; concise but primary-source model-release signal from the vendor.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Reserve item_2061321517028524445 discusses Nemotron 3 Ultra details and skepticism, but the selected NVIDIAAI post is the primary source."
+      }
+    },
+    {
+      "id": "item_2061247380897579500",
+      "decision": "keep",
+      "reason": "Aaron Levie's analysis of the enterprise context problem for AI agents is a strong practitioner/executive perspective and distinct from product-release or model-release news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct enterprise analysis item; no selected duplicate covers the same context-management angle."
+      }
+    },
+    {
+      "id": "item_2061071932196618352",
+      "decision": "needs_more_search",
+      "reason": "The Nvidia CEO hiring quote is workforce-relevant, but the selected tweet is a secondary motivational summary and does not link to a concrete new announcement, primary interview source, or durable development. A stronger Twitter/X source is needed if this labour-market angle should remain.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Part of a broader Jensen/NVIDIA cluster with item_2061168497955418245 and item_2061326210995540235, but the angle is workforce skills rather than market size or hardware."
+      }
+    },
+    {
+      "id": "item_2061168497955418245",
+      "decision": "keep",
+      "reason": "Secondary but concrete market-analysis item quoting Jensen Huang on Dario Amodei's $1T AI revenue prediction; useful if framed as reported commentary rather than primary NVIDIA news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the selected NVIDIA/Jensen cluster, but distinct from workforce hiring advice and AI PC hardware."
+      }
+    },
+    {
+      "id": "item_2061034478194340019",
+      "decision": "keep",
+      "reason": "Specific open-source OCR model item with concrete technical claims about parameters, languages, throughput, hardware support, and benchmark score; useful technical variety despite being a secondary summary.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Broadly related to open-source tooling items, but Surya OCR is a distinct document-AI/model story."
+      }
+    },
+    {
+      "id": "item_2061101770110046482",
+      "decision": "keep",
+      "reason": "Concrete practitioner observation about the limits and learning effects of vibe-coded applications; adds a practical software-development angle not covered by the product and company-move items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner item; not duplicative of the enterprise-agent or open-source-tool selections."
+      }
+    },
+    {
+      "id": "item_2061107324509618207",
+      "decision": "keep",
+      "reason": "Direct post from Garry Tan announcing or sharing GBrain as a free MIT-licensed open-source knowledge/agent setup, with a named repository and concrete use case.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to open-source AI workspace reserve items, but GBrain is a distinct repository and author/source."
+      }
+    },
+    {
+      "id": "item_2061326210995540235",
+      "decision": "keep",
+      "reason": "BBC News item on Nvidia announcing a new AI chip for personal computers is concise but source-credible and covers a distinct hardware development from the model-release items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Reserve item_2061310269201265001 appears to discuss the same AI PC/RTX Spark event with more detail but from a less authoritative account; selected BBCNews is the stronger source."
+      }
+    },
+    {
+      "id": "item_2061124484157906995",
+      "decision": "needs_more_search",
+      "reason": "The Demis Hassabis rogue-AI warning is safety-relevant, but the selected tweet is a secondary quote-summary from a low-context account and should be backed by a stronger Twitter/X source or interview-adjacent post before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Reserve item_2061213469719027777 appears tied to a Demis Hassabis interview but emphasizes founders and the next five years rather than the specific rogue-AI warning; it is not a better replacement."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2061223556994965643",
+        "item_2061071932196618352",
+        "item_2061124484157906995"
+      ],
+      "reason": "These selected items make concrete security, workforce, or AI-safety claims through secondary or low-context tweets rather than clearly primary Twitter/X sources."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2061305524700758050",
+        "item_2061071932196618352",
+        "item_2061168497955418245",
+        "item_2061326210995540235"
+      ],
+      "reason": "The packet has a noticeable NVIDIA/Jensen cluster spanning model release, workforce skills, AI revenue forecasts, and AI PC hardware; the angles are distinct, but weaker secondary items in the cluster should not crowd out other coverage."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2061034478194340019",
+        "item_2061107324509618207"
+      ],
+      "reason": "Both selected items are open-source AI tooling/model items, but Surya OCR and GBrain address different use cases and are not redundant."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2061223556994965643"
+      ],
+      "reason": "The selected Meta/Instagram AI-support security story overlaps with reserve item_2061328690886177217, but the reserve is not strong enough to supersede it; use one better-sourced representative if additional Twitter/X search finds one."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2061223556994965643",
+        "item_2061071932196618352",
+        "item_2061124484157906995"
+      ],
+      "reason": "Replacing or strengthening the weakly sourced security, workforce, and safety items would improve the set's balance with better-sourced research, model, policy, or practitioner coverage."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the Meta AI support-agent Instagram account-takeover claim, preferably from a primary researcher, affected account owner, Meta/security account, or detailed incident thread.",
+      "suggested_query_theme": "Twitter/X search for Meta AI support agent Instagram account takeover identity verification since:2026-05-31"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the Jensen Huang AI workforce-skills quote if the labour-market angle should remain in the digest.",
+      "suggested_query_theme": "Twitter/X search for Jensen Huang hire AI expert graduate AI stack agents workflows since:2026-05-31"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the Demis Hassabis AI rogue or AI safety warning quote, ideally from the interview publisher, DeepMind-adjacent account, or a fuller clip/thread.",
+      "suggested_query_theme": "Twitter/X search for Demis Hassabis AI rogue 3 4 years bad actors safety interview since:2026-05-31"
+    }
+  ]
+}
