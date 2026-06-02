@@ -1,0 +1,209 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a strong core of primary-source and high-signal items: Anthropic's confidential S-1 filing, Claude Code rate-limit reset, OpenAI models on AWS, NVIDIA local-AI hardware, and Altman's correction on AI job-performance claims. However, the set is too Anthropic/Claude-heavy, includes several low-engagement practice or learning posts, and relies on secondary/commentary tweets for some factual claims. Replace weaker evergreen/practice items with eligible reserve items or run additional Twitter/X searches for stronger sources.",
+  "decisions": [
+    {
+      "id": "item_2061478052257841495",
+      "decision": "keep",
+      "reason": "Primary Anthropic company announcement about confidentially submitting a draft S-1 and preserving the option to pursue an IPO; high engagement and clear business significance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers the Anthropic IPO filing. Other Anthropic/Claude items are separate tooling, prompting, or practice stories."
+      }
+    },
+    {
+      "id": "item_2061501787769893055",
+      "decision": "keep",
+      "reason": "Primary ClaudeDevs update with concrete remediation for Pro and Max users after excessive Claude Code subagent spawning; timely and operationally specific.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broader Claude ecosystem as other selected items, but this is a distinct service incident rather than corporate finance or prompting content."
+      }
+    },
+    {
+      "id": "item_2061564502160892138",
+      "decision": "keep",
+      "reason": "Primary OpenAI announcement that frontier models and Codex are generally available on AWS/Amazon Bedrock; strong enterprise-distribution story with clear source traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers OpenAI-on-AWS. The Sama foundation reserve is OpenAI-related but a different topic."
+      }
+    },
+    {
+      "id": "item_2061426931162288614",
+      "decision": "keep",
+      "reason": "High-engagement NVIDIA local-AI hardware story with a distinct edge-compute angle. Keep as the best selected representative, but verify hardware details and frame the post as a commentator summary unless a primary NVIDIA source is added.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Reserve item_2061388535257571708 and rejected item_2061645982946021598 cover the same RTX Spark event. The selected item has stronger engagement, while the others offer similar or alternate framing."
+      }
+    },
+    {
+      "id": "item_2061474330609872928",
+      "decision": "needs_more_search",
+      "reason": "The Meta/Instagram AI-generated selfie verification failure angle is relevant, but the tweet makes serious account-hacking and 2FA-bypass claims without enough source trail in the packet. Search for a stronger Twitter/X source before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers this specific security/identity-verification issue; the concern is traceability rather than redundancy."
+      }
+    },
+    {
+      "id": "item_2061455642628702282",
+      "decision": "keep",
+      "reason": "Useful practical Anthropic prompting-workshop resource with reasonable engagement. Keep only one workshop item and treat it as a practice/resource slot rather than a major news story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Eligible reserve item_2061432825631404538 appears to cover the same Anthropic prompting workshop and production-prompting angle. The selected item has slightly stronger engagement, so it is the better representative."
+      }
+    },
+    {
+      "id": "item_2061460145117503509",
+      "decision": "replace_with_existing_candidate",
+      "reason": "This is a lower-engagement second Anthropic-derived practice item in an already Claude/Anthropic-heavy packet. Replace it with a distinct practitioner/infrastructure item from the eligible reserves.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2061388284459184431",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Not a strict duplicate of the prompting workshop, but it overlaps in function as another Anthropic-adjacent workflow/practice resource. The Karpathy Wiki Layer reserve broadens the set."
+      }
+    },
+    {
+      "id": "item_2061602099486457863",
+      "decision": "keep",
+      "reason": "Altman correcting an overbroad AI-outperforms-humans claim is a relevant policy and labor-market framing story. Keep, while seeking the original interview or a stronger Twitter/X source if available.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Several non-eligible rejected items cover the same Altman/jobs messaging debate, including MilkRoadAI, WallStRollup, and LarkDavis. The selected item has the clearest direct quote among selected items."
+      }
+    },
+    {
+      "id": "item_2061591350731018288",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The MIT playlist is evergreen learning content with very low engagement and little urgency. Replace it with a more concrete eligible reserve about decentralized LLM pre-training infrastructure.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2061497940888465861",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate issue; this is a quality and newsworthiness issue. The replacement adds underrepresented model-training infrastructure coverage."
+      }
+    },
+    {
+      "id": "item_2061524805170684374",
+      "decision": "needs_more_search",
+      "reason": "Claude sycophancy and prompting for disagreement is a worthwhile model-behavior angle, but this selected post has very low engagement and reads like an unverified prompt tactic. Search for a stronger Twitter/X source on sycophancy, evaluation, or model disagreement before using this slot.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Broadly overlaps with Claude/practice content but is not the same event as the Anthropic prompting workshop. It should be replaced by stronger model-behavior or evals coverage if found."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2061478052257841495",
+        "item_2061501787769893055",
+        "item_2061455642628702282",
+        "item_2061460145117503509",
+        "item_2061524805170684374"
+      ],
+      "reason": "Half of the selected set is Anthropic/Claude corporate, tooling, prompting, or model-behavior content. Even when individually distinct, the packet is skewed toward one ecosystem."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2061426931162288614",
+        "item_2061474330609872928",
+        "item_2061602099486457863"
+      ],
+      "reason": "These items rely on commentator or secondary framing for concrete claims about NVIDIA hardware specs, Instagram/Meta account-security failures, or Altman's quote context. Stronger Twitter/X source trails would reduce publication risk."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2061455642628702282",
+        "item_2061432825631404538"
+      ],
+      "reason": "The selected Anthropic prompting-workshop item and eligible reserve item_2061432825631404538 appear to cover the same workshop and production-prompting angle; keep at most one."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2061426931162288614",
+        "item_2061388535257571708",
+        "item_2061645982946021598"
+      ],
+      "reason": "Multiple pool items cover the same NVIDIA RTX Spark hardware event. The selected item has the strongest engagement, while the others offer similar or alternate framing and should not create a second digest slot."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [],
+      "reason": "The set lacks strong Google DeepMind/Gemini, open-model release, AI safety/security research, and research-paper coverage despite broad searches."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the Meta or Instagram AI-generated selfie verification and account-takeover claim, preferably from a security researcher, affected account owner, Meta/security account, or detailed incident thread.",
+      "suggested_query_theme": "Twitter/X search for Meta Instagram AI selfie verification account takeover 2FA bypass since:2026-06-01"
+    },
+    {
+      "needed": true,
+      "reason": "Find a primary or closer-to-primary Twitter/X source for NVIDIA RTX Spark hardware specifications and the local-AI PC angle before relying on commentator claims.",
+      "suggested_query_theme": "Twitter/X search for NVIDIA RTX Spark local AI PC chip specifications since:2026-06-01"
+    },
+    {
+      "needed": true,
+      "reason": "Find the original or stronger Twitter/X source for Altman's corrected claim about AI outperforming professionals at small tasks in 44 occupations.",
+      "suggested_query_theme": "Twitter/X search for Sam Altman outperforms professionals small tasks 44 occupations since:2026-06-01"
+    },
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X item for Claude sycophancy, model agreement bias, disagreement prompting, or evaluation to replace the low-engagement selected post.",
+      "suggested_query_theme": "Twitter/X search for Claude sycophancy agrees with users LLM evaluation disagreement prompt since:2026-06-01"
+    },
+    {
+      "needed": true,
+      "reason": "Find fresher non-Anthropic coverage to balance the set, prioritizing concrete model releases, research results, policy/security items, or Google DeepMind/Gemini announcements.",
+      "suggested_query_theme": "Twitter/X search for AI model release research policy security Gemini DeepMind since:2026-06-01"
+    }
+  ]
+}

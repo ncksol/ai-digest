@@ -1,0 +1,500 @@
+{
+  "runId": "cd0ef9e3-387a-4fbe-8ed5-1856e519efe0",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong core of primary-source and high-signal items: Anthropic's confidential S-1 filing, Claude Code rate-limit reset, OpenAI models on AWS, NVIDIA local-AI hardware, and Altman's correction on AI job-performance claims. However, the set is too Anthropic/Claude-heavy, includes several low-engagement practice or learning posts, and relies on secondary/commentary tweets for some factual claims. Replace weaker evergreen/practice items with eligible reserve items or run additional Twitter/X searches for stronger sources.\",\"decisions\":[{\"id\":\"item_2061478052257841495\",\"decision\":\"keep\",\"reason\":\"Primary Anthropic company announcement about confidentially submitting a draft S-1 and preserving the option to pursue an IPO; high engagement and clear business significance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers the Anthropic IPO filing. Other Anthropic/Claude items are separate tooling, prompting, or practice stories.\"}},{\"id\":\"item_2061501787769893055\",\"decision\":\"keep\",\"reason\":\"Primary ClaudeDevs update with concrete remediation for Pro and Max users after excessive Claude Code subagent spawning; timely and operationally specific.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Same broader Claude ecosystem as other selected items, but this is a distinct service incident rather than corporate finance or prompting content.\"}},{\"id\":\"item_2061564502160892138\",\"decision\":\"keep\",\"reason\":\"Primary OpenAI announcement that frontier models and Codex are generally available on AWS/Amazon Bedrock; strong enterprise-distribution story with clear source traceability.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers OpenAI-on-AWS. The Sama foundation reserve is OpenAI-related but a different topic.\"}},{\"id\":\"item_2061426931162288614\",\"decision\":\"keep\",\"reason\":\"High-engagement NVIDIA local-AI hardware story with a distinct edge-compute angle. Keep as the best selected representative, but verify hardware details and frame the post as a commentator summary unless a primary NVIDIA source is added.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Reserve item_2061388535257571708 and rejected item_2061645982946021598 cover the same RTX Spark event. The selected item has stronger engagement, while the others offer similar or alternate framing.\"}},{\"id\":\"item_2061474330609872928\",\"decision\":\"needs_more_search\",\"reason\":\"The Meta/Instagram AI-generated selfie verification failure angle is relevant, but the tweet makes serious account-hacking and 2FA-bypass claims without enough source trail in the packet. Search for a stronger Twitter/X source before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers this specific security/identity-verification issue; the concern is traceability rather than redundancy.\"}},{\"id\":\"item_2061455642628702282\",\"decision\":\"keep\",\"reason\":\"Useful practical Anthropic prompting-workshop resource with reasonable engagement. Keep only one workshop item and treat it as a practice/resource slot rather than a major news story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Eligible reserve item_2061432825631404538 appears to cover the same Anthropic prompting workshop and production-prompting angle. The selected item has slightly stronger engagement, so it is the better representative.\"}},{\"id\":\"item_2061460145117503509\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"This is a lower-engagement second Anthropic-derived practice item in an already Claude/Anthropic-heavy packet. Replace it with a distinct practitioner/infrastructure item from the eligible reserves.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2061388284459184431\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Not a strict duplicate of the prompting workshop, but it overlaps in function as another Anthropic-adjacent workflow/practice resource. The Karpathy Wiki Layer reserve broadens the set.\"}},{\"id\":\"item_2061602099486457863\",\"decision\":\"keep\",\"reason\":\"Altman correcting an overbroad AI-outperforms-humans claim is a relevant policy and labor-market framing story. Keep, while seeking the original interview or a stronger Twitter/X source if available.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Several non-eligible rejected items cover the same Altman/jobs messaging debate, including MilkRoadAI, WallStRollup, and LarkDavis. The selected item has the clearest direct quote among selected items.\"}},{\"id\":\"item_2061591350731018288\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The MIT playlist is evergreen learning content with very low engagement and little urgency. Replace it with a more concrete eligible reserve about decentralized LLM pre-training infrastructure.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2061497940888465861\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate issue; this is a quality and newsworthiness issue. The replacement adds underrepresented model-training infrastructure coverage.\"}},{\"id\":\"item_2061524805170684374\",\"decision\":\"needs_more_search\",\"reason\":\"Claude sycophancy and prompting for disagreement is a worthwhile model-behavior angle, but this selected post has very low engagement and reads like an unverified prompt tactic. Search for a stronger Twitter/X source on sycophancy, evaluation, or model disagreement before using this slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly overlaps with Claude/practice content but is not the same event as the Anthropic prompting workshop. It should be replaced by stronger model-behavior or evals coverage if found.\"}}],\"set_level_flags\":[{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2061478052257841495\",\"item_2061501787769893055\",\"item_2061455642628702282\",\"item_2061460145117503509\",\"item_2061524805170684374\"],\"reason\":\"Half of the selected set is Anthropic/Claude corporate, tooling, prompting, or model-behavior content. Even when individually distinct, the packet is skewed toward one ecosystem.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2061426931162288614\",\"item_2061474330609872928\",\"item_2061602099486457863\"],\"reason\":\"These items rely on commentator or secondary framing for concrete claims about NVIDIA hardware specs, Instagram/Meta account-security failures, or Altman's quote context. Stronger Twitter/X source trails would reduce publication risk.\"},{\"type\":\"redundant_story\",\"item_ids\":[\"item_2061455642628702282\",\"item_2061432825631404538\"],\"reason\":\"The selected Anthropic prompting-workshop item and eligible reserve item_2061432825631404538 appear to cover the same workshop and production-prompting angle; keep at most one.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2061426931162288614\",\"item_2061388535257571708\",\"item_2061645982946021598\"],\"reason\":\"Multiple pool items cover the same NVIDIA RTX Spark hardware event. The selected item has the strongest engagement, while the others offer similar or alternate framing and should not create a second digest slot.\"},{\"type\":\"coverage_gap\",\"item_ids\":[],\"reason\":\"The set lacks strong Google DeepMind/Gemini, open-model release, AI safety/security research, and research-paper coverage despite broad searches.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a stronger Twitter/X source for the Meta or Instagram AI-generated selfie verification and account-takeover claim, preferably from a security researcher, affected account owner, Meta/security account, or detailed incident thread.\",\"suggested_query_theme\":\"Twitter/X search for Meta Instagram AI selfie verification account takeover 2FA bypass since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter/X source for NVIDIA RTX Spark hardware specifications and the local-AI PC angle before relying on commentator claims.\",\"suggested_query_theme\":\"Twitter/X search for NVIDIA RTX Spark local AI PC chip specifications since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find the original or stronger Twitter/X source for Altman's corrected claim about AI outperforming professionals at small tasks in 44 occupations.\",\"suggested_query_theme\":\"Twitter/X search for Sam Altman outperforms professionals small tasks 44 occupations since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter/X item for Claude sycophancy, model agreement bias, disagreement prompting, or evaluation to replace the low-engagement selected post.\",\"suggested_query_theme\":\"Twitter/X search for Claude sycophancy agrees with users LLM evaluation disagreement prompt since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find fresher non-Anthropic coverage to balance the set, prioritizing concrete model releases, research results, policy/security items, or Google DeepMind/Gemini announcements.\",\"suggested_query_theme\":\"Twitter/X search for AI model release research policy security Gemini DeepMind since:2026-06-01\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 65967,
+      "agentMeta": {
+        "sessionId": "9ef30063-197b-4515-989e-286252c0cfe8",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/9ef30063-197b-4515-989e-286252c0cfe8.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "pi",
+        "usage": {
+          "input": 42620,
+          "output": 3210,
+          "cacheRead": 161792,
+          "total": 62548
+        },
+        "lastCallUsage": {
+          "input": 3579,
+          "output": 2649,
+          "cacheRead": 56320,
+          "cacheWrite": 0,
+          "total": 62548
+        },
+        "promptTokens": 59899,
+        "contextBudgetStatus": {
+          "schemaVersion": 1,
+          "source": "pre-prompt-estimate",
+          "updatedAt": 1780384049343,
+          "provider": "github-copilot",
+          "model": "gpt-5.5",
+          "route": "fits",
+          "shouldCompact": false,
+          "estimatedPromptTokens": 71336,
+          "contextTokenBudget": 400000,
+          "promptBudgetBeforeReserve": 383616,
+          "reserveTokens": 16384,
+          "effectiveReserveTokens": 16384,
+          "remainingPromptBudgetTokens": 312280,
+          "overflowTokens": 0,
+          "toolResultReducibleChars": 11775,
+          "messageCount": 7,
+          "unwindowedMessageCount": 7,
+          "sessionId": "9ef30063-197b-4515-989e-286252c0cfe8"
+        }
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1780384049262,
+        "sessionId": "9ef30063-197b-4515-989e-286252c0cfe8",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 12000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "always",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 35379,
+          "projectContextChars": 13795,
+          "nonProjectContextChars": 21584,
+          "hash": "13d105b1aa156c18d99812b9e66d92e1ef37181d052c8059eda1ab2c7ad26557"
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "hash": "80bb2537b3d6aa26922437384a4a5bc1c795cd7382c470ea9df9c6eb8cefe002",
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 34503,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "summaryHash": "f8a1d7cf1ecfe02b1b5865c93387e6a5891e5079117b4fe18614b6f912521727",
+              "schemaChars": 304,
+              "schemaHash": "5fad0fa7493528bc4284f5c447781325f67099f5fc018206efdc461d33962e85",
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "summaryHash": "c498a85576e187d069e8e8ea4f70f81bddd57829600d385ef61c4359fd634c9e",
+              "schemaChars": 834,
+              "schemaHash": "35f838a1c312a5795b1fc1f7b36fba400cc87229a0025c42c248f12f43ff6d6f",
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "summaryHash": "cdb1c46027b22d1f1b923b47bfe297821d9fe589a9f9d92994961948060a4d89",
+              "schemaChars": 225,
+              "schemaHash": "7e51d1de0f2ccb5fe8de82d51ee3a1d9065e3c4f7c53497ce12f283d6f2f5aa0",
+              "propertiesCount": 2
+            },
+            {
+              "name": "exec",
+              "summaryChars": 539,
+              "summaryHash": "4825198988fbfa8ebf5c2a8fbe3946da0be639b1e3b737ceaa4364195bba3f04",
+              "schemaChars": 1187,
+              "schemaHash": "75ca88a76588ace4567865f751df8a229a04a7470a102a001cc46ec8ec005bff",
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 456,
+              "summaryHash": "55297e65d460e0e1e06e7fad4cedb75ffda8fac9fa8b10aa06d6cead3c5a76ea",
+              "schemaChars": 1074,
+              "schemaHash": "5343155751d4a8889347cf88f926ce566c04915e7f4a0c8088158de566c7cab6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "nodes",
+              "summaryChars": 143,
+              "summaryHash": "ea1b0a5498ca3c788b26d164245652e1aaa989806e0123715793ab25f9578121",
+              "schemaChars": 1589,
+              "schemaHash": "9a9ea45282099c99cae1f7b17e163ed64a205aacad939317062dbacf984caa06",
+              "propertiesCount": 32
+            },
+            {
+              "name": "cron",
+              "summaryChars": 3610,
+              "summaryHash": "262e6a7b421538d13ca6d79fc14616de3ea0c24fde8b050d6fa1652fe991e5c5",
+              "schemaChars": 7191,
+              "schemaHash": "9822b3fba31ad33586c004bcf3256b66c29da16f429ea7f3e3daad9f0eaa1aa2",
+              "propertiesCount": 14
+            },
+            {
+              "name": "message",
+              "summaryChars": 605,
+              "summaryHash": "c9064ba9ed2203fa81efbd9e5a696506feb02b406196e2df541e2cbde964991b",
+              "schemaChars": 6312,
+              "schemaHash": "398f2af95b52467cd9380b140bc691d851aff606bf9e248a6534cf468894764c",
+              "propertiesCount": 111
+            },
+            {
+              "name": "tts",
+              "summaryChars": 217,
+              "summaryHash": "652c1970c199d82b61061a40be2adddfc7e5634df5d896d776a8a0047c8a6b75",
+              "schemaChars": 263,
+              "schemaHash": "d9efc73ba725b1355070c0f43f4de8fbb4462a80dc2efc58c11cb81ead09ddcf",
+              "propertiesCount": 3
+            },
+            {
+              "name": "gateway",
+              "summaryChars": 377,
+              "summaryHash": "61f7e422103698365bb389c00ae4c46b9630840b16971cd141e91ac8f486029d",
+              "schemaChars": 537,
+              "schemaHash": "7c57ca70288dd5e84b8dbd01e49d6d6c5affcbf2467e9db149a3cf84e338b839",
+              "propertiesCount": 13
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 63,
+              "summaryHash": "a7afb8adbaf98833df68160db0677ec2a6bc30b1b96f3592392c9df59e310c65",
+              "schemaChars": 33,
+              "schemaHash": "efddc7bd8bbcef73a14eb1ace1ffdaec81e518ef1e13c1e9271d0b8acb694a49",
+              "propertiesCount": 0
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 135,
+              "summaryHash": "c7e411ae02e3adff5504aaee48f02d262a8abb9152558a3172aae289e3b05faf",
+              "schemaChars": 432,
+              "schemaHash": "9b2e90e1e527755ec253d08fc8da4e3068c3a7b3db6f92847f1c30c4d3eeab1b",
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 117,
+              "summaryHash": "f5d45b76f11a8ac63cc45d456fb6f675f0b1a2e191feb9671924cb5830058f03",
+              "schemaChars": 161,
+              "schemaHash": "7edc087015c0cd2a6af16a10fb25f5e7a64823179e979584f459d062c2596dc6",
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 224,
+              "summaryHash": "56fd935fc97400f8c60b16ae58268660a2d84d8014a60abed515576c45a6f307",
+              "schemaChars": 274,
+              "schemaHash": "8967c4962b1ef9809a47cc8d3e2527366a6fcf48d6ca5f1fd1a90958bc9dcb74",
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 471,
+              "summaryHash": "ae9c266493d1a11ece59ae07f445910d4a17a1547d8afa2ef5f9cba6c6931877",
+              "schemaChars": 1565,
+              "schemaHash": "010fba2f3bda056f6be602db42b1e60cdb17dab6988d6c29f7bac895ac89fbcd",
+              "propertiesCount": 19
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 79,
+              "summaryHash": "f3782fc41c1522657e1d3494f486a2df998fed38a6b89dcf7f6934fb41424320",
+              "schemaChars": 60,
+              "schemaHash": "d803b8cd6aef950bd59c7467fe8ce4d612d0730f5b0270a521b792f7ef6e4550",
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 132,
+              "summaryHash": "1c2ffd38549c0444b118d43736fc4b875ea1aaabc446bbf8bc1fc4ee9180cca4",
+              "schemaChars": 121,
+              "schemaHash": "4fa3ea33309fe77b07fd561e6ccc69ad3b35853d34e693b51f384090dd2ef3fa",
+              "propertiesCount": 2
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 278,
+              "summaryHash": "71177e543dc6235bad4b1a26761995681dcec27ab58dcb4f4f8a7fc9a7b2b5aa",
+              "schemaChars": 89,
+              "schemaHash": "1822f3efd219be167f1d4c7da1657089217484783b790caaddd3483480b767eb",
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 65,
+              "summaryHash": "b38e9b3c079beaa988d3c576303660b91a55c2e72f56351da04160529173273f",
+              "schemaChars": 991,
+              "schemaHash": "24de6a88147bd50f6312e3c93615c22537d283238c6862750994fd2d13a1c228",
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 93,
+              "summaryHash": "8875afbb51bd63673e5e6836ca31eeda73914a464862665cd73b346e28d28fd5",
+              "schemaChars": 316,
+              "schemaHash": "f7b8b6dd7148b305ec2ee39e31eb9e6c47812506e5f180012644403d6abe4585",
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 169,
+              "summaryHash": "a46820ca8952445d3663a8908bfa5d3adddff5b53d18b9d8e9eed8f9e593b494",
+              "schemaChars": 316,
+              "schemaHash": "cc88f0ff22a20bbf9606b71cf838fbd8ff8f2f32baf566b3ba561b28a3fcc9f1",
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "summaryHash": "8a4aab8d6a66131c4f065bc2672af8fbcc19555e55fb4fbb1c24261d02e63e28",
+              "schemaChars": 3005,
+              "schemaHash": "7898669f7b82f485495ba9f89f54ce68ff759dd2480fcb7a217815c89e41ebfc",
+              "propertiesCount": 53
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "summaryHash": "0f918d28864d3682ae77731f149273997c84773592a466b18c7cd0121b599a05",
+              "schemaChars": 237,
+              "schemaHash": "0cc2ef5113533f7e2e08a684b41eeb3eb31f65cdd1f55ff3eb8fc59ddf33683b",
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "summaryHash": "bff1141a3da31a345c550337417efc9ace4da2909004606c727c59ca1a294495",
+              "schemaChars": 215,
+              "schemaHash": "559dad1c0c7e971d1cbc830bca1966c87e451a9f42c8a9b94dc4a583f42d88bd",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "summaryHash": "affbacbf0f44b3be410376ea0313005f3d1a98c06d60a39b9d73bb8348de5dee",
+              "schemaChars": 1667,
+              "schemaHash": "f66fa69bfaee245cef252c9643db366f2e11a9febe7290bdee4556c8658b3441",
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 233,
+              "summaryHash": "88d8f6c086178017ecc4e01e06c1ea99aec650fb072a61bd31386bf46d9e54c2",
+              "schemaChars": 592,
+              "schemaHash": "375dffc78d22bd89b2a76761883b4031e69ad3482bfb1dbade9bec58f2d24807",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "summaryHash": "aa164171b38ca575dc4bdf4f24656561da79ce6d789b03188e91780975cac3b6",
+              "schemaChars": 987,
+              "schemaHash": "ca73cb7ca261c0350904cff33780c73270081e52f5e94151bbd18a259cb24ddb",
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "summaryHash": "ab77cdbb7a9e756591159e3056051405d8e639f9840e8f611ee999b18efecfe7",
+              "schemaChars": 1191,
+              "schemaHash": "daacd8542e404de23c32befd6b7e66d19f9ef991045d067daf85fc4a8bb76830",
+              "propertiesCount": 7
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "summaryHash": "3d8baa7de69d8a18706da77f6ae9e6f758d699abd81551380e6cc4a13e2011cb",
+              "schemaChars": 1439,
+              "schemaHash": "18502e1eca47474729ed37e06cc674c5b25cfd15246e972d71e09ffc23c71fb6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "summaryHash": "3a76cce18e18140589a3cba72722a0d76a338d5a3dcf46d93af39fd015e0e77c",
+              "schemaChars": 1296,
+              "schemaHash": "978afb7c97eeccaebfc9379d9abca1bb68ef8d3cedd5c54ddc56640b3c7214b3",
+              "propertiesCount": 10
+            }
+          ]
+        },
+        "currentTurn": {
+          "promptChars": 2982,
+          "runtimeContextChars": 0
+        }
+      },
+      "finalPromptText": "[Tue 2026-06-02 08:07 GMT+1] Previous validation failed: {\n  \"ok\": false,\n  \"errors\": [\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/additional_search_requests/0\",\n      \"message\": \"must have required property 'needed'\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/additional_search_requests/1\",\n      \"message\": \"must have required property 'needed'\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/additional_search_requests/2\",\n      \"message\": \"must have required property 'needed'\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/additional_search_requests/3\",\n      \"message\": \"must have required property 'needed'\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/additional_search_requests/4\",\n      \"message\": \"must have required property 'needed'\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/additional_search_requests/5\",\n      \"message\": \"must have required property 'needed'\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/additional_search_requests\",\n      \"message\": \"must contain at least 1 valid item(s)\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/\",\n      \"message\": \"must match \\\"then\\\" schema\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/overall_verdict\",\n      \"message\": \"must be equal to one of the allowed values\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n      \"path\": \"/set_level_flags/0\",\n      \"message\": \"must have required property 'reason'\"\n    },\n    {\n      \"ok\": false,\n      \"stage\": \"schema\",\n      \"code\": \"schema_violation\",\n  \n\nReview the Twitter AI Digest candidate packet at /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-06-02.editor-cycle-1.input.json and return only valid JSON following twitter_ai_digest_editor_output.v1. Return exactly one JSON object. Required fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests. schema_version exactly twitter_ai_digest_editor_output.v1. decisions must contain one object for every selected item id. Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment. duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes. set_level_flags entries are objects, never strings. additional_search_requests entries are objects, never strings, with keys needed, reason, suggested_query_theme. Use [] if none. Do not include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong core of primary-source and high-signal items: Anthropic's confidential S-1 filing, Claude Code rate-limit reset, OpenAI models on AWS, NVIDIA local-AI hardware, and Altman's correction on AI job-performance claims. However, the set is too Anthropic/Claude-heavy, includes several low-engagement practice or learning posts, and relies on secondary/commentary tweets for some factual claims. Replace weaker evergreen/practice items with eligible reserve items or run additional Twitter/X searches for stronger sources.\",\"decisions\":[{\"id\":\"item_2061478052257841495\",\"decision\":\"keep\",\"reason\":\"Primary Anthropic company announcement about confidentially submitting a draft S-1 and preserving the option to pursue an IPO; high engagement and clear business significance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers the Anthropic IPO filing. Other Anthropic/Claude items are separate tooling, prompting, or practice stories.\"}},{\"id\":\"item_2061501787769893055\",\"decision\":\"keep\",\"reason\":\"Primary ClaudeDevs update with concrete remediation for Pro and Max users after excessive Claude Code subagent spawning; timely and operationally specific.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Same broader Claude ecosystem as other selected items, but this is a distinct service incident rather than corporate finance or prompting content.\"}},{\"id\":\"item_2061564502160892138\",\"decision\":\"keep\",\"reason\":\"Primary OpenAI announcement that frontier models and Codex are generally available on AWS/Amazon Bedrock; strong enterprise-distribution story with clear source traceability.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers OpenAI-on-AWS. The Sama foundation reserve is OpenAI-related but a different topic.\"}},{\"id\":\"item_2061426931162288614\",\"decision\":\"keep\",\"reason\":\"High-engagement NVIDIA local-AI hardware story with a distinct edge-compute angle. Keep as the best selected representative, but verify hardware details and frame the post as a commentator summary unless a primary NVIDIA source is added.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Reserve item_2061388535257571708 and rejected item_2061645982946021598 cover the same RTX Spark event. The selected item has stronger engagement, while the others offer similar or alternate framing.\"}},{\"id\":\"item_2061474330609872928\",\"decision\":\"needs_more_search\",\"reason\":\"The Meta/Instagram AI-generated selfie verification failure angle is relevant, but the tweet makes serious account-hacking and 2FA-bypass claims without enough source trail in the packet. Search for a stronger Twitter/X source before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers this specific security/identity-verification issue; the concern is traceability rather than redundancy.\"}},{\"id\":\"item_2061455642628702282\",\"decision\":\"keep\",\"reason\":\"Useful practical Anthropic prompting-workshop resource with reasonable engagement. Keep only one workshop item and treat it as a practice/resource slot rather than a major news story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Eligible reserve item_2061432825631404538 appears to cover the same Anthropic prompting workshop and production-prompting angle. The selected item has slightly stronger engagement, so it is the better representative.\"}},{\"id\":\"item_2061460145117503509\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"This is a lower-engagement second Anthropic-derived practice item in an already Claude/Anthropic-heavy packet. Replace it with a distinct practitioner/infrastructure item from the eligible reserves.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2061388284459184431\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Not a strict duplicate of the prompting workshop, but it overlaps in function as another Anthropic-adjacent workflow/practice resource. The Karpathy Wiki Layer reserve broadens the set.\"}},{\"id\":\"item_2061602099486457863\",\"decision\":\"keep\",\"reason\":\"Altman correcting an overbroad AI-outperforms-humans claim is a relevant policy and labor-market framing story. Keep, while seeking the original interview or a stronger Twitter/X source if available.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Several non-eligible rejected items cover the same Altman/jobs messaging debate, including MilkRoadAI, WallStRollup, and LarkDavis. The selected item has the clearest direct quote among selected items.\"}},{\"id\":\"item_2061591350731018288\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The MIT playlist is evergreen learning content with very low engagement and little urgency. Replace it with a more concrete eligible reserve about decentralized LLM pre-training infrastructure.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2061497940888465861\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate issue; this is a quality and newsworthiness issue. The replacement adds underrepresented model-training infrastructure coverage.\"}},{\"id\":\"item_2061524805170684374\",\"decision\":\"needs_more_search\",\"reason\":\"Claude sycophancy and prompting for disagreement is a worthwhile model-behavior angle, but this selected post has very low engagement and reads like an unverified prompt tactic. Search for a stronger Twitter/X source on sycophancy, evaluation, or model disagreement before using this slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly overlaps with Claude/practice content but is not the same event as the Anthropic prompting workshop. It should be replaced by stronger model-behavior or evals coverage if found.\"}}],\"set_level_flags\":[{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2061478052257841495\",\"item_2061501787769893055\",\"item_2061455642628702282\",\"item_2061460145117503509\",\"item_2061524805170684374\"],\"reason\":\"Half of the selected set is Anthropic/Claude corporate, tooling, prompting, or model-behavior content. Even when individually distinct, the packet is skewed toward one ecosystem.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2061426931162288614\",\"item_2061474330609872928\",\"item_2061602099486457863\"],\"reason\":\"These items rely on commentator or secondary framing for concrete claims about NVIDIA hardware specs, Instagram/Meta account-security failures, or Altman's quote context. Stronger Twitter/X source trails would reduce publication risk.\"},{\"type\":\"redundant_story\",\"item_ids\":[\"item_2061455642628702282\",\"item_2061432825631404538\"],\"reason\":\"The selected Anthropic prompting-workshop item and eligible reserve item_2061432825631404538 appear to cover the same workshop and production-prompting angle; keep at most one.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2061426931162288614\",\"item_2061388535257571708\",\"item_2061645982946021598\"],\"reason\":\"Multiple pool items cover the same NVIDIA RTX Spark hardware event. The selected item has the strongest engagement, while the others offer similar or alternate framing and should not create a second digest slot.\"},{\"type\":\"coverage_gap\",\"item_ids\":[],\"reason\":\"The set lacks strong Google DeepMind/Gemini, open-model release, AI safety/security research, and research-paper coverage despite broad searches.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a stronger Twitter/X source for the Meta or Instagram AI-generated selfie verification and account-takeover claim, preferably from a security researcher, affected account owner, Meta/security account, or detailed incident thread.\",\"suggested_query_theme\":\"Twitter/X search for Meta Instagram AI selfie verification account takeover 2FA bypass since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter/X source for NVIDIA RTX Spark hardware specifications and the local-AI PC angle before relying on commentator claims.\",\"suggested_query_theme\":\"Twitter/X search for NVIDIA RTX Spark local AI PC chip specifications since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find the original or stronger Twitter/X source for Altman's corrected claim about AI outperforming professionals at small tasks in 44 occupations.\",\"suggested_query_theme\":\"Twitter/X search for Sam Altman outperforms professionals small tasks 44 occupations since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter/X item for Claude sycophancy, model agreement bias, disagreement prompting, or evaluation to replace the low-engagement selected post.\",\"suggested_query_theme\":\"Twitter/X search for Claude sycophancy agrees with users LLM evaluation disagreement prompt since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find fresher non-Anthropic coverage to balance the set, prioritizing concrete model releases, research results, policy/security items, or Google DeepMind/Gemini announcements.\",\"suggested_query_theme\":\"Twitter/X search for AI model release research policy security Gemini DeepMind since:2026-06-01\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong core of primary-source and high-signal items: Anthropic's confidential S-1 filing, Claude Code rate-limit reset, OpenAI models on AWS, NVIDIA local-AI hardware, and Altman's correction on AI job-performance claims. However, the set is too Anthropic/Claude-heavy, includes several low-engagement practice or learning posts, and relies on secondary/commentary tweets for some factual claims. Replace weaker evergreen/practice items with eligible reserve items or run additional Twitter/X searches for stronger sources.\",\"decisions\":[{\"id\":\"item_2061478052257841495\",\"decision\":\"keep\",\"reason\":\"Primary Anthropic company announcement about confidentially submitting a draft S-1 and preserving the option to pursue an IPO; high engagement and clear business significance.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers the Anthropic IPO filing. Other Anthropic/Claude items are separate tooling, prompting, or practice stories.\"}},{\"id\":\"item_2061501787769893055\",\"decision\":\"keep\",\"reason\":\"Primary ClaudeDevs update with concrete remediation for Pro and Max users after excessive Claude Code subagent spawning; timely and operationally specific.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Same broader Claude ecosystem as other selected items, but this is a distinct service incident rather than corporate finance or prompting content.\"}},{\"id\":\"item_2061564502160892138\",\"decision\":\"keep\",\"reason\":\"Primary OpenAI announcement that frontier models and Codex are generally available on AWS/Amazon Bedrock; strong enterprise-distribution story with clear source traceability.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers OpenAI-on-AWS. The Sama foundation reserve is OpenAI-related but a different topic.\"}},{\"id\":\"item_2061426931162288614\",\"decision\":\"keep\",\"reason\":\"High-engagement NVIDIA local-AI hardware story with a distinct edge-compute angle. Keep as the best selected representative, but verify hardware details and frame the post as a commentator summary unless a primary NVIDIA source is added.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Reserve item_2061388535257571708 and rejected item_2061645982946021598 cover the same RTX Spark event. The selected item has stronger engagement, while the others offer similar or alternate framing.\"}},{\"id\":\"item_2061474330609872928\",\"decision\":\"needs_more_search\",\"reason\":\"The Meta/Instagram AI-generated selfie verification failure angle is relevant, but the tweet makes serious account-hacking and 2FA-bypass claims without enough source trail in the packet. Search for a stronger Twitter/X source before inclusion.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers this specific security/identity-verification issue; the concern is traceability rather than redundancy.\"}},{\"id\":\"item_2061455642628702282\",\"decision\":\"keep\",\"reason\":\"Useful practical Anthropic prompting-workshop resource with reasonable engagement. Keep only one workshop item and treat it as a practice/resource slot rather than a major news story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Eligible reserve item_2061432825631404538 appears to cover the same Anthropic prompting workshop and production-prompting angle. The selected item has slightly stronger engagement, so it is the better representative.\"}},{\"id\":\"item_2061460145117503509\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"This is a lower-engagement second Anthropic-derived practice item in an already Claude/Anthropic-heavy packet. Replace it with a distinct practitioner/infrastructure item from the eligible reserves.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2061388284459184431\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Not a strict duplicate of the prompting workshop, but it overlaps in function as another Anthropic-adjacent workflow/practice resource. The Karpathy Wiki Layer reserve broadens the set.\"}},{\"id\":\"item_2061602099486457863\",\"decision\":\"keep\",\"reason\":\"Altman correcting an overbroad AI-outperforms-humans claim is a relevant policy and labor-market framing story. Keep, while seeking the original interview or a stronger Twitter/X source if available.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Several non-eligible rejected items cover the same Altman/jobs messaging debate, including MilkRoadAI, WallStRollup, and LarkDavis. The selected item has the clearest direct quote among selected items.\"}},{\"id\":\"item_2061591350731018288\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The MIT playlist is evergreen learning content with very low engagement and little urgency. Replace it with a more concrete eligible reserve about decentralized LLM pre-training infrastructure.\",\"superseded_by\":null,\"replacement_candidate_id\":\"item_2061497940888465861\",\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No duplicate issue; this is a quality and newsworthiness issue. The replacement adds underrepresented model-training infrastructure coverage.\"}},{\"id\":\"item_2061524805170684374\",\"decision\":\"needs_more_search\",\"reason\":\"Claude sycophancy and prompting for disagreement is a worthwhile model-behavior angle, but this selected post has very low engagement and reads like an unverified prompt tactic. Search for a stronger Twitter/X source on sycophancy, evaluation, or model disagreement before using this slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly overlaps with Claude/practice content but is not the same event as the Anthropic prompting workshop. It should be replaced by stronger model-behavior or evals coverage if found.\"}}],\"set_level_flags\":[{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2061478052257841495\",\"item_2061501787769893055\",\"item_2061455642628702282\",\"item_2061460145117503509\",\"item_2061524805170684374\"],\"reason\":\"Half of the selected set is Anthropic/Claude corporate, tooling, prompting, or model-behavior content. Even when individually distinct, the packet is skewed toward one ecosystem.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2061426931162288614\",\"item_2061474330609872928\",\"item_2061602099486457863\"],\"reason\":\"These items rely on commentator or secondary framing for concrete claims about NVIDIA hardware specs, Instagram/Meta account-security failures, or Altman's quote context. Stronger Twitter/X source trails would reduce publication risk.\"},{\"type\":\"redundant_story\",\"item_ids\":[\"item_2061455642628702282\",\"item_2061432825631404538\"],\"reason\":\"The selected Anthropic prompting-workshop item and eligible reserve item_2061432825631404538 appear to cover the same workshop and production-prompting angle; keep at most one.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2061426931162288614\",\"item_2061388535257571708\",\"item_2061645982946021598\"],\"reason\":\"Multiple pool items cover the same NVIDIA RTX Spark hardware event. The selected item has the strongest engagement, while the others offer similar or alternate framing and should not create a second digest slot.\"},{\"type\":\"coverage_gap\",\"item_ids\":[],\"reason\":\"The set lacks strong Google DeepMind/Gemini, open-model release, AI safety/security research, and research-paper coverage despite broad searches.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a stronger Twitter/X source for the Meta or Instagram AI-generated selfie verification and account-takeover claim, preferably from a security researcher, affected account owner, Meta/security account, or detailed incident thread.\",\"suggested_query_theme\":\"Twitter/X search for Meta Instagram AI selfie verification account takeover 2FA bypass since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter/X source for NVIDIA RTX Spark hardware specifications and the local-AI PC angle before relying on commentator claims.\",\"suggested_query_theme\":\"Twitter/X search for NVIDIA RTX Spark local AI PC chip specifications since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find the original or stronger Twitter/X source for Altman's corrected claim about AI outperforming professionals at small tasks in 44 occupations.\",\"suggested_query_theme\":\"Twitter/X search for Sam Altman outperforms professionals small tasks 44 occupations since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find a stronger Twitter/X item for Claude sycophancy, model agreement bias, disagreement prompting, or evaluation to replace the low-engagement selected post.\",\"suggested_query_theme\":\"Twitter/X search for Claude sycophancy agrees with users LLM evaluation disagreement prompt since:2026-06-01\"},{\"needed\":true,\"reason\":\"Find fresher non-Anthropic coverage to balance the set, prioritizing concrete model releases, research results, policy/security items, or Google DeepMind/Gemini announcements.\",\"suggested_query_theme\":\"Twitter/X search for AI model release research policy security Gemini DeepMind since:2026-06-01\"}]}",
+      "replayInvalid": true,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "toolSummary": {
+        "calls": 3,
+        "tools": [
+          "exec"
+        ],
+        "failures": 0
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    }
+  }
+}

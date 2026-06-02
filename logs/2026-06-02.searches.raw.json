@@ -1,0 +1,835 @@
+{
+  "since": "2026-06-01",
+  "fails": 1,
+  "results": [
+    {
+      "query": "AI since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "shiri_shh",
+          "id": "2061426931162288614",
+          "likes": 26000,
+          "replies": 1100,
+          "retweets": 2600,
+          "text": "The laptop hasn't changed in 30 years. NVIDIA just changed it\n\nRTX Spark is their first PC chip ever.\n\n- RTX 5070 level GPU\n- 128GB unified memory\n- 1 petaflop of local AI\n- thin, light, barely throttles unplugged\n\nYour AI agent lives on the machine. 24/7. No cloud.\n\nThis is step",
+          "url": "https://x.com/shiri_shh/status/2061426931162288614",
+          "views": 5800000
+        },
+        {
+          "author": "sama",
+          "id": "2061562575322492937",
+          "likes": 1500,
+          "replies": 333,
+          "retweets": 153,
+          "text": "The OpenAI Foundation is doing a lot of wonderful things.\n\nHelping society become resilient to AI is going to be incredibly important. Much more to come here!",
+          "url": "https://x.com/sama/status/2061562575322492937",
+          "views": 229000
+        },
+        {
+          "author": "k1rallik",
+          "id": "2061388535257571708",
+          "likes": 7800,
+          "replies": 413,
+          "retweets": 796,
+          "text": "do you understand what just happened with NVIDIA RTX Spark..\n\nJensen Huang walked on stage and pulled an entire gaming PC out of his pocket. \n\nNVIDIA merged the CPU, RTX GPU, AI hardware and up to 128GB of memory into one Windows-on-ARM superchip and called it the end of the PC",
+          "url": "https://x.com/k1rallik/status/2061388535257571708",
+          "views": 2100000
+        },
+        {
+          "author": "GergelyOrosz",
+          "id": "2061474330609872928",
+          "likes": 1300,
+          "replies": 28,
+          "retweets": 173,
+          "text": "It’s wild how Meta - a company going all-in on AI - somehow missed the memo on how AI can generate images and videos that renders “take a selfie of yourself” verifications utterly useless\n\nSo now Instagram accounts hacked at scale. 2FA also fully bypassed - by Meta’s own design",
+          "url": "https://x.com/GergelyOrosz/status/2061474330609872928",
+          "views": 197000
+        },
+        {
+          "author": "0xwhrrari",
+          "id": "2061432825631404538",
+          "likes": 537,
+          "replies": 32,
+          "retweets": 76,
+          "text": "Most people think prompting is just writing better sentences\n\nAnthropic shows why that's wrong\n\nThis 32-minute workshop breaks down how prompts are built for production\n\nNot prompt hacks\nNot \"act as\"\nNot another $300 course\n\nActual systems\n\nEvals\nEdge cases\nModel migration\nAgent",
+          "url": "https://x.com/0xwhrrari/status/2061432825631404538",
+          "views": 105000
+        },
+        {
+          "author": "aakashgupta",
+          "id": "2061645982946021598",
+          "likes": 168,
+          "replies": 26,
+          "retweets": 21,
+          "text": "Everyone's looking at the games. The real target is Intel and AMD.\n\nRTX Spark is a full PC on one chip: a 20-core Grace CPU, an RTX graphics core rated around a 5070, and a petaflop of AI compute, all running Windows on Arm. For the first time in 40 years, a mainstream Windows",
+          "url": "https://x.com/aakashgupta/status/2061645982946021598",
+          "views": 35000
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "LLM since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "Grummz",
+          "id": "2061300454907371953",
+          "likes": 15000,
+          "replies": 263,
+          "retweets": 1000,
+          "text": "PewDiePie releasing a local based LLM agent to compete with ChatGPT and OpenClaw was not on my bingo card for 2026:\n\nWhat is Odysseus?\n\nLocal/self-hosted AI workspace — Runs on your own hardware (or via APIs if you want), no cloud dependency, no accounts, no telemetry/tracking.",
+          "url": "https://x.com/Grummz/status/2061300454907371953",
+          "views": 524000
+        },
+        {
+          "author": "0xLogicrw",
+          "id": "2061667001769333185",
+          "likes": 7,
+          "replies": 3,
+          "retweets": 2,
+          "text": "UCLA Assistant Professor of Computer Science and Co-Lead of the Large Model Pre-training and Scaling Direction at ByteDance's Seed Lab, Quanquan Gu, has officially announced his departure on his personal X account.\n\nQuanquan Gu reflected on his three-year journey with ByteDance's",
+          "url": "https://x.com/0xLogicrw/status/2061667001769333185",
+          "views": 2100
+        },
+        {
+          "author": "lagerskoy",
+          "id": "2061524805170684374",
+          "likes": 26,
+          "replies": 8,
+          "retweets": 4,
+          "text": "Claude agrees with you far more than it should and most people never notice because being told you're right feels good enough to stop asking, there's a prompt called the LLM Council that fixes it by making Claude argue with itself first\n\nIt runs your question through five",
+          "url": "https://x.com/lagerskoy/status/2061524805170684374",
+          "views": 675
+        },
+        {
+          "author": "neil_xbt",
+          "id": "2061388284459184431",
+          "likes": 178,
+          "replies": 23,
+          "retweets": 27,
+          "text": "Andrej Karpathy found a way to cut LLM token costs by 70-90%!\n\nHe did not publish it as a paper. He built it as a system anyone can replicate.\n\nThe Wiki Layer.\n\nThree folders. Raw source files stored as the immutable source of truth. \n\nA wiki folder where the LLM operates on",
+          "url": "https://x.com/neil_xbt/status/2061388284459184431",
+          "views": 24000
+        },
+        {
+          "author": "d4m1n",
+          "id": "2061478893157048478",
+          "likes": 1000,
+          "replies": 38,
+          "retweets": 28,
+          "text": "turns out PewDiePie is actually super smart and he was just acting?\n\nhe released some LLM app and I thought it's some sort of a rug pull. Turns out it's p cool?\n\njust look at the guy go!\n\nsounds like he's been a dev for a decade  (not a rust dev, more like a",
+          "url": "https://x.com/d4m1n/status/2061478893157048478",
+          "views": 240000
+        },
+        {
+          "author": "Felix_Quinque",
+          "id": "2061497940888465861",
+          "likes": 49,
+          "replies": 2,
+          "retweets": 9,
+          "text": "After 1 year and almost 1000 runs we are proud to finally present the largest, fastest and most resilient DPP LLM training system to date. This is the cheapest possible way to pre-train an LLM - both compared to centralized as well as other decentralized systems.\n\nA 100B model is",
+          "url": "https://x.com/Felix_Quinque/status/2061497940888465861",
+          "views": 5400
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "machine learning since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "goyalshaliniuk",
+          "id": "2061696817021255757",
+          "likes": 10,
+          "replies": 6,
+          "retweets": 3,
+          "text": "Every AI System Is Built on Machine Learning Models\n\nFrom predicting trends to generating art, these 20 ML models are the real engines behind modern AI innovation.\n\nHere is how they shape the AI systems we use every day -\n\n1. Regression & Classification Models\n• Linear &",
+          "url": "https://x.com/goyalshaliniuk/status/2061696817021255757",
+          "views": 58
+        },
+        {
+          "author": "VJNCapital",
+          "id": "2061517067065430228",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 0,
+          "text": "Would love to see the architecture on the stack\n\nProprietary for sure, but i wonder what models they are running\n\nNothing stopping the others from using machine learning, but the entire pipeline is what takes time perfecting",
+          "url": "https://x.com/VJNCapital/status/2061517067065430228",
+          "views": 23
+        },
+        {
+          "author": "sdand",
+          "id": "2061591066646892904",
+          "likes": 28,
+          "replies": 3,
+          "retweets": 0,
+          "text": "the age of acquihiring elite smart teams of ppl who can mine seemingly innocuous data and post-train hyper vertical superintelligence models\n\nnot many of them around \n\nthis is contra bitter lesson because i believe labor is (now) a function of compute and post-training on many",
+          "url": "https://x.com/sdand/status/2061591066646892904",
+          "views": 2300
+        },
+        {
+          "author": "Brain1878",
+          "id": "2061443492241387843",
+          "likes": 32,
+          "replies": 2,
+          "retweets": 9,
+          "text": "Roascio et al. trained a machine learning model to track clinical progression in the prodromal to overt alpha-synucleinopathies continuum, and identified three parameters that could serve as reliable biomarkers. https://shorturl.at/SF3Ph",
+          "url": "https://x.com/Brain1878/status/2061443492241387843",
+          "views": 3200
+        },
+        {
+          "author": "DanKornas",
+          "id": "2061591350731018288",
+          "likes": 34,
+          "replies": 1,
+          "retweets": 9,
+          "text": "Instead of another random tutorial, use this MIT playlist as a map for MIT RES.LL-005 Mathematics of Big Data and Machine Learning, IAP 2020.\n\nI’d use this for the sequence: Artificial Intelligence and Machine Learning → Analysis of Structured Data.\n\n𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀:\n↳",
+          "url": "https://x.com/DanKornas/status/2061591350731018288",
+          "views": 1300
+        },
+        {
+          "author": "TeachTheMachine",
+          "id": "2061478862761202096",
+          "likes": 20,
+          "replies": 1,
+          "retweets": 4,
+          "text": "The Roadmap for Mastering LLMOps in 2026",
+          "url": "https://x.com/TeachTheMachine/status/2061478862761202096",
+          "views": 1000
+        },
+        {
+          "author": "IntuitMachine",
+          "id": "2061384838725218807",
+          "likes": 11,
+          "replies": 0,
+          "retweets": 2,
+          "text": "Back in 2018, you needed a lengthy, expensive machine-learning process to customize Deep Learning for specific needs (and you weren't guaranteed it would work well).",
+          "url": "https://x.com/IntuitMachine/status/2061384838725218807",
+          "views": 957
+        },
+        {
+          "author": "techNmak",
+          "id": "2061508872846934461",
+          "likes": 96,
+          "replies": 11,
+          "retweets": 16,
+          "text": "The right order for learning AI engineering in 2026.\n\nWhat most people do:\n→ Jump to agents\n→ Skip foundations\n→ Ignore MLOps\n→ Wonder why nothing works\n\nWhat this roadmap shows:\n\n1. Foundation (Python, APIs, clean code)\n2. Semantic intelligence (embeddings, vector DBs)\n3.",
+          "url": "https://x.com/techNmak/status/2061508872846934461",
+          "views": 3200
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "itsolelehmann",
+          "id": "2060383294374793606",
+          "likes": 1200,
+          "replies": 69,
+          "retweets": 193,
+          "text": "the most dangerous (and annoying) thing about Claude:\n\nit's the world's most convincing YES-MAN\n\na new Stanford study found Claude takes your side 49% more than a real human would. even when you're clearly wrong.\n\nso i built a \"board of advisors\" skill that makes 5 agents attack",
+          "url": "https://x.com/itsolelehmann/status/2060383294374793606",
+          "views": 210000
+        },
+        {
+          "author": "ClaudeDevs",
+          "id": "2061501787769893055",
+          "likes": 17000,
+          "replies": 928,
+          "retweets": 1500,
+          "text": "We've reset 5-hour and weekly rate limits for all users on Pro and Max plans.\n\nWe fixed an issue that caused some Claude Code sessions to spawn excessive parallel subagents, burning through usage faster than expected.",
+          "url": "https://x.com/ClaudeDevs/status/2061501787769893055",
+          "views": 1800000
+        },
+        {
+          "author": "pankajkumar_dev",
+          "id": "2061452513111658740",
+          "likes": 1200,
+          "replies": 73,
+          "retweets": 151,
+          "text": "GPT-5.6 Can Be Mythos-Level\n\n- GPT-5.6 is expected to launch this week, alongside major updates to Codex\n- It can be Anthropic Mythos level at roughly 2–3x lower pricing\n- It will bring major improvements in reasoning, frontend generation, personality, and agentic workflows\n-",
+          "url": "https://x.com/pankajkumar_dev/status/2061452513111658740",
+          "views": 110000
+        },
+        {
+          "author": "OpenAI",
+          "id": "2060376598642405492",
+          "likes": 2100,
+          "replies": 213,
+          "retweets": 303,
+          "text": "We’re taking steps to accelerate defensive progress in biology:\n\n- Launching Rosalind Biodefense to help trusted builders develop new biodefense and pandemic preparedness capabilities. \n- Expanding trusted access to GPT-Rosalind for select U.S. government and allied partners",
+          "url": "https://x.com/OpenAI/status/2060376598642405492",
+          "views": 398000
+        },
+        {
+          "author": "venturetwins",
+          "id": "2060061712389378166",
+          "likes": 75000,
+          "replies": 1700,
+          "retweets": 10000,
+          "text": "Me using Claude Opus 4.8 to rename a file",
+          "url": "https://x.com/venturetwins/status/2060061712389378166",
+          "views": 44000000
+        },
+        {
+          "author": "Aina_Ai2",
+          "id": "2060375435461202078",
+          "likes": 858,
+          "replies": 40,
+          "retweets": 181,
+          "text": "BREAKING: CLAUDE CAN NOW BUILD YOUR YOUTUBE CHANNEL FROM ZERO TO MONETIZED IN 90 DAYS. \n\nHERE ARE 7 PROMPTS TO DOMINATE YOUTUBE:",
+          "url": "https://x.com/Aina_Ai2/status/2060375435461202078",
+          "views": 107000
+        },
+        {
+          "author": "cursor_ai",
+          "id": "2060044920237469872",
+          "likes": 3900,
+          "replies": 165,
+          "retweets": 212,
+          "text": "Claude Opus 4.8 is now available in Cursor.\n\nOn CursorBench, it's able to work much more efficiently than Opus 4.7. We've also found it to be more persistent on harder tasks.",
+          "url": "https://x.com/cursor_ai/status/2060044920237469872",
+          "views": 291000
+        },
+        {
+          "author": "ai_rohitt",
+          "id": "2061455642628702282",
+          "likes": 651,
+          "replies": 18,
+          "retweets": 89,
+          "text": "Anthropic just showed a 24-minute workshop on how to actually do prompts for Claude.\n\nTaught by the people who built it.\n\nFree. No registration. No paywall.\n\nI've seen $300 courses that don't cover what they teach in the first 8 minutes.\n\nWatch it and bookmark it now!",
+          "url": "https://x.com/ai_rohitt/status/2061455642628702282",
+          "views": 122000
+        },
+        {
+          "author": "eng_khairallah1",
+          "id": "2061460145117503509",
+          "likes": 171,
+          "replies": 21,
+          "retweets": 41,
+          "text": "Anthropic engineer:\n\n\"You're not supposed to type every command yourself. You're supposed to build agents that do it for you.\"\n\nthis is one of the best workflows I've seen in a long time\n\nin this video he breaks down exactly how manual work becomes automated work:\n\n- the memory",
+          "url": "https://x.com/eng_khairallah1/status/2061460145117503509",
+          "views": 22000
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "open source AI model since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "WesRoth",
+          "id": "2061704370878914782",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "NVIDIA released Cosmos 3, a new open Physical AI model family designed to unify vision reasoning, world generation, and action generation in one system.\n\nThe launch includes two open variants: Cosmos 3 Super (32B) and Cosmos 3 Nano (8B).\n\nThe model ranks first among open models",
+          "url": "https://x.com/WesRoth/status/2061704370878914782",
+          "views": 12
+        },
+        {
+          "author": "JaredKubin",
+          "id": "2061428403614408868",
+          "likes": 2,
+          "replies": 1,
+          "retweets": 0,
+          "text": "A US open source SOTA model would immediately shift focus away from Chinese models",
+          "url": "https://x.com/JaredKubin/status/2061428403614408868",
+          "views": 90
+        },
+        {
+          "author": "NVIDIAAI",
+          "id": "2061308434629132553",
+          "likes": 2400,
+          "replies": 83,
+          "retweets": 462,
+          "text": "Introducing Cosmos 3: Our latest frontier model for Physical AI\n\nCosmos 3 is the world’s first fully open omnimodel with native vision reasoning, world and action generation.\n\nToday we’re releasing Super (32B) and Nano (8B) variants.",
+          "url": "https://x.com/NVIDIAAI/status/2061308434629132553",
+          "views": 288000
+        },
+        {
+          "author": "nix_eth",
+          "id": "2061519672059826240",
+          "likes": 2,
+          "replies": 2,
+          "retweets": 0,
+          "text": "Oil and gold are scarce natural resources.\n\nAI is different. Its built on public research, human culture, user data, open-source software, and the accumulated knowledge of civilization.\n\nI think the public has a stronger claim on the upside.",
+          "url": "https://x.com/nix_eth/status/2061519672059826240",
+          "views": 62
+        },
+        {
+          "author": "aiseomastery",
+          "id": "2061442643192639518",
+          "likes": 3,
+          "replies": 0,
+          "retweets": 0,
+          "text": "SOMEONE VIBE CODED A FULL 3D MEDIEVAL FANTASY GAME IN 2 DAYS USING AI WITH ONLY 39 PROMPTS AND 90 DOLLARS\n\nThe entire open world game with a playable character, animations, and castle environment was built through one conversation with an AI model called muranyi-3.",
+          "url": "https://x.com/aiseomastery/status/2061442643192639518",
+          "views": 157
+        },
+        {
+          "author": "LdWaford",
+          "id": "2061700591706075487",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "@MarioNawfal Perfect follow-up — the walls between AI platforms are indeed coming down fast.\n\nCursor’s best coding model (Composer 2.5) is now live inside Grok Build with a massive 200k-token context window, subagents, and full Git terminal integration. This is AI evolving in",
+          "url": "https://x.com/LdWaford/status/2061700591706075487",
+          "views": 6
+        },
+        {
+          "author": "pyginapithon",
+          "id": "2061700660551459047",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "We have Nmap for devices. LLMmap for *probing live models*. \n\nBut what about **scanning the output** — analyzing a document to detect if it's AI-generated *and which model* wrote it?\n\nHas anyone used these [Courtesy of grok]? \n\n**Output scanners / detectors + model attribution:**",
+          "url": "https://x.com/pyginapithon/status/2061700660551459047",
+          "views": 8
+        },
+        {
+          "author": "0xCarnagee",
+          "id": "2061536071133897182",
+          "likes": 12,
+          "replies": 0,
+          "retweets": 3,
+          "text": "Stanford just mass the full blueprint for how ChatGPT, Claude, and Llama are actually built\n\n90 minutes. free. from a PhD student who helped build Alpaca one of the first open-source replicas of ChatGPT\n\nhe mass that most AI researchers, including himself, spent years focused on",
+          "url": "https://x.com/0xCarnagee/status/2061536071133897182",
+          "views": 264
+        },
+        {
+          "author": "aiseomastery",
+          "id": "2061352044880114099",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 0,
+          "text": "HERMES DESKTOP JUST LAUNCHED AS A FREE OPEN SOURCE AI AGENT APP THAT WORKS WITH EVERY MAJOR AI MODEL\n\nOne interface handles chat, memory, scheduling, 16 messaging gateways, and 14 tool categories across Mac, Windows, and Linux with zero terminal setup required.",
+          "url": "https://x.com/aiseomastery/status/2061352044880114099",
+          "views": 229
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "AI agent since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "shiri_shh",
+          "id": "2061426931162288614",
+          "likes": 26000,
+          "replies": 1100,
+          "retweets": 2600,
+          "text": "The laptop hasn't changed in 30 years. NVIDIA just changed it\n\nRTX Spark is their first PC chip ever.\n\n- RTX 5070 level GPU\n- 128GB unified memory\n- 1 petaflop of local AI\n- thin, light, barely throttles unplugged\n\nYour AI agent lives on the machine. 24/7. No cloud.\n\nThis is step",
+          "url": "https://x.com/shiri_shh/status/2061426931162288614",
+          "views": 5800000
+        },
+        {
+          "author": "0xDepressionn",
+          "id": "2061479734794404187",
+          "likes": 80,
+          "replies": 23,
+          "retweets": 18,
+          "text": "someone built an entire company org chart out of AI agents and posted it on TikTok. 48,5k likes\n\na Chief agent at the top\n\nmarketing, SEO, CRM, VC sourcing underneath. \n\neach one wired to Gmail, Notion, the tools a real team would use\n\nthis is the same thing Karpathy described in",
+          "url": "https://x.com/0xDepressionn/status/2061479734794404187",
+          "views": 7800
+        },
+        {
+          "author": "sairahul1",
+          "id": "2061433204108873870",
+          "likes": 246,
+          "replies": 29,
+          "retweets": 35,
+          "text": "This 19-year-old makes $50,000 a month selling AI agents to business owners at $10,000-15,000 a call.\n\nHis secret - he never sells AI. He sells pain.\n\nNot \"our agent uses the latest technology\" - but \"how much are you paying your receptionist right now? $60,000 a year. \n\nOver 10",
+          "url": "https://x.com/sairahul1/status/2061433204108873870",
+          "views": 37000
+        },
+        {
+          "author": "shiri_shh",
+          "id": "2061532788927746055",
+          "likes": 19,
+          "replies": 2,
+          "retweets": 0,
+          "text": "This Just Made AI Essays UNDETECTABLE.\n\nStealthGPT just dropped Stealth Agent, and it’s about to save every student’s ass.\n\nUndetectable agentic AI that does live research, builds proper structure, fact-checks itself, then writes essays that sound 100% human with real citations.",
+          "url": "https://x.com/shiri_shh/status/2061532788927746055",
+          "views": 34000
+        },
+        {
+          "author": "jahirsheikh8",
+          "id": "2061697866306081146",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "AI Agent = the actual tool/system you build.\n\nAgentic AI = the smart, autonomous behavior it shows (planning, adapting, looping till goal done).",
+          "url": "https://x.com/jahirsheikh8/status/2061697866306081146",
+          "views": 13
+        },
+        {
+          "author": "damianplayer",
+          "id": "2061539809408004345",
+          "likes": 15,
+          "replies": 5,
+          "retweets": 2,
+          "text": "any company rolling out AI at scale is running into the same question.\n\nwhat can the agent reach and what can it touch.\n\nsecurity is what’s slowing down mass adoption.",
+          "url": "https://x.com/damianplayer/status/2061539809408004345",
+          "views": 1500
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "Sam Altman since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "MilkRoadAI",
+          "id": "2061614328999288888",
+          "likes": 15,
+          "replies": 10,
+          "retweets": 3,
+          "text": "The most important debate in all of technology just became personal and the two sides are now openly disagreeing in public.\n\nSam Altman just called out messaging about AI eliminating 50% to 90% of jobs as a terrible messag and the timing, context, and target of that statement",
+          "url": "https://x.com/MilkRoadAI/status/2061614328999288888",
+          "views": 3400
+        },
+        {
+          "author": "TheChiefNerd",
+          "id": "2061602099486457863",
+          "likes": 195,
+          "replies": 42,
+          "retweets": 28,
+          "text": "Sam Altman Walks Back His Claim That AI Outperforms Humans  \n\n“What I wish we had said then is that it outperforms professionals at small tasks in 44 occupations, which is more accurate.”",
+          "url": "https://x.com/TheChiefNerd/status/2061602099486457863",
+          "views": 42000
+        },
+        {
+          "author": "Discoplomacy",
+          "id": "2061443740615512325",
+          "likes": 24,
+          "replies": 1,
+          "retweets": 6,
+          "text": "Peter Mandelson: “My chief AI buddy in US is Sam Altman”",
+          "url": "https://x.com/Discoplomacy/status/2061443740615512325",
+          "views": 7200
+        },
+        {
+          "author": "WallStRollup",
+          "id": "2061543502052233601",
+          "likes": 84,
+          "replies": 4,
+          "retweets": 12,
+          "text": "Sam Altman alludes to Anthropic’s Dario Amodei’s messaging about AI taking a large amount of jobs as a “terrible message”",
+          "url": "https://x.com/WallStRollup/status/2061543502052233601",
+          "views": 82000
+        },
+        {
+          "author": "LarkDavis",
+          "id": "2061674299149173239",
+          "likes": 14,
+          "replies": 10,
+          "retweets": 1,
+          "text": "Sam Altman said it straight in a CNBC interview: the companies adopting AI the most are hiring the most, and the ones doing layoffs are the ones adopting AI the least. This completely flips the narrative that AI is killing jobs.\n\nAt the end of the day, AI is a productivity tool.",
+          "url": "https://x.com/LarkDavis/status/2061674299149173239",
+          "views": 3600
+        },
+        {
+          "author": "aitrendz_xyz",
+          "id": "2061393098543104041",
+          "likes": 6,
+          "replies": 1,
+          "retweets": 1,
+          "text": "BREAKING: Sam Altman just dropped a job announcement and the only thing I caught is everyone gets a personal robot someday...",
+          "url": "https://x.com/aitrendz_xyz/status/2061393098543104041",
+          "views": 793
+        },
+        {
+          "author": "meganekenyon",
+          "id": "2061458962080251956",
+          "likes": 9,
+          "replies": 0,
+          "retweets": 8,
+          "text": "In texts to former AI minister, Feryal Clark, Peter Mandelson describes CEO of Open AI, Sam Altman as his \"chief AI buddy in the US\".",
+          "url": "https://x.com/meganekenyon/status/2061458962080251956",
+          "views": 2800
+        },
+        {
+          "author": "OwenGregorian",
+          "id": "2061401096573051218",
+          "likes": 7,
+          "replies": 1,
+          "retweets": 0,
+          "text": "Was This the Moment That AI Psychosis Began? | Maggie Harrison Dupré, Futurism\n\nOn April 10, 2025, OpenAI CEO Sam Altman took to social media to announce that his company was preparing to launch an exciting new feature.\n\n“A few times a year I wake up early and can’t fall back",
+          "url": "https://x.com/OwenGregorian/status/2061401096573051218",
+          "views": 1200
+        },
+        {
+          "author": "CharlesRollet1",
+          "id": "2061560183428665749",
+          "likes": 2,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Read more from @BusinessInsider's new physical AI reporter @ryajetha and myself!",
+          "url": "https://x.com/CharlesRollet1/status/2061560183428665749",
+          "views": 195
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "Dario Amodei since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "vikktorrrre",
+          "id": "2061478960215511190",
+          "likes": 189,
+          "replies": 75,
+          "retweets": 1,
+          "text": "> be dario amodei\n> ceo of anthropic, the company behind claude.\n\n> born 1983, san francisco. raised in the mission.\n> father: riccardo amodei, an italian leather craftsman.\n> mother: elena engel, a jewish american who built libraries across the bay.\n> younger sister: daniela.",
+          "url": "https://x.com/vikktorrrre/status/2061478960215511190",
+          "views": 4600
+        },
+        {
+          "author": "FortuneMagazine",
+          "id": "2061533440739025176",
+          "likes": 5,
+          "replies": 4,
+          "retweets": 2,
+          "text": "“As we go into [AI] models that have the key property of agency, we have to worry about them becoming too autonomous.” \n\nAt Fortune’s 2023 #BrainstormTech, Anthropic cofounder and CEO Dario Amodei broke down what he sees as the short, medium, and long-term risks of artificial",
+          "url": "https://x.com/FortuneMagazine/status/2061533440739025176",
+          "views": 1900
+        },
+        {
+          "author": "staysaasy",
+          "id": "2061654434526925026",
+          "likes": 9,
+          "replies": 0,
+          "retweets": 0,
+          "text": "50%? Did I miss the news on Bernie Sanders marrying Dario Amodei https://x.com/BernieSanders//BernieSanders/status/2061631422188626083…",
+          "url": "https://x.com/staysaasy/status/2061654434526925026",
+          "views": 885
+        },
+        {
+          "author": "The_AI_Investor",
+          "id": "2061457692212985891",
+          "likes": 18,
+          "replies": 2,
+          "retweets": 0,
+          "text": "NVIDIA CEO Jensen Huang took a dig at Anthropic CEO Dario Amodei:\n\n“People are talking about AI reducing jobs. It’s complete nonsense.”",
+          "url": "https://x.com/The_AI_Investor/status/2061457692212985891",
+          "views": 5400
+        },
+        {
+          "author": "kepochnik",
+          "id": "2061511938727874763",
+          "likes": 2,
+          "replies": 1,
+          "retweets": 0,
+          "text": "great sharing about Dario Amodei bro\n\nlove it",
+          "url": "https://x.com/kepochnik/status/2061511938727874763",
+          "views": 37
+        },
+        {
+          "author": "goldstein2002",
+          "id": "2061417993477722524",
+          "likes": 3,
+          "replies": 1,
+          "retweets": 1,
+          "text": "Ep 39: AI, Socialism & Ideas You're Not Allowed To Question\n\nWith @ravingandhi — one of the sharpest minds I know on business, culture, and why so many people are afraid to say what they actually think.\n\nWe discuss:\n- Why Dario Amodei & Anthropic became the serious bet on AI\n-",
+          "url": "https://x.com/goldstein2002/status/2061417993477722524",
+          "views": 150
+        },
+        {
+          "author": "vladsvitanko",
+          "id": "2061489556269027367",
+          "likes": 34,
+          "replies": 27,
+          "retweets": 2,
+          "text": "I'm excited to introduce our new strategic advisor – Dario Amodei, CEO at Anthropic\n\nHaving Dario coaching us 1:1 feels like we won the lottery at @Juceyapp \n\nI'm chatting with him almost every day about the product, LLMs, distribution, and the future $1 billion IPO.\n\nEven my",
+          "url": "https://x.com/vladsvitanko/status/2061489556269027367",
+          "views": 753
+        },
+        {
+          "author": "chaomeigu_com",
+          "id": "2061499999964545321",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Dario Amodei建立anthropic的初衷不正是因为AI的安全问题吗？",
+          "url": "https://x.com/chaomeigu_com/status/2061499999964545321",
+          "views": 477
+        },
+        {
+          "author": "HellenicVibes",
+          "id": "2061694681118101543",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 0,
+          "text": "At least Dario is honest about what business he’s in.",
+          "url": "https://x.com/HellenicVibes/status/2061694681118101543",
+          "views": 124
+        },
+        {
+          "author": "jhulayogayork",
+          "id": "2061660522563457335",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "To be fair, Dario Amodie holds a PhD in biophysics from Princeton University, where he studied electrophysiologyof neural circuits. He was a postdoctoral scholar at the Stanford University School of Medicine. Demis Hassabis has a PhD in Cognitive Neuroscience from UCL.",
+          "url": "https://x.com/jhulayogayork/status/2061660522563457335",
+          "views": 19
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "Demis Hassabis since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "Dipanshu_AI",
+          "id": "2061409245531426850",
+          "likes": 59,
+          "replies": 7,
+          "retweets": 22,
+          "text": "INSTEAD OF WATCHING AN HOUR OF NETFLIX TONIGHT.  This 60-minute Cambridge lecture by Demis Hassabis will teach you more about the future of AI than most people will learn in the next 5 years.  Bookmark it and give it an hour, no matter what.",
+          "url": "https://x.com/Dipanshu_AI/status/2061409245531426850",
+          "views": 877
+        },
+        {
+          "author": "jacobeffron",
+          "id": "2061434666867925130",
+          "likes": 13,
+          "replies": 0,
+          "retweets": 4,
+          "text": ".@scmallaby spent 30+ hours with Demis Hassabis in the back of a British pub. I sat down with Sebastian to chat about his recent book, The Infinity Machine, where he provides a fascinating history of DeepMind, Demis and the broader AI landscape. We hit on:\n\n Whether the race",
+          "url": "https://x.com/jacobeffron/status/2061434666867925130",
+          "views": 14000
+        },
+        {
+          "author": "sulekhat95",
+          "id": "2061349248780980382",
+          "likes": 198,
+          "replies": 0,
+          "retweets": 51,
+          "text": "INSTEAD OF WATCHING AN HOUR OF NETFLIX TONIGHT.\n\nThis 60-minute Cambridge lecture by Demis Hassabis will teach you more about the future of AI than most people will learn in the next 5 years.\n\nBookmark it and give it an hour, no matter what.",
+          "url": "https://x.com/sulekhat95/status/2061349248780980382",
+          "views": 16000
+        },
+        {
+          "author": "defileo",
+          "id": "2061213469719027777",
+          "likes": 131,
+          "replies": 13,
+          "retweets": 24,
+          "text": "Demis Hassabis just gave away 40 minutes that will quietly change how the next 5 years play out.\n\n40 minutes from a Nobel laureate, CEO of Google DeepMind, the man building AGI.\n\nThe 1000x engineer, what to build before AGI, what comes after.\n\nMost founders will hear this when",
+          "url": "https://x.com/defileo/status/2061213469719027777",
+          "views": 18000
+        },
+        {
+          "author": "jhulayogayork",
+          "id": "2061660522563457335",
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "To be fair, Dario Amodie holds a PhD in biophysics from Princeton University, where he studied electrophysiologyof neural circuits. He was a postdoctoral scholar at the Stanford University School of Medicine. Demis Hassabis has a PhD in Cognitive Neuroscience from UCL.",
+          "url": "https://x.com/jhulayogayork/status/2061660522563457335",
+          "views": 19
+        },
+        {
+          "author": "IndiaInfraTech",
+          "id": "2061386767702569277",
+          "likes": 9,
+          "replies": 0,
+          "retweets": 2,
+          "text": "Google DeepMind CEO Demis Hassabis has a bold message for laid-off tech engineers from Meta, Amazon, Block & others: I have a million ideas, from lab drug discovery to game design. I'd love to have some free engineers to go and execute them.\n\nWhile many companies are cutting",
+          "url": "https://x.com/IndiaInfraTech/status/2061386767702569277",
+          "views": 569
+        },
+        {
+          "author": "jacobeffron",
+          "id": "2061493133305663553",
+          "likes": 19,
+          "replies": 0,
+          "retweets": 1,
+          "text": "Reid Hoffman pledged $1B to back a secret DeepMind spinout from Google. Demis Hassabis used the leverage to pressure Google on safety oversight, but never told them the money existed and never exercised the threat. @scmallaby uncovered the story in his new book:",
+          "url": "https://x.com/jacobeffron/status/2061493133305663553",
+          "views": 12000
+        },
+        {
+          "author": "SpurzXBT",
+          "id": "2061459707135414611",
+          "likes": 1,
+          "replies": 1,
+          "retweets": 1,
+          "text": "Google DeepMind CEO Demis Hassabis admits AI should have stayed in the lab long enough to cure cancer\n\nCleo: \"Last year you said something to The Guardian. You said if I'd had my way I would have left AI in the lab for longer\"\n\nCleo: \"Done more things like AlphaFold, maybe cured",
+          "url": "https://x.com/SpurzXBT/status/2061459707135414611",
+          "views": 52
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "from:karpathy since:2026-06-01",
+      "ok": false,
+      "error": "⚡ [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"8e51b0e2-23be-493a-b35d-6bcab13f20b7\",\"ok\":false}\n\u001b[2m2026-06-02T07:03:56.679601Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"768205ec-ba86-4ab3-bee5-99976029a2d4\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m1\n\u001b[2m2026-06-02T07:03:56.683695Z\u001b[0m \u001b[33m WARN\u001b[0m \u001b[2mautocli_pipeline::executor\u001b[0m\u001b[2m:\u001b[0m Browser step failed, retrying: [command] Command error (HTTP 422 Unprocessable Entity): {\"error\":\"Error: No tweets found. X may require login or changed their DOM structure.\\n    at <anonymous>:77:11\\n    at <anonymous>:81:3\\n    at <anonymous>:82:6\",\"id\":\"527e9c12-5ff7-4ee6-8a33-b4f403dbf36e\",\"ok\":false} \u001b[3mstep\u001b[0m\u001b[2m=\u001b[0m\"evaluate\" \u001b[3mattempt\u001b[0m\u001b[2m=\u001b[0m2\n"
+    },
+    {
+      "query": "from:sama since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "sama",
+          "id": "2061562575322492937",
+          "likes": 1500,
+          "replies": 333,
+          "retweets": 154,
+          "text": "The OpenAI Foundation is doing a lot of wonderful things.\n\nHelping society become resilient to AI is going to be incredibly important. Much more to come here!",
+          "url": "https://x.com/sama/status/2061562575322492937",
+          "views": 229000
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "from:OpenAI since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "OpenAI",
+          "id": "2061564502160892138",
+          "likes": 3900,
+          "replies": 225,
+          "retweets": 578,
+          "text": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI through the security, compliance, and governance workflows they already use.\n\nThis is also the beginning of a broader expansion of OpenAI",
+          "url": "https://x.com/OpenAI/status/2061564502160892138",
+          "views": 988000
+        }
+      ],
+      "stderr": ""
+    },
+    {
+      "query": "from:AnthropicAI since:2026-06-01",
+      "ok": true,
+      "tweets": [
+        {
+          "author": "AnthropicAI",
+          "id": "2061478052257841495",
+          "likes": 19000,
+          "replies": 830,
+          "retweets": 3600,
+          "text": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission.\n\nPending completion of SEC review, this gives us the option to pursue an initial public offering.\n\nRead more:",
+          "url": "https://x.com/AnthropicAI/status/2061478052257841495",
+          "views": 16000000
+        }
+      ],
+      "stderr": ""
+    }
+  ]
+}
