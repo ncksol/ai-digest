@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Smoke test: verify a published digest is visible on the web.
 # Usage: verify-published.sh YYYY-MM-DD
-# Exit codes: 0 = OK, 1 = missing in manifest (raw), 2 = digest .md unreachable, 3 = bad arg
+# Exit codes: 0 = OK, 1 = manifest problem (missing/shape/count), 2 = digest .md unreachable, 3 = bad arg
 
 set -u
 
@@ -24,10 +24,25 @@ if [[ -z "$manifest" ]]; then
   echo "❌ Could not fetch raw manifest: $RAW_MANIFEST"
   exit 1
 fi
-if echo "$manifest" | grep -q "\"${DATE}\.md\""; then
-  echo "✅ manifest.json contains \"${DATE}.md\""
+# Validate SHAPE, the date entry, and archive count via node (the site reads
+# manifest.digests - a bare array or dropped .md suffix silently kills render).
+manifest_check=$(MANIFEST_JSON="$manifest" CHECK_DATE="$DATE" node -e '
+  const raw = process.env.MANIFEST_JSON || "";
+  const date = process.env.CHECK_DATE;
+  let m;
+  try { m = JSON.parse(raw); } catch { console.log("FAIL not-json"); process.exit(0); }
+  if (!m || !Array.isArray(m.digests)) { console.log("FAIL wrong-shape:" + (Array.isArray(m) ? "bare-array" : typeof m)); process.exit(0); }
+  const re = /^\d{4}-\d{2}-\d{2}\.md$/;
+  const bad = m.digests.filter(f => !re.test(f));
+  if (bad.length) { console.log("FAIL bad-entries:" + bad.slice(0,3).join(",")); process.exit(0); }
+  if (!m.digests.includes(date + ".md")) { console.log("FAIL missing-date"); process.exit(0); }
+  if (m.digests.length < 2) { console.log("FAIL too-few:" + m.digests.length); process.exit(0); }
+  console.log("OK count=" + m.digests.length);
+' 2>&1)
+if [[ "$manifest_check" == OK* ]]; then
+  echo "✅ manifest.json valid: object shape, contains ${DATE}.md (${manifest_check#OK })"
 else
-  echo "❌ manifest.json missing \"${DATE}.md\" entry (likely missing .md suffix)"
+  echo "❌ manifest.json check failed: ${manifest_check}"
   echo "--- manifest head ---"
   echo "$manifest" | head -5
   exit 1
