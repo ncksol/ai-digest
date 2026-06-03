@@ -1,0 +1,239 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a strong official core: Nous Research's Hermes Desktop public preview, Anthropic's Project Glasswing expansion, OpenAI's Codex plugin expansion, and David Sacks's policy-context thread on the Cyber EO. It also adds useful non-lab and geographic variety through Microsoft and Tencent. The main weaknesses are three selected posts about the same Cyber EO, several low-engagement secondary product or infrastructure summaries that need primary Twitter/X sources, and a high-engagement Google Quantum AI/Shor's algorithm story that is only AI-adjacent for this digest. The reserve pool does not contain a clearly stronger eligible replacement for these weak slots, so additional Twitter/X search is preferable.",
+  "decisions": [
+    {
+      "id": "item_2061843507417944552",
+      "decision": "keep",
+      "reason": "Keep because the tweet is an official NousResearch product announcement for Hermes Desktop, says the agent is now native on the user's machine and in public preview, and has very high engagement with 1,500 retweets, 9,800 likes, and 4.6M views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to recent Hermes Agent coverage and to other selected agent-tooling items, but this is a distinct desktop public-preview release rather than a Tool Search update or model-router item."
+      }
+    },
+    {
+      "id": "item_2061796327986454883",
+      "decision": "keep",
+      "reason": "Keep because this is an official AnthropicAI company announcement expanding Project Glasswing, with concrete tweet evidence that Claude Mythos Preview access was extended to approximately 150 additional organizations in more than fifteen countries.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Anthropic programme-expansion story, not a duplicate of the Cyber EO reactions or the OpenAI Codex plugin item."
+      }
+    },
+    {
+      "id": "item_2061887650391625870",
+      "decision": "keep",
+      "reason": "Keep because this is an official OpenAI product tweet about Codex plugins, with concrete release details: role-specialist installs, access to 62 popular apps, and 110 skills across sales, data, and work tasks.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Broadly related to coding-agent and agent-infrastructure coverage, but this is a primary OpenAI Codex product-expansion story with specific app and skill counts."
+      }
+    },
+    {
+      "id": "item_2061924580222968183",
+      "decision": "superseded_by",
+      "reason": "Supersede because although the source is official AnthropicAI, the tweet is a generic supportive statement on the Executive Order, saying only that it is an important step for America's AI leadership and that Anthropic will collaborate with the White House. The packet already has more item-specific Cyber EO detail from David Sacks.",
+      "superseded_by": "item_2061882659266261274",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same Cyber EO event and same broadly supportive policy angle as the Altman and Sacks posts; this Anthropic statement adds less concrete policy detail than Sacks's thread."
+      }
+    },
+    {
+      "id": "item_2061973280655904815",
+      "decision": "superseded_by",
+      "reason": "Supersede because Sam Altman's tweet is a primary AI-leader reaction to the new EO, but the item-specific evidence is another short endorsement: the U.S. should lead on AI, develop the best models safely, and put cyber tools in trusted defenders' hands. That overlaps strongly with the selected Cyber EO policy slot represented more fully by Sacks.",
+      "superseded_by": "item_2061882659266261274",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same Cyber EO event and similar supportive national-leadership/cyber-defense angle as the Anthropic and Sacks posts; useful context but redundant as a separate digest item."
+      }
+    },
+    {
+      "id": "item_2061882659266261274",
+      "decision": "keep",
+      "reason": "Keep as the best Cyber EO representative because the tweet is from DavidSacks, identified in the packet as policy context from a White House AI adviser, and its captured text gives item-specific policy evidence: he says many asked about the new Cyber EO, frames Trump as pro-innovation, and says the U.S. has to win the AI race through pro-innovation, pro-energy, and pro-infrastructure policy.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Cyber EO event as the Anthropic and Altman reactions, but this item has the most concrete policy-context evidence in the packet and can carry the story while the generic endorsements are folded in or dropped."
+      }
+    },
+    {
+      "id": "item_2061876400064495747",
+      "decision": "keep",
+      "reason": "Keep because Tom Warren is a credible technology journalist source and the tweet provides concrete event-side evidence that Microsoft AI CEO Mustafa Suleyman was on stage discussing seven new Microsoft AI models launching that day. It is terse and secondary, but still a specific model-launch signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers Microsoft's seven-model launch; it is distinct from OpenAI Codex plugins and agent-infrastructure items."
+      }
+    },
+    {
+      "id": "item_2061707385723642047",
+      "decision": "keep",
+      "reason": "Keep because the tweet gives a concrete secondary-source company story: Tencent is reportedly moving toward an embedded AI agent inside WeChat, with FT attribution, a 1.4B-user consumer-app context, and examples of natural-language tasks through mini-apps such as payments and reservations.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related broadly to agent-in-consumer-app coverage, but no selected item covers Tencent, WeChat, or China's consumer AI-agent ecosystem."
+      }
+    },
+    {
+      "id": "item_2061840263472152773",
+      "decision": "needs_more_search",
+      "reason": "Needs more search because Browser Use's faster and cheaper AI-agent browsing infrastructure is a relevant topic, but this selected WesRoth tweet is a low-engagement secondary summary with only 3 retweets, 27 likes, and 2,800 views while making technical claims about a Chromium fork, Firecracker fork, and custom Linux kernel. A primary Browser Use or engineering source is needed.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad agent-infrastructure cluster as Hermes Desktop, Codex plugins, and Factory Router, but not a direct duplicate; the issue is source strength and low engagement."
+      }
+    },
+    {
+      "id": "item_2061868407130329470",
+      "decision": "needs_more_search",
+      "reason": "Needs more search because Factory Router could be a useful coding-agent product story, but the selected rohanpaul_ai tweet is secondary, has low engagement with 2 retweets, 20 likes, and 4,500 views, and makes concrete claims about Claude Opus-class results, 20-25% session-spend cuts, and 99% of Claude Opus 4.7 Terminal-Bench 2 performance that should come from Factory or a closer source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to OpenAI Codex and other coding-agent/tooling coverage, but the model-router benchmark and savings claim is a distinct product angle needing stronger traceability."
+      }
+    },
+    {
+      "id": "item_2061855365193449529",
+      "decision": "needs_more_search",
+      "reason": "Needs more search because Runway joining the Cosmos Coalition with NVIDIA and other AI labs would add physical-AI/world-model variety, but this selected WesRoth post is a very low-engagement secondary source with 0 replies, 2 retweets, 15 likes, and 990 views. An official Runway, NVIDIA, or coalition tweet would be preferable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers the Cosmos Coalition or physical-AI world-model ecosystem; the weakness is low-engagement secondary sourcing."
+      }
+    },
+    {
+      "id": "item_2061793725299224676",
+      "decision": "needs_more_search",
+      "reason": "Needs more search because the tweet has very high engagement and concerns the Google Quantum AI team, but the item-specific evidence is primarily a Shor's algorithm and elliptic-curve cryptography story. It is technical and important, yet only AI-adjacent for a Twitter AI Digest unless a stronger AI/ML relevance angle is found.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the rest of the packet; the issue is topical fit for AI/ML coverage rather than duplication."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2061924580222968183",
+        "item_2061973280655904815",
+        "item_2061882659266261274"
+      ],
+      "reason": "All three selected items cover supportive reactions to the same new Cyber EO. The Anthropic and Altman posts are short endorsements, while Sacks's thread provides the clearest item-specific policy details and should carry the story."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2061843507417944552",
+        "item_2061887650391625870",
+        "item_2061840263472152773",
+        "item_2061868407130329470"
+      ],
+      "reason": "The set has several agent and coding-agent tooling stories: Hermes Desktop, Codex role plugins, Browser Use infrastructure, and Factory Router. They are distinct angles, but the weaker secondary items should not crowd out other coverage."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2061840263472152773",
+        "item_2061868407130329470",
+        "item_2061855365193449529"
+      ],
+      "reason": "These selected items make concrete launch, infrastructure-stack, benchmark, cost-saving, or coalition claims through secondary low-engagement tweets rather than clearly primary Twitter/X sources."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2061840263472152773",
+        "item_2061855365193449529"
+      ],
+      "reason": "Two low-engagement secondary WesRoth summaries occupy selected slots; at most one should survive unless backed by a stronger primary Twitter/X source."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2061840263472152773",
+        "item_2061868407130329470",
+        "item_2061855365193449529",
+        "item_2061793725299224676"
+      ],
+      "reason": "Replacing weak secondary infrastructure/product summaries and the quantum-cryptography AI-adjacent item would improve the packet's balance with clearer AI/ML product, model, research, policy, or infrastructure coverage."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a primary or closer-to-primary Twitter/X source for Browser Use's browser infrastructure launch before using the selected secondary summary.",
+      "suggested_query_theme": "Twitter/X search for Browser Use browser infrastructure Chromium Firecracker AI agent browsing launch since:2026-06-02"
+    },
+    {
+      "needed": true,
+      "reason": "Find an official or directly involved Twitter/X source for Factory Router's coding-agent model selector, including benchmark and cost-saving claims.",
+      "suggested_query_theme": "Twitter/X search for Factory Router coding agent model selector Terminal-Bench cost savings official since:2026-06-02"
+    },
+    {
+      "needed": true,
+      "reason": "Find an official Twitter/X source for Runway joining the NVIDIA Cosmos Coalition or a stronger physical-AI/world-model item.",
+      "suggested_query_theme": "Twitter/X search for Runway NVIDIA Cosmos Coalition Physical AI world models official since:2026-06-02"
+    },
+    {
+      "needed": true,
+      "reason": "Find a clearer AI/ML replacement for the quantum-cryptography slot if no strong AI-specific angle is available.",
+      "suggested_query_theme": "Twitter/X search for AI model release AI research result product launch policy infrastructure since:2026-06-02"
+    },
+    {
+      "needed": true,
+      "reason": "Find fuller Twitter/X context for Microsoft's seven-model launch, ideally from Microsoft AI or Mustafa Suleyman rather than only an event-side journalist note.",
+      "suggested_query_theme": "Twitter/X search for Microsoft AI seven new models Mustafa Suleyman official launch since:2026-06-02"
+    }
+  ]
+}

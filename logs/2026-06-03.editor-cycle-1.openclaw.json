@@ -1,0 +1,493 @@
+{
+  "runId": "b85ee958-3c90-4ee8-a3d8-f2a5c3b4c965",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong official core: Nous Research's Hermes Desktop public preview, Anthropic's Project Glasswing expansion, OpenAI's Codex plugin expansion, and David Sacks's policy-context thread on the Cyber EO. It also adds useful non-lab and geographic variety through Microsoft and Tencent. The main weaknesses are three selected posts about the same Cyber EO, several low-engagement secondary product or infrastructure summaries that need primary Twitter/X sources, and a high-engagement Google Quantum AI/Shor's algorithm story that is only AI-adjacent for this digest. The reserve pool does not contain a clearly stronger eligible replacement for these weak slots, so additional Twitter/X search is preferable.\",\"decisions\":[{\"id\":\"item_2061843507417944552\",\"decision\":\"keep\",\"reason\":\"Keep because the tweet is an official NousResearch product announcement for Hermes Desktop, says the agent is now native on the user's machine and in public preview, and has very high engagement with 1,500 retweets, 9,800 likes, and 4.6M views.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Hermes Agent coverage and to other selected agent-tooling items, but this is a distinct desktop public-preview release rather than a Tool Search update or model-router item.\"}},{\"id\":\"item_2061796327986454883\",\"decision\":\"keep\",\"reason\":\"Keep because this is an official AnthropicAI company announcement expanding Project Glasswing, with concrete tweet evidence that Claude Mythos Preview access was extended to approximately 150 additional organizations in more than fifteen countries.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct Anthropic programme-expansion story, not a duplicate of the Cyber EO reactions or the OpenAI Codex plugin item.\"}},{\"id\":\"item_2061887650391625870\",\"decision\":\"keep\",\"reason\":\"Keep because this is an official OpenAI product tweet about Codex plugins, with concrete release details: role-specialist installs, access to 62 popular apps, and 110 skills across sales, data, and work tasks.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to coding-agent and agent-infrastructure coverage, but this is a primary OpenAI Codex product-expansion story with specific app and skill counts.\"}},{\"id\":\"item_2061924580222968183\",\"decision\":\"superseded_by\",\"reason\":\"Supersede because although the source is official AnthropicAI, the tweet is a generic supportive statement on the Executive Order, saying only that it is an important step for America's AI leadership and that Anthropic will collaborate with the White House. The packet already has more item-specific Cyber EO detail from David Sacks.\",\"superseded_by\":\"item_2061882659266261274\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Cyber EO event and same broadly supportive policy angle as the Altman and Sacks posts; this Anthropic statement adds less concrete policy detail than Sacks's thread.\"}},{\"id\":\"item_2061973280655904815\",\"decision\":\"superseded_by\",\"reason\":\"Supersede because Sam Altman's tweet is a primary AI-leader reaction to the new EO, but the item-specific evidence is another short endorsement: the U.S. should lead on AI, develop the best models safely, and put cyber tools in trusted defenders' hands. That overlaps strongly with the selected Cyber EO policy slot represented more fully by Sacks.\",\"superseded_by\":\"item_2061882659266261274\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Cyber EO event and similar supportive national-leadership/cyber-defense angle as the Anthropic and Sacks posts; useful context but redundant as a separate digest item.\"}},{\"id\":\"item_2061882659266261274\",\"decision\":\"keep\",\"reason\":\"Keep as the best Cyber EO representative because the tweet is from DavidSacks, identified in the packet as policy context from a White House AI adviser, and its captured text gives item-specific policy evidence: he says many asked about the new Cyber EO, frames Trump as pro-innovation, and says the U.S. has to win the AI race through pro-innovation, pro-energy, and pro-infrastructure policy.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same Cyber EO event as the Anthropic and Altman reactions, but this item has the most concrete policy-context evidence in the packet and can carry the story while the generic endorsements are folded in or dropped.\"}},{\"id\":\"item_2061876400064495747\",\"decision\":\"keep\",\"reason\":\"Keep because Tom Warren is a credible technology journalist source and the tweet provides concrete event-side evidence that Microsoft AI CEO Mustafa Suleyman was on stage discussing seven new Microsoft AI models launching that day. It is terse and secondary, but still a specific model-launch signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers Microsoft's seven-model launch; it is distinct from OpenAI Codex plugins and agent-infrastructure items.\"}},{\"id\":\"item_2061707385723642047\",\"decision\":\"keep\",\"reason\":\"Keep because the tweet gives a concrete secondary-source company story: Tencent is reportedly moving toward an embedded AI agent inside WeChat, with FT attribution, a 1.4B-user consumer-app context, and examples of natural-language tasks through mini-apps such as payments and reservations.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to agent-in-consumer-app coverage, but no selected item covers Tencent, WeChat, or China's consumer AI-agent ecosystem.\"}},{\"id\":\"item_2061840263472152773\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Browser Use's faster and cheaper AI-agent browsing infrastructure is a relevant topic, but this selected WesRoth tweet is a low-engagement secondary summary with only 3 retweets, 27 likes, and 2,800 views while making technical claims about a Chromium fork, Firecracker fork, and custom Linux kernel. A primary Browser Use or engineering source is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad agent-infrastructure cluster as Hermes Desktop, Codex plugins, and Factory Router, but not a direct duplicate; the issue is source strength and low engagement.\"}},{\"id\":\"item_2061868407130329470\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Factory Router could be a useful coding-agent product story, but the selected rohanpaul_ai tweet is secondary, has low engagement with 2 retweets, 20 likes, and 4,500 views, and makes concrete claims about Claude Opus-class results, 20-25% session-spend cuts, and 99% of Claude Opus 4.7 Terminal-Bench 2 performance that should come from Factory or a closer source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to OpenAI Codex and other coding-agent/tooling coverage, but the model-router benchmark and savings claim is a distinct product angle needing stronger traceability.\"}},{\"id\":\"item_2061855365193449529\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Runway joining the Cosmos Coalition with NVIDIA and other AI labs would add physical-AI/world-model variety, but this selected WesRoth post is a very low-engagement secondary source with 0 replies, 2 retweets, 15 likes, and 990 views. An official Runway, NVIDIA, or coalition tweet would be preferable.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers the Cosmos Coalition or physical-AI world-model ecosystem; the weakness is low-engagement secondary sourcing.\"}},{\"id\":\"item_2061793725299224676\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because the tweet has very high engagement and concerns the Google Quantum AI team, but the item-specific evidence is primarily a Shor's algorithm and elliptic-curve cryptography story. It is technical and important, yet only AI-adjacent for a Twitter AI Digest unless a stronger AI/ML relevance angle is found.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct from the rest of the packet; the issue is topical fit for AI/ML coverage rather than duplication.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2061924580222968183\",\"item_2061973280655904815\",\"item_2061882659266261274\"],\"reason\":\"All three selected items cover supportive reactions to the same new Cyber EO. The Anthropic and Altman posts are short endorsements, while Sacks's thread provides the clearest item-specific policy details and should carry the story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2061843507417944552\",\"item_2061887650391625870\",\"item_2061840263472152773\",\"item_2061868407130329470\"],\"reason\":\"The set has several agent and coding-agent tooling stories: Hermes Desktop, Codex role plugins, Browser Use infrastructure, and Factory Router. They are distinct angles, but the weaker secondary items should not crowd out other coverage.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061868407130329470\",\"item_2061855365193449529\"],\"reason\":\"These selected items make concrete launch, infrastructure-stack, benchmark, cost-saving, or coalition claims through secondary low-engagement tweets rather than clearly primary Twitter/X sources.\"},{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061855365193449529\"],\"reason\":\"Two low-engagement secondary WesRoth summaries occupy selected slots; at most one should survive unless backed by a stronger primary Twitter/X source.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061868407130329470\",\"item_2061855365193449529\",\"item_2061793725299224676\"],\"reason\":\"Replacing weak secondary infrastructure/product summaries and the quantum-cryptography AI-adjacent item would improve the packet's balance with clearer AI/ML product, model, research, policy, or infrastructure coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter/X source for Browser Use's browser infrastructure launch before using the selected secondary summary.\",\"suggested_query_theme\":\"Twitter/X search for Browser Use browser infrastructure Chromium Firecracker AI agent browsing launch since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find an official or directly involved Twitter/X source for Factory Router's coding-agent model selector, including benchmark and cost-saving claims.\",\"suggested_query_theme\":\"Twitter/X search for Factory Router coding agent model selector Terminal-Bench cost savings official since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find an official Twitter/X source for Runway joining the NVIDIA Cosmos Coalition or a stronger physical-AI/world-model item.\",\"suggested_query_theme\":\"Twitter/X search for Runway NVIDIA Cosmos Coalition Physical AI world models official since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find a clearer AI/ML replacement for the quantum-cryptography slot if no strong AI-specific angle is available.\",\"suggested_query_theme\":\"Twitter/X search for AI model release AI research result product launch policy infrastructure since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find fuller Twitter/X context for Microsoft's seven-model launch, ideally from Microsoft AI or Mustafa Suleyman rather than only an event-side journalist note.\",\"suggested_query_theme\":\"Twitter/X search for Microsoft AI seven new models Mustafa Suleyman official launch since:2026-06-02\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 46876,
+      "agentMeta": {
+        "sessionId": "4b41ca33-9401-4f7e-b584-596b57f79696",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/4b41ca33-9401-4f7e-b584-596b57f79696.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "pi",
+        "usage": {
+          "input": 31921,
+          "output": 3239,
+          "cacheRead": 18432,
+          "total": 53592
+        },
+        "lastCallUsage": {
+          "input": 31921,
+          "output": 3239,
+          "cacheRead": 18432,
+          "cacheWrite": 0,
+          "total": 53592
+        },
+        "promptTokens": 50353,
+        "contextBudgetStatus": {
+          "schemaVersion": 1,
+          "source": "pre-prompt-estimate",
+          "updatedAt": 1780470504178,
+          "provider": "github-copilot",
+          "model": "gpt-5.5",
+          "route": "fits",
+          "shouldCompact": false,
+          "estimatedPromptTokens": 104865,
+          "contextTokenBudget": 400000,
+          "promptBudgetBeforeReserve": 383616,
+          "reserveTokens": 16384,
+          "effectiveReserveTokens": 16384,
+          "remainingPromptBudgetTokens": 278751,
+          "overflowTokens": 0,
+          "toolResultReducibleChars": 50943,
+          "messageCount": 9,
+          "unwindowedMessageCount": 9,
+          "sessionId": "4b41ca33-9401-4f7e-b584-596b57f79696"
+        }
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1780470504081,
+        "sessionId": "4b41ca33-9401-4f7e-b584-596b57f79696",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 12000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "always",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 35379,
+          "projectContextChars": 13795,
+          "nonProjectContextChars": 21584,
+          "hash": "13d105b1aa156c18d99812b9e66d92e1ef37181d052c8059eda1ab2c7ad26557"
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "hash": "80bb2537b3d6aa26922437384a4a5bc1c795cd7382c470ea9df9c6eb8cefe002",
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 34503,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "summaryHash": "f8a1d7cf1ecfe02b1b5865c93387e6a5891e5079117b4fe18614b6f912521727",
+              "schemaChars": 304,
+              "schemaHash": "5fad0fa7493528bc4284f5c447781325f67099f5fc018206efdc461d33962e85",
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "summaryHash": "c498a85576e187d069e8e8ea4f70f81bddd57829600d385ef61c4359fd634c9e",
+              "schemaChars": 834,
+              "schemaHash": "35f838a1c312a5795b1fc1f7b36fba400cc87229a0025c42c248f12f43ff6d6f",
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "summaryHash": "cdb1c46027b22d1f1b923b47bfe297821d9fe589a9f9d92994961948060a4d89",
+              "schemaChars": 225,
+              "schemaHash": "7e51d1de0f2ccb5fe8de82d51ee3a1d9065e3c4f7c53497ce12f283d6f2f5aa0",
+              "propertiesCount": 2
+            },
+            {
+              "name": "exec",
+              "summaryChars": 539,
+              "summaryHash": "4825198988fbfa8ebf5c2a8fbe3946da0be639b1e3b737ceaa4364195bba3f04",
+              "schemaChars": 1187,
+              "schemaHash": "75ca88a76588ace4567865f751df8a229a04a7470a102a001cc46ec8ec005bff",
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 456,
+              "summaryHash": "55297e65d460e0e1e06e7fad4cedb75ffda8fac9fa8b10aa06d6cead3c5a76ea",
+              "schemaChars": 1074,
+              "schemaHash": "5343155751d4a8889347cf88f926ce566c04915e7f4a0c8088158de566c7cab6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "nodes",
+              "summaryChars": 143,
+              "summaryHash": "ea1b0a5498ca3c788b26d164245652e1aaa989806e0123715793ab25f9578121",
+              "schemaChars": 1589,
+              "schemaHash": "9a9ea45282099c99cae1f7b17e163ed64a205aacad939317062dbacf984caa06",
+              "propertiesCount": 32
+            },
+            {
+              "name": "cron",
+              "summaryChars": 3610,
+              "summaryHash": "262e6a7b421538d13ca6d79fc14616de3ea0c24fde8b050d6fa1652fe991e5c5",
+              "schemaChars": 7191,
+              "schemaHash": "9822b3fba31ad33586c004bcf3256b66c29da16f429ea7f3e3daad9f0eaa1aa2",
+              "propertiesCount": 14
+            },
+            {
+              "name": "message",
+              "summaryChars": 605,
+              "summaryHash": "c9064ba9ed2203fa81efbd9e5a696506feb02b406196e2df541e2cbde964991b",
+              "schemaChars": 6312,
+              "schemaHash": "398f2af95b52467cd9380b140bc691d851aff606bf9e248a6534cf468894764c",
+              "propertiesCount": 111
+            },
+            {
+              "name": "tts",
+              "summaryChars": 217,
+              "summaryHash": "652c1970c199d82b61061a40be2adddfc7e5634df5d896d776a8a0047c8a6b75",
+              "schemaChars": 263,
+              "schemaHash": "d9efc73ba725b1355070c0f43f4de8fbb4462a80dc2efc58c11cb81ead09ddcf",
+              "propertiesCount": 3
+            },
+            {
+              "name": "gateway",
+              "summaryChars": 377,
+              "summaryHash": "61f7e422103698365bb389c00ae4c46b9630840b16971cd141e91ac8f486029d",
+              "schemaChars": 537,
+              "schemaHash": "7c57ca70288dd5e84b8dbd01e49d6d6c5affcbf2467e9db149a3cf84e338b839",
+              "propertiesCount": 13
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 63,
+              "summaryHash": "a7afb8adbaf98833df68160db0677ec2a6bc30b1b96f3592392c9df59e310c65",
+              "schemaChars": 33,
+              "schemaHash": "efddc7bd8bbcef73a14eb1ace1ffdaec81e518ef1e13c1e9271d0b8acb694a49",
+              "propertiesCount": 0
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 135,
+              "summaryHash": "c7e411ae02e3adff5504aaee48f02d262a8abb9152558a3172aae289e3b05faf",
+              "schemaChars": 432,
+              "schemaHash": "9b2e90e1e527755ec253d08fc8da4e3068c3a7b3db6f92847f1c30c4d3eeab1b",
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 117,
+              "summaryHash": "f5d45b76f11a8ac63cc45d456fb6f675f0b1a2e191feb9671924cb5830058f03",
+              "schemaChars": 161,
+              "schemaHash": "7edc087015c0cd2a6af16a10fb25f5e7a64823179e979584f459d062c2596dc6",
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 224,
+              "summaryHash": "56fd935fc97400f8c60b16ae58268660a2d84d8014a60abed515576c45a6f307",
+              "schemaChars": 274,
+              "schemaHash": "8967c4962b1ef9809a47cc8d3e2527366a6fcf48d6ca5f1fd1a90958bc9dcb74",
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 471,
+              "summaryHash": "ae9c266493d1a11ece59ae07f445910d4a17a1547d8afa2ef5f9cba6c6931877",
+              "schemaChars": 1565,
+              "schemaHash": "010fba2f3bda056f6be602db42b1e60cdb17dab6988d6c29f7bac895ac89fbcd",
+              "propertiesCount": 19
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 79,
+              "summaryHash": "f3782fc41c1522657e1d3494f486a2df998fed38a6b89dcf7f6934fb41424320",
+              "schemaChars": 60,
+              "schemaHash": "d803b8cd6aef950bd59c7467fe8ce4d612d0730f5b0270a521b792f7ef6e4550",
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 132,
+              "summaryHash": "1c2ffd38549c0444b118d43736fc4b875ea1aaabc446bbf8bc1fc4ee9180cca4",
+              "schemaChars": 121,
+              "schemaHash": "4fa3ea33309fe77b07fd561e6ccc69ad3b35853d34e693b51f384090dd2ef3fa",
+              "propertiesCount": 2
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 278,
+              "summaryHash": "71177e543dc6235bad4b1a26761995681dcec27ab58dcb4f4f8a7fc9a7b2b5aa",
+              "schemaChars": 89,
+              "schemaHash": "1822f3efd219be167f1d4c7da1657089217484783b790caaddd3483480b767eb",
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 65,
+              "summaryHash": "b38e9b3c079beaa988d3c576303660b91a55c2e72f56351da04160529173273f",
+              "schemaChars": 991,
+              "schemaHash": "24de6a88147bd50f6312e3c93615c22537d283238c6862750994fd2d13a1c228",
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 93,
+              "summaryHash": "8875afbb51bd63673e5e6836ca31eeda73914a464862665cd73b346e28d28fd5",
+              "schemaChars": 316,
+              "schemaHash": "f7b8b6dd7148b305ec2ee39e31eb9e6c47812506e5f180012644403d6abe4585",
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 169,
+              "summaryHash": "a46820ca8952445d3663a8908bfa5d3adddff5b53d18b9d8e9eed8f9e593b494",
+              "schemaChars": 316,
+              "schemaHash": "cc88f0ff22a20bbf9606b71cf838fbd8ff8f2f32baf566b3ba561b28a3fcc9f1",
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "summaryHash": "8a4aab8d6a66131c4f065bc2672af8fbcc19555e55fb4fbb1c24261d02e63e28",
+              "schemaChars": 3005,
+              "schemaHash": "7898669f7b82f485495ba9f89f54ce68ff759dd2480fcb7a217815c89e41ebfc",
+              "propertiesCount": 53
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "summaryHash": "0f918d28864d3682ae77731f149273997c84773592a466b18c7cd0121b599a05",
+              "schemaChars": 237,
+              "schemaHash": "0cc2ef5113533f7e2e08a684b41eeb3eb31f65cdd1f55ff3eb8fc59ddf33683b",
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "summaryHash": "bff1141a3da31a345c550337417efc9ace4da2909004606c727c59ca1a294495",
+              "schemaChars": 215,
+              "schemaHash": "559dad1c0c7e971d1cbc830bca1966c87e451a9f42c8a9b94dc4a583f42d88bd",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "summaryHash": "affbacbf0f44b3be410376ea0313005f3d1a98c06d60a39b9d73bb8348de5dee",
+              "schemaChars": 1667,
+              "schemaHash": "f66fa69bfaee245cef252c9643db366f2e11a9febe7290bdee4556c8658b3441",
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 233,
+              "summaryHash": "88d8f6c086178017ecc4e01e06c1ea99aec650fb072a61bd31386bf46d9e54c2",
+              "schemaChars": 592,
+              "schemaHash": "375dffc78d22bd89b2a76761883b4031e69ad3482bfb1dbade9bec58f2d24807",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "summaryHash": "aa164171b38ca575dc4bdf4f24656561da79ce6d789b03188e91780975cac3b6",
+              "schemaChars": 987,
+              "schemaHash": "ca73cb7ca261c0350904cff33780c73270081e52f5e94151bbd18a259cb24ddb",
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "summaryHash": "ab77cdbb7a9e756591159e3056051405d8e639f9840e8f611ee999b18efecfe7",
+              "schemaChars": 1191,
+              "schemaHash": "daacd8542e404de23c32befd6b7e66d19f9ef991045d067daf85fc4a8bb76830",
+              "propertiesCount": 7
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "summaryHash": "3d8baa7de69d8a18706da77f6ae9e6f758d699abd81551380e6cc4a13e2011cb",
+              "schemaChars": 1439,
+              "schemaHash": "18502e1eca47474729ed37e06cc674c5b25cfd15246e972d71e09ffc23c71fb6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "summaryHash": "3a76cce18e18140589a3cba72722a0d76a338d5a3dcf46d93af39fd015e0e77c",
+              "schemaChars": 1296,
+              "schemaHash": "978afb7c97eeccaebfc9379d9abca1bb68ef8d3cedd5c54ddc56640b3c7214b3",
+              "propertiesCount": 10
+            }
+          ]
+        },
+        "currentTurn": {
+          "promptChars": 2492,
+          "runtimeContextChars": 0
+        }
+      },
+      "finalPromptText": "[Wed 2026-06-03 08:08 GMT+1] Retry: previous validation failed because decision item_2061882659266261274 reason lacked item-specific evidence. Review the Twitter AI Digest candidate packet at /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-06-03.editor-cycle-1.input.json and return only valid JSON following twitter_ai_digest_editor_output.v1.\n\nRequired output contract:\n- Return exactly one JSON object, no markdown and no prose outside JSON.\n- Required top-level fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests.\n- Allowed set_level_flags.type values: same_topic_distinct_angle, redundant_story, fingerprint_collision, source_traceability_failure, overrepresented_author, coverage_gap. Use source_traceability_failure or coverage_gap for verification gaps; do not invent new flag types such as verification_needed.\n- schema_version must be exactly twitter_ai_digest_editor_output.v1.\n- cycle_number must match the packet editor_cycle.\n- decisions must contain one object for every selected item id from the packet.\n- replacement_candidate_id may only reference eligible reserve ids from rejected_notable_items.\n- Do not use pool_role pool items as replacement_candidate_id values.\n- If no eligible reserve fits, use needs_more_search instead of replace_with_existing_candidate.\n- Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment.\n- duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes.\n- Each decision reason must mention item-specific evidence such as source, primary/secondary source quality, concrete release, policy angle, duplicate status, engagement, tweet evidence, or analysis.\n- Each set_level_flags entry must be an object: {\"type\":\"redundant_story\",\"item_ids\":[\"item_2051234567890123456\"],\"reason\":\"Concrete duplicate rationale.\"}. Use [] if none.\n- Each additional_search_requests entry must be an object: {\"needed\":false,\"reason\":null,\"suggested_query_theme\":null}. Use [] if none.\n- set_level_flags and additional_search_requests entries are objects, never strings.\n- additional_search_requests are for additional Twitter search only. suggested_query_theme must describe a Twitter/X search theme, not a web verification task.\n- Do not request web, GitHub, docs, browser, or non-Twitter searches. Do not publish, send messages, update files, use autocli, or include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong official core: Nous Research's Hermes Desktop public preview, Anthropic's Project Glasswing expansion, OpenAI's Codex plugin expansion, and David Sacks's policy-context thread on the Cyber EO. It also adds useful non-lab and geographic variety through Microsoft and Tencent. The main weaknesses are three selected posts about the same Cyber EO, several low-engagement secondary product or infrastructure summaries that need primary Twitter/X sources, and a high-engagement Google Quantum AI/Shor's algorithm story that is only AI-adjacent for this digest. The reserve pool does not contain a clearly stronger eligible replacement for these weak slots, so additional Twitter/X search is preferable.\",\"decisions\":[{\"id\":\"item_2061843507417944552\",\"decision\":\"keep\",\"reason\":\"Keep because the tweet is an official NousResearch product announcement for Hermes Desktop, says the agent is now native on the user's machine and in public preview, and has very high engagement with 1,500 retweets, 9,800 likes, and 4.6M views.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Hermes Agent coverage and to other selected agent-tooling items, but this is a distinct desktop public-preview release rather than a Tool Search update or model-router item.\"}},{\"id\":\"item_2061796327986454883\",\"decision\":\"keep\",\"reason\":\"Keep because this is an official AnthropicAI company announcement expanding Project Glasswing, with concrete tweet evidence that Claude Mythos Preview access was extended to approximately 150 additional organizations in more than fifteen countries.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct Anthropic programme-expansion story, not a duplicate of the Cyber EO reactions or the OpenAI Codex plugin item.\"}},{\"id\":\"item_2061887650391625870\",\"decision\":\"keep\",\"reason\":\"Keep because this is an official OpenAI product tweet about Codex plugins, with concrete release details: role-specialist installs, access to 62 popular apps, and 110 skills across sales, data, and work tasks.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to coding-agent and agent-infrastructure coverage, but this is a primary OpenAI Codex product-expansion story with specific app and skill counts.\"}},{\"id\":\"item_2061924580222968183\",\"decision\":\"superseded_by\",\"reason\":\"Supersede because although the source is official AnthropicAI, the tweet is a generic supportive statement on the Executive Order, saying only that it is an important step for America's AI leadership and that Anthropic will collaborate with the White House. The packet already has more item-specific Cyber EO detail from David Sacks.\",\"superseded_by\":\"item_2061882659266261274\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Cyber EO event and same broadly supportive policy angle as the Altman and Sacks posts; this Anthropic statement adds less concrete policy detail than Sacks's thread.\"}},{\"id\":\"item_2061973280655904815\",\"decision\":\"superseded_by\",\"reason\":\"Supersede because Sam Altman's tweet is a primary AI-leader reaction to the new EO, but the item-specific evidence is another short endorsement: the U.S. should lead on AI, develop the best models safely, and put cyber tools in trusted defenders' hands. That overlaps strongly with the selected Cyber EO policy slot represented more fully by Sacks.\",\"superseded_by\":\"item_2061882659266261274\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Cyber EO event and similar supportive national-leadership/cyber-defense angle as the Anthropic and Sacks posts; useful context but redundant as a separate digest item.\"}},{\"id\":\"item_2061882659266261274\",\"decision\":\"keep\",\"reason\":\"Keep as the best Cyber EO representative because the tweet is from DavidSacks, identified in the packet as policy context from a White House AI adviser, and its captured text gives item-specific policy evidence: he says many asked about the new Cyber EO, frames Trump as pro-innovation, and says the U.S. has to win the AI race through pro-innovation, pro-energy, and pro-infrastructure policy.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same Cyber EO event as the Anthropic and Altman reactions, but this item has the most concrete policy-context evidence in the packet and can carry the story while the generic endorsements are folded in or dropped.\"}},{\"id\":\"item_2061876400064495747\",\"decision\":\"keep\",\"reason\":\"Keep because Tom Warren is a credible technology journalist source and the tweet provides concrete event-side evidence that Microsoft AI CEO Mustafa Suleyman was on stage discussing seven new Microsoft AI models launching that day. It is terse and secondary, but still a specific model-launch signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers Microsoft's seven-model launch; it is distinct from OpenAI Codex plugins and agent-infrastructure items.\"}},{\"id\":\"item_2061707385723642047\",\"decision\":\"keep\",\"reason\":\"Keep because the tweet gives a concrete secondary-source company story: Tencent is reportedly moving toward an embedded AI agent inside WeChat, with FT attribution, a 1.4B-user consumer-app context, and examples of natural-language tasks through mini-apps such as payments and reservations.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to agent-in-consumer-app coverage, but no selected item covers Tencent, WeChat, or China's consumer AI-agent ecosystem.\"}},{\"id\":\"item_2061840263472152773\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Browser Use's faster and cheaper AI-agent browsing infrastructure is a relevant topic, but this selected WesRoth tweet is a low-engagement secondary summary with only 3 retweets, 27 likes, and 2,800 views while making technical claims about a Chromium fork, Firecracker fork, and custom Linux kernel. A primary Browser Use or engineering source is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad agent-infrastructure cluster as Hermes Desktop, Codex plugins, and Factory Router, but not a direct duplicate; the issue is source strength and low engagement.\"}},{\"id\":\"item_2061868407130329470\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Factory Router could be a useful coding-agent product story, but the selected rohanpaul_ai tweet is secondary, has low engagement with 2 retweets, 20 likes, and 4,500 views, and makes concrete claims about Claude Opus-class results, 20-25% session-spend cuts, and 99% of Claude Opus 4.7 Terminal-Bench 2 performance that should come from Factory or a closer source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to OpenAI Codex and other coding-agent/tooling coverage, but the model-router benchmark and savings claim is a distinct product angle needing stronger traceability.\"}},{\"id\":\"item_2061855365193449529\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Runway joining the Cosmos Coalition with NVIDIA and other AI labs would add physical-AI/world-model variety, but this selected WesRoth post is a very low-engagement secondary source with 0 replies, 2 retweets, 15 likes, and 990 views. An official Runway, NVIDIA, or coalition tweet would be preferable.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers the Cosmos Coalition or physical-AI world-model ecosystem; the weakness is low-engagement secondary sourcing.\"}},{\"id\":\"item_2061793725299224676\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because the tweet has very high engagement and concerns the Google Quantum AI team, but the item-specific evidence is primarily a Shor's algorithm and elliptic-curve cryptography story. It is technical and important, yet only AI-adjacent for a Twitter AI Digest unless a stronger AI/ML relevance angle is found.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct from the rest of the packet; the issue is topical fit for AI/ML coverage rather than duplication.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2061924580222968183\",\"item_2061973280655904815\",\"item_2061882659266261274\"],\"reason\":\"All three selected items cover supportive reactions to the same new Cyber EO. The Anthropic and Altman posts are short endorsements, while Sacks's thread provides the clearest item-specific policy details and should carry the story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2061843507417944552\",\"item_2061887650391625870\",\"item_2061840263472152773\",\"item_2061868407130329470\"],\"reason\":\"The set has several agent and coding-agent tooling stories: Hermes Desktop, Codex role plugins, Browser Use infrastructure, and Factory Router. They are distinct angles, but the weaker secondary items should not crowd out other coverage.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061868407130329470\",\"item_2061855365193449529\"],\"reason\":\"These selected items make concrete launch, infrastructure-stack, benchmark, cost-saving, or coalition claims through secondary low-engagement tweets rather than clearly primary Twitter/X sources.\"},{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061855365193449529\"],\"reason\":\"Two low-engagement secondary WesRoth summaries occupy selected slots; at most one should survive unless backed by a stronger primary Twitter/X source.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061868407130329470\",\"item_2061855365193449529\",\"item_2061793725299224676\"],\"reason\":\"Replacing weak secondary infrastructure/product summaries and the quantum-cryptography AI-adjacent item would improve the packet's balance with clearer AI/ML product, model, research, policy, or infrastructure coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter/X source for Browser Use's browser infrastructure launch before using the selected secondary summary.\",\"suggested_query_theme\":\"Twitter/X search for Browser Use browser infrastructure Chromium Firecracker AI agent browsing launch since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find an official or directly involved Twitter/X source for Factory Router's coding-agent model selector, including benchmark and cost-saving claims.\",\"suggested_query_theme\":\"Twitter/X search for Factory Router coding agent model selector Terminal-Bench cost savings official since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find an official Twitter/X source for Runway joining the NVIDIA Cosmos Coalition or a stronger physical-AI/world-model item.\",\"suggested_query_theme\":\"Twitter/X search for Runway NVIDIA Cosmos Coalition Physical AI world models official since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find a clearer AI/ML replacement for the quantum-cryptography slot if no strong AI-specific angle is available.\",\"suggested_query_theme\":\"Twitter/X search for AI model release AI research result product launch policy infrastructure since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find fuller Twitter/X context for Microsoft's seven-model launch, ideally from Microsoft AI or Mustafa Suleyman rather than only an event-side journalist note.\",\"suggested_query_theme\":\"Twitter/X search for Microsoft AI seven new models Mustafa Suleyman official launch since:2026-06-02\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong official core: Nous Research's Hermes Desktop public preview, Anthropic's Project Glasswing expansion, OpenAI's Codex plugin expansion, and David Sacks's policy-context thread on the Cyber EO. It also adds useful non-lab and geographic variety through Microsoft and Tencent. The main weaknesses are three selected posts about the same Cyber EO, several low-engagement secondary product or infrastructure summaries that need primary Twitter/X sources, and a high-engagement Google Quantum AI/Shor's algorithm story that is only AI-adjacent for this digest. The reserve pool does not contain a clearly stronger eligible replacement for these weak slots, so additional Twitter/X search is preferable.\",\"decisions\":[{\"id\":\"item_2061843507417944552\",\"decision\":\"keep\",\"reason\":\"Keep because the tweet is an official NousResearch product announcement for Hermes Desktop, says the agent is now native on the user's machine and in public preview, and has very high engagement with 1,500 retweets, 9,800 likes, and 4.6M views.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Hermes Agent coverage and to other selected agent-tooling items, but this is a distinct desktop public-preview release rather than a Tool Search update or model-router item.\"}},{\"id\":\"item_2061796327986454883\",\"decision\":\"keep\",\"reason\":\"Keep because this is an official AnthropicAI company announcement expanding Project Glasswing, with concrete tweet evidence that Claude Mythos Preview access was extended to approximately 150 additional organizations in more than fifteen countries.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct Anthropic programme-expansion story, not a duplicate of the Cyber EO reactions or the OpenAI Codex plugin item.\"}},{\"id\":\"item_2061887650391625870\",\"decision\":\"keep\",\"reason\":\"Keep because this is an official OpenAI product tweet about Codex plugins, with concrete release details: role-specialist installs, access to 62 popular apps, and 110 skills across sales, data, and work tasks.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to coding-agent and agent-infrastructure coverage, but this is a primary OpenAI Codex product-expansion story with specific app and skill counts.\"}},{\"id\":\"item_2061924580222968183\",\"decision\":\"superseded_by\",\"reason\":\"Supersede because although the source is official AnthropicAI, the tweet is a generic supportive statement on the Executive Order, saying only that it is an important step for America's AI leadership and that Anthropic will collaborate with the White House. The packet already has more item-specific Cyber EO detail from David Sacks.\",\"superseded_by\":\"item_2061882659266261274\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Cyber EO event and same broadly supportive policy angle as the Altman and Sacks posts; this Anthropic statement adds less concrete policy detail than Sacks's thread.\"}},{\"id\":\"item_2061973280655904815\",\"decision\":\"superseded_by\",\"reason\":\"Supersede because Sam Altman's tweet is a primary AI-leader reaction to the new EO, but the item-specific evidence is another short endorsement: the U.S. should lead on AI, develop the best models safely, and put cyber tools in trusted defenders' hands. That overlaps strongly with the selected Cyber EO policy slot represented more fully by Sacks.\",\"superseded_by\":\"item_2061882659266261274\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Cyber EO event and similar supportive national-leadership/cyber-defense angle as the Anthropic and Sacks posts; useful context but redundant as a separate digest item.\"}},{\"id\":\"item_2061882659266261274\",\"decision\":\"keep\",\"reason\":\"Keep as the best Cyber EO representative because the tweet is from DavidSacks, identified in the packet as policy context from a White House AI adviser, and its captured text gives item-specific policy evidence: he says many asked about the new Cyber EO, frames Trump as pro-innovation, and says the U.S. has to win the AI race through pro-innovation, pro-energy, and pro-infrastructure policy.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same Cyber EO event as the Anthropic and Altman reactions, but this item has the most concrete policy-context evidence in the packet and can carry the story while the generic endorsements are folded in or dropped.\"}},{\"id\":\"item_2061876400064495747\",\"decision\":\"keep\",\"reason\":\"Keep because Tom Warren is a credible technology journalist source and the tweet provides concrete event-side evidence that Microsoft AI CEO Mustafa Suleyman was on stage discussing seven new Microsoft AI models launching that day. It is terse and secondary, but still a specific model-launch signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers Microsoft's seven-model launch; it is distinct from OpenAI Codex plugins and agent-infrastructure items.\"}},{\"id\":\"item_2061707385723642047\",\"decision\":\"keep\",\"reason\":\"Keep because the tweet gives a concrete secondary-source company story: Tencent is reportedly moving toward an embedded AI agent inside WeChat, with FT attribution, a 1.4B-user consumer-app context, and examples of natural-language tasks through mini-apps such as payments and reservations.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related broadly to agent-in-consumer-app coverage, but no selected item covers Tencent, WeChat, or China's consumer AI-agent ecosystem.\"}},{\"id\":\"item_2061840263472152773\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Browser Use's faster and cheaper AI-agent browsing infrastructure is a relevant topic, but this selected WesRoth tweet is a low-engagement secondary summary with only 3 retweets, 27 likes, and 2,800 views while making technical claims about a Chromium fork, Firecracker fork, and custom Linux kernel. A primary Browser Use or engineering source is needed.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad agent-infrastructure cluster as Hermes Desktop, Codex plugins, and Factory Router, but not a direct duplicate; the issue is source strength and low engagement.\"}},{\"id\":\"item_2061868407130329470\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Factory Router could be a useful coding-agent product story, but the selected rohanpaul_ai tweet is secondary, has low engagement with 2 retweets, 20 likes, and 4,500 views, and makes concrete claims about Claude Opus-class results, 20-25% session-spend cuts, and 99% of Claude Opus 4.7 Terminal-Bench 2 performance that should come from Factory or a closer source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to OpenAI Codex and other coding-agent/tooling coverage, but the model-router benchmark and savings claim is a distinct product angle needing stronger traceability.\"}},{\"id\":\"item_2061855365193449529\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because Runway joining the Cosmos Coalition with NVIDIA and other AI labs would add physical-AI/world-model variety, but this selected WesRoth post is a very low-engagement secondary source with 0 replies, 2 retweets, 15 likes, and 990 views. An official Runway, NVIDIA, or coalition tweet would be preferable.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers the Cosmos Coalition or physical-AI world-model ecosystem; the weakness is low-engagement secondary sourcing.\"}},{\"id\":\"item_2061793725299224676\",\"decision\":\"needs_more_search\",\"reason\":\"Needs more search because the tweet has very high engagement and concerns the Google Quantum AI team, but the item-specific evidence is primarily a Shor's algorithm and elliptic-curve cryptography story. It is technical and important, yet only AI-adjacent for a Twitter AI Digest unless a stronger AI/ML relevance angle is found.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"Distinct from the rest of the packet; the issue is topical fit for AI/ML coverage rather than duplication.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2061924580222968183\",\"item_2061973280655904815\",\"item_2061882659266261274\"],\"reason\":\"All three selected items cover supportive reactions to the same new Cyber EO. The Anthropic and Altman posts are short endorsements, while Sacks's thread provides the clearest item-specific policy details and should carry the story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2061843507417944552\",\"item_2061887650391625870\",\"item_2061840263472152773\",\"item_2061868407130329470\"],\"reason\":\"The set has several agent and coding-agent tooling stories: Hermes Desktop, Codex role plugins, Browser Use infrastructure, and Factory Router. They are distinct angles, but the weaker secondary items should not crowd out other coverage.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061868407130329470\",\"item_2061855365193449529\"],\"reason\":\"These selected items make concrete launch, infrastructure-stack, benchmark, cost-saving, or coalition claims through secondary low-engagement tweets rather than clearly primary Twitter/X sources.\"},{\"type\":\"overrepresented_author\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061855365193449529\"],\"reason\":\"Two low-engagement secondary WesRoth summaries occupy selected slots; at most one should survive unless backed by a stronger primary Twitter/X source.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2061840263472152773\",\"item_2061868407130329470\",\"item_2061855365193449529\",\"item_2061793725299224676\"],\"reason\":\"Replacing weak secondary infrastructure/product summaries and the quantum-cryptography AI-adjacent item would improve the packet's balance with clearer AI/ML product, model, research, policy, or infrastructure coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a primary or closer-to-primary Twitter/X source for Browser Use's browser infrastructure launch before using the selected secondary summary.\",\"suggested_query_theme\":\"Twitter/X search for Browser Use browser infrastructure Chromium Firecracker AI agent browsing launch since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find an official or directly involved Twitter/X source for Factory Router's coding-agent model selector, including benchmark and cost-saving claims.\",\"suggested_query_theme\":\"Twitter/X search for Factory Router coding agent model selector Terminal-Bench cost savings official since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find an official Twitter/X source for Runway joining the NVIDIA Cosmos Coalition or a stronger physical-AI/world-model item.\",\"suggested_query_theme\":\"Twitter/X search for Runway NVIDIA Cosmos Coalition Physical AI world models official since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find a clearer AI/ML replacement for the quantum-cryptography slot if no strong AI-specific angle is available.\",\"suggested_query_theme\":\"Twitter/X search for AI model release AI research result product launch policy infrastructure since:2026-06-02\"},{\"needed\":true,\"reason\":\"Find fuller Twitter/X context for Microsoft's seven-model launch, ideally from Microsoft AI or Mustafa Suleyman rather than only an event-side journalist note.\",\"suggested_query_theme\":\"Twitter/X search for Microsoft AI seven new models Mustafa Suleyman official launch since:2026-06-02\"}]}",
+      "replayInvalid": false,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    }
+  }
+}
