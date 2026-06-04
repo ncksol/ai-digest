@@ -1,0 +1,501 @@
+{
+  "runId": "a99278c2-214b-4d9f-9dca-bc8eb44aad8a",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong core of primary or near-primary AI product and model news: GPT-Rosalind capabilities, Gemma 4 12B, Anthropic's AI-cyberattack analysis, Microsoft Frontier Tuning, Google Dreambeans, Meta Business Agent, Stack, and Miso One. It needs cleanup because Codex is represented by two very terse 'fly' posts, Gemma 4 12B is duplicated by Demis Hassabis and Jeff Dean, and several items rely on incomplete or secondary tweet context. One reserve item can usefully replace the redundant gdb Codex signal with a distinct coding-agent security/practitioner risk angle; the duplicated Jeff Dean Gemma slot should go to more Twitter search rather than a weak reserve.\",\"decisions\":[{\"id\":\"item_2062249312839434452\",\"decision\":\"keep\",\"reason\":\"Official OpenAI post has very strong engagement and appears to be the primary launch/teaser anchor for the Codex 'fly' story, but its captured text is extremely terse and should not be paired with another equally terse Codex signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Codex 'fly' event and angle as item_2062279597149061564, but this official OpenAI post is the better anchor.\"}},{\"id\":\"item_2062281977122996256\",\"decision\":\"keep\",\"reason\":\"Official OpenAI post gives concrete GPT-Rosalind life-sciences capabilities: GPT-5.5 agentic coding, tool use, drug discovery, analysis, design, and experimental workflows. It is source-traceable and more substantive than a generic OpenAI teaser.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Rosalind/Biodefense coverage, but this tweet adds a distinct enterprise life-sciences capability update rather than repeating the earlier access story.\"}},{\"id\":\"item_2062241713398149524\",\"decision\":\"keep\",\"reason\":\"Primary Demis Hassabis post provides the strongest Gemma 4 12B item: release, 150M+ Gemma downloads, local laptop feasibility, 16GB VRAM, and Apache 2.0 licensing. It should represent the Gemma story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Gemma 4 12B release as item_2062353800657342903, but this post is more detailed and higher-engagement.\"}},{\"id\":\"item_2062243425580367905\",\"decision\":\"keep\",\"reason\":\"Official Anthropic post reports concrete security analysis of 832 malicious accounts mapped to a threat-actor tactics database. It adds a distinct AI-security evidence item with clear source traceability.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected item covers this same Anthropic AI-enabled cyberattack analysis.\"}},{\"id\":\"item_2062275417378041957\",\"decision\":\"keep\",\"reason\":\"Primary Microsoft AI executive post announces Frontier Tuning with reinforcement-learning environments and a clear customization/product positioning. It is a concrete platform capability item and diversifies beyond OpenAI/Google/Anthropic.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to model customization and enterprise AI productization, but not a duplicate of the Meta, Google, or Stack product items.\"}},{\"id\":\"item_2062206479026069544\",\"decision\":\"keep\",\"reason\":\"Official Google Labs announcement of Dreambeans is a concrete consumer experiment using Personal Intelligence and Google app context. It adds a personalized-agent/product experiment angle distinct from enterprise-agent launches.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares a broad personal/agentic product theme with Meta Business Agent and Stack, but the product, audience, and use case are distinct.\"}},{\"id\":\"item_2062172548989698185\",\"decision\":\"keep\",\"reason\":\"Official Meta Newsroom post announces Meta Business Agent for customer support, recommendations, appointment booking, and commerce workflows. It is a concrete applied-agent product release from a primary source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad business-agent theme as Stack, but Meta Business Agent is customer-facing commerce/support while Stack is accounting workflow automation.\"}},{\"id\":\"item_2062157392473624653\",\"decision\":\"keep\",\"reason\":\"High-engagement founder launch for Stack provides a concrete vertical AI operating-system story for accounting firms, including close workflow, journal posting, and auditability. It is digest-worthy if framed as a startup launch rather than established market proof.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to enterprise/business-agent coverage, but distinct by vertical accounting workflow and startup-launch context.\"}},{\"id\":\"item_2062210845308780639\",\"decision\":\"keep\",\"reason\":\"Concrete open-weights voice-model item with model size, GitHub availability, one-shot voice cloning, latency, self-hosting, and privacy claims. Keep, but prefer a closer creator or project account source if additional Twitter search finds one.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected item covers open-weights TTS or voice cloning; the concern is source proximity rather than duplication.\"}},{\"id\":\"item_2062353800657342903\",\"decision\":\"needs_more_search\",\"reason\":\"Jeff Dean's Gemma 4 12B post is credible but redundant with the more detailed, higher-engagement Demis Hassabis Gemma 4 12B announcement. None of the eligible reserves is a clearly superior, source-traceable replacement for this exact duplicate slot.\",\"superseded_by\":\"item_2062241713398149524\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Gemma 4 12B local/open-weights release angle as item_2062241713398149524; Demis provides more details and should carry the story.\"}},{\"id\":\"item_2062360135561830831\",\"decision\":\"keep\",\"reason\":\"Concrete AI-policy item involving Sam Altman and Senator Bernie Sanders discussing a 50% public-ownership proposal for large AI companies. It is secondary outlet reporting rather than a primary participant post, but it adds a useful policy/governance angle absent from the rest of the selected set.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"OpenAI/Sam Altman-adjacent like the OpenAI product posts, but policy/public-ownership is a distinct angle.\"}},{\"id\":\"item_2062279597149061564\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The gdb 'fly with codex' post is too terse and redundant with the official OpenAI 'It's time to fly' item. Reserve item_2062363656806126064 offers a distinct coding-agent risk story about LLM-generated PR slop and security vulnerabilities, which is more useful than a second Codex slogan if framed as a practitioner report.\",\"superseded_by\":\"item_2062249312839434452\",\"replacement_candidate_id\":\"item_2062363656806126064\",\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Codex 'fly' launch/signal as item_2062249312839434452, but with less authority and no additional detail.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062279597149061564\"],\"reason\":\"Both selected items are terse Codex 'fly' signals; the official OpenAI post should carry the story and the gdb post should not occupy a separate digest slot.\"},{\"type\":\"redundant_story\",\"item_ids\":[\"item_2062241713398149524\",\"item_2062353800657342903\"],\"reason\":\"Both selected items cover the same Gemma 4 12B open-weights/local-laptop release with the same angle; the Demis Hassabis post is more detailed and higher-value.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2062206479026069544\",\"item_2062172548989698185\",\"item_2062157392473624653\",\"item_2062275417378041957\"],\"reason\":\"The set is heavy on applied/productized agents and customization: Google personal intelligence, Meta business agents, Stack accounting automation, and Microsoft Frontier Tuning. These are distinct products, but the cluster should be watched for overconcentration.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062281977122996256\",\"item_2062360135561830831\",\"item_2062279597149061564\"],\"reason\":\"Several selected items are OpenAI-adjacent across Codex, GPT-Rosalind, and Sam Altman policy coverage. They are different angles, but the redundant gdb Codex post makes the OpenAI cluster feel too large.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062279597149061564\",\"item_2062210845308780639\",\"item_2062360135561830831\"],\"reason\":\"The OpenAI and gdb Codex posts are too terse to stand alone from captured text; Miso One appears to be a third-party model-release report; and the Sanders/Altman meeting is secondary outlet reporting rather than a participant post.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2062353800657342903\",\"item_2062279597149061564\"],\"reason\":\"Dropping the duplicate Gemma and Codex slots would create room for stronger non-duplicative Twitter-sourced research, technical security, open-source model, benchmark, or policy coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Replace the redundant Gemma 4 12B slot with a stronger non-duplicative Twitter item, preferably primary or close-to-primary.\",\"suggested_query_theme\":\"Twitter/X AI model release research benchmark policy security since:2026-06-03\"},{\"needed\":true,\"reason\":\"Find a fuller Twitter source for the Codex 'fly' launch or a distinct Codex workflow angle if the digest wants more than the official teaser.\",\"suggested_query_theme\":\"Twitter/X OpenAI Codex fly launch demo workflow since:2026-06-03\"},{\"needed\":true,\"reason\":\"Find a closer creator or project-account Twitter source for Miso One before relying on the third-party open-weights voice-model summary.\",\"suggested_query_theme\":\"Twitter/X Miso One open weights voice model TTS release since:2026-06-03\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 176806,
+      "agentMeta": {
+        "sessionId": "bee600a6-fdf7-4a4f-a99e-8c18fc48c7d0",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/bee600a6-fdf7-4a4f-a99e-8c18fc48c7d0.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "pi",
+        "usage": {
+          "input": 57958,
+          "output": 7537,
+          "cacheRead": 67584,
+          "total": 66368
+        },
+        "lastCallUsage": {
+          "input": 14198,
+          "output": 6090,
+          "cacheRead": 46080,
+          "cacheWrite": 0,
+          "total": 66368
+        },
+        "promptTokens": 60278,
+        "contextBudgetStatus": {
+          "schemaVersion": 1,
+          "source": "pre-prompt-estimate",
+          "updatedAt": 1780556640046,
+          "provider": "github-copilot",
+          "model": "gpt-5.5",
+          "route": "fits",
+          "shouldCompact": false,
+          "estimatedPromptTokens": 12772,
+          "contextTokenBudget": 400000,
+          "promptBudgetBeforeReserve": 383616,
+          "reserveTokens": 16384,
+          "effectiveReserveTokens": 16384,
+          "remainingPromptBudgetTokens": 370844,
+          "overflowTokens": 0,
+          "toolResultReducibleChars": 0,
+          "messageCount": 0,
+          "unwindowedMessageCount": 0,
+          "sessionId": "bee600a6-fdf7-4a4f-a99e-8c18fc48c7d0"
+        }
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1780556639991,
+        "sessionId": "bee600a6-fdf7-4a4f-a99e-8c18fc48c7d0",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 12000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "always",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 35379,
+          "projectContextChars": 13795,
+          "nonProjectContextChars": 21584,
+          "hash": "13d105b1aa156c18d99812b9e66d92e1ef37181d052c8059eda1ab2c7ad26557"
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "hash": "80bb2537b3d6aa26922437384a4a5bc1c795cd7382c470ea9df9c6eb8cefe002",
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 34503,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "summaryHash": "f8a1d7cf1ecfe02b1b5865c93387e6a5891e5079117b4fe18614b6f912521727",
+              "schemaChars": 304,
+              "schemaHash": "5fad0fa7493528bc4284f5c447781325f67099f5fc018206efdc461d33962e85",
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "summaryHash": "c498a85576e187d069e8e8ea4f70f81bddd57829600d385ef61c4359fd634c9e",
+              "schemaChars": 834,
+              "schemaHash": "35f838a1c312a5795b1fc1f7b36fba400cc87229a0025c42c248f12f43ff6d6f",
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "summaryHash": "cdb1c46027b22d1f1b923b47bfe297821d9fe589a9f9d92994961948060a4d89",
+              "schemaChars": 225,
+              "schemaHash": "7e51d1de0f2ccb5fe8de82d51ee3a1d9065e3c4f7c53497ce12f283d6f2f5aa0",
+              "propertiesCount": 2
+            },
+            {
+              "name": "exec",
+              "summaryChars": 539,
+              "summaryHash": "4825198988fbfa8ebf5c2a8fbe3946da0be639b1e3b737ceaa4364195bba3f04",
+              "schemaChars": 1187,
+              "schemaHash": "75ca88a76588ace4567865f751df8a229a04a7470a102a001cc46ec8ec005bff",
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 456,
+              "summaryHash": "55297e65d460e0e1e06e7fad4cedb75ffda8fac9fa8b10aa06d6cead3c5a76ea",
+              "schemaChars": 1074,
+              "schemaHash": "5343155751d4a8889347cf88f926ce566c04915e7f4a0c8088158de566c7cab6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "nodes",
+              "summaryChars": 143,
+              "summaryHash": "ea1b0a5498ca3c788b26d164245652e1aaa989806e0123715793ab25f9578121",
+              "schemaChars": 1589,
+              "schemaHash": "9a9ea45282099c99cae1f7b17e163ed64a205aacad939317062dbacf984caa06",
+              "propertiesCount": 32
+            },
+            {
+              "name": "cron",
+              "summaryChars": 3610,
+              "summaryHash": "262e6a7b421538d13ca6d79fc14616de3ea0c24fde8b050d6fa1652fe991e5c5",
+              "schemaChars": 7191,
+              "schemaHash": "9822b3fba31ad33586c004bcf3256b66c29da16f429ea7f3e3daad9f0eaa1aa2",
+              "propertiesCount": 14
+            },
+            {
+              "name": "message",
+              "summaryChars": 605,
+              "summaryHash": "c9064ba9ed2203fa81efbd9e5a696506feb02b406196e2df541e2cbde964991b",
+              "schemaChars": 6312,
+              "schemaHash": "398f2af95b52467cd9380b140bc691d851aff606bf9e248a6534cf468894764c",
+              "propertiesCount": 111
+            },
+            {
+              "name": "tts",
+              "summaryChars": 217,
+              "summaryHash": "652c1970c199d82b61061a40be2adddfc7e5634df5d896d776a8a0047c8a6b75",
+              "schemaChars": 263,
+              "schemaHash": "d9efc73ba725b1355070c0f43f4de8fbb4462a80dc2efc58c11cb81ead09ddcf",
+              "propertiesCount": 3
+            },
+            {
+              "name": "gateway",
+              "summaryChars": 377,
+              "summaryHash": "61f7e422103698365bb389c00ae4c46b9630840b16971cd141e91ac8f486029d",
+              "schemaChars": 537,
+              "schemaHash": "7c57ca70288dd5e84b8dbd01e49d6d6c5affcbf2467e9db149a3cf84e338b839",
+              "propertiesCount": 13
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 63,
+              "summaryHash": "a7afb8adbaf98833df68160db0677ec2a6bc30b1b96f3592392c9df59e310c65",
+              "schemaChars": 33,
+              "schemaHash": "efddc7bd8bbcef73a14eb1ace1ffdaec81e518ef1e13c1e9271d0b8acb694a49",
+              "propertiesCount": 0
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 135,
+              "summaryHash": "c7e411ae02e3adff5504aaee48f02d262a8abb9152558a3172aae289e3b05faf",
+              "schemaChars": 432,
+              "schemaHash": "9b2e90e1e527755ec253d08fc8da4e3068c3a7b3db6f92847f1c30c4d3eeab1b",
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 117,
+              "summaryHash": "f5d45b76f11a8ac63cc45d456fb6f675f0b1a2e191feb9671924cb5830058f03",
+              "schemaChars": 161,
+              "schemaHash": "7edc087015c0cd2a6af16a10fb25f5e7a64823179e979584f459d062c2596dc6",
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 224,
+              "summaryHash": "56fd935fc97400f8c60b16ae58268660a2d84d8014a60abed515576c45a6f307",
+              "schemaChars": 274,
+              "schemaHash": "8967c4962b1ef9809a47cc8d3e2527366a6fcf48d6ca5f1fd1a90958bc9dcb74",
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 471,
+              "summaryHash": "ae9c266493d1a11ece59ae07f445910d4a17a1547d8afa2ef5f9cba6c6931877",
+              "schemaChars": 1565,
+              "schemaHash": "010fba2f3bda056f6be602db42b1e60cdb17dab6988d6c29f7bac895ac89fbcd",
+              "propertiesCount": 19
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 79,
+              "summaryHash": "f3782fc41c1522657e1d3494f486a2df998fed38a6b89dcf7f6934fb41424320",
+              "schemaChars": 60,
+              "schemaHash": "d803b8cd6aef950bd59c7467fe8ce4d612d0730f5b0270a521b792f7ef6e4550",
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 132,
+              "summaryHash": "1c2ffd38549c0444b118d43736fc4b875ea1aaabc446bbf8bc1fc4ee9180cca4",
+              "schemaChars": 121,
+              "schemaHash": "4fa3ea33309fe77b07fd561e6ccc69ad3b35853d34e693b51f384090dd2ef3fa",
+              "propertiesCount": 2
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 278,
+              "summaryHash": "71177e543dc6235bad4b1a26761995681dcec27ab58dcb4f4f8a7fc9a7b2b5aa",
+              "schemaChars": 89,
+              "schemaHash": "1822f3efd219be167f1d4c7da1657089217484783b790caaddd3483480b767eb",
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 65,
+              "summaryHash": "b38e9b3c079beaa988d3c576303660b91a55c2e72f56351da04160529173273f",
+              "schemaChars": 991,
+              "schemaHash": "24de6a88147bd50f6312e3c93615c22537d283238c6862750994fd2d13a1c228",
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 93,
+              "summaryHash": "8875afbb51bd63673e5e6836ca31eeda73914a464862665cd73b346e28d28fd5",
+              "schemaChars": 316,
+              "schemaHash": "f7b8b6dd7148b305ec2ee39e31eb9e6c47812506e5f180012644403d6abe4585",
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 169,
+              "summaryHash": "a46820ca8952445d3663a8908bfa5d3adddff5b53d18b9d8e9eed8f9e593b494",
+              "schemaChars": 316,
+              "schemaHash": "cc88f0ff22a20bbf9606b71cf838fbd8ff8f2f32baf566b3ba561b28a3fcc9f1",
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "summaryHash": "8a4aab8d6a66131c4f065bc2672af8fbcc19555e55fb4fbb1c24261d02e63e28",
+              "schemaChars": 3005,
+              "schemaHash": "7898669f7b82f485495ba9f89f54ce68ff759dd2480fcb7a217815c89e41ebfc",
+              "propertiesCount": 53
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "summaryHash": "0f918d28864d3682ae77731f149273997c84773592a466b18c7cd0121b599a05",
+              "schemaChars": 237,
+              "schemaHash": "0cc2ef5113533f7e2e08a684b41eeb3eb31f65cdd1f55ff3eb8fc59ddf33683b",
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "summaryHash": "bff1141a3da31a345c550337417efc9ace4da2909004606c727c59ca1a294495",
+              "schemaChars": 215,
+              "schemaHash": "559dad1c0c7e971d1cbc830bca1966c87e451a9f42c8a9b94dc4a583f42d88bd",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "summaryHash": "affbacbf0f44b3be410376ea0313005f3d1a98c06d60a39b9d73bb8348de5dee",
+              "schemaChars": 1667,
+              "schemaHash": "f66fa69bfaee245cef252c9643db366f2e11a9febe7290bdee4556c8658b3441",
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 233,
+              "summaryHash": "88d8f6c086178017ecc4e01e06c1ea99aec650fb072a61bd31386bf46d9e54c2",
+              "schemaChars": 592,
+              "schemaHash": "375dffc78d22bd89b2a76761883b4031e69ad3482bfb1dbade9bec58f2d24807",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "summaryHash": "aa164171b38ca575dc4bdf4f24656561da79ce6d789b03188e91780975cac3b6",
+              "schemaChars": 987,
+              "schemaHash": "ca73cb7ca261c0350904cff33780c73270081e52f5e94151bbd18a259cb24ddb",
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "summaryHash": "ab77cdbb7a9e756591159e3056051405d8e639f9840e8f611ee999b18efecfe7",
+              "schemaChars": 1191,
+              "schemaHash": "daacd8542e404de23c32befd6b7e66d19f9ef991045d067daf85fc4a8bb76830",
+              "propertiesCount": 7
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "summaryHash": "3d8baa7de69d8a18706da77f6ae9e6f758d699abd81551380e6cc4a13e2011cb",
+              "schemaChars": 1439,
+              "schemaHash": "18502e1eca47474729ed37e06cc674c5b25cfd15246e972d71e09ffc23c71fb6",
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "summaryHash": "3a76cce18e18140589a3cba72722a0d76a338d5a3dcf46d93af39fd015e0e77c",
+              "schemaChars": 1296,
+              "schemaHash": "978afb7c97eeccaebfc9379d9abca1bb68ef8d3cedd5c54ddc56640b3c7214b3",
+              "propertiesCount": 10
+            }
+          ]
+        },
+        "currentTurn": {
+          "promptChars": 2306,
+          "runtimeContextChars": 0
+        }
+      },
+      "finalPromptText": "[Thu 2026-06-04 08:03 GMT+1] Review the Twitter AI Digest candidate packet at /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-06-04.editor-cycle-1.input.json and return only valid JSON following twitter_ai_digest_editor_output.v1.\n\nRequired output contract:\n- Return exactly one JSON object, no markdown and no prose outside JSON.\n- Required top-level fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests.\n- Allowed set_level_flags.type values: same_topic_distinct_angle, redundant_story, fingerprint_collision, source_traceability_failure, overrepresented_author, coverage_gap. Use source_traceability_failure or coverage_gap for verification gaps; do not invent new flag types such as verification_needed.\n- schema_version must be exactly twitter_ai_digest_editor_output.v1.\n- cycle_number must match the packet editor_cycle.\n- decisions must contain one object for every selected item id from the packet.\n- replacement_candidate_id may only reference eligible reserve ids from rejected_notable_items.\n- Do not use pool_role pool items as replacement_candidate_id values.\n- If no eligible reserve fits, use needs_more_search instead of replace_with_existing_candidate.\n- Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment.\n- duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes.\n- Each set_level_flags entry must be an object: {\"type\":\"redundant_story\",\"item_ids\":[\"item_2051234567890123456\"],\"reason\":\"Concrete duplicate rationale.\"}. Use [] if none.\n- Each additional_search_requests entry must be an object: {\"needed\":false,\"reason\":null,\"suggested_query_theme\":null}. Use [] if none.\n- additional_search_requests are for additional Twitter search only. suggested_query_theme must describe a Twitter/X search theme, not a web verification task.\n- Do not request web, GitHub, docs, browser, or non-Twitter searches. The main digest workflow only runs sequential autocli twitter search for replacements.\n- Never return strings inside set_level_flags or additional_search_requests; every entry in those arrays must be an object.\n- Do not publish, send messages, update files, use autocli, or include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong core of primary or near-primary AI product and model news: GPT-Rosalind capabilities, Gemma 4 12B, Anthropic's AI-cyberattack analysis, Microsoft Frontier Tuning, Google Dreambeans, Meta Business Agent, Stack, and Miso One. It needs cleanup because Codex is represented by two very terse 'fly' posts, Gemma 4 12B is duplicated by Demis Hassabis and Jeff Dean, and several items rely on incomplete or secondary tweet context. One reserve item can usefully replace the redundant gdb Codex signal with a distinct coding-agent security/practitioner risk angle; the duplicated Jeff Dean Gemma slot should go to more Twitter search rather than a weak reserve.\",\"decisions\":[{\"id\":\"item_2062249312839434452\",\"decision\":\"keep\",\"reason\":\"Official OpenAI post has very strong engagement and appears to be the primary launch/teaser anchor for the Codex 'fly' story, but its captured text is extremely terse and should not be paired with another equally terse Codex signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Codex 'fly' event and angle as item_2062279597149061564, but this official OpenAI post is the better anchor.\"}},{\"id\":\"item_2062281977122996256\",\"decision\":\"keep\",\"reason\":\"Official OpenAI post gives concrete GPT-Rosalind life-sciences capabilities: GPT-5.5 agentic coding, tool use, drug discovery, analysis, design, and experimental workflows. It is source-traceable and more substantive than a generic OpenAI teaser.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Rosalind/Biodefense coverage, but this tweet adds a distinct enterprise life-sciences capability update rather than repeating the earlier access story.\"}},{\"id\":\"item_2062241713398149524\",\"decision\":\"keep\",\"reason\":\"Primary Demis Hassabis post provides the strongest Gemma 4 12B item: release, 150M+ Gemma downloads, local laptop feasibility, 16GB VRAM, and Apache 2.0 licensing. It should represent the Gemma story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Gemma 4 12B release as item_2062353800657342903, but this post is more detailed and higher-engagement.\"}},{\"id\":\"item_2062243425580367905\",\"decision\":\"keep\",\"reason\":\"Official Anthropic post reports concrete security analysis of 832 malicious accounts mapped to a threat-actor tactics database. It adds a distinct AI-security evidence item with clear source traceability.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected item covers this same Anthropic AI-enabled cyberattack analysis.\"}},{\"id\":\"item_2062275417378041957\",\"decision\":\"keep\",\"reason\":\"Primary Microsoft AI executive post announces Frontier Tuning with reinforcement-learning environments and a clear customization/product positioning. It is a concrete platform capability item and diversifies beyond OpenAI/Google/Anthropic.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to model customization and enterprise AI productization, but not a duplicate of the Meta, Google, or Stack product items.\"}},{\"id\":\"item_2062206479026069544\",\"decision\":\"keep\",\"reason\":\"Official Google Labs announcement of Dreambeans is a concrete consumer experiment using Personal Intelligence and Google app context. It adds a personalized-agent/product experiment angle distinct from enterprise-agent launches.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares a broad personal/agentic product theme with Meta Business Agent and Stack, but the product, audience, and use case are distinct.\"}},{\"id\":\"item_2062172548989698185\",\"decision\":\"keep\",\"reason\":\"Official Meta Newsroom post announces Meta Business Agent for customer support, recommendations, appointment booking, and commerce workflows. It is a concrete applied-agent product release from a primary source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad business-agent theme as Stack, but Meta Business Agent is customer-facing commerce/support while Stack is accounting workflow automation.\"}},{\"id\":\"item_2062157392473624653\",\"decision\":\"keep\",\"reason\":\"High-engagement founder launch for Stack provides a concrete vertical AI operating-system story for accounting firms, including close workflow, journal posting, and auditability. It is digest-worthy if framed as a startup launch rather than established market proof.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to enterprise/business-agent coverage, but distinct by vertical accounting workflow and startup-launch context.\"}},{\"id\":\"item_2062210845308780639\",\"decision\":\"keep\",\"reason\":\"Concrete open-weights voice-model item with model size, GitHub availability, one-shot voice cloning, latency, self-hosting, and privacy claims. Keep, but prefer a closer creator or project account source if additional Twitter search finds one.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected item covers open-weights TTS or voice cloning; the concern is source proximity rather than duplication.\"}},{\"id\":\"item_2062353800657342903\",\"decision\":\"needs_more_search\",\"reason\":\"Jeff Dean's Gemma 4 12B post is credible but redundant with the more detailed, higher-engagement Demis Hassabis Gemma 4 12B announcement. None of the eligible reserves is a clearly superior, source-traceable replacement for this exact duplicate slot.\",\"superseded_by\":\"item_2062241713398149524\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Gemma 4 12B local/open-weights release angle as item_2062241713398149524; Demis provides more details and should carry the story.\"}},{\"id\":\"item_2062360135561830831\",\"decision\":\"keep\",\"reason\":\"Concrete AI-policy item involving Sam Altman and Senator Bernie Sanders discussing a 50% public-ownership proposal for large AI companies. It is secondary outlet reporting rather than a primary participant post, but it adds a useful policy/governance angle absent from the rest of the selected set.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"OpenAI/Sam Altman-adjacent like the OpenAI product posts, but policy/public-ownership is a distinct angle.\"}},{\"id\":\"item_2062279597149061564\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The gdb 'fly with codex' post is too terse and redundant with the official OpenAI 'It's time to fly' item. Reserve item_2062363656806126064 offers a distinct coding-agent risk story about LLM-generated PR slop and security vulnerabilities, which is more useful than a second Codex slogan if framed as a practitioner report.\",\"superseded_by\":\"item_2062249312839434452\",\"replacement_candidate_id\":\"item_2062363656806126064\",\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Codex 'fly' launch/signal as item_2062249312839434452, but with less authority and no additional detail.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062279597149061564\"],\"reason\":\"Both selected items are terse Codex 'fly' signals; the official OpenAI post should carry the story and the gdb post should not occupy a separate digest slot.\"},{\"type\":\"redundant_story\",\"item_ids\":[\"item_2062241713398149524\",\"item_2062353800657342903\"],\"reason\":\"Both selected items cover the same Gemma 4 12B open-weights/local-laptop release with the same angle; the Demis Hassabis post is more detailed and higher-value.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2062206479026069544\",\"item_2062172548989698185\",\"item_2062157392473624653\",\"item_2062275417378041957\"],\"reason\":\"The set is heavy on applied/productized agents and customization: Google personal intelligence, Meta business agents, Stack accounting automation, and Microsoft Frontier Tuning. These are distinct products, but the cluster should be watched for overconcentration.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062281977122996256\",\"item_2062360135561830831\",\"item_2062279597149061564\"],\"reason\":\"Several selected items are OpenAI-adjacent across Codex, GPT-Rosalind, and Sam Altman policy coverage. They are different angles, but the redundant gdb Codex post makes the OpenAI cluster feel too large.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062279597149061564\",\"item_2062210845308780639\",\"item_2062360135561830831\"],\"reason\":\"The OpenAI and gdb Codex posts are too terse to stand alone from captured text; Miso One appears to be a third-party model-release report; and the Sanders/Altman meeting is secondary outlet reporting rather than a participant post.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2062353800657342903\",\"item_2062279597149061564\"],\"reason\":\"Dropping the duplicate Gemma and Codex slots would create room for stronger non-duplicative Twitter-sourced research, technical security, open-source model, benchmark, or policy coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Replace the redundant Gemma 4 12B slot with a stronger non-duplicative Twitter item, preferably primary or close-to-primary.\",\"suggested_query_theme\":\"Twitter/X AI model release research benchmark policy security since:2026-06-03\"},{\"needed\":true,\"reason\":\"Find a fuller Twitter source for the Codex 'fly' launch or a distinct Codex workflow angle if the digest wants more than the official teaser.\",\"suggested_query_theme\":\"Twitter/X OpenAI Codex fly launch demo workflow since:2026-06-03\"},{\"needed\":true,\"reason\":\"Find a closer creator or project-account Twitter source for Miso One before relying on the third-party open-weights voice-model summary.\",\"suggested_query_theme\":\"Twitter/X Miso One open weights voice model TTS release since:2026-06-03\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet has a strong core of primary or near-primary AI product and model news: GPT-Rosalind capabilities, Gemma 4 12B, Anthropic's AI-cyberattack analysis, Microsoft Frontier Tuning, Google Dreambeans, Meta Business Agent, Stack, and Miso One. It needs cleanup because Codex is represented by two very terse 'fly' posts, Gemma 4 12B is duplicated by Demis Hassabis and Jeff Dean, and several items rely on incomplete or secondary tweet context. One reserve item can usefully replace the redundant gdb Codex signal with a distinct coding-agent security/practitioner risk angle; the duplicated Jeff Dean Gemma slot should go to more Twitter search rather than a weak reserve.\",\"decisions\":[{\"id\":\"item_2062249312839434452\",\"decision\":\"keep\",\"reason\":\"Official OpenAI post has very strong engagement and appears to be the primary launch/teaser anchor for the Codex 'fly' story, but its captured text is extremely terse and should not be paired with another equally terse Codex signal.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Codex 'fly' event and angle as item_2062279597149061564, but this official OpenAI post is the better anchor.\"}},{\"id\":\"item_2062281977122996256\",\"decision\":\"keep\",\"reason\":\"Official OpenAI post gives concrete GPT-Rosalind life-sciences capabilities: GPT-5.5 agentic coding, tool use, drug discovery, analysis, design, and experimental workflows. It is source-traceable and more substantive than a generic OpenAI teaser.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Rosalind/Biodefense coverage, but this tweet adds a distinct enterprise life-sciences capability update rather than repeating the earlier access story.\"}},{\"id\":\"item_2062241713398149524\",\"decision\":\"keep\",\"reason\":\"Primary Demis Hassabis post provides the strongest Gemma 4 12B item: release, 150M+ Gemma downloads, local laptop feasibility, 16GB VRAM, and Apache 2.0 licensing. It should represent the Gemma story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Gemma 4 12B release as item_2062353800657342903, but this post is more detailed and higher-engagement.\"}},{\"id\":\"item_2062243425580367905\",\"decision\":\"keep\",\"reason\":\"Official Anthropic post reports concrete security analysis of 832 malicious accounts mapped to a threat-actor tactics database. It adds a distinct AI-security evidence item with clear source traceability.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected item covers this same Anthropic AI-enabled cyberattack analysis.\"}},{\"id\":\"item_2062275417378041957\",\"decision\":\"keep\",\"reason\":\"Primary Microsoft AI executive post announces Frontier Tuning with reinforcement-learning environments and a clear customization/product positioning. It is a concrete platform capability item and diversifies beyond OpenAI/Google/Anthropic.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to model customization and enterprise AI productization, but not a duplicate of the Meta, Google, or Stack product items.\"}},{\"id\":\"item_2062206479026069544\",\"decision\":\"keep\",\"reason\":\"Official Google Labs announcement of Dreambeans is a concrete consumer experiment using Personal Intelligence and Google app context. It adds a personalized-agent/product experiment angle distinct from enterprise-agent launches.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares a broad personal/agentic product theme with Meta Business Agent and Stack, but the product, audience, and use case are distinct.\"}},{\"id\":\"item_2062172548989698185\",\"decision\":\"keep\",\"reason\":\"Official Meta Newsroom post announces Meta Business Agent for customer support, recommendations, appointment booking, and commerce workflows. It is a concrete applied-agent product release from a primary source.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Same broad business-agent theme as Stack, but Meta Business Agent is customer-facing commerce/support while Stack is accounting workflow automation.\"}},{\"id\":\"item_2062157392473624653\",\"decision\":\"keep\",\"reason\":\"High-engagement founder launch for Stack provides a concrete vertical AI operating-system story for accounting firms, including close workflow, journal posting, and auditability. It is digest-worthy if framed as a startup launch rather than established market proof.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to enterprise/business-agent coverage, but distinct by vertical accounting workflow and startup-launch context.\"}},{\"id\":\"item_2062210845308780639\",\"decision\":\"keep\",\"reason\":\"Concrete open-weights voice-model item with model size, GitHub availability, one-shot voice cloning, latency, self-hosting, and privacy claims. Keep, but prefer a closer creator or project account source if additional Twitter search finds one.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected item covers open-weights TTS or voice cloning; the concern is source proximity rather than duplication.\"}},{\"id\":\"item_2062353800657342903\",\"decision\":\"needs_more_search\",\"reason\":\"Jeff Dean's Gemma 4 12B post is credible but redundant with the more detailed, higher-engagement Demis Hassabis Gemma 4 12B announcement. None of the eligible reserves is a clearly superior, source-traceable replacement for this exact duplicate slot.\",\"superseded_by\":\"item_2062241713398149524\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Gemma 4 12B local/open-weights release angle as item_2062241713398149524; Demis provides more details and should carry the story.\"}},{\"id\":\"item_2062360135561830831\",\"decision\":\"keep\",\"reason\":\"Concrete AI-policy item involving Sam Altman and Senator Bernie Sanders discussing a 50% public-ownership proposal for large AI companies. It is secondary outlet reporting rather than a primary participant post, but it adds a useful policy/governance angle absent from the rest of the selected set.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"OpenAI/Sam Altman-adjacent like the OpenAI product posts, but policy/public-ownership is a distinct angle.\"}},{\"id\":\"item_2062279597149061564\",\"decision\":\"replace_with_existing_candidate\",\"reason\":\"The gdb 'fly with codex' post is too terse and redundant with the official OpenAI 'It's time to fly' item. Reserve item_2062363656806126064 offers a distinct coding-agent risk story about LLM-generated PR slop and security vulnerabilities, which is more useful than a second Codex slogan if framed as a practitioner report.\",\"superseded_by\":\"item_2062249312839434452\",\"replacement_candidate_id\":\"item_2062363656806126064\",\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Same Codex 'fly' launch/signal as item_2062249312839434452, but with less authority and no additional detail.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062279597149061564\"],\"reason\":\"Both selected items are terse Codex 'fly' signals; the official OpenAI post should carry the story and the gdb post should not occupy a separate digest slot.\"},{\"type\":\"redundant_story\",\"item_ids\":[\"item_2062241713398149524\",\"item_2062353800657342903\"],\"reason\":\"Both selected items cover the same Gemma 4 12B open-weights/local-laptop release with the same angle; the Demis Hassabis post is more detailed and higher-value.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2062206479026069544\",\"item_2062172548989698185\",\"item_2062157392473624653\",\"item_2062275417378041957\"],\"reason\":\"The set is heavy on applied/productized agents and customization: Google personal intelligence, Meta business agents, Stack accounting automation, and Microsoft Frontier Tuning. These are distinct products, but the cluster should be watched for overconcentration.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062281977122996256\",\"item_2062360135561830831\",\"item_2062279597149061564\"],\"reason\":\"Several selected items are OpenAI-adjacent across Codex, GPT-Rosalind, and Sam Altman policy coverage. They are different angles, but the redundant gdb Codex post makes the OpenAI cluster feel too large.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2062249312839434452\",\"item_2062279597149061564\",\"item_2062210845308780639\",\"item_2062360135561830831\"],\"reason\":\"The OpenAI and gdb Codex posts are too terse to stand alone from captured text; Miso One appears to be a third-party model-release report; and the Sanders/Altman meeting is secondary outlet reporting rather than a participant post.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2062353800657342903\",\"item_2062279597149061564\"],\"reason\":\"Dropping the duplicate Gemma and Codex slots would create room for stronger non-duplicative Twitter-sourced research, technical security, open-source model, benchmark, or policy coverage.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Replace the redundant Gemma 4 12B slot with a stronger non-duplicative Twitter item, preferably primary or close-to-primary.\",\"suggested_query_theme\":\"Twitter/X AI model release research benchmark policy security since:2026-06-03\"},{\"needed\":true,\"reason\":\"Find a fuller Twitter source for the Codex 'fly' launch or a distinct Codex workflow angle if the digest wants more than the official teaser.\",\"suggested_query_theme\":\"Twitter/X OpenAI Codex fly launch demo workflow since:2026-06-03\"},{\"needed\":true,\"reason\":\"Find a closer creator or project-account Twitter source for Miso One before relying on the third-party open-weights voice-model summary.\",\"suggested_query_theme\":\"Twitter/X Miso One open weights voice model TTS release since:2026-06-03\"}]}",
+      "replayInvalid": true,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "toolSummary": {
+        "calls": 2,
+        "tools": [
+          "read",
+          "exec"
+        ],
+        "failures": 0
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    }
+  }
+}

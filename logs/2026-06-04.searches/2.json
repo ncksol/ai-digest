@@ -1,0 +1,72 @@
+[
+  {
+    "author": "jackcoder0",
+    "id": "2062233782548333047",
+    "likes": 76,
+    "replies": 37,
+    "retweets": 38,
+    "text": "MIT just made every AI company's billion dollar bet look embarrassing.\n\nThey solved AI memory. Not by building a bigger brain. By teaching it how to read.\n\nThe paper dropped on December 31, 2025. Three MIT CSAIL researchers. One idea so obvious it hurts. And a result that makes",
+    "url": "https://x.com/jackcoder0/status/2062233782548333047",
+    "views": 5200
+  },
+  {
+    "author": "shiri_shh",
+    "id": "2062243719131398513",
+    "likes": 13,
+    "replies": 3,
+    "retweets": 0,
+    "text": "Traffic from LLM models such as ChatGPT, perplexity, and gemini converts 6x better than Google Search\n\ndistribution game is shifting faster than most people realize.",
+    "url": "https://x.com/shiri_shh/status/2062243719131398513",
+    "views": 1500
+  },
+  {
+    "author": "lukOlejnik",
+    "id": "2062182231666237694",
+    "likes": 71,
+    "replies": 12,
+    "retweets": 24,
+    "text": "AI-powered computer worm, a self-replicating agent that reasons its way through a network instead of carrying a fixed exploit list. It steals compute from compromised GPU machines to run its own open-weight LLM, then uses weaker machines as relays for reach. In trials on a",
+    "url": "https://x.com/lukOlejnik/status/2062182231666237694",
+    "views": 3300
+  },
+  {
+    "author": "VadimStrizheus",
+    "id": "2062215704506429885",
+    "likes": 65,
+    "replies": 13,
+    "retweets": 3,
+    "text": "how is this even real?! \n\nCody Schneider said LLM traffic can convert at 10-20%.\n\nHe’s seen 40%.\n\n- Google ranks pages.\n- ChatGPT recommends products.\n- Claude references your SaaS\n\nand this guy took this skill and turned it into $17K MRR with his app. \n\nFull playbook below",
+    "url": "https://x.com/VadimStrizheus/status/2062215704506429885",
+    "views": 10000
+  },
+  {
+    "author": "benjamin_horne",
+    "id": "2062361216152895756",
+    "likes": 10,
+    "replies": 4,
+    "retweets": 2,
+    "text": "Automatic model routing is going to be the major story of enterprise LLM usage over the next 3-6 months.\n\nFor the past year, SWEs at big companies have just been ripping Claude Code/Codex while using the hottest frontier models for like, every query. Not because they needed to",
+    "url": "https://x.com/benjamin_horne/status/2062361216152895756",
+    "views": 1200
+  },
+  {
+    "author": "Google",
+    "id": "2062203532351090824",
+    "likes": 253,
+    "replies": 8,
+    "retweets": 24,
+    "text": "Our new unified architecture allows Gemma 4 12B to process multimodal inputs natively. Here's how \n\nTraditional models rely on separate encoders for images and audio. This adds latency and increases memory usage. So we streamlined this:\n\n Vision: We took a novel approach to",
+    "url": "https://x.com/Google/status/2062203532351090824",
+    "views": 49000
+  },
+  {
+    "author": "birdabo",
+    "id": "2062363656806126064",
+    "likes": 74,
+    "replies": 18,
+    "retweets": 2,
+    "text": "Pewdiepie's recent project with 45,000 stars on github is being drowned with PR slops from LLM coding agents. \n\nsecurity vulnerabilities produced by LLM slop: \n- 2FA could be bypassed easily.\n- a session_id could access any file on the server.\n- one click RCE.",
+    "url": "https://x.com/birdabo/status/2062363656806126064",
+    "views": 7600
+  }
+]

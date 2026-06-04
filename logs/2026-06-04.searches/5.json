@@ -1,0 +1,72 @@
+[
+  {
+    "author": "GoogleLabs",
+    "id": "2062206479026069544",
+    "likes": 1000,
+    "replies": 45,
+    "retweets": 133,
+    "text": "NEW EXPERIMENT \n\nDreambeans is a new, experimental mobile app that uses Personal Intelligence to connect to your Google apps. Every day, it delivers collections of personalized stories, surfacing things you might otherwise miss, alongside topics that are relevant to you, to",
+    "url": "https://x.com/GoogleLabs/status/2062206479026069544",
+    "views": 232000
+  },
+  {
+    "author": "mustafasuleyman",
+    "id": "2062275417378041957",
+    "likes": 318,
+    "replies": 25,
+    "retweets": 40,
+    "text": "It’s time to move from renting intelligence to truly controlling your AI. Microsoft Frontier Tuning lets you take our models and make them uniquely your own, turning them from capable generalists to completely custom partners.\n\nIt starts with reinforcement learning environments",
+    "url": "https://x.com/mustafasuleyman/status/2062275417378041957",
+    "views": 13000
+  },
+  {
+    "author": "JeffDean",
+    "id": "2062353800657342903",
+    "likes": 252,
+    "replies": 19,
+    "retweets": 16,
+    "text": "Check out our Gemma 4 12B model: it's a super capable open weights model that can run directly on your laptop.",
+    "url": "https://x.com/JeffDean/status/2062353800657342903",
+    "views": 19000
+  },
+  {
+    "author": "jackcoder0",
+    "id": "2062233782548333047",
+    "likes": 76,
+    "replies": 37,
+    "retweets": 38,
+    "text": "MIT just made every AI company's billion dollar bet look embarrassing.\n\nThey solved AI memory. Not by building a bigger brain. By teaching it how to read.\n\nThe paper dropped on December 31, 2025. Three MIT CSAIL researchers. One idea so obvious it hurts. And a result that makes",
+    "url": "https://x.com/jackcoder0/status/2062233782548333047",
+    "views": 5200
+  },
+  {
+    "author": "DataChaz",
+    "id": "2062285296478404998",
+    "likes": 36,
+    "replies": 8,
+    "retweets": 20,
+    "text": "Uber reportedly torched $3.4B of its AI budget in just four months.\n\nThe root cause: an absolute lack of a routing layer between the request and the model.\n\nWe are blindly throwing expensive frontier models at EVERY SINGLE TASK.\n\nThis is why I am excited about @The_GridAI.\n\nIt",
+    "url": "https://x.com/DataChaz/status/2062285296478404998",
+    "views": 4300
+  },
+  {
+    "author": "kimmonismus",
+    "id": "2062210845308780639",
+    "likes": 524,
+    "replies": 15,
+    "retweets": 34,
+    "text": "Miso One is live: an open-weights voice model built to sound like a real person reading, with actual warmth and pacing where most TTS still goes flat. \n\n8B params, free on GitHub, with one-shot voice cloning from a short sample at 110ms latency.\n\nSelf-host it and your audio data",
+    "url": "https://x.com/kimmonismus/status/2062210845308780639",
+    "views": 69000
+  },
+  {
+    "author": "notjazii",
+    "id": "2062148298170155231",
+    "likes": 80,
+    "replies": 38,
+    "retweets": 1,
+    "text": "> be felix arvid ulf kjellberg\n> better known as pewdiepie\n\n> born 1989, gothenburg, sweden\n> studies industrial economics at chalmers\n> drops out\n> sells prints, works random jobs, starts uploading videos\n\n2010–2013\n\n> starts posting gaming videos\n> becomes one of the fastest",
+    "url": "https://x.com/notjazii/status/2062148298170155231",
+    "views": 1900
+  }
+]
