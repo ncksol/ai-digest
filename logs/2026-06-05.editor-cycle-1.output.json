@@ -1,0 +1,187 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet contains several strong primary announcements, but it is not ready as-is: the Anthropic recursive-self-improvement thread is overrepresented, one selected Sam Altman budget item is a weak secondary-source signal, and the PewDiePie/Odysseus item needs a more authoritative Twitter source. One eligible reserve can replace a weak selected item, but additional Twitter search is needed to keep the final set comfortably within target quality and count.",
+  "decisions": [
+    {
+      "id": "item_2062567556524003631",
+      "decision": "keep",
+      "reason": "Strong primary OpenAI product signal about a more capable ChatGPT memory system, with high engagement and clear digest relevance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the other OpenAI-selected items: this is ChatGPT memory, not Codex, math research, or app publishing."
+      }
+    },
+    {
+      "id": "item_2062599291479478275",
+      "decision": "keep",
+      "reason": "Concrete primary developer-product announcement for Codex iOS app building, with strong engagement and a distinct practitioner angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from ChatGPT memory and OpenAI math-research content, though it contributes to a broader OpenAI-heavy mix."
+      }
+    },
+    {
+      "id": "item_2062630454537424930",
+      "decision": "keep",
+      "reason": "Primary OpenAI research-adjacent item about model-assisted mathematical discovery; lower impact than the top product launches but still a distinct concrete story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate of the other OpenAI selected items; this is a research/podcast story rather than a product announcement."
+      }
+    },
+    {
+      "id": "item_2062521325076299981",
+      "decision": "keep",
+      "reason": "Strong primary model-release announcement from NVIDIA for Nemotron 3 Ultra, with concrete claims on model size, openness, inference speed, and agentic-task cost.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "The reserve NVIDIA item is the same release with details on openness; selected item is the better lead tweet."
+      }
+    },
+    {
+      "id": "item_2062568864240836995",
+      "decision": "needs_more_search",
+      "reason": "This is a narrow metric from the same Anthropic thread/story as the recursive-self-improvement item. Keep the broader Anthropic thesis item and search for a more distinct replacement rather than running two same-thread Anthropic entries.",
+      "superseded_by": "item_2062568873321513443",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same author, same timestamp cluster, and same Anthropic blog/thread about AI-assisted internal engineering and possible successor-system development."
+      }
+    },
+    {
+      "id": "item_2062568873321513443",
+      "decision": "keep",
+      "reason": "Best Anthropic primary item in the packet because it captures the larger recursive-self-improvement implication rather than only the internal code-output metric.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as item_2062568864240836995, but this is the stronger lead angle and should supersede the narrower metric tweet."
+      }
+    },
+    {
+      "id": "item_2062575428213285352",
+      "decision": "keep",
+      "reason": "Concrete AI-agent product/platform story with strong engagement and reserve corroboration from TechCrunch, making it suitable for inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve item_2062616536238768403 covers the same Poke/Apple Messages approval story, but the selected primary post is the better digest lead."
+      }
+    },
+    {
+      "id": "item_2062631044382388615",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The selected item is a secondary account paraphrasing Sam Altman token-budget claims without enough source traceability in the packet. Replace it with an eligible primary Sam Altman reserve tweet about building and publishing web apps with ChatGPT, which is a clearer product signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2062661071761211561",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate of the reserve replacement; the issue is source traceability and relative editorial strength, not same-event redundancy."
+      }
+    },
+    {
+      "id": "item_2062519740417913163",
+      "decision": "needs_more_search",
+      "reason": "Interesting open-source AI workspace claim, but the selected source is a sensational secondary account. No eligible reserve provides a primary or more authoritative PewDiePie/Odysseus signal, so this needs additional Twitter search before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate in the selected set; the problem is source quality and traceability."
+      }
+    },
+    {
+      "id": "item_2062689785274364027",
+      "decision": "needs_more_search",
+      "reason": "Useful critical angle, but it is commentary on the same Anthropic blog already represented by the primary Anthropic item. Include only if the digest intentionally wants a reaction slot; otherwise search for a more distinct story.",
+      "superseded_by": "item_2062568873321513443",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same underlying Anthropic recursive-self-improvement blog/event as the selected Anthropic primary item, but a different critical-analysis angle."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2062568864240836995",
+        "item_2062568873321513443"
+      ],
+      "reason": "Both selected AnthropicAI tweets come from the same same-minute thread/blog event; the recursive-self-improvement tweet is the stronger lead and the 8x-code metric is redundant."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2062568873321513443",
+        "item_2062689785274364027"
+      ],
+      "reason": "Gary Marcus provides a critical interpretation of the same Anthropic recursive-self-improvement story. It is a distinct angle, but still consumes a second slot on the same event."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2062631044382388615"
+      ],
+      "reason": "The Sam Altman token-budget item is a secondary account summarizing alleged remarks and specific numbers without a primary source included in the candidate packet."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2062519740417913163"
+      ],
+      "reason": "The PewDiePie/Odysseus item is potentially notable but comes from a sensational secondary source; the packet lacks a primary or authoritative Twitter source for the launch claim."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Replace the redundant Anthropic same-thread item while preserving digest count and topic diversity.",
+      "suggested_query_theme": "Twitter/X search for high-engagement AI product, model, or research announcements since 2026-06-04 outside Anthropic recursive self-improvement"
+    },
+    {
+      "needed": true,
+      "reason": "Find a primary or more authoritative Twitter source before including the PewDiePie/Odysseus open-source AI workspace story.",
+      "suggested_query_theme": "PewDiePie Odysseus AI workspace official announcement"
+    },
+    {
+      "needed": true,
+      "reason": "If the Sam Altman token-budget story is still desired, find a primary or better-sourced Twitter/X item for the specific token-spend claims.",
+      "suggested_query_theme": "Sam Altman OpenAI token budget 603B tokens customer"
+    }
+  ]
+}

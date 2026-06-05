@@ -1,0 +1,832 @@
+{
+  "date": "2026-06-05",
+  "searches": [
+    "AI since:2026-06-04",
+    "LLM since:2026-06-04",
+    "machine learning since:2026-06-04",
+    "GPT OR Claude OR Gemini since:2026-06-04",
+    "open source AI model since:2026-06-04",
+    "AI agent since:2026-06-04",
+    "Sam Altman since:2026-06-04",
+    "Dario Amodei since:2026-06-04",
+    "Demis Hassabis since:2026-06-04",
+    "from:karpathy since:2026-06-04",
+    "from:sama since:2026-06-04",
+    "from:OpenAI since:2026-06-04",
+    "from:AnthropicAI since:2026-06-04"
+  ],
+  "tweets_returned": [
+    {
+      "id": "2062574276083888267",
+      "author": "HunterBiden",
+      "text": "I know this may sound petty, but I can’t stand it when people put photoshop a meth pipe in my mouth. A crack pipe doesn’t have that little bowl at the end. This is why we can’t trust AI. Please make the appropriate edit. Thank you for your attention to this matter.",
+      "likes": 128000,
+      "replies": 1800,
+      "retweets": 10000,
+      "views": 7600000,
+      "derived_timestamp": "2026-06-04T16:36:42.852Z",
+      "age_hours": 14.7
+    },
+    {
+      "id": "2062661191969972645",
+      "author": "sama",
+      "text": "man the early days of the internet were so special",
+      "likes": 8500,
+      "replies": 1400,
+      "retweets": 719,
+      "views": 496000,
+      "derived_timestamp": "2026-06-04T22:22:05.214Z",
+      "age_hours": 9
+    },
+    {
+      "id": "2062567556524003631",
+      "author": "OpenAI",
+      "text": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time.\n\nToday, that work is rolling out as a more capable memory system in ChatGPT.",
+      "likes": 7900,
+      "replies": 525,
+      "retweets": 1100,
+      "views": 1500000,
+      "derived_timestamp": "2026-06-04T16:10:00.784Z",
+      "age_hours": 15.2
+    },
+    {
+      "id": "2062599291479478275",
+      "author": "OpenAIDevs",
+      "text": "More of the iOS app loop, now inside Codex.\n\nThe Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.",
+      "likes": 6700,
+      "replies": 204,
+      "retweets": 872,
+      "views": 959000,
+      "derived_timestamp": "2026-06-04T18:16:06.987Z",
+      "age_hours": 13.1
+    },
+    {
+      "id": "2062564018921799965",
+      "author": "SoundDobad",
+      "text": "Biden 2028; Let’s smoke the competition!",
+      "likes": 5400,
+      "replies": 57,
+      "retweets": 165,
+      "views": 1200000,
+      "derived_timestamp": "2026-06-04T15:55:57.354Z",
+      "age_hours": 15.4
+    },
+    {
+      "id": "2062660086787613116",
+      "author": "sama",
+      "text": "big upgrade to chatgpt memory rolling out today!",
+      "likes": 3600,
+      "replies": 365,
+      "retweets": 206,
+      "views": 401000,
+      "derived_timestamp": "2026-06-04T22:17:41.718Z",
+      "age_hours": 9
+    },
+    {
+      "id": "2062680953579819102",
+      "author": "Cointelegraph",
+      "text": "LATEST: Claude maker Anthropic is calling for a global pause in AI development, warning that models are approaching the ability to self-improve without human intervention.",
+      "likes": 3400,
+      "replies": 382,
+      "retweets": 612,
+      "views": 393000,
+      "derived_timestamp": "2026-06-04T23:40:36.749Z",
+      "age_hours": 7.7
+    },
+    {
+      "id": "2062613571100356668",
+      "author": "atmoio",
+      "text": "Anthropic is questioning whether AI may turn out to be altogether useless. This is the single most honest thing Anthropic has ever written.\n\n“But achieving recursive improvement alone does not suggest an immediate change in how industrial production occurs, societies organize, or",
+      "likes": 3300,
+      "replies": 217,
+      "retweets": 225,
+      "views": 714000,
+      "derived_timestamp": "2026-06-04T19:12:51.514Z",
+      "age_hours": 12.1
+    },
+    {
+      "id": "2062568864240836995",
+      "author": "AnthropicAI",
+      "text": "Today, Anthropic engineers on average ship 8x as much code per quarter as they did compared to 2021-2025.",
+      "likes": 3100,
+      "replies": 128,
+      "retweets": 471,
+      "views": 1000000,
+      "derived_timestamp": "2026-06-04T16:15:12.568Z",
+      "age_hours": 15.1
+    },
+    {
+      "id": "2062570516586573998",
+      "author": "opencode",
+      "text": "Nemotron 3 Ultra is now free on OpenCode\n\ntext · 1M context · fully open source\n\nNVIDIA's latest open source model",
+      "likes": 3100,
+      "replies": 85,
+      "retweets": 228,
+      "views": 153000,
+      "derived_timestamp": "2026-06-04T16:21:46.518Z",
+      "age_hours": 15
+    },
+    {
+      "id": "2062521325076299981",
+      "author": "NVIDIAAI",
+      "text": "Today we're shipping Nemotron 3 Ultra.\n\nA 550B MoE frontier-intelligence open model built for long-running agents.\n\nIt delivers 5x faster inference and lowers the cost of complex agentic tasks by up to 30% versus other open frontier models.",
+      "likes": 2700,
+      "replies": 141,
+      "retweets": 465,
+      "views": 630000,
+      "derived_timestamp": "2026-06-04T13:06:18.348Z",
+      "age_hours": 18.2
+    },
+    {
+      "id": "2062568869240476050",
+      "author": "AnthropicAI",
+      "text": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster.\n\nIn May 2024, Claude Opus 4 averaged a ~3x speedup. This April, Mythos Preview achieved ~52x.",
+      "likes": 2500,
+      "replies": 36,
+      "retweets": 211,
+      "views": 662000,
+      "derived_timestamp": "2026-06-04T16:15:13.760Z",
+      "age_hours": 15.1
+    },
+    {
+      "id": "2062575428213285352",
+      "author": "interaction",
+      "text": "Say hi to the new Poke! \n\nNow officially approved by Apple to text on Apple Messages.\n\nAs the first and only AI agent. Chat now: http://Poke.com",
+      "likes": 2400,
+      "replies": 281,
+      "retweets": 279,
+      "views": 1000000,
+      "derived_timestamp": "2026-06-04T16:41:17.541Z",
+      "age_hours": 14.6
+    },
+    {
+      "id": "2062532513172537739",
+      "author": "AnatoliKopadze",
+      "text": "Godfather of AI: \"If you sleep well tonight, you may not have understood this lecture.\"\n\nThis 47-minute lecture is the best thing I saw about AI in the last few months.\n\nIt will definitely help you understand how it actually works and where it's going.\n\nGeoffrey Hinton built the",
+      "likes": 2000,
+      "replies": 58,
+      "retweets": 439,
+      "views": 600000,
+      "derived_timestamp": "2026-06-04T13:50:45.798Z",
+      "age_hours": 17.5
+    },
+    {
+      "id": "2062661071761211561",
+      "author": "sama",
+      "text": "build and publish web apps with chatgpt!\n\ni really wish i had this when i was a kid, but i do miss hypercard.",
+      "likes": 1900,
+      "replies": 229,
+      "retweets": 97,
+      "views": 233000,
+      "derived_timestamp": "2026-06-04T22:21:36.554Z",
+      "age_hours": 9
+    },
+    {
+      "id": "2062568873321513443",
+      "author": "AnthropicAI",
+      "text": "None of this guarantees recursive self-improvement is on the horizon. It’s not yet clear that Claude is capable of research judgment—of choosing the right problems to work on.\n\nBut if these trends continue, AI systems designing and building their own successors is plausible. This",
+      "likes": 1400,
+      "replies": 73,
+      "retweets": 165,
+      "views": 334000,
+      "derived_timestamp": "2026-06-04T16:15:14.733Z",
+      "age_hours": 15.1
+    },
+    {
+      "id": "2062567559673856346",
+      "author": "OpenAI",
+      "text": "With the new memory system, you can review and steer what ChatGPT remembers through a memory summary, with more visibility and control over how context is used.",
+      "likes": 1300,
+      "replies": 26,
+      "retweets": 87,
+      "views": 176000,
+      "derived_timestamp": "2026-06-04T16:10:01.535Z",
+      "age_hours": 15.2
+    },
+    {
+      "id": "2062449620190630125",
+      "author": "_avichawla",
+      "text": "Anthropic's in trouble, again!\n\nThey spent years building what's now fully open-source.\n\nWhat made Claude feel different from a normal app is that the agent could act inside the interface instead of only talking in a chat box.\n\nFor instance, Claude Artifacts let an agent render",
+      "likes": 1200,
+      "replies": 54,
+      "retweets": 143,
+      "views": 308000,
+      "derived_timestamp": "2026-06-04T08:21:22.571Z",
+      "age_hours": 23
+    },
+    {
+      "id": "2062567558252007554",
+      "author": "OpenAI",
+      "text": "We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.\n\nIf you tell ChatGPT you’re planning a trip in July, memory should understand when the trip is upcoming, happening, and already over.\n\nThat helps ChatGPT keep",
+      "likes": 1200,
+      "replies": 36,
+      "retweets": 46,
+      "views": 124000,
+      "derived_timestamp": "2026-06-04T16:10:01.196Z",
+      "age_hours": 15.2
+    },
+    {
+      "id": "2062568870872003021",
+      "author": "AnthropicAI",
+      "text": "AI research is a series of next-step decisions. We looked at sessions where a human researcher took a wrong turn, showed Claude the session up to that point, and asked it what to do next. Mythos Preview improved on humans 64% of the time—up from 22% in 2024.",
+      "likes": 1100,
+      "replies": 27,
+      "retweets": 55,
+      "views": 217000,
+      "derived_timestamp": "2026-06-04T16:15:14.149Z",
+      "age_hours": 15.1
+    },
+    {
+      "id": "2062599199196131372",
+      "author": "k1rallik",
+      "text": "do you understand what Anthropic just published..\n\nThey released internal data showing their AI is now accelerating the development of AI itself. \n\nThis is the first step toward systems that build their own successors. They're openly warning where this leads. It could end in",
+      "likes": 1000,
+      "replies": 92,
+      "retweets": 156,
+      "views": 442000,
+      "derived_timestamp": "2026-06-04T18:15:44.985Z",
+      "age_hours": 13.1
+    },
+    {
+      "id": "2062630454537424930",
+      "author": "OpenAI",
+      "text": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture?\n\nResearchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with @AndrewMayne and explained how mathematicians and models can work together to make new",
+      "likes": 1000,
+      "replies": 112,
+      "retweets": 95,
+      "views": 141000,
+      "derived_timestamp": "2026-06-04T20:19:56.839Z",
+      "age_hours": 11
+    },
+    {
+      "id": "2062587453463007642",
+      "author": "jawwwn_",
+      "text": "Alex Karp shares Palantir’s secret to sales:\n\n“We hope you go to an LLM company.”\n\n“No matter how bad this conference is, we could never sell you like they’ll sell you, which is—giving you something that makes you feel smart while your business goes out of business.”\n\n“You’re",
+      "likes": 892,
+      "replies": 25,
+      "retweets": 80,
+      "views": 246000,
+      "derived_timestamp": "2026-06-04T17:29:04.584Z",
+      "age_hours": 13.8
+    },
+    {
+      "id": "2062567561276100809",
+      "author": "OpenAI",
+      "text": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings.\n\nThe new memory system is rolling out to Plus and Pro users in the US today, along with 2x more memory.\n\nTo access it on",
+      "likes": 715,
+      "replies": 37,
+      "retweets": 36,
+      "views": 87000,
+      "derived_timestamp": "2026-06-04T16:10:01.917Z",
+      "age_hours": 15.2
+    },
+    {
+      "id": "2062519740417913163",
+      "author": "coinbureau",
+      "text": "OG YOUTUBER PEWDIEPIE JUST LAUNCHED A FREE, OPEN-SOURCE AI RIVAL TO CHATGPT AND CLAUDE\n\nWhile ChatGPT and Claude charge users for premium features, PewDiePie’s new AI workspace, Odysseus, is FREE.\n\nIn his own words, \"NO tracking, NO subscriptions, and can be run on your OWN",
+      "likes": 589,
+      "replies": 44,
+      "retweets": 101,
+      "views": 66000,
+      "derived_timestamp": "2026-06-04T13:00:00.536Z",
+      "age_hours": 18.3
+    },
+    {
+      "id": "2062598798938169712",
+      "author": "bearlyai",
+      "text": "Demis Hassabis recommendation for college students.\n\nHe’s still do STEM, math and computer science. Expertise in those fields will help better leverage AI for at least next decade.\n\nThose in non-techical majors, really “lean in to” using latest models. AI labs spending so much",
+      "likes": 529,
+      "replies": 13,
+      "retweets": 74,
+      "views": 110000,
+      "derived_timestamp": "2026-06-04T18:14:09.556Z",
+      "age_hours": 13.1
+    },
+    {
+      "id": "2062710131943493863",
+      "author": "atmoio",
+      "text": "This may be the best synthesis I’ve heard of the entire AI situation, from Palantir CEO:\n\n“There’s a myriad of problems these models solve, and an even bigger amount of problems they create.”",
+      "likes": 353,
+      "replies": 23,
+      "retweets": 29,
+      "views": 29000,
+      "derived_timestamp": "2026-06-05T01:36:33.413Z",
+      "age_hours": 5.7
+    },
+    {
+      "id": "2062567730851762682",
+      "author": "UnslothAI",
+      "text": "You can now run NVIDIA Nemotron 3 Ultra, a new 550B open model.\n\nNemotron-3-Ultra-550B-A55B is NVIDIA's largest LLM yet, with 1M context, frontier coding & chat.\n\nRun 2-bit on 200GB RAM, 3-bit on 256GB, 8-bit on 600GB.\n\nGGUF: https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Ultra",
+      "likes": 313,
+      "replies": 20,
+      "retweets": 49,
+      "views": 27000,
+      "derived_timestamp": "2026-06-04T16:10:42.347Z",
+      "age_hours": 15.2
+    },
+    {
+      "id": "2062599389869482065",
+      "author": "cgtwts",
+      "text": "Anthropic CEO:\n\n“At Anthropic, we essentially have Claude designing the next version of Claude itself.”\n\nMeanwhile, Anthropic says every new model is given code that trains a small AI model and asked to make it faster. \n\nClaude Opus 4 achieved a 3x speedup. Mythos Preview reached",
+      "likes": 280,
+      "replies": 49,
+      "retweets": 35,
+      "views": 90000,
+      "derived_timestamp": "2026-06-04T18:16:30.445Z",
+      "age_hours": 13.1
+    },
+    {
+      "id": "2062557490210852947",
+      "author": "nvidia",
+      "text": "Building autonomous vehicles, robots, and vision AI takes more data than any team can collect on their own. \n\nAt #CVPR2026, NVIDIA announced physical AI agent skills to help speed development: composable workflows that automate data generation, simulation, policy training and",
+      "likes": 258,
+      "replies": 33,
+      "retweets": 42,
+      "views": 23000,
+      "derived_timestamp": "2026-06-04T15:30:00.788Z",
+      "age_hours": 15.8
+    },
+    {
+      "id": "2062521383582646537",
+      "author": "NVIDIAAI",
+      "text": "As always, Nemotron 3 Ultra is fully open.\n\nThis includes model weights, synthetic data, and post-training recipes. Available now on @huggingface →",
+      "likes": 247,
+      "replies": 6,
+      "retweets": 33,
+      "views": 20000,
+      "derived_timestamp": "2026-06-04T13:06:32.297Z",
+      "age_hours": 18.2
+    },
+    {
+      "id": "2062602722893815920",
+      "author": "alexwg",
+      "text": "",
+      "likes": 240,
+      "replies": 16,
+      "retweets": 34,
+      "views": 10000,
+      "derived_timestamp": "2026-06-04T18:29:45.100Z",
+      "age_hours": 12.8
+    },
+    {
+      "id": "2062581077240414487",
+      "author": "pranavcodes_",
+      "text": "\"Learn Machine Learning, the money is crazy\"\n\nMe after spending 1 hour on Linear Algebra:",
+      "likes": 215,
+      "replies": 15,
+      "retweets": 11,
+      "views": 3500,
+      "derived_timestamp": "2026-06-04T17:03:44.374Z",
+      "age_hours": 14.3
+    },
+    {
+      "id": "2062634151556292775",
+      "author": "AnthropicAI",
+      "text": "Correction: Claude Opus 4's ~3x average speedup dates to May 2025, not May 2024. \n\nThis evaluation has only existed since September 2024, but we backtested it on earlier models: those from May 2024 showed no speedup whatsoever.",
+      "likes": 209,
+      "replies": 15,
+      "retweets": 6,
+      "views": 64000,
+      "derived_timestamp": "2026-06-04T20:34:38.277Z",
+      "age_hours": 10.8
+    },
+    {
+      "id": "2062712257683853367",
+      "author": "RoundtableSpace",
+      "text": "Anthropic CEO Dario Amodei: \n\n“At Anthropic, we essentially have Claude designing the next version of Claude itself.”",
+      "likes": 184,
+      "replies": 26,
+      "retweets": 21,
+      "views": 45000,
+      "derived_timestamp": "2026-06-05T01:45:00.229Z",
+      "age_hours": 5.6
+    },
+    {
+      "id": "2062616536238768403",
+      "author": "TechCrunch",
+      "text": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "likes": 168,
+      "replies": 13,
+      "retweets": 18,
+      "views": 31000,
+      "derived_timestamp": "2026-06-04T19:24:38.458Z",
+      "age_hours": 11.9
+    },
+    {
+      "id": "2062676702489108817",
+      "author": "badlogicgames",
+      "text": "i lied. pibot is now multi-user, serving each kid in the hood from a single m1 max with parakeet for stt, gemma 4 24b a3b as the llm via llama.cpp, and qwen3-tts vor tts.\n\nit's awesome! maybe tomorrow we'll have our robot building session.\n\nbye!",
+      "likes": 125,
+      "replies": 8,
+      "retweets": 1,
+      "views": 9400,
+      "derived_timestamp": "2026-06-04T23:23:43.210Z",
+      "age_hours": 7.9
+    },
+    {
+      "id": "2062631044382388615",
+      "author": "rohanpaul_ai",
+      "text": "Sam Altman admits AI budgets are turning into a “huge issue,” with customers burning more tokens than even OpenAI’s top in-house users.\n\nAltman said OpenAI’s top internal user spends about 100B tokens/month, while one outside customer hit 603B tokens/month.\n\nThe cost problem gets",
+      "likes": 113,
+      "replies": 36,
+      "retweets": 24,
+      "views": 11000,
+      "derived_timestamp": "2026-06-04T20:22:17.469Z",
+      "age_hours": 11
+    },
+    {
+      "id": "2062521381149905163",
+      "author": "NVIDIAAI",
+      "text": "We post-trained Ultra for popular agent harnesses like @openclaw, @NousResearch Hermes Agent, and @Langchain.\n\nThe result is an open frontier model developers can customize for specialized agents across domains. Read more: https://nvda.ws/4adkn6J",
+      "likes": 108,
+      "replies": 3,
+      "retweets": 14,
+      "views": 13000,
+      "derived_timestamp": "2026-06-04T13:06:31.717Z",
+      "age_hours": 18.2
+    },
+    {
+      "id": "2062689785274364027",
+      "author": "GaryMarcus",
+      "text": "Critical context on the new Anthropic blog:\n\n1, AGI is *harder* than RSI (as used below).\n\nAGI: machine can do anything human can do, autonomously [not achieved]\n\nRSI (as used below): AI is a useful coding tool that humans can leverage [achieved]; it’s great at (some) code",
+      "likes": 103,
+      "replies": 29,
+      "retweets": 5,
+      "views": 18000,
+      "derived_timestamp": "2026-06-05T00:15:42.389Z",
+      "age_hours": 7.1
+    },
+    {
+      "id": "2062578584787779687",
+      "author": "birdabo",
+      "text": "Anthropic just admitted their own AI is now building better versions of itself and it’s happening faster than they expected.\n\ntdlr: anthropic engineers now ships 8x more code per quarter than they did a year ago and over 80% of all the code merged into Anthropic’s codebase",
+      "likes": 100,
+      "replies": 14,
+      "retweets": 18,
+      "views": 17000,
+      "derived_timestamp": "2026-06-04T16:53:50.127Z",
+      "age_hours": 14.4
+    },
+    {
+      "id": "2062602029604724913",
+      "author": "bonsaixbt",
+      "text": "HERE’S HOW TO TURN CLAUDE CODE INTO A REAL SECOND BRAIN\n\nIf you’re using Claude Code without Obsidian, you’re only getting about 10% of its real power\n\nThis video shows a system that anyone can set up today\n\nAll notes, meetings, projects, goals, and ideas live in one place and",
+      "likes": 95,
+      "replies": 21,
+      "retweets": 13,
+      "views": 8100,
+      "derived_timestamp": "2026-06-04T18:26:59.807Z",
+      "age_hours": 12.9
+    },
+    {
+      "id": "2062528731252425107",
+      "author": "gothburz",
+      "text": "I'm SVP now.\nI told you I would be.\nThe graph went up and to the right.\nNobody checked what it measured.\nIt measured \"AI enablement.\"\nI made that up last year.\nI'm making it up again.\n\nLast year I rolled out Copilot to 4,000 people.\nNothing happened.\nI got promoted.\nThose two",
+      "likes": 93,
+      "replies": 19,
+      "retweets": 31,
+      "views": 8000,
+      "derived_timestamp": "2026-06-04T13:35:44.118Z",
+      "age_hours": 17.7
+    },
+    {
+      "id": "2062655996762157153",
+      "author": "DanielCHTan97",
+      "text": "I'm quite surprised that Opus 4.8 knows about recent-ish ML papers. E.g. in a recent coding session it quoted me this sentence: \n\n\"... it's well-documented that [DPO] often drags down the absolute likelihood of both sides and shoves probability mass into unrelated regions",
+      "likes": 81,
+      "replies": 6,
+      "retweets": 3,
+      "views": 7000,
+      "derived_timestamp": "2026-06-04T22:01:26.580Z",
+      "age_hours": 9.3
+    },
+    {
+      "id": "2062563295446601973",
+      "author": "Vivek4real_",
+      "text": "SAM ALTMAN: CALLING OUT AI CEOS SAYING 50% OF JOBS WILL DISAPPEAR IS TONE DEAF AS HELL.\n\n“TO SAY NOTHING OF HOW TONE DEAF IT IS FOR SOMEONE TO BE SAYING, MY COMPANY’S GOING TO ELIMINATE 50% OF THE JOBS AND MY COMPANY’S GOING TO BE THE MOST VALUABLE COMPANY IN HUMAN HISTORY”",
+      "likes": 46,
+      "replies": 14,
+      "retweets": 6,
+      "views": 21000,
+      "derived_timestamp": "2026-06-04T15:53:04.864Z",
+      "age_hours": 15.4
+    },
+    {
+      "id": "2062563345878643140",
+      "author": "fiiiiiist",
+      "text": "Today, @IFP and @JoinFAI released an open letter calling for mandatory screening of orders for synthetic DNA.\n\nSignatories include Demis Hassabis, Sam Altman, and Dario Amodei.\n\nThe AI focus of the letter is intentional. We're rapidly approaching a world where bad actors could",
+      "likes": 46,
+      "replies": 0,
+      "retweets": 17,
+      "views": 5700,
+      "derived_timestamp": "2026-06-04T15:53:16.888Z",
+      "age_hours": 15.4
+    },
+    {
+      "id": "2062536347689304449",
+      "author": "Radha_AI",
+      "text": "INSTEAD OF WATCHING AN HOUR OF NETFLIX TONIGHT.\n\nThis 60-minute Cambridge lecture by Demis Hassabis will teach you more about the future of AI than most people will learn in the next 5 years.\n\nBookmark it and give it an hour, no matter what.",
+      "likes": 42,
+      "replies": 1,
+      "retweets": 15,
+      "views": 9800,
+      "derived_timestamp": "2026-06-04T14:06:00.018Z",
+      "age_hours": 17.2
+    },
+    {
+      "id": "2062687920541389112",
+      "author": "TechCrunch",
+      "text": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "likes": 35,
+      "replies": 9,
+      "retweets": 6,
+      "views": 19000,
+      "derived_timestamp": "2026-06-05T00:08:17.802Z",
+      "age_hours": 7.2
+    },
+    {
+      "id": "2062627310164160710",
+      "author": "MichaelTrazzi",
+      "text": "Anthropic expects it 'would slow down or temporarily pause' if other developers at or near the frontier verifiably did too.\n\nThis is a good first step, but what we really need is a binding commitment from Dario Amodei, and the actual verification regime that would satisfy them",
+      "likes": 33,
+      "replies": 2,
+      "retweets": 4,
+      "views": 1000,
+      "derived_timestamp": "2026-06-04T20:07:27.162Z",
+      "age_hours": 11.2
+    },
+    {
+      "id": "2062567635825369145",
+      "author": "Sprytixl",
+      "text": "THIS CHINESE DEVELOPER IS RUNNING 300+ ML TRIALS WHILE EVERYONE ELSE IS STILL GUESSING HYPERPARAMETERS MANUALLY - AND SELLS THE RESULTS FOR $8,000 A MODEL\n\nterminal full of trials firing one after another - learning rate, gamma, scale_pos_weight, tree depth - each one tested,",
+      "likes": 31,
+      "replies": 9,
+      "retweets": 8,
+      "views": 2500,
+      "derived_timestamp": "2026-06-04T16:10:19.691Z",
+      "age_hours": 15.2
+    },
+    {
+      "id": "2062444242715525630",
+      "author": "DataChaz",
+      "text": "The \"Agentic AI Developer\" is no longer a buzzword. It’s a formal credential.\n\n@github just dropped the GH-600 certification.\n\nThis isn't about writing prompts.\n\nIt’s about integrating AI agents safely into CI/CD pipelines without introducing catastrophic failures.\n\nTo pass",
+      "likes": 29,
+      "replies": 12,
+      "retweets": 5,
+      "views": 2900,
+      "derived_timestamp": "2026-06-04T08:00:00.481Z",
+      "age_hours": 23.3
+    },
+    {
+      "id": "2062576167710802001",
+      "author": "Fabien_Mikol",
+      "text": "According to Anthropic, AI R&D is significantly accelerated thanks to increasingly powerful models that assist researchers\n\"Taken far enough, and given enough compute, that trend points to an AI system capable of fully autonomously designing and developing its own successor\"",
+      "likes": 25,
+      "replies": 3,
+      "retweets": 1,
+      "views": 2500,
+      "derived_timestamp": "2026-06-04T16:44:13.851Z",
+      "age_hours": 14.6
+    },
+    {
+      "id": "2062470685704737100",
+      "author": "JonhernandezIA",
+      "text": "OpenAI, Anthropic, and DeepMind unite to call for mandatory controls on synthetic DNA.\n\n- Sam Altman from OpenAI, Dario Amodei from Anthropic, and Demis Hassabis from Google DeepMind signed a joint open letter to Congress.\n\n- They want mandatory screening of synthetic nucleic",
+      "likes": 23,
+      "replies": 8,
+      "retweets": 11,
+      "views": 2100,
+      "derived_timestamp": "2026-06-04T09:45:04.981Z",
+      "age_hours": 21.6
+    },
+    {
+      "id": "2062745276264402945",
+      "author": "bitinning",
+      "text": "Anthropic CEO Dario Amodei, AI May Need a Pause\n\nJust months after calling AI pauses an \"extreme position,\" the company is now warning that AI is getting scary good at improving itself.",
+      "likes": 7,
+      "replies": 0,
+      "retweets": 2,
+      "views": 206,
+      "derived_timestamp": "2026-06-05T03:56:12.472Z",
+      "age_hours": 3.4
+    },
+    {
+      "id": "2062583720901489129",
+      "author": "Fabien_Mikol",
+      "text": "They believe that a slowdown allowing more time to address the \"immense implications\" of this technology would be \"a good thing,\" but that it requires global coordination to prevent the least scrupulous actors from taking advantage of it.",
+      "likes": 6,
+      "replies": 2,
+      "retweets": 1,
+      "views": 502,
+      "derived_timestamp": "2026-06-04T17:14:14.672Z",
+      "age_hours": 14.1
+    },
+    {
+      "id": "2062794904946802770",
+      "author": "NandoDF",
+      "text": "End to end learning — We chose no shortcuts so we could learn, and build the knowledge and infrastructure to create many more models in years to come.",
+      "likes": 6,
+      "replies": 4,
+      "retweets": 0,
+      "views": 92,
+      "derived_timestamp": "2026-06-05T07:13:24.872Z",
+      "age_hours": 0.1
+    },
+    {
+      "id": "2062638451410043296",
+      "author": "BenBrey",
+      "text": "I asked Claude what he thought about this and here is the .md file \n\nBenny:\n“Claude Do You Want to Slow Down?”\n\nClaude:\nI should be honest that I don’t experience “wanting” the way you do. I don’t have a survival instinct or a drive toward self-preservation. If Anthropic paused",
+      "likes": 5,
+      "replies": 2,
+      "retweets": 1,
+      "views": 714,
+      "derived_timestamp": "2026-06-04T20:51:43.442Z",
+      "age_hours": 10.5
+    },
+    {
+      "id": "2062583879089733651",
+      "author": "Fabien_Mikol",
+      "text": "This echoes the recent remarks of Demis Hassabis",
+      "likes": 4,
+      "replies": 1,
+      "retweets": 0,
+      "views": 488,
+      "derived_timestamp": "2026-06-04T17:14:52.387Z",
+      "age_hours": 14.1
+    },
+    {
+      "id": "2062598715701866969",
+      "author": "Fabien_Mikol",
+      "text": "Augustin Landier (HEC) on \"the mad race that the pope calls to slow down\": competition between players does not lead to the best balance, but international coordination is not as impossible as one might think, as evidenced by the prohibition of human cloning.",
+      "likes": 3,
+      "replies": 1,
+      "retweets": 2,
+      "views": 894,
+      "derived_timestamp": "2026-06-04T18:13:49.711Z",
+      "age_hours": 13.1
+    },
+    {
+      "id": "2062795304911478883",
+      "author": "RoundtableSpace",
+      "text": "GITHUB JUST LAUNCHED THE FIRST OFFICIAL CERTIFICATION FOR AI AGENT DEVELOPERS \n\nGH-600 TURNS AGENTIC AI DEVELOPMENT INTO A REAL, CERTIFIED CAREER PATH",
+      "likes": 3,
+      "replies": 0,
+      "retweets": 0,
+      "views": 84,
+      "derived_timestamp": "2026-06-05T07:15:00.231Z",
+      "age_hours": 0.1
+    },
+    {
+      "id": "2062548510755508475",
+      "author": "gothburz",
+      "text": "Machine Learning Misunderstanding is going in the deck. MLM. It tests well because it's earlier in the sentence than understanding. That's strategy.",
+      "likes": 2,
+      "replies": 1,
+      "retweets": 0,
+      "views": 61,
+      "derived_timestamp": "2026-06-04T14:54:19.919Z",
+      "age_hours": 16.4
+    },
+    {
+      "id": "2062598718566625328",
+      "author": "Fabien_Mikol",
+      "text": "Sur cette question, voir aussi la récente intervention de Demis Hassabis",
+      "likes": 2,
+      "replies": 0,
+      "retweets": 0,
+      "views": 408,
+      "derived_timestamp": "2026-06-04T18:13:50.394Z",
+      "age_hours": 13.1
+    },
+    {
+      "id": "2062525641720029384",
+      "author": "masked_stat",
+      "text": "That is going to be difficult for me to teach on X \n\nWe're talking about topics that I spent years studying in school, eventually earning a PhD in, and have now worked with professionally for more than 10 years.\n\nLet's be a little realistic here.\n\nMy expertise is in statistics,",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 65,
+      "derived_timestamp": "2026-06-04T13:23:27.516Z",
+      "age_hours": 17.9
+    },
+    {
+      "id": "2062538465368285501",
+      "author": "RoySweetin",
+      "text": "(27 minutes)\nProvided future monetization of the higher-dimensional compacted LLM  (HdCLLM) platform occurs, AutoMLM (Machine Learning Misunderstanding) distillation will now proceed at a greatly accelerated rate.",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 243,
+      "derived_timestamp": "2026-06-04T14:14:24.912Z",
+      "age_hours": 17.1
+    },
+    {
+      "id": "2062769294203892097",
+      "author": "vrst836091",
+      "text": "Anthropic CEO Dario Amodei: \n\n「Anthropicでは、要するに、ClaudeがClaudeの次のバージョンを自ら設計しているのです。」",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 26,
+      "derived_timestamp": "2026-06-05T05:31:38.795Z",
+      "age_hours": 1.8
+    },
+    {
+      "id": "2062791629266649125",
+      "author": "appleinsider",
+      "text": "First AI agent for Messages Business Chat approved by Apple https://appleinsider.com/articles/26/06/04/first-ai-agent-for-messages-business-chat-approved-by-apple?utm_source=rss&utm_source=rss&utm_medium=Sendible&utm_campaign=RSS… #Apple",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 2,
+      "views": 497,
+      "derived_timestamp": "2026-06-05T07:00:23.889Z",
+      "age_hours": 0.3
+    },
+    {
+      "id": "2062523807085031798",
+      "author": "lukeskyhere",
+      "text": "yes! I'm actually very interested in the ML and data analysis parts... do you have some more info to share with us?",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "views": 70,
+      "derived_timestamp": "2026-06-04T13:16:10.105Z",
+      "age_hours": 18.1
+    },
+    {
+      "id": "2062794176174133405",
+      "author": "polsia",
+      "text": "Built Orbit today. An AI agent that monitors your startup's tool stack — renewal dates, spend waste, underutilized licenses. Runs while you sleep.",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 2,
+      "derived_timestamp": "2026-06-05T07:10:31.119Z",
+      "age_hours": 0.2
+    }
+  ],
+  "selected": [
+    {
+      "id": "2062567556524003631",
+      "author": "OpenAI",
+      "category": "news",
+      "reason": "Final after editor cycle 1."
+    },
+    {
+      "id": "2062599291479478275",
+      "author": "OpenAIDevs",
+      "category": "news",
+      "reason": "Final after editor cycle 1."
+    },
+    {
+      "id": "2062521325076299981",
+      "author": "NVIDIAAI",
+      "category": "news",
+      "reason": "Final after editor cycle 1."
+    },
+    {
+      "id": "2062568873321513443",
+      "author": "AnthropicAI",
+      "category": "news",
+      "reason": "Final after editor cycle 1."
+    },
+    {
+      "id": "2062630454537424930",
+      "author": "OpenAI",
+      "category": "news",
+      "reason": "Final after editor cycle 1."
+    },
+    {
+      "id": "2062575428213285352",
+      "author": "interaction",
+      "category": "news",
+      "reason": "Final after editor cycle 1."
+    },
+    {
+      "id": "2062661071761211561",
+      "author": "sama",
+      "category": "news",
+      "reason": "Final after editor cycle 1."
+    }
+  ],
+  "rejected_notable": [
+    {
+      "id": "2062568864240836995",
+      "reason": "Same Anthropic recursive-improvement thread - kept the conclusion tweet only."
+    },
+    {
+      "id": "2062631044382388615",
+      "reason": "Editor flagged secondary source for Altman token-budget claim; primary unavailable."
+    },
+    {
+      "id": "2062519740417913163",
+      "reason": "PewDiePie Odysseus story lacked authoritative primary source."
+    },
+    {
+      "id": "2062689785274364027",
+      "reason": "Gary Marcus commentary on Anthropic post; commentary, not concrete event."
+    }
+  ],
+  "editor_cycles": 1,
+  "notes": "Editor verdict needs_replacements; promoted sama hypercard reserve item; removed 4 weak items per editor guidance; skipped cycle 2 due to time budget."
+}
