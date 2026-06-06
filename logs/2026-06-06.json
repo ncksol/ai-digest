@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-06",
+  "searches": [
+    "AI since:2026-06-05", "LLM since:2026-06-05", "machine learning since:2026-06-05",
+    "GPT OR Claude OR Gemini since:2026-06-05", "open source AI model since:2026-06-05",
+    "AI agent since:2026-06-05", "Sam Altman since:2026-06-05", "Dario Amodei since:2026-06-05",
+    "Demis Hassabis since:2026-06-05", "from:karpathy since:2026-06-05",
+    "from:sama since:2026-06-05", "from:OpenAI since:2026-06-05", "from:AnthropicAI since:2026-06-05"
+  ],
+  "editor_workflow": "skipped_timeout_budget",
+  "selected": [
+    {"id":"2062979607448682731","author":"AnthropicAI","category":"news","reason":"Claude Opus 4.7 NMR chemistry result"},
+    {"id":"2063028954546733462","author":"bcherny","category":"news","reason":"Anthropic doubles Claude Cowork limits"},
+    {"id":"2062927046448431587","author":"OpenAI","category":"news","reason":"OpenAI account suspension incident"},
+    {"id":"2062848955235631129","author":"JaynitMakwana","category":"news","reason":"Altman on ChatGPT confidentiality gap"},
+    {"id":"2063075876452155728","author":"deedydas","category":"analysis","reason":"AI unicorn list with $10B+ valuations"},
+    {"id":"2062926448000667813","author":"deredleritt3r","category":"news","reason":"USG equity stake discussions"},
+    {"id":"2063073742498980078","author":"deredleritt3r","category":"news","reason":"White House voluntary cyber framework"},
+    {"id":"2063091245334044902","author":"paulg","category":"analysis","reason":"Token cost optimization TAM"},
+    {"id":"2062942526856941994","author":"ycombinator","category":"news","reason":"Steinberger/OpenClaw at Startup School 2026"},
+    {"id":"2062942918260973656","author":"gabepereyra","category":"personal_story","reason":"Harvey internal hackathon"},
+    {"id":"2062840689415905369","author":"itsolelehmann","category":"personal_story","reason":"Japan broccoli farmer running farm with Codex"}
+  ],
+  "rejected_notable": [
+    {"id":"2063000883466801397","reason":"Gary Marcus opinion piece on market dip"},
+    {"id":"2063017894221591008","reason":"Open-weight roundup overlaps recent digests"},
+    {"id":"2063040886242492478","reason":"Low-engagement secondhand quoting"}
+  ]
+}
