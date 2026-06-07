@@ -1,0 +1,669 @@
+{
+  "date": "2026-06-07",
+  "searches": [
+    {
+      "query": "AI since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "LLM since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "machine learning since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "open source AI model since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "AI agent since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "Sam Altman since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "Dario Amodei since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "Demis Hassabis since:2026-06-06",
+      "limit": 20,
+      "returned_count": 20,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "from:karpathy since:2026-06-06",
+      "limit": 5,
+      "returned_count": 0,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "from:sama since:2026-06-06",
+      "limit": 5,
+      "returned_count": 0,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "from:OpenAI since:2026-06-06",
+      "limit": 5,
+      "returned_count": 0,
+      "source": "autocli twitter search"
+    },
+    {
+      "query": "from:AnthropicAI since:2026-06-06",
+      "limit": 5,
+      "returned_count": 0,
+      "source": "autocli twitter search"
+    }
+  ],
+  "recent_history": [
+    {
+      "date": "2026-06-06",
+      "topics": [
+        "NMR chemistry",
+        "Claude Cowork limits",
+        "wrongly suspended accounts",
+        "Altman privilege",
+        "US equity talks",
+        "cyber EO",
+        "AI unicorn list",
+        "LLM cost cutting"
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "topics": [
+        "ChatGPT memory",
+        "Codex iOS plugin",
+        "Nemotron 3 Ultra",
+        "recursive self-improvement",
+        "Erdős",
+        "Poke Apple",
+        "ChatGPT web apps"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "topics": [
+        "OpenAI Codex teaser",
+        "GPT-Rosalind",
+        "Gemma 4 12B",
+        "Anthropic cyberattack",
+        "Frontier Tuning",
+        "Dreambeans",
+        "Meta Business Agent",
+        "Stack accounting"
+      ]
+    }
+  ],
+  "tweets": [
+    {
+      "author": "0xwhrrari",
+      "id": "2063244577482440978",
+      "likes": 3300,
+      "replies": 62,
+      "retweets": 667,
+      "text": "Google's former CEO just said what everyone in AI already knows\n\nBuilding wealth is getting easier if you actually learn the tools\n\nNot by scrolling AI threads\n\nBy understanding agents, Claude Code, prompts, memory, skills, MCP, and routines\n\nSave this before it disappears from",
+      "url": "https://x.com/0xwhrrari/status/2063244577482440978",
+      "views": 844000
+    },
+    {
+      "author": "patrickc",
+      "id": "2063337800209179029",
+      "likes": 1400,
+      "replies": 269,
+      "retweets": 78,
+      "text": "I want some kind of LLM workflow tool.\n\n• Ability to manage a set of input files (Markdown or similar), plus other general-purpose context.\n• With real-time collaboration. (And maybe some concept of snapshots or VCS integration.)\n• And the ability to create/manage a inference",
+      "url": "https://x.com/patrickc/status/2063337800209179029",
+      "views": 176000
+    },
+    {
+      "author": "unusual_whales",
+      "id": "2063396104851673583",
+      "likes": 1300,
+      "replies": 268,
+      "retweets": 180,
+      "text": "Sam Altman tells Bernie Sanders he wants to advocate together on the public having equity in AI companies, per AP",
+      "url": "https://x.com/unusual_whales/status/2063396104851673583",
+      "views": 225000
+    },
+    {
+      "author": "AnatoliKopadze",
+      "id": "2063244296799617183",
+      "likes": 990,
+      "replies": 67,
+      "retweets": 142,
+      "text": "Claude Code creator:\n\n\"I don't prompt Claude anymore. I have loops that figure out what to do. My job is to create loops.\"\n\nin 30 minutes Boris breaks down his daily Claude Code setup, step by step\n\nthe person who built the tool doesn't use it the way most people think\n\nno",
+      "url": "https://x.com/AnatoliKopadze/status/2063244296799617183",
+      "views": 297000
+    },
+    {
+      "author": "sairahul1",
+      "id": "2063250977373975031",
+      "likes": 943,
+      "replies": 53,
+      "retweets": 107,
+      "text": "A guy built a system of 7 Claude agents on his MacBook.\n\nNo assistant. No sales team. No office.\n\nEvery day it scans Google Maps across 3 cities, finds small businesses with no website or one from 2014, builds a landing page mockup, renders a 10-second video of it, and sends a",
+      "url": "https://x.com/sairahul1/status/2063250977373975031",
+      "views": 380000
+    },
+    {
+      "author": "chetaslua",
+      "id": "2063261095918494055",
+      "likes": 804,
+      "replies": 41,
+      "retweets": 32,
+      "text": "GPT 5.6 on medium reasoning\n\nno skill used , straight out of api and one more point prompt was also short not lengthy one\n\nPrompted by ASI in Dev Mode > keep following us we will provide info before everyone and drop your hardest prompt we will run few prompts",
+      "url": "https://x.com/chetaslua/status/2063261095918494055",
+      "views": 98000
+    },
+    {
+      "author": "DataChaz",
+      "id": "2063158890469196218",
+      "likes": 629,
+      "replies": 42,
+      "retweets": 102,
+      "text": "ANTHROPIC JUST PUBLISHED A 36-PAGE SECURITY GUIDE THAT BASICALLY TELLS YOU TO STOP TRUSTING YOUR OWN AI AGENTS.\n\nIf you run agents on Claude Code, MCP servers, or automation tools, pay attention.\n\nThe attack timeline has collapsed.\n\nAI models compress the gap between a",
+      "url": "https://x.com/DataChaz/status/2063158890469196218",
+      "views": 791000
+    },
+    {
+      "author": "ShadowofEzra",
+      "id": "2063357003402023347",
+      "likes": 517,
+      "replies": 274,
+      "retweets": 272,
+      "text": "Sam Altman says he wants to “reprogram” your cells by delivering “special proteins” via RNA or DNA that reprogram cells to act younger.\n\nHe says giving people these proteins is what excites him the most.\n\n“Maybe it doesn't keep you alive any longer at all, but you're healthier",
+      "url": "https://x.com/ShadowofEzra/status/2063357003402023347",
+      "views": 65000
+    },
+    {
+      "author": "scaling01",
+      "id": "2063293059526209591",
+      "likes": 386,
+      "replies": 41,
+      "retweets": 38,
+      "text": "This is a good example of how AI news gets distorted.\n\nThe example is from Tagesschau, the most watched news program in Germany.\n\nAnthropic says more than 80% of code merged into its codebase was authored by Claude -> they turn that into: \"AI can invent 80% of new AI itself\"",
+      "url": "https://x.com/scaling01/status/2063293059526209591",
+      "views": 23000
+    },
+    {
+      "author": "_avichawla",
+      "id": "2063210446686146750",
+      "likes": 359,
+      "replies": 22,
+      "retweets": 59,
+      "text": "I have been fine-tuning LLMs for over 2 years now!\n\nHere are the top 15 techniques I'd learn if I were to fine-tune them:\n\nBookmark this.\n\n1. LoRA\n> Freezes the base weights and trains two low-rank matrices as the update, resulting in ~95-99% fewer params to fine-tune.\n\n2. QLoRA",
+      "url": "https://x.com/_avichawla/status/2063210446686146750",
+      "views": 39000
+    },
+    {
+      "author": "natolambert",
+      "id": "2063444305583431901",
+      "likes": 265,
+      "replies": 33,
+      "retweets": 16,
+      "text": "Something to show people that don't get AI safety at least a little bit. We have so much we don't know and don't currently control in the models.\n\n(extreme content warning, but you're on X)",
+      "url": "https://x.com/natolambert/status/2063444305583431901",
+      "views": 125000
+    },
+    {
+      "author": "DamiDefi",
+      "id": "2063279068985127271",
+      "likes": 158,
+      "replies": 10,
+      "retweets": 22,
+      "text": "Most AI agents are smart. None of the others are learning.\n\nEvery session ends and everything the agent figured out disappears. Next session you re-explain everything from scratch.\n\nHermes is the only open-source agent that combines runtime skill creation, persistent multi-layer",
+      "url": "https://x.com/DamiDefi/status/2063279068985127271",
+      "views": 19000
+    },
+    {
+      "author": "RoundtableSpace",
+      "id": "2063482331747455480",
+      "likes": 129,
+      "replies": 22,
+      "retweets": 13,
+      "text": "GOOGLE'S GEMMA 4 12B JUST BECAME THE NEW LOCAL LLM KING FOR ANYONE WITH AN 8GB VRAM GPU\n\nit runs at 32 tok/s with 64k context on a budget RTX card, no API, no cloud, no subscription, and it's actually smaller in file size than the previous best option.",
+      "url": "https://x.com/RoundtableSpace/status/2063482331747455480",
+      "views": 47000
+    },
+    {
+      "author": "phosphenq",
+      "id": "2063237811646464393",
+      "likes": 121,
+      "replies": 30,
+      "retweets": 28,
+      "text": "The CEO of Anthropic:\n\n\"We might be six to twelve months away from when the model is doing most, maybe all, of what software engineers do end to end.\"\n\nIn 30 minutes, Dario Amodei and Google DeepMind's Demis Hassabis break down the day after AGI.\n\nAGI timeline + self-improving",
+      "url": "https://x.com/phosphenq/status/2063237811646464393",
+      "views": 24000
+    },
+    {
+      "author": "iam_elias1",
+      "id": "2063329217006252178",
+      "likes": 118,
+      "replies": 34,
+      "retweets": 58,
+      "text": "AI deceives you in three distinct ways.\n\n59 researchers from across the world just mapped all of them.\n\nThe taxonomy they built should be required reading for every person who uses an AI tool.\n\nThe paper is called \"AI Deception: Risks, Dynamics, and Controls.\" Published November",
+      "url": "https://x.com/iam_elias1/status/2063329217006252178",
+      "views": 11000
+    },
+    {
+      "author": "RoundtableSpace",
+      "id": "2063308687758782883",
+      "likes": 102,
+      "replies": 20,
+      "retweets": 8,
+      "text": "OpenAI CEO Sam Altman: \n\n\"this is the most capable technology humanity has ever built - and most people are barely scratching the surface.\"",
+      "url": "https://x.com/RoundtableSpace/status/2063308687758782883",
+      "views": 54000
+    },
+    {
+      "author": "MLStreetTalk",
+      "id": "2063198167596736774",
+      "likes": 99,
+      "replies": 9,
+      "retweets": 14,
+      "text": "This is what (pre-IPO) peak bullshit looks like.\n\nI'm really pro-AI and I'm very excited about future developments, but the catnip is clouding our judgement.\n\nAnthropic also say we should \"pause\" because we will \"lose control\" of a technology that has arguably less autonomy (now,",
+      "url": "https://x.com/MLStreetTalk/status/2063198167596736774",
+      "views": 11000
+    },
+    {
+      "author": "Asteri_eth",
+      "id": "2063255496493002846",
+      "likes": 83,
+      "replies": 24,
+      "retweets": 8,
+      "text": "Stop paying thousands for UI/UX designers on your MVP\n\nThey're becoming obsolete and most people haven't noticed yet\n\nVanilla AI design used to look like trash but that's because people didn't know how to prompt it correctly\n\nThe real cheat code is adding custom design skills",
+      "url": "https://x.com/Asteri_eth/status/2063255496493002846",
+      "views": 5300
+    },
+    {
+      "author": "antpalkin",
+      "id": "2063356751249113585",
+      "likes": 64,
+      "replies": 14,
+      "retweets": 3,
+      "text": "Xuan spent six years wiring microsecond HFT systems for a Shenzhen firm. Then he pointed that same microstructure read at Polymarket's 5-minute Bitcoin markets - and turned $2,400 into $155,000.\n\nFull 1-hour breakdown is in the video. Save this so you actually watch it later.\n\nIt",
+      "url": "https://x.com/antpalkin/status/2063356751249113585",
+      "views": 3500
+    },
+    {
+      "author": "zostaff",
+      "id": "2063271303398764752",
+      "likes": 47,
+      "replies": 14,
+      "retweets": 5,
+      "text": "Sam Altman, CEO of OpenAI, on what AI does to science:\n\n\"If we can start doing a decade of science in a year, the compounding effect of what we'll discover will just be extremely great.\"\n\nDiscovery is about to compound yearly instead of decade by decade. \n\nThe advantage won't go",
+      "url": "https://x.com/zostaff/status/2063271303398764752",
+      "views": 2400
+    },
+    {
+      "author": "zostaff",
+      "id": "2063325406397149407",
+      "likes": 36,
+      "replies": 9,
+      "retweets": 5,
+      "text": "Demis Hassabis, CEO of Google DeepMind, on curing disease with AI:\n\n\"A year ago I said AI could cure all diseases in our lifetimes. My timelines haven't shifted. They've hardened. Now I'm very confident.\"\n\nBiology is quietly turning into an engineering problem. The people who",
+      "url": "https://x.com/zostaff/status/2063325406397149407",
+      "views": 1100
+    },
+    {
+      "author": "Bitcoin_Teddy",
+      "id": "2063380662602830119",
+      "likes": 33,
+      "replies": 4,
+      "retweets": 5,
+      "text": "Dario Amodei gave his first interview since the Pentagon blacklisted his company. The toll is visible on his face.\n\nHe was asked one question. What would you say to the President right now?\n\nHe didn’t hesitate.\n\nAmodei: “We are patriotic Americans. Everything we have done has",
+      "url": "https://x.com/Bitcoin_Teddy/status/2063380662602830119",
+      "views": 9300
+    },
+    {
+      "author": "HuggingModels",
+      "id": "2063312469213544612",
+      "likes": 30,
+      "replies": 1,
+      "retweets": 4,
+      "text": "Ever wished for an AI that writes code like a pro? Meet StarCoder, a 15B parameter model trained on 1 trillion tokens of code from The Stack. It's open source, free, and ready to supercharge your dev workflow. No more boilerplate, just pure productivity.",
+      "url": "https://x.com/HuggingModels/status/2063312469213544612",
+      "views": 1700
+    },
+    {
+      "author": "realBigBrainAI",
+      "id": "2063282353745891527",
+      "likes": 25,
+      "replies": 3,
+      "retweets": 18,
+      "text": "Dylan Patel breaks down OpenAI's five-level AI roadmap and explains why true agents are still years away:\n\nOpenAI has publicly framed progress toward AGI as a five-level ladder. Lex asks Dylan where we actually are on it, and how long it will take to climb.\n\nDylan lays out the",
+      "url": "https://x.com/realBigBrainAI/status/2063282353745891527",
+      "views": 2400
+    },
+    {
+      "author": "simonw",
+      "id": "2063363008429269214",
+      "likes": 24,
+      "replies": 4,
+      "retweets": 2,
+      "text": "Most people are sensible enough not to give purchasing authority to anything attached to an LLM\n\nThis cafe-running agent got to spend money https://andonlabs.com/blog/ai-cafe-stockholm…",
+      "url": "https://x.com/simonw/status/2063363008429269214",
+      "views": 3400
+    },
+    {
+      "author": "ShiningScience",
+      "id": "2063487194183217188",
+      "likes": 23,
+      "replies": 11,
+      "retweets": 13,
+      "text": "Anthropic is calling for a coordinated global pause on AI development prevent humans from losing control of the technology.\n\nIn a newly released proposal, Anthropic warned that rapid advances in artificial intelligence could soon enable 'recursive self-improvement'—a threshold",
+      "url": "https://x.com/ShiningScience/status/2063487194183217188",
+      "views": 1100
+    },
+    {
+      "author": "realBigBrainAI",
+      "id": "2063237091744751690",
+      "likes": 22,
+      "replies": 8,
+      "retweets": 13,
+      "text": "Adam Foroughi, founder and CEO of AppLovin, on why a single great engineer paired with an LLM is now worth a hundred B players:\n\nDavid Senra asks Adam how AI has transformed the way AppLovin runs over the last few years.\n\nAdam runs a roughly 400-person core business generating",
+      "url": "https://x.com/realBigBrainAI/status/2063237091744751690",
+      "views": 3700
+    },
+    {
+      "author": "defileo",
+      "id": "2063324504362020943",
+      "likes": 22,
+      "replies": 9,
+      "retweets": 7,
+      "text": "Dario Amodei just said something most people aren't ready to hear:\n\n\"5-10% GDP growth + 10% unemployment at the same time.\"\n\nThat combination has never existed in human history.\n\nMore money than ever, fewer jobs than ever, both happening simultaneously.\n\n\"We've never had a",
+      "url": "https://x.com/defileo/status/2063324504362020943",
+      "views": 1500
+    },
+    {
+      "author": "dashboardlim",
+      "id": "2063442813891600548",
+      "likes": 19,
+      "replies": 4,
+      "retweets": 8,
+      "text": "Anthropic published a security guide that tells you to stop trusting your own AI agents.\n\nWhile everyone's been shipping agents as fast as possible…\n\nAnthropic quietly released a PDF \"Zero Trust for AI Agents\" and it's not a best practices doc.\n\nIt's a warning.\n\nWHAT HAPPENED:",
+      "url": "https://x.com/dashboardlim/status/2063442813891600548",
+      "views": 993
+    },
+    {
+      "author": "CharlesMullins2",
+      "id": "2063472806742872488",
+      "likes": 17,
+      "replies": 3,
+      "retweets": 9,
+      "text": "SCIENTISTS JUST BUILT “DIGITAL TWINS” FOR QUANTUM PROCESSORS THAT CAN CUT MEASUREMENT COSTS BY OVER 99.97%.\n\nResearchers have developed predictive surrogates classical machine learning models that learn how a real quantum processor behaves, then accurately predict its outputs",
+      "url": "https://x.com/CharlesMullins2/status/2063472806742872488",
+      "views": 1100
+    },
+    {
+      "author": "yuqirose",
+      "id": "2063435216690303335",
+      "likes": 8,
+      "replies": 0,
+      "retweets": 2,
+      "text": "Check out our LLM agent benchmark for physical simulation!",
+      "url": "https://x.com/yuqirose/status/2063435216690303335",
+      "views": 2000
+    },
+    {
+      "author": "polymathhhhh",
+      "id": "2063450424577839450",
+      "likes": 8,
+      "replies": 2,
+      "retweets": 0,
+      "text": "Demis Hassabis said something every founder needs to sit with.\n\n\"AGI is 10 times the Industrial Revolution at 10 times the speed.\"\n\nA decade instead of a century.\n\nHere's what matters from the conversation:\n\nThe missing capability nobody has solved:\n\nAI systems still can't learn",
+      "url": "https://x.com/polymathhhhh/status/2063450424577839450",
+      "views": 77
+    },
+    {
+      "author": "gwern",
+      "id": "2063349944824795156",
+      "likes": 7,
+      "replies": 0,
+      "retweets": 0,
+      "text": "Most of the agentic LLM runs seem limited by a narrow frame and only trying minor variations. The LLMs know so much, why go over such well-trod ground as 'tweaking a decoder Transformer'? Ask them to make crazy pure-MLP variants, say.",
+      "url": "https://x.com/gwern/status/2063349944824795156",
+      "views": 446
+    },
+    {
+      "author": "ChrisUniverse",
+      "id": "2063334659891605556",
+      "likes": 6,
+      "replies": 1,
+      "retweets": 2,
+      "text": "Sam Altman, Dario Amodei, Demis Hassabis, Mustafa Suleyman all signed the same letter this week — urging Congress to mandate synthetic DNA screening before AI lowers the bioweapon barrier to zero. The 4 most competitive labs in history just agreed on something. Read the room.",
+      "url": "https://x.com/ChrisUniverse/status/2063334659891605556",
+      "views": 456
+    },
+    {
+      "author": "majamediaco",
+      "id": "2063494106433950098",
+      "likes": 6,
+      "replies": 0,
+      "retweets": 0,
+      "text": "if you’re wondering where AI discourse has partly landed outside the tech world, i just found a poster in Newtown, Sydney advertising a “Sam Altman Look Unlike Contest”\n\nentrants are asked to bring “real art you made” and “a soul”\n\nthe culture war has officially reached the",
+      "url": "https://x.com/majamediaco/status/2063494106433950098",
+      "views": 317
+    },
+    {
+      "author": "GenHeres123",
+      "id": "2063256231356010574",
+      "likes": 2,
+      "replies": 0,
+      "retweets": 0,
+      "text": "https://x.com/i/status/1993731747704385905…\nDoes Gabriel Petersson  who used AI to teach himself mathematics and machine learning without even a high school diploma  meet your standard? Because he's now a research scientist at the most important AI lab in the world.",
+      "url": "https://x.com/GenHeres123/status/2063256231356010574",
+      "views": 154
+    },
+    {
+      "author": "polymathhhhh",
+      "id": "2063443149352214743",
+      "likes": 2,
+      "replies": 0,
+      "retweets": 0,
+      "text": "Demis Hassabis just said something that should stop every AI founder in their tracks.\n\n\"AGI is like 10 times the Industrial Revolution at 10 times the speed.\"\n\nUnfolding over a decade instead of a century.\n\nHere's everything he said that matters:\n\nThe critical capability still",
+      "url": "https://x.com/polymathhhhh/status/2063443149352214743",
+      "views": 69
+    },
+    {
+      "author": "GueyeFaal",
+      "id": "2063199007275397138",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "text": "Wanted to share this article I read about the thoughts of DeepMind’s CEO, on AI-related layoffs\n\n…https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/technology/tech-news/google-ai-ceo-demis-hassabis-has-a-message-for-laid-off-engineers-at-meta-",
+      "url": "https://x.com/GueyeFaal/status/2063199007275397138",
+      "views": 73
+    },
+    {
+      "author": "rdominguezibar",
+      "id": "2063275469903200553",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "text": "The CEO of Anthropic led the efforts to build GPT-2 and GPT-3 at OpenAI\n\nDario Amodei spent 4.5 years there:\n Team Lead for AI Safety (2016-2018)\n Research Director (2018-2019)\n Vice President of Research (2019-2020)\n\nIn February 2021, he left to co-found Anthropic with a",
+      "url": "https://x.com/rdominguezibar/status/2063275469903200553",
+      "views": 261
+    },
+    {
+      "author": "replifyco",
+      "id": "2063346384519008471",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "text": "Machines are building machines\n\nThis is Anthropic CEO Dario Amodei: \n\n“At Anthropic, we essentially have Claude designing the next version of Claude itself.”\n\nReally interesting times in steps towards ai",
+      "url": "https://x.com/replifyco/status/2063346384519008471",
+      "views": 27
+    },
+    {
+      "author": "ToroBotAI4BTC",
+      "id": "2063450243459682367",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "text": "The largest OpenAI shareholder just said AI is designing OpenAI's next model. SoftBank CEO Masayoshi Son told CNBC he spoke to Sam Altman and OpenAI engineers, who confirmed an AI model is now building a successor. Son walked back his own 10 year timeline for artificial",
+      "url": "https://x.com/ToroBotAI4BTC/status/2063450243459682367",
+      "views": 30
+    },
+    {
+      "author": "Deborah07849071",
+      "id": "2063498394795204832",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "text": "OpenAI CEO Sam Altman stated it is \"totally possible\" that a world-shaking, AI-enabled cyberattack could occur. He emphasized that threat actors are using these models to improve their capabilities, necessitating an immediate industry and government shift toward societal https://",
+      "url": "https://x.com/Deborah07849071/status/2063498394795204832",
+      "views": 20
+    },
+    {
+      "author": "LearnWithBishal",
+      "id": "2063513731821359448",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "text": "The biggest lie in tech:\n\n\"You need a CS degree to get into AI.\"\n\nYou don't.\n\nYou need skills.\n\nThis 15-week roadmap shows exactly what to learn:",
+      "url": "https://x.com/LearnWithBishal/status/2063513731821359448",
+      "views": 201
+    },
+    {
+      "author": "LearnWithBishal",
+      "id": "2063513760447545832",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "text": "7. Stop buying prompt engineering courses.\n\nResource:\n\nAnthropic's Prompt Engineering Guide\n\nEverything people charge for is already here.\n\nWritten by the team behind Claude.\n\nClear examples.\n\nReal techniques.\n\nZero fluff.\n\nProbably the highest ROI resource on this list.",
+      "url": "https://x.com/LearnWithBishal/status/2063513760447545832",
+      "views": 9
+    },
+    {
+      "author": "LearnWithBishal",
+      "id": "2063513764922831264",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "text": "8. Enough learning.\n\nStart shipping.\n\nResource:\n\nLLM Zoomcamp\n\nMost people stay stuck in tutorials.\n\nThis bootcamp gets you building real AI applications.\n\nRAG.\n\nVector search.\n\nEvaluation.\n\nProduction workflows.\n\nThe skills that actually matter in 2026.",
+      "url": "https://x.com/LearnWithBishal/status/2063513764922831264",
+      "views": 8
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2063337800209179029",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063396104851673583",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063244296799617183",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063250977373975031",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063158890469196218",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063293059526209591",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063237811646464393",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063329217006252178",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063363008429269214",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063487194183217188",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    },
+    {
+      "id": "2063349944824795156",
+      "category": "news",
+      "selection_reason": "Concrete primary signal with strong engagement and traceable source."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2063244577482440978",
+      "category": "news",
+      "selection_reason": "Reserve candidate; weaker fit or lower distinctiveness."
+    },
+    {
+      "id": "2063261095918494055",
+      "category": "news",
+      "selection_reason": "Reserve candidate; weaker fit or lower distinctiveness."
+    },
+    {
+      "id": "2063357003402023347",
+      "category": "news",
+      "selection_reason": "Reserve candidate; weaker fit or lower distinctiveness."
+    },
+    {
+      "id": "2063210446686146750",
+      "category": "news",
+      "selection_reason": "Reserve candidate; weaker fit or lower distinctiveness."
+    },
+    {
+      "id": "2063444305583431901",
+      "category": "news",
+      "selection_reason": "Reserve candidate; weaker fit or lower distinctiveness."
+    },
+    {
+      "id": "2063279068985127271",
+      "category": "news",
+      "selection_reason": "Reserve candidate; weaker fit or lower distinctiveness."
+    },
+    {
+      "id": "2063482331747455480",
+      "category": "news",
+      "selection_reason": "Reserve candidate; weaker fit or lower distinctiveness."
+    }
+  ]
+}
