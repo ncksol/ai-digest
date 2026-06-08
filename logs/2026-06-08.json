@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-08",
+  "searches": ["AI", "LLM", "GPT OR Claude OR Gemini", "AI agent", "open source AI model", "from:sama", "from:karpathy", "from:OpenAI", "from:AnthropicAI"],
+  "notes": "Some from: searches returned no tweets (DOM/no-results). Editor pipeline skipped due to timeout budget; logged skipped_timeout_budget.",
+  "selected": [
+    {"id":"2063477745796161904","author":"NotionStatus","reason":"Major incident: Notion disabled Anthropic models due to Opus 4.7/4.8 degradation","category":"news"},
+    {"id":"2063698980324737381","author":"gabriel1","reason":"OpenAI departure to start new company","category":"news"},
+    {"id":"2063748242681307611","author":"thsottiaux","reason":"OpenAI Codex 10x usage program for power users","category":"news"},
+    {"id":"2063234385227252184","author":"testingcatalog","reason":"New Claude Mythos model class slug spotted","category":"news"},
+    {"id":"2063610194618396728","author":"akshay_pachaar","reason":"Google new locally-runnable 8GB LLM","category":"news"},
+    {"id":"2063690208961314996","author":"iam_elias1","reason":"Cloudflare CEO: bots now generate more web traffic than humans","category":"analysis"},
+    {"id":"2063825845605499335","author":"rohanpaul_ai","reason":"Multi-lab paper: research agents win by persistence not brilliance","category":"analysis"},
+    {"id":"2063779477419901071","author":"sama","reason":"Altman cryptic comment on recursive loop","category":"news"}
+  ]
+}
