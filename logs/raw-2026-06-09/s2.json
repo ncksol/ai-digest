@@ -1,0 +1,82 @@
+[
+  {
+    "author": "DataChaz",
+    "id": "2063913152413090221",
+    "likes": 4200,
+    "replies": 66,
+    "retweets": 517,
+    "text": "ANOTHER MASTERCLASS FROM @3BLUE1BROWN\n\nThe compressibility of language isn’t just a math curiosity, it’s the hidden engine behind every LLM you use.\n\nGrant’s new video reframes Shannon’s entropy through one elegant lens:\n\nPrediction IS compression.\n\n→ The better you predict",
+    "url": "https://x.com/DataChaz/status/2063913152413090221",
+    "views": 264000
+  },
+  {
+    "author": "rohanpaul_ai",
+    "id": "2064080897662660643",
+    "likes": 33,
+    "replies": 8,
+    "retweets": 9,
+    "text": "AI agent can get better at long tasks without retraining the agent itself, by using a separate small model to clean and organize its context.\n\nMoves context management outside the agent, so a separate helper can clean up the task history while the main agent stays unchanged.\n\nThe",
+    "url": "https://x.com/rohanpaul_ai/status/2064080897662660643",
+    "views": 2100
+  },
+  {
+    "author": "The_Cyber_News",
+    "id": "2064188681578332408",
+    "likes": 20,
+    "replies": 0,
+    "retweets": 10,
+    "text": "New Shai-Hulud Attack Compromises 23 PyPI Packages to Target MCP Developers\n\nSource: https://cybersecuritynews.com/23-pypi-packages-compromised/…\n\nA new wave of the Shai-Hulud supply chain campaign, adding 23 newly discovered malicious PyPI package-version artifacts to an already",
+    "url": "https://x.com/The_Cyber_News/status/2064188681578332408",
+    "views": 1200
+  },
+  {
+    "author": "AnatoliKopadze",
+    "id": "2063985608381362576",
+    "likes": 153,
+    "replies": 12,
+    "retweets": 23,
+    "text": "",
+    "url": "https://x.com/AnatoliKopadze/status/2063985608381362576",
+    "views": 239000
+  },
+  {
+    "author": "eric_seufert",
+    "id": "2064141838525874341",
+    "likes": 25,
+    "replies": 1,
+    "retweets": 1,
+    "text": "Apple announced major upgrades to the Foundation Model Framework today, but the framework itself is not new: Apple has made its own proprietary, 3B LLM available through the Foundation Model Framework at last year’s WWDC.\n\nWhat is new is that the FMF now serves as a model router",
+    "url": "https://x.com/eric_seufert/status/2064141838525874341",
+    "views": 6300
+  },
+  {
+    "author": "akshay_pachaar",
+    "id": "2064051835636498924",
+    "likes": 465,
+    "replies": 13,
+    "retweets": 58,
+    "text": "",
+    "url": "https://x.com/akshay_pachaar/status/2064051835636498924",
+    "views": 32000
+  },
+  {
+    "author": "Hesamation",
+    "id": "2064011673636147277",
+    "likes": 377,
+    "replies": 13,
+    "retweets": 42,
+    "text": "3Blue1Brown’s new video explains why every LLM is actually a compression machine.\n\neveryone describes pre-training as “next token prediction” but that’s just the surface-level objective.\n\nin reality it is a means to making the most efficient text compressor. \n\nprediction and",
+    "url": "https://x.com/Hesamation/status/2064011673636147277",
+    "views": 22000
+  },
+  {
+    "author": "imfuryfist",
+    "id": "2063960734829060265",
+    "likes": 31,
+    "replies": 4,
+    "retweets": 2,
+    "text": "Problem: most LLM eval tools stop at deployment.\n- prompts drift.\n- models get swapped.\n- retrieval breaks.\n\nmost teams don't know until users complain.\n\nApproach: Treat LLM behavior as a statistical distribution.\n\nmonitor vocabulary, meaning, structure, and consistency.",
+    "url": "https://x.com/imfuryfist/status/2063960734829060265",
+    "views": 1200
+  }
+]

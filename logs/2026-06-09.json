@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-09",
+  "notes": ["skipped_timeout_budget", "editor_pipeline_skipped"],
+  "searches": [
+    "AI since:2026-06-08","LLM since:2026-06-08","machine learning since:2026-06-08","GPT OR Claude OR Gemini since:2026-06-08","open source AI model since:2026-06-08","AI agent since:2026-06-08","Sam Altman since:2026-06-08","Dario Amodei since:2026-06-08","Demis Hassabis since:2026-06-08","from:karpathy since:2026-06-08","from:sama since:2026-06-08","from:OpenAI since:2026-06-08","from:AnthropicAI since:2026-06-08"
+  ],
+  "search_failures": ["from:karpathy", "from:OpenAI"],
+  "selected_ids": ["2064088940932641225","2064108916611420273","2064174573487058989","2064054837294354677","2064061031912288715","2064063629398335568","2064107798120513754","2063948247446561235","2064086147379478994","2064051777570484630"],
+  "pool_file": "logs/raw-2026-06-09/"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "author": "allen_explains",
+    "id": "2063833498734260506",
+    "likes": 28,
+    "replies": 11,
+    "retweets": 12,
+    "text": "Here’s a more polished, punchy version for Twitter:\n\nAndrej Karpathy just revealed where software engineering is going.\n\nNot directly.\n\nBut if you listened closely, the message was obvious:\n\nThe best AI engineers are no longer just “prompting.”\n\nThey’re building operating systems",
+    "url": "https://x.com/allen_explains/status/2063833498734260506",
+    "views": 1700
+  },
+  {
+    "author": "addyosmani",
+    "id": "2064127981161959567",
+    "likes": 2500,
+    "replies": 120,
+    "retweets": 422,
+    "text": "",
+    "url": "https://x.com/addyosmani/status/2064127981161959567",
+    "views": 267000
+  },
+  {
+    "author": "mvanhorn",
+    "id": "2063865685558903149",
+    "likes": 4000,
+    "replies": 173,
+    "retweets": 485,
+    "text": "",
+    "url": "https://x.com/mvanhorn/status/2063865685558903149",
+    "views": 2000000
+  },
+  {
+    "author": "Av1dlive",
+    "id": "2064032738404147622",
+    "likes": 124,
+    "replies": 29,
+    "retweets": 24,
+    "text": "Andrej Karpathy:  \n“Vibe coding is incredible. But agentic engineering is the next level.   \n\n90% of my coding routine is automated by AI agents.”\n\nIn this 30-minute talk, Andrej Karpathy explains how to build an AI agent from scratch. \n\nThe first 10 mins gives more value than",
+    "url": "https://x.com/Av1dlive/status/2064032738404147622",
+    "views": 16000
+  },
+  {
+    "author": "0xDepressionn",
+    "id": "2063987019068371128",
+    "likes": 62,
+    "replies": 12,
+    "retweets": 7,
+    "text": "Google and OpenAI both published guides on how AI agents actually work\n\nmost people scrolled past them\n\nI read both. here's what nobody pulled out of them:\n\nOpenAI defines two modes. the one most people use treats Claude like a smarter Stack Overflow. type a question, copy the",
+    "url": "https://x.com/0xDepressionn/status/2063987019068371128",
+    "views": 7600
+  },
+  {
+    "author": "0xchromium",
+    "id": "2064027571143180522",
+    "likes": 49,
+    "replies": 12,
+    "retweets": 15,
+    "text": "everyone says \"AI agents are only for engineers\"\n\nan agent is just a chat with three things added that a normal chat doesn't have:\n\n> tools it can call on its own: search, files, code, APIs\n> memory that carries across tasks, not just one session\n> a loop that keeps running until",
+    "url": "https://x.com/0xchromium/status/2064027571143180522",
+    "views": 4000
+  }
+]
