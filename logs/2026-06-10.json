@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-10",
+  "searches": [
+    "AI since:2026-06-09",
+    "LLM since:2026-06-09",
+    "machine learning since:2026-06-09",
+    "Claude Fable since:2026-06-09 (q4 fallback)",
+    "open source AI model since:2026-06-09",
+    "AI agent since:2026-06-09",
+    "Sam Altman since:2026-06-09",
+    "Dario Amodei since:2026-06-09",
+    "Demis Hassabis since:2026-06-09",
+    "from:karpathy since:2026-06-09",
+    "from:sama since:2026-06-09 (no results)",
+    "from:OpenAI since:2026-06-09 (no results)",
+    "from:AnthropicAI since:2026-06-09 (no results)"
+  ],
+  "notes": [
+    "editor pipeline: skipped_timeout_budget - cron budget tight; published best current strong set",
+    "from: handle queries returned 422 No tweets found; replaced GPT/Claude/Gemini query with 'Claude Fable' to capture the day's dominant story"
+  ],
+  "selected": [
+    {"id": "2064394146916229443", "author": "claudeai", "category": "news", "reason": "Anthropic public Mythos-class launch (Fable 5)"},
+    {"id": "2064392202504310900", "author": "felixrieseberg", "category": "news", "reason": "Anthropic insider detail: Fable 5 + Mythos 5 split"},
+    {"id": "2064409694761054332", "author": "karpathy", "category": "analysis", "reason": "Independent practitioner verdict on Fable 5"},
+    {"id": "2064399902684139852", "author": "eliebakouch", "category": "analysis", "reason": "Criticism of silent capability rerouting on research tasks"},
+    {"id": "2064492311686607161", "author": "AlexFinn", "category": "news", "reason": "Fable 5 subscription policy change June 22"},
+    {"id": "2064343621130932644", "author": "sairahul1", "category": "practitioner", "reason": "Agent-loop convergence pattern"},
+    {"id": "2064380213610381681", "author": "IntCyberDigest", "category": "news", "reason": "Amazon employees mocking Kiro internally"},
+    {"id": "2064393374619074873", "author": "business", "category": "news", "reason": "Dario Amodei pushback in Bloomberg Circuit interview"},
+    {"id": "2064442259567767722", "author": "4rblaber", "category": "analysis", "reason": "Hassabis on reasoning-agent timelines"},
+    {"id": "2064412716664771062", "author": "sporadica", "category": "analysis", "reason": "Second-source critique of Anthropic silent rerouting"},
+    {"id": "2064332139911602212", "author": "ai_rohitt", "category": "practitioner", "reason": "Stanford LLM lecture recommendation, broad traction"}
+  ],
+  "rejected_notable": [
+    {"id": "2064519826333397149", "author": "deedydas", "reason": "Hype-list anecdotes, weak verification"},
+    {"id": "2064497402363465850", "author": "spoobsV1", "reason": "Anecdotal vibecheck"},
+    {"id": "2064473191163035814", "author": "bijanbowen", "reason": "Anecdotal demo"},
+    {"id": "2064421003904639188", "author": "Angaisb_", "reason": "Anecdotal demo"},
+    {"id": "2064461605534830802", "author": "intheworldofai", "reason": "Anecdotal demo"},
+    {"id": "2064267946977845354", "author": "dunik_7", "reason": "Old Davos quote recycled"},
+    {"id": "2064277888216555684", "author": "sairahul1", "reason": "Empty text, second item from same author"},
+    {"id": "2064341483734581751", "author": "RestrainedDepth", "reason": "Marketing thread, unclear topic"}
+  ]
+}
