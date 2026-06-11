@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-11",
+  "searches": [
+    "AI since:2026-06-10",
+    "LLM since:2026-06-10",
+    "GPT OR Claude OR Gemini since:2026-06-10",
+    "AI agent since:2026-06-10",
+    "Sam Altman since:2026-06-10",
+    "Dario Amodei since:2026-06-10",
+    "from:karpathy since:2026-06-10",
+    "from:demishassabis since:2026-06-10",
+    "open source AI model since:2026-06-10",
+    "Pentagon Anthropic since:2026-06-10",
+    "OpenAI IPO since:2026-06-10"
+  ],
+  "selected": [
+    {"id":"2064910040503627917","author":"ZeffMax","category":"news","reason":"Anthropic walks back invisible Fable 5 guardrails after backlash"},
+    {"id":"2064783418844762489","author":"AnthropicAI","category":"news","reason":"Dario Amodei essay on AI/policy gap, three new initiatives"},
+    {"id":"2064744146410033308","author":"Polymarket","category":"news","reason":"Altman reportedly told staff OpenAI IPO within the year"},
+    {"id":"2064749384622121005","author":"AndrewCurran_","category":"analysis","reason":"Altman <6 months from RSI per The Information"},
+    {"id":"2064873362799600042","author":"demishassabis","category":"news","reason":"DiffusionGemma text-diffusion model 4x faster than Gemma 4"},
+    {"id":"2064741350063657037","author":"chamath","category":"analysis","reason":"Model lock-in argument after Anthropic policy controversy"},
+    {"id":"2064826554442719502","author":"dwarkesh_sp","category":"analysis","reason":"Frames Fable 5 ML sandbagging as IP leak surface"},
+    {"id":"2064729870392017073","author":"rvivek","category":"analysis","reason":"Highlights Dario vs Daniela Amodei disagreement on AI job displacement"},
+    {"id":"2064549419589198050","author":"neerajjj6785","category":"personal_story","reason":"Non-coder built 3 web apps in 30 minutes with Claude Code Fable 5"},
+    {"id":"2064755974548902006","author":"walden_yan","category":"analysis","reason":"Argues engineering teams must restructure for Fable 5 capability jump"}
+  ],
+  "rejected_notable": [
+    {"id":"2064946632823550190","author":"ns123abc","reason":"Duplicate of ZeffMax Anthropic walk-back story"},
+    {"id":"2064918665859080392","author":"simonw","reason":"Duplicate of walk-back story"},
+    {"id":"2064846939691139082","author":"MarkJCarney","reason":"Canada social media bill, mostly social media not AI"},
+    {"id":"2064955437208961416","author":"dasun_sucharith","reason":"Pentagon Claude replacement claim, weak engagement, not primary source"},
+    {"id":"2064719241685934263","author":"karpathy","reason":"Meta-comment on discourse, low signal"},
+    {"id":"2064842647944982812","author":"Hesamation","reason":"Reactive quote, low engagement"}
+  ],
+  "notes": ["editor_workflow_skipped: skipped_timeout_budget"]
+}
