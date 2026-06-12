@@ -1,0 +1,42 @@
+{
+  "date": "2026-06-12",
+  "searches": [
+    "AI since:2026-06-11",
+    "LLM since:2026-06-11",
+    "machine learning since:2026-06-11",
+    "GPT OR Claude OR Gemini since:2026-06-11",
+    "open source AI model since:2026-06-11",
+    "AI agent since:2026-06-11",
+    "Sam Altman since:2026-06-11",
+    "Dario Amodei since:2026-06-11",
+    "Demis Hassabis since:2026-06-11",
+    "from:karpathy since:2026-06-11",
+    "from:sama since:2026-06-11",
+    "from:OpenAI since:2026-06-11",
+    "from:AnthropicAI since:2026-06-11",
+    "Bezos Prometheus AI since:2026-06-11"
+  ],
+  "notes": [
+    "from:karpathy returned no tweets in the window",
+    "editor_skipped_timeout_budget: editor cycle skipped to preserve write/publish/smoke-test budget; source data validated by author/id/url/metrics from autocli output"
+  ],
+  "selected": [
+    {"id":"2065225362544726371","author":"OpenAI","category":"news","reason":"Codex bankable rate limit resets - product launch with very high engagement"},
+    {"id":"2065057393927467084","author":"AnthropicAI","category":"news","reason":"Claude Corps national fellowship - direct company announcement"},
+    {"id":"2065238978702561698","author":"TechCrunch","category":"news","reason":"Bezos Prometheus $12B AI raise - authoritative reporting on a major story"},
+    {"id":"2065285664527258029","author":"VaibhavSisinty","category":"news","reason":"Prometheus details: $41B valuation, JPMorgan/BlackRock/Goldman backing - corroborating detail"},
+    {"id":"2065107744215171486","author":"googrish","category":"news","reason":"Castform open preview - founder announcement of post-training platform"},
+    {"id":"2065228400764063899","author":"atomic_chat_hq","category":"analysis","reason":"DiffusionGemma benchmark: 4x faster but 6x more mistakes - useful technical analysis"},
+    {"id":"2065182824576262308","author":"0xwhrrari","category":"news","reason":"Dario Amodei interview quotes on Mythos 'super weapon' early access feedback"},
+    {"id":"2065173475224858879","author":"RoundtableSpace","category":"analysis","reason":"Dario Amodei on automation arc - practitioner-relevant framing"},
+    {"id":"2065084390288363617","author":"Nature","category":"news","reason":"Nature calls for researcher submissions on Claude Fable 5 use cases"},
+    {"id":"2065193150222663959","author":"ChrissGPT","category":"personal_story","reason":"Fable 5 one-shot Three.js starship demo - practitioner showcase"},
+    {"id":"2064873362799600042","author":"demishassabis","category":"news","reason":"DiffusionGemma context from Hassabis - pairs with benchmark analysis"}
+  ],
+  "rejected_notable": [
+    {"id":"2065160791205310565","author":"sama","reason":"vague one-liner with no concrete content"},
+    {"id":"2065145575054704989","author":"CultureCrave","reason":"protest stunt, not an AI news event"},
+    {"id":"2065061278926647380","author":"VraserX","reason":"weak engagement, secondhand quote of Hassabis humanoid claim"},
+    {"id":"2064918665859080392","author":"simonw","reason":"covered as primary story in 2026-06-11 digest"}
+  ]
+}
