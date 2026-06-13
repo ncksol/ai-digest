@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-13",
+  "searches": [
+    "AI since:2026-06-12",
+    "LLM since:2026-06-12",
+    "machine learning since:2026-06-12",
+    "GPT OR Claude OR Gemini since:2026-06-12",
+    "open source AI model since:2026-06-12",
+    "AI agent since:2026-06-12",
+    "Sam Altman since:2026-06-12",
+    "Dario Amodei since:2026-06-12",
+    "Demis Hassabis since:2026-06-12",
+    "from:karpathy since:2026-06-12",
+    "from:sama since:2026-06-12",
+    "from:OpenAI since:2026-06-12",
+    "from:AnthropicAI since:2026-06-12"
+  ],
+  "notes": "from:sama returned no tweets after retry. Editor workflow skipped: editor_unavailable_skipped_for_timeout_budget. Source data valid, proceeding to publish per cron spec.",
+  "selected": [
+    {"id":"2065597531644743999","author":"AnthropicAI","category":"news","reason":"primary news: US export control directive against Fable 5/Mythos 5, dominant story of the day"},
+    {"id":"2065665304882209132","author":"theo","category":"news","reason":"WSJ scoop: Amazon-reported jailbreaks triggered Commerce Department ban"},
+    {"id":"2065616509666472329","author":"levie","category":"analysis","reason":"first frontier-model export control as regulatory inflection point"},
+    {"id":"2065620808773611997","author":"arena","category":"news","reason":"market consequence: Fable 5 removed from Arena leaderboard"},
+    {"id":"2065377579130142937","author":"Kimi_Moonshot","category":"news","reason":"open-source release: Kimi-K2.7-Code coding model"},
+    {"id":"2065468501750649006","author":"thsottiaux","category":"news","reason":"product update: Codex usage-reset scheduling"},
+    {"id":"2065571890219909274","author":"Polymarket","category":"news","reason":"Zuckerberg admits Meta AI reorg mistakes"},
+    {"id":"2065509206002651561","author":"jyoti_mann1","category":"news","reason":"Business Insider scoop: Meta capping employee AI token usage"},
+    {"id":"2065522455205343475","author":"NewsFromGoogle","category":"news","reason":"Google lawsuit against AI-driven scam network"},
+    {"id":"2065498869954490846","author":"ZyphraAI","category":"news","reason":"open-source release: Zonos2 TTS"},
+    {"id":"2065412599001625058","author":"akshay_pachaar","category":"news","reason":"NVIDIA open-sources agent skills tooling"},
+    {"id":"2065617457067245749","author":"varun_mathur","category":"personal_story","reason":"practitioner field report on Fable 5 economics"}
+  ],
+  "rejected_notable": [
+    {"id":"2065597942602531163","author":"ClaudeDevs","reason":"redundant with AnthropicAI announcement"},
+    {"id":"2065591470040424629","author":"deanwball","reason":"opinion overlap with levie analysis"},
+    {"id":"2065490793092337691","author":"karpathy","reason":"SpaceX musing, not AI/ML news"},
+    {"id":"2065493163104424033","author":"karpathy","reason":"non-news quip"},
+    {"id":"2065664402301575438","author":"hasantoxr","reason":"low engagement; overlap with akshay NVIDIA item"}
+  ]
+}
