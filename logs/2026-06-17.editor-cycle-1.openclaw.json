@@ -1,0 +1,573 @@
+{
+  "runId": "e07e5efd-a8fb-44f7-9575-482440bbddb7",
+  "status": "ok",
+  "summary": "completed",
+  "result": {
+    "payloads": [
+      {
+        "text": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet contains several strong primary-source items: SpaceX's Cursor acquisition announcement, Anthropic's Claude Code economic research, OpenAI's simulated-deployment safety research, Arthur Mensch's open-weight commitment, and JetBrains' positioning after the Cursor deal. The main editorial problems are redundancy around the SpaceX/Cursor acquisition, heavy Anthropic/Claude/Fable concentration after several recent Fable-heavy digests, and source-traceability gaps for secondary or low-context claims about Altman's 500K-GPU research-intern remark, Meta engineering culture, Cohere's London/Aleph Alpha move, and the Claude Code /loop talk. The set should keep the strongest primary items, drop the duplicate Cursor confirmation, and use additional Twitter/X search for better-sourced replacements where no eligible reserve cleanly fits.\",\"decisions\":[{\"id\":\"item_2066873915717136548\",\"decision\":\"keep\",\"reason\":\"Primary corporate announcement from SpaceX confirming the Cursor acquisition and joint model training; it is the strongest representative of the major acquisition story and has exceptional engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same event as the Cursor confirmation tweet, but this is the stronger primary acquirer-side source and should anchor the story.\"}},{\"id\":\"item_2066875698346954891\",\"decision\":\"superseded_by\",\"reason\":\"Cursor's confirmation is primary and high-engagement, but it covers the same acquisition event and essentially the same announcement angle as the stronger SpaceX post. Keeping both would spend two digest slots on one story.\",\"superseded_by\":\"item_2066873915717136548\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Duplicate acquisition confirmation of item_2066873915717136548 from the acquired-company side; useful corroboration but redundant as a standalone digest item.\"}},{\"id\":\"item_2066969532380721386\",\"decision\":\"keep\",\"reason\":\"Official AnthropicAI thread announcing an economic research framework for tracking Claude Code usage and value as it scales; concrete primary-source research/product-economics item with strong engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares the broad Claude Code theme with the /loop practitioner item, but this is a distinct economic-research framework rather than workflow advice.\"}},{\"id\":\"item_2066969072818872627\",\"decision\":\"needs_more_search\",\"reason\":\"The /loop workflow angle is interesting, but the selected tweet is a secondary summary of a 37-minute Claude Code engineer talk and is too context-dependent for a digest slot without a closer-to-primary Twitter/X source or fuller thread.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the selected Anthropic Claude Code economic-research item by product area, but it covers a practitioner workflow angle rather than the same event.\"}},{\"id\":\"item_2066969635099144682\",\"decision\":\"keep\",\"reason\":\"Official OpenAI research announcement about simulating deployment with de-identified user requests to anticipate real-world model behavior before release; concrete primary-source safety/research item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers OpenAI's simulated-deployment method.\"}},{\"id\":\"item_2066913359409090967\",\"decision\":\"keep\",\"reason\":\"Primary statement from Mistral CEO Arthur Mensch that current and upcoming models will be open-weight, with a clear rationale around auditability and developer confidence. It adds non-US-lab and open-weight coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Adjacent to recent Mistral model coverage, but this tweet is a distinct policy/strategy statement about open weights.\"}},{\"id\":\"item_2066989194467999778\",\"decision\":\"needs_more_search\",\"reason\":\"The reported Altman claim about 500,000 A100-equivalent GPUs as an AI research intern is potentially significant, but the selected tweet is a secondary clipped excerpt with incomplete quote context and no primary OpenAI or Altman source in the packet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to OpenAI research-roadmap coverage, but not a duplicate of the selected OpenAI simulated-deployment research post.\"}},{\"id\":\"item_2066949173115543896\",\"decision\":\"keep\",\"reason\":\"Bloomberg-published Dario Amodei interview clip is source-traceable and high enough engagement, with a concrete account of the Altman stage moment and Amodei's OpenAI departure. It is softer than the research/product items but acceptable as a company-leadership/interview slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps in people and company context with the Fable/Anthropic items, but it is an interview/backstory angle rather than the export-control saga.\"}},{\"id\":\"item_2067059417678336455\",\"decision\":\"keep\",\"reason\":\"Fresh WSJ reporter nugget from the Anthropic Fable export-control story with a concrete Amodei-Lutnick quote exchange; despite topic fatigue, this is the stronger of the two selected Fable follow-ups because it adds new reported detail.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the selected legal-analysis post and to recent Fable export-control coverage, but it is a new reported quote rather than legal interpretation.\"}},{\"id\":\"item_2067052688508899577\",\"decision\":\"needs_more_search\",\"reason\":\"The legal critique of the Lutnick letter is substantive, but the digest has already covered the Fable export-control saga heavily and this is another same-topic follow-up from a secondary analyst. Prefer a fresher non-Fable policy or company item if Twitter/X search finds one.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same broader Lutnick/Fable export-control event as item_2067059417678336455, but a different legal-analysis angle. The issue is saturation rather than exact duplication.\"}},{\"id\":\"item_2066784403531915543\",\"decision\":\"needs_more_search\",\"reason\":\"The Meta engineering-culture claims are high-engagement and relevant, but the selected tweet is an aggregation with serious claims about reassignments, layoffs, and 24/7 screen recording without a primary Twitter/X source in the packet. It needs a stronger source trail or replacement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Meta AI reorganization coverage, but not a duplicate of another selected item in this packet.\"}},{\"id\":\"item_2066817307146330559\",\"decision\":\"needs_more_search\",\"reason\":\"Cohere's London expansion and Aleph Alpha acquisition would be useful diversity if source-traceable, but this selected tweet is secondary, low-engagement, and contains major corporate claims without a primary Cohere or closer-source post in the packet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No current selected duplicate covers Cohere, sovereign AI, London expansion, or Aleph Alpha; source traceability is the blocker.\"}},{\"id\":\"item_2066887164911108314\",\"decision\":\"keep\",\"reason\":\"Primary JetBrains executive/principal statement positioning JetBrains as the last large independent developer-tooling player after the Cursor deal and signaling its AI IDE roadmap; it adds a distinct competitive-landscape angle to the acquisition story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same triggering event as the SpaceX/Cursor acquisition, but a distinct independent-dev-tools strategy angle rather than another acquisition confirmation.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2066873915717136548\",\"item_2066875698346954891\"],\"reason\":\"Both selected items announce the same SpaceX/Cursor acquisition. Keep the stronger SpaceX acquirer-side announcement and treat Cursor's confirmation as corroboration rather than a separate digest story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2066873915717136548\",\"item_2066875698346954891\",\"item_2066887164911108314\"],\"reason\":\"The set spends multiple slots around the Cursor acquisition and developer-tooling consolidation. JetBrains is a distinct competitive-angle item, but the Cursor confirmation duplicates the acquisition announcement.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2066969532380721386\",\"item_2066969072818872627\",\"item_2066949173115543896\",\"item_2067059417678336455\",\"item_2067052688508899577\"],\"reason\":\"Anthropic, Claude Code, Dario Amodei, and the Fable export-control saga occupy a large share of the packet. These are not all the same event, but the combined company/topic concentration crowds out broader AI coverage.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2066969072818872627\",\"item_2066989194467999778\",\"item_2066784403531915543\",\"item_2066817307146330559\"],\"reason\":\"These selected items rely on secondary summaries, clipped remarks, aggregation, or low-context corporate claims rather than sufficiently direct Twitter/X sources for the underlying claims.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2066969072818872627\",\"item_2067052688508899577\",\"item_2066784403531915543\",\"item_2066817307146330559\"],\"reason\":\"Replacing weaker secondary or saturated slots would create room for fresher Twitter-sourced model releases, research results, policy moves, non-Anthropic company news, open-source AI, or stronger practitioner analysis.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a closer-to-primary Twitter/X source for the Claude Code /loop talk or a stronger coding-agent workflow item if that angle should stay.\",\"suggested_query_theme\":\"Twitter/X search for Claude Code loop engineer talk autonomous coding workflow QA tester since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a primary or closer-source Twitter/X post for Sam Altman's 500K-GPU AI research-intern claim, or a better-sourced OpenAI research-roadmap item.\",\"suggested_query_theme\":\"Twitter/X search for Sam Altman 500000 A100 GPUs AI research intern OpenAI researcher since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a better-sourced Twitter/X item for Meta AI reorganization, developer reassignment, screen-recording, or engineering-culture impact claims.\",\"suggested_query_theme\":\"Twitter/X search for Meta AI reorg engineering culture screen recording developers layoffs since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a primary or closer-source Twitter/X item for Cohere's London expansion, Aleph Alpha acquisition, or sovereign AI positioning.\",\"suggested_query_theme\":\"Twitter/X search for Cohere London expansion Aleph Alpha acquisition sovereign AI since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a fresher non-Fable policy, company, model-release, or research item to reduce repeated Anthropic Fable export-control coverage.\",\"suggested_query_theme\":\"Twitter/X search for AI policy company model release research non Anthropic since:2026-06-16\"}]}",
+        "mediaUrl": null
+      }
+    ],
+    "meta": {
+      "durationMs": 183261,
+      "agentMeta": {
+        "sessionId": "888421a7-1442-4b70-857c-22b25138ca5d",
+        "sessionFile": "/Users/nick/.openclaw/agents/twitter-ai-digest-editor/sessions/888421a7-1442-4b70-857c-22b25138ca5d.jsonl",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "contextTokens": 400000,
+        "agentHarnessId": "openclaw",
+        "usage": {
+          "input": 71753,
+          "output": 8643,
+          "cacheRead": 35840,
+          "total": 55778
+        },
+        "lastCallUsage": {
+          "input": 14215,
+          "output": 5723,
+          "cacheRead": 35840,
+          "cacheWrite": 0,
+          "total": 55778
+        },
+        "promptTokens": 50055,
+        "contextBudgetStatus": {
+          "schemaVersion": 1,
+          "source": "pre-prompt-estimate",
+          "updatedAt": 1781681360051,
+          "provider": "github-copilot",
+          "model": "gpt-5.5",
+          "route": "fits",
+          "shouldCompact": false,
+          "estimatedPromptTokens": 13907,
+          "contextTokenBudget": 400000,
+          "promptBudgetBeforeReserve": 383616,
+          "reserveTokens": 16384,
+          "effectiveReserveTokens": 16384,
+          "remainingPromptBudgetTokens": 369709,
+          "overflowTokens": 0,
+          "toolResultReducibleChars": 0,
+          "messageCount": 0,
+          "unwindowedMessageCount": 0,
+          "sessionId": "888421a7-1442-4b70-857c-22b25138ca5d"
+        }
+      },
+      "aborted": false,
+      "systemPromptReport": {
+        "source": "run",
+        "generatedAt": 1781681360006,
+        "sessionId": "888421a7-1442-4b70-857c-22b25138ca5d",
+        "sessionKey": "agent:twitter-ai-digest-editor:main",
+        "provider": "github-copilot",
+        "model": "gpt-5.5",
+        "workspaceDir": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor",
+        "bootstrapMaxChars": 20000,
+        "bootstrapTotalMaxChars": 60000,
+        "bootstrapTruncation": {
+          "warningMode": "always",
+          "warningShown": false,
+          "truncatedFiles": 0,
+          "nearLimitFiles": 0,
+          "totalNearLimit": false
+        },
+        "sandbox": {
+          "mode": "off",
+          "sandboxed": false
+        },
+        "systemPrompt": {
+          "chars": 38021,
+          "hash": "d48ab64059ed5583c75376bbf1966766f3b92a83072d561720118020192588fa",
+          "projectContextChars": 13795,
+          "nonProjectContextChars": 24226
+        },
+        "injectedWorkspaceFiles": [
+          {
+            "name": "AGENTS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/AGENTS.md",
+            "missing": false,
+            "rawChars": 7774,
+            "injectedChars": 7774,
+            "truncated": false
+          },
+          {
+            "name": "SOUL.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/SOUL.md",
+            "missing": false,
+            "rawChars": 1797,
+            "injectedChars": 1797,
+            "truncated": false
+          },
+          {
+            "name": "TOOLS.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/TOOLS.md",
+            "missing": false,
+            "rawChars": 910,
+            "injectedChars": 910,
+            "truncated": false
+          },
+          {
+            "name": "IDENTITY.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/IDENTITY.md",
+            "missing": false,
+            "rawChars": 693,
+            "injectedChars": 693,
+            "truncated": false
+          },
+          {
+            "name": "USER.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/USER.md",
+            "missing": false,
+            "rawChars": 534,
+            "injectedChars": 534,
+            "truncated": false
+          },
+          {
+            "name": "HEARTBEAT.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/HEARTBEAT.md",
+            "missing": false,
+            "rawChars": 225,
+            "injectedChars": 225,
+            "truncated": false
+          },
+          {
+            "name": "BOOTSTRAP.md",
+            "path": "/Users/nick/.openclaw/workspace-twitter-ai-digest-editor/BOOTSTRAP.md",
+            "missing": false,
+            "rawChars": 1510,
+            "injectedChars": 1510,
+            "truncated": false
+          }
+        ],
+        "skills": {
+          "promptChars": 5812,
+          "hash": "80bb2537b3d6aa26922437384a4a5bc1c795cd7382c470ea9df9c6eb8cefe002",
+          "entries": [
+            {
+              "name": "acp-router",
+              "blockChars": 668
+            },
+            {
+              "name": "apple-reminders",
+              "blockChars": 317
+            },
+            {
+              "name": "browser-automation",
+              "blockChars": 324
+            },
+            {
+              "name": "discord",
+              "blockChars": 266
+            },
+            {
+              "name": "gh-issues",
+              "blockChars": 322
+            },
+            {
+              "name": "github",
+              "blockChars": 304
+            },
+            {
+              "name": "healthcheck",
+              "blockChars": 331
+            },
+            {
+              "name": "lossless-claw",
+              "blockChars": 292
+            },
+            {
+              "name": "markdown-new",
+              "blockChars": 485
+            },
+            {
+              "name": "nikolaider-music-download",
+              "blockChars": 248
+            },
+            {
+              "name": "node-connect",
+              "blockChars": 332
+            },
+            {
+              "name": "session-logs",
+              "blockChars": 304
+            },
+            {
+              "name": "skill-creator",
+              "blockChars": 317
+            },
+            {
+              "name": "tmux",
+              "blockChars": 306
+            },
+            {
+              "name": "video-frames",
+              "blockChars": 280
+            },
+            {
+              "name": "weather",
+              "blockChars": 302
+            }
+          ]
+        },
+        "tools": {
+          "listChars": 0,
+          "schemaChars": 41122,
+          "entries": [
+            {
+              "name": "read",
+              "summaryChars": 298,
+              "summaryHash": "f8a1d7cf1ecfe02b1b5865c93387e6a5891e5079117b4fe18614b6f912521727",
+              "schemaChars": 304,
+              "schemaHash": "134f19bcabe3e29d63c5cebb38f1d2556759fd08adad6bc90a4b4d3cd1fb8441",
+              "propertiesCount": 3
+            },
+            {
+              "name": "edit",
+              "summaryChars": 326,
+              "summaryHash": "c498a85576e187d069e8e8ea4f70f81bddd57829600d385ef61c4359fd634c9e",
+              "schemaChars": 834,
+              "schemaHash": "457e8bb9f800b21be76c4fd8c0e3078bf07ee9bf93ac82f39944c171bd8f6d84",
+              "propertiesCount": 2
+            },
+            {
+              "name": "write",
+              "summaryChars": 127,
+              "summaryHash": "cdb1c46027b22d1f1b923b47bfe297821d9fe589a9f9d92994961948060a4d89",
+              "schemaChars": 225,
+              "schemaHash": "e98a2484f667cf7c22d76ca103bf2022bf9113dc63fe38b899e71c328cb1e833",
+              "propertiesCount": 2
+            },
+            {
+              "name": "apply_patch",
+              "summaryChars": 132,
+              "summaryHash": "432bf38688a4f011d2b765a441ac07e1fdfa9faf2051679adee04abcd9332d93",
+              "schemaChars": 153,
+              "schemaHash": "05521268363ff4f191472c90d69ef08a503ba9acf1d2febc50b3ee68db32ab65",
+              "propertiesCount": 1
+            },
+            {
+              "name": "exec",
+              "summaryChars": 539,
+              "summaryHash": "4825198988fbfa8ebf5c2a8fbe3946da0be639b1e3b737ceaa4364195bba3f04",
+              "schemaChars": 1283,
+              "schemaHash": "2608ea36cf51376859b7204cda1bf1a2507134eb542097b9e8dbc8af617f216b",
+              "propertiesCount": 12
+            },
+            {
+              "name": "process",
+              "summaryChars": 456,
+              "summaryHash": "55297e65d460e0e1e06e7fad4cedb75ffda8fac9fa8b10aa06d6cead3c5a76ea",
+              "schemaChars": 1074,
+              "schemaHash": "a2d30a25569f409d7e8539844c89a088044535388b24031d014577b96ed27c5c",
+              "propertiesCount": 12
+            },
+            {
+              "name": "nodes",
+              "summaryChars": 143,
+              "summaryHash": "ea1b0a5498ca3c788b26d164245652e1aaa989806e0123715793ab25f9578121",
+              "schemaChars": 1764,
+              "schemaHash": "339c9b744f121ff6a5b2a8a2a7e19286c4114d8dc165a172d3708e993d8b0e55",
+              "propertiesCount": 32
+            },
+            {
+              "name": "cron",
+              "summaryChars": 3721,
+              "summaryHash": "8eb177e0cdf7d5bc0144f544bf0072e38b6bab267e0699a2859b4a8db97af0b3",
+              "schemaChars": 8601,
+              "schemaHash": "6905f52059cd7b0e4abca1251160f13877ced2a6b101158a6192f4e9a279665a",
+              "propertiesCount": 15
+            },
+            {
+              "name": "message",
+              "summaryChars": 605,
+              "summaryHash": "c9064ba9ed2203fa81efbd9e5a696506feb02b406196e2df541e2cbde964991b",
+              "schemaChars": 6274,
+              "schemaHash": "9e30e838856864665d505e94bedcec8e172a4cf8eba4383221528172ceff01f6",
+              "propertiesCount": 109
+            },
+            {
+              "name": "tts",
+              "summaryChars": 217,
+              "summaryHash": "652c1970c199d82b61061a40be2adddfc7e5634df5d896d776a8a0047c8a6b75",
+              "schemaChars": 264,
+              "schemaHash": "e40695f92ef72d913ee5eb13ef738a15d6f33ae3af3ec609975c45991ef99a78",
+              "propertiesCount": 3
+            },
+            {
+              "name": "gateway",
+              "summaryChars": 566,
+              "summaryHash": "1bef48b95fc67d7dc10e2f5f0cc3522951b067b762de6c3e77bc446de0f608b1",
+              "schemaChars": 649,
+              "schemaHash": "1a4f609a948c183832ee8a11c0cfcbe1afddf0732c30c67a593dfcdb630a5ee7",
+              "propertiesCount": 14
+            },
+            {
+              "name": "agents_list",
+              "summaryChars": 63,
+              "summaryHash": "a7afb8adbaf98833df68160db0677ec2a6bc30b1b96f3592392c9df59e310c65",
+              "schemaChars": 33,
+              "schemaHash": "8243f0af367f188a376f2c17b5eabe872a2f7a979813e0d4e2be6d594c2aa259",
+              "propertiesCount": 0
+            },
+            {
+              "name": "get_goal",
+              "summaryChars": 71,
+              "summaryHash": "58dea7906d9e17e5f89a75fea24597ee068d8a56af824370dc27f8501374d6e3",
+              "schemaChars": 33,
+              "schemaHash": "8243f0af367f188a376f2c17b5eabe872a2f7a979813e0d4e2be6d594c2aa259",
+              "propertiesCount": 0
+            },
+            {
+              "name": "create_goal",
+              "summaryChars": 155,
+              "summaryHash": "f01e3a63d673a410ba55213ce6bd3fa2b0d2279e8e780c18aa0cb5aa991b29b3",
+              "schemaChars": 267,
+              "schemaHash": "27ee794432736471bd76390e236cc7d7e98f8469a02656e7a27109041eea0f8c",
+              "propertiesCount": 2
+            },
+            {
+              "name": "update_goal",
+              "summaryChars": 212,
+              "summaryHash": "285201690e5f2456b4cdcd252ff391709b84d69538df61bad694d3c0cfc19958",
+              "schemaChars": 207,
+              "schemaHash": "c37894492eedfad02f1e7fe1488900765bfe547f3b3f34cefbab4f7f57441c2c",
+              "propertiesCount": 2
+            },
+            {
+              "name": "skill_workshop",
+              "summaryChars": 171,
+              "summaryHash": "577c1d2b8f56bf3e9dd5e00463bbce8b8bf4cf201da9b21b588dcaa3bc6ed8cf",
+              "schemaChars": 2273,
+              "schemaHash": "15481d6889a320a46728ee32304f0a2b510c0bcf77d445052c1ef2fa5dd5368b",
+              "propertiesCount": 13
+            },
+            {
+              "name": "sessions_list",
+              "summaryChars": 135,
+              "summaryHash": "c7e411ae02e3adff5504aaee48f02d262a8abb9152558a3172aae289e3b05faf",
+              "schemaChars": 435,
+              "schemaHash": "c29c6b82c36a2d95a88c8944f129929b2621ee2af6d17b2ab101d4d7e9633d89",
+              "propertiesCount": 9
+            },
+            {
+              "name": "sessions_history",
+              "summaryChars": 117,
+              "summaryHash": "f5d45b76f11a8ac63cc45d456fb6f675f0b1a2e191feb9671924cb5830058f03",
+              "schemaChars": 162,
+              "schemaHash": "ac33b8af2252262afe479236046f5a04bc018f1fcf24d1a8bf32743f0e867598",
+              "propertiesCount": 3
+            },
+            {
+              "name": "sessions_send",
+              "summaryChars": 282,
+              "summaryHash": "061e9ef3487676bb2a4fd4c0336bd973aaab5eea0725e7443c4cb17518cd1e78",
+              "schemaChars": 275,
+              "schemaHash": "f1fbaa412fe6b6aee102234c87c5aa140f39c9086f9bae6e1e9691309a602ffb",
+              "propertiesCount": 5
+            },
+            {
+              "name": "sessions_spawn",
+              "summaryChars": 471,
+              "summaryHash": "ae9c266493d1a11ece59ae07f445910d4a17a1547d8afa2ef5f9cba6c6931877",
+              "schemaChars": 1476,
+              "schemaHash": "01e01ea9da006889bf3728b351ceded24b5fcdba66228d436f2db594d299d1eb",
+              "propertiesCount": 17
+            },
+            {
+              "name": "sessions_yield",
+              "summaryChars": 79,
+              "summaryHash": "f3782fc41c1522657e1d3494f486a2df998fed38a6b89dcf7f6934fb41424320",
+              "schemaChars": 60,
+              "schemaHash": "b1c4c753820bc3096d85ef7a266a14c9fbe12450536db58076b75bb61d14dbbb",
+              "propertiesCount": 1
+            },
+            {
+              "name": "subagents",
+              "summaryChars": 132,
+              "summaryHash": "1c2ffd38549c0444b118d43736fc4b875ea1aaabc446bbf8bc1fc4ee9180cca4",
+              "schemaChars": 122,
+              "schemaHash": "c4a241d2c3d46ba7985abfce4d3fcd63298ce81f89d49183c8f3d584c48d0c33",
+              "propertiesCount": 2
+            },
+            {
+              "name": "session_status",
+              "summaryChars": 278,
+              "summaryHash": "71177e543dc6235bad4b1a26761995681dcec27ab58dcb4f4f8a7fc9a7b2b5aa",
+              "schemaChars": 89,
+              "schemaHash": "d2995f3d69d126e98ac93eec3c2a9fe5556925bd7979a8e4b6b5a2bf62d329dd",
+              "propertiesCount": 2
+            },
+            {
+              "name": "web_search",
+              "summaryChars": 65,
+              "summaryHash": "b38e9b3c079beaa988d3c576303660b91a55c2e72f56351da04160529173273f",
+              "schemaChars": 991,
+              "schemaHash": "3879e368875d824b14e0e683f81408824e9a2a5850fa2f8514a68caebda54d18",
+              "propertiesCount": 12
+            },
+            {
+              "name": "web_fetch",
+              "summaryChars": 93,
+              "summaryHash": "8875afbb51bd63673e5e6836ca31eeda73914a464862665cd73b346e28d28fd5",
+              "schemaChars": 317,
+              "schemaHash": "d2d8ad58a1b84d849dd16142282aff6c5606f7b0e3d08405e1b740a6a79e6bcc",
+              "propertiesCount": 3
+            },
+            {
+              "name": "image",
+              "summaryChars": 169,
+              "summaryHash": "a46820ca8952445d3663a8908bfa5d3adddff5b53d18b9d8e9eed8f9e593b494",
+              "schemaChars": 350,
+              "schemaHash": "49bb766071c935edca8c2d0df47fc2109bbffe3d4ba32d0b19fe90ec873736ce",
+              "propertiesCount": 6
+            },
+            {
+              "name": "browser",
+              "summaryChars": 1537,
+              "summaryHash": "8a4aab8d6a66131c4f065bc2672af8fbcc19555e55fb4fbb1c24261d02e63e28",
+              "schemaChars": 3570,
+              "schemaHash": "fcbd681856651c4d2817a3c0f9786a321a20a50a6c117866bf08d4df6f40486a",
+              "propertiesCount": 53
+            },
+            {
+              "name": "memory_search",
+              "summaryChars": 605,
+              "summaryHash": "0f918d28864d3682ae77731f149273997c84773592a466b18c7cd0121b599a05",
+              "schemaChars": 250,
+              "schemaHash": "088cd2a3d3a47b251429ff7c56844cdedd1c45c3af0fa8bfaf7aa795766976bf",
+              "propertiesCount": 4
+            },
+            {
+              "name": "memory_get",
+              "summaryChars": 239,
+              "summaryHash": "bff1141a3da31a345c550337417efc9ace4da2909004606c727c59ca1a294495",
+              "schemaChars": 241,
+              "schemaHash": "78f5d58460a82f9104deebad2f1873a8cde05d1ce7328b3ba4da6e994653e70a",
+              "propertiesCount": 4
+            },
+            {
+              "name": "lcm_grep",
+              "summaryChars": 508,
+              "summaryHash": "affbacbf0f44b3be410376ea0313005f3d1a98c06d60a39b9d73bb8348de5dee",
+              "schemaChars": 1732,
+              "schemaHash": "32913f0c67bfad5dd7552966a66137794ad6b7d07d49529be4a3e25eff7070ac",
+              "propertiesCount": 9
+            },
+            {
+              "name": "lcm_describe",
+              "summaryChars": 552,
+              "summaryHash": "0c891bfc41ce3756fdda1fd121f23c5602ff6c5b2bde2d99d8db60d3d3c58dde",
+              "schemaChars": 1269,
+              "schemaHash": "651a2b571cc4108125a4d6505a3e9a46b32db3c9a22fd6b7eabde4b410d9beed",
+              "propertiesCount": 6
+            },
+            {
+              "name": "lcm_expand",
+              "summaryChars": 415,
+              "summaryHash": "aa164171b38ca575dc4bdf4f24656561da79ce6d789b03188e91780975cac3b6",
+              "schemaChars": 987,
+              "schemaHash": "5b5f73afd28e027eecbec71e42c11384b8046504efd56050aae6124d19a66a4f",
+              "propertiesCount": 7
+            },
+            {
+              "name": "lcm_expand_query",
+              "summaryChars": 316,
+              "summaryHash": "ab77cdbb7a9e756591159e3056051405d8e639f9840e8f611ee999b18efecfe7",
+              "schemaChars": 1476,
+              "schemaHash": "cc87a6d41654341523d49cc765bcd7ee0030223abc42e5fd515e2dc70f184bf5",
+              "propertiesCount": 8
+            },
+            {
+              "name": "fli__prompts_get",
+              "summaryChars": 82,
+              "summaryHash": "7ffb39fb6de0219c359e555642cc77148740d23941d6e8aea3def033dc3a1d49",
+              "schemaChars": 177,
+              "schemaHash": "6dab2e3539ad21ebb5401c191837d8bd6cd4d60e8380a59b364c1fbe3ca2e306",
+              "propertiesCount": 2
+            },
+            {
+              "name": "fli__prompts_list",
+              "summaryChars": 88,
+              "summaryHash": "180ae9dddd24bcec05af847ded49295f5d73f141464b6d0a818a0d43680a1320",
+              "schemaChars": 33,
+              "schemaHash": "8243f0af367f188a376f2c17b5eabe872a2f7a979813e0d4e2be6d594c2aa259",
+              "propertiesCount": 0
+            },
+            {
+              "name": "fli__resources_list",
+              "summaryChars": 93,
+              "summaryHash": "b6a0d00d383171c4f667cece356c0013668ddf613be1ec7357dff578d967a5e8",
+              "schemaChars": 33,
+              "schemaHash": "8243f0af367f188a376f2c17b5eabe872a2f7a979813e0d4e2be6d594c2aa259",
+              "propertiesCount": 0
+            },
+            {
+              "name": "fli__resources_read",
+              "summaryChars": 87,
+              "summaryHash": "9737bca73d60064a35fbbf0101c5cf09af2c190ee061ce524cf9bae8b19a1887",
+              "schemaChars": 104,
+              "schemaHash": "af27eb045b8ea1e79801b467c4b872a299c3e659028bb7c78bc45e6bc65ef198",
+              "propertiesCount": 1
+            },
+            {
+              "name": "fli__search_dates",
+              "summaryChars": 200,
+              "summaryHash": "3d8baa7de69d8a18706da77f6ae9e6f758d699abd81551380e6cc4a13e2011cb",
+              "schemaChars": 1439,
+              "schemaHash": "c20289e40e31e9be233a350f62ea566a7b87fa86b142385f79447eca667b84e4",
+              "propertiesCount": 12
+            },
+            {
+              "name": "fli__search_flights",
+              "summaryChars": 210,
+              "summaryHash": "3a76cce18e18140589a3cba72722a0d76a338d5a3dcf46d93af39fd015e0e77c",
+              "schemaChars": 1296,
+              "schemaHash": "2aa084a2d3cab405781703db9521ed58a58da6fc499811ed27fb841ffc5cbb05",
+              "propertiesCount": 10
+            }
+          ]
+        },
+        "currentTurn": {
+          "promptChars": 2277,
+          "runtimeContextChars": 0
+        }
+      },
+      "finalPromptText": "Review the Twitter AI Digest candidate packet at /Users/nick/.openclaw/workspace/ai-digest-site/logs/2026-06-17.editor-cycle-1.input.json and return only valid JSON following twitter_ai_digest_editor_output.v1.\n\nRequired output contract:\n- Return exactly one JSON object, no markdown and no prose outside JSON.\n- Required top-level fields: schema_version, cycle_number, overall_verdict, summary, decisions, set_level_flags, additional_search_requests.\n- Allowed set_level_flags.type values: same_topic_distinct_angle, redundant_story, fingerprint_collision, source_traceability_failure, overrepresented_author, coverage_gap. Use source_traceability_failure or coverage_gap for verification gaps; do not invent new flag types such as verification_needed.\n- schema_version must be exactly twitter_ai_digest_editor_output.v1.\n- cycle_number must match the packet editor_cycle.\n- decisions must contain one object for every selected item id from the packet.\n- replacement_candidate_id may only reference eligible reserve ids from rejected_notable_items.\n- Do not use pool_role pool items as replacement_candidate_id values.\n- If no eligible reserve fits, use needs_more_search instead of replace_with_existing_candidate.\n- Each decision object must include id, decision, reason, superseded_by, replacement_candidate_id, and duplicate_assessment.\n- duplicate_assessment must be an object with is_duplicate, same_event, same_angle, and notes.\n- Each set_level_flags entry must be an object: {\"type\":\"redundant_story\",\"item_ids\":[\"item_2051234567890123456\"],\"reason\":\"Concrete duplicate rationale.\"}. Use [] if none.\n- Each additional_search_requests entry must be an object: {\"needed\":false,\"reason\":null,\"suggested_query_theme\":null}. Use [] if none.\n- additional_search_requests are for additional Twitter search only. suggested_query_theme must describe a Twitter/X search theme, not a web verification task.\n- Do not request web, GitHub, docs, browser, or non-Twitter searches. The main digest workflow only runs sequential autocli twitter search for replacements.\n- Never return strings inside set_level_flags or additional_search_requests; every entry in those arrays must be an object.\n- Do not publish, send messages, update files, use autocli, or include prose outside JSON.",
+      "finalAssistantVisibleText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet contains several strong primary-source items: SpaceX's Cursor acquisition announcement, Anthropic's Claude Code economic research, OpenAI's simulated-deployment safety research, Arthur Mensch's open-weight commitment, and JetBrains' positioning after the Cursor deal. The main editorial problems are redundancy around the SpaceX/Cursor acquisition, heavy Anthropic/Claude/Fable concentration after several recent Fable-heavy digests, and source-traceability gaps for secondary or low-context claims about Altman's 500K-GPU research-intern remark, Meta engineering culture, Cohere's London/Aleph Alpha move, and the Claude Code /loop talk. The set should keep the strongest primary items, drop the duplicate Cursor confirmation, and use additional Twitter/X search for better-sourced replacements where no eligible reserve cleanly fits.\",\"decisions\":[{\"id\":\"item_2066873915717136548\",\"decision\":\"keep\",\"reason\":\"Primary corporate announcement from SpaceX confirming the Cursor acquisition and joint model training; it is the strongest representative of the major acquisition story and has exceptional engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same event as the Cursor confirmation tweet, but this is the stronger primary acquirer-side source and should anchor the story.\"}},{\"id\":\"item_2066875698346954891\",\"decision\":\"superseded_by\",\"reason\":\"Cursor's confirmation is primary and high-engagement, but it covers the same acquisition event and essentially the same announcement angle as the stronger SpaceX post. Keeping both would spend two digest slots on one story.\",\"superseded_by\":\"item_2066873915717136548\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Duplicate acquisition confirmation of item_2066873915717136548 from the acquired-company side; useful corroboration but redundant as a standalone digest item.\"}},{\"id\":\"item_2066969532380721386\",\"decision\":\"keep\",\"reason\":\"Official AnthropicAI thread announcing an economic research framework for tracking Claude Code usage and value as it scales; concrete primary-source research/product-economics item with strong engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares the broad Claude Code theme with the /loop practitioner item, but this is a distinct economic-research framework rather than workflow advice.\"}},{\"id\":\"item_2066969072818872627\",\"decision\":\"needs_more_search\",\"reason\":\"The /loop workflow angle is interesting, but the selected tweet is a secondary summary of a 37-minute Claude Code engineer talk and is too context-dependent for a digest slot without a closer-to-primary Twitter/X source or fuller thread.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the selected Anthropic Claude Code economic-research item by product area, but it covers a practitioner workflow angle rather than the same event.\"}},{\"id\":\"item_2066969635099144682\",\"decision\":\"keep\",\"reason\":\"Official OpenAI research announcement about simulating deployment with de-identified user requests to anticipate real-world model behavior before release; concrete primary-source safety/research item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers OpenAI's simulated-deployment method.\"}},{\"id\":\"item_2066913359409090967\",\"decision\":\"keep\",\"reason\":\"Primary statement from Mistral CEO Arthur Mensch that current and upcoming models will be open-weight, with a clear rationale around auditability and developer confidence. It adds non-US-lab and open-weight coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Adjacent to recent Mistral model coverage, but this tweet is a distinct policy/strategy statement about open weights.\"}},{\"id\":\"item_2066989194467999778\",\"decision\":\"needs_more_search\",\"reason\":\"The reported Altman claim about 500,000 A100-equivalent GPUs as an AI research intern is potentially significant, but the selected tweet is a secondary clipped excerpt with incomplete quote context and no primary OpenAI or Altman source in the packet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to OpenAI research-roadmap coverage, but not a duplicate of the selected OpenAI simulated-deployment research post.\"}},{\"id\":\"item_2066949173115543896\",\"decision\":\"keep\",\"reason\":\"Bloomberg-published Dario Amodei interview clip is source-traceable and high enough engagement, with a concrete account of the Altman stage moment and Amodei's OpenAI departure. It is softer than the research/product items but acceptable as a company-leadership/interview slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps in people and company context with the Fable/Anthropic items, but it is an interview/backstory angle rather than the export-control saga.\"}},{\"id\":\"item_2067059417678336455\",\"decision\":\"keep\",\"reason\":\"Fresh WSJ reporter nugget from the Anthropic Fable export-control story with a concrete Amodei-Lutnick quote exchange; despite topic fatigue, this is the stronger of the two selected Fable follow-ups because it adds new reported detail.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the selected legal-analysis post and to recent Fable export-control coverage, but it is a new reported quote rather than legal interpretation.\"}},{\"id\":\"item_2067052688508899577\",\"decision\":\"needs_more_search\",\"reason\":\"The legal critique of the Lutnick letter is substantive, but the digest has already covered the Fable export-control saga heavily and this is another same-topic follow-up from a secondary analyst. Prefer a fresher non-Fable policy or company item if Twitter/X search finds one.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same broader Lutnick/Fable export-control event as item_2067059417678336455, but a different legal-analysis angle. The issue is saturation rather than exact duplication.\"}},{\"id\":\"item_2066784403531915543\",\"decision\":\"needs_more_search\",\"reason\":\"The Meta engineering-culture claims are high-engagement and relevant, but the selected tweet is an aggregation with serious claims about reassignments, layoffs, and 24/7 screen recording without a primary Twitter/X source in the packet. It needs a stronger source trail or replacement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Meta AI reorganization coverage, but not a duplicate of another selected item in this packet.\"}},{\"id\":\"item_2066817307146330559\",\"decision\":\"needs_more_search\",\"reason\":\"Cohere's London expansion and Aleph Alpha acquisition would be useful diversity if source-traceable, but this selected tweet is secondary, low-engagement, and contains major corporate claims without a primary Cohere or closer-source post in the packet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No current selected duplicate covers Cohere, sovereign AI, London expansion, or Aleph Alpha; source traceability is the blocker.\"}},{\"id\":\"item_2066887164911108314\",\"decision\":\"keep\",\"reason\":\"Primary JetBrains executive/principal statement positioning JetBrains as the last large independent developer-tooling player after the Cursor deal and signaling its AI IDE roadmap; it adds a distinct competitive-landscape angle to the acquisition story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same triggering event as the SpaceX/Cursor acquisition, but a distinct independent-dev-tools strategy angle rather than another acquisition confirmation.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2066873915717136548\",\"item_2066875698346954891\"],\"reason\":\"Both selected items announce the same SpaceX/Cursor acquisition. Keep the stronger SpaceX acquirer-side announcement and treat Cursor's confirmation as corroboration rather than a separate digest story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2066873915717136548\",\"item_2066875698346954891\",\"item_2066887164911108314\"],\"reason\":\"The set spends multiple slots around the Cursor acquisition and developer-tooling consolidation. JetBrains is a distinct competitive-angle item, but the Cursor confirmation duplicates the acquisition announcement.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2066969532380721386\",\"item_2066969072818872627\",\"item_2066949173115543896\",\"item_2067059417678336455\",\"item_2067052688508899577\"],\"reason\":\"Anthropic, Claude Code, Dario Amodei, and the Fable export-control saga occupy a large share of the packet. These are not all the same event, but the combined company/topic concentration crowds out broader AI coverage.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2066969072818872627\",\"item_2066989194467999778\",\"item_2066784403531915543\",\"item_2066817307146330559\"],\"reason\":\"These selected items rely on secondary summaries, clipped remarks, aggregation, or low-context corporate claims rather than sufficiently direct Twitter/X sources for the underlying claims.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2066969072818872627\",\"item_2067052688508899577\",\"item_2066784403531915543\",\"item_2066817307146330559\"],\"reason\":\"Replacing weaker secondary or saturated slots would create room for fresher Twitter-sourced model releases, research results, policy moves, non-Anthropic company news, open-source AI, or stronger practitioner analysis.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a closer-to-primary Twitter/X source for the Claude Code /loop talk or a stronger coding-agent workflow item if that angle should stay.\",\"suggested_query_theme\":\"Twitter/X search for Claude Code loop engineer talk autonomous coding workflow QA tester since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a primary or closer-source Twitter/X post for Sam Altman's 500K-GPU AI research-intern claim, or a better-sourced OpenAI research-roadmap item.\",\"suggested_query_theme\":\"Twitter/X search for Sam Altman 500000 A100 GPUs AI research intern OpenAI researcher since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a better-sourced Twitter/X item for Meta AI reorganization, developer reassignment, screen-recording, or engineering-culture impact claims.\",\"suggested_query_theme\":\"Twitter/X search for Meta AI reorg engineering culture screen recording developers layoffs since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a primary or closer-source Twitter/X item for Cohere's London expansion, Aleph Alpha acquisition, or sovereign AI positioning.\",\"suggested_query_theme\":\"Twitter/X search for Cohere London expansion Aleph Alpha acquisition sovereign AI since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a fresher non-Fable policy, company, model-release, or research item to reduce repeated Anthropic Fable export-control coverage.\",\"suggested_query_theme\":\"Twitter/X search for AI policy company model release research non Anthropic since:2026-06-16\"}]}",
+      "finalAssistantRawText": "{\"schema_version\":\"twitter_ai_digest_editor_output.v1\",\"cycle_number\":1,\"overall_verdict\":\"needs_replacements\",\"summary\":\"The packet contains several strong primary-source items: SpaceX's Cursor acquisition announcement, Anthropic's Claude Code economic research, OpenAI's simulated-deployment safety research, Arthur Mensch's open-weight commitment, and JetBrains' positioning after the Cursor deal. The main editorial problems are redundancy around the SpaceX/Cursor acquisition, heavy Anthropic/Claude/Fable concentration after several recent Fable-heavy digests, and source-traceability gaps for secondary or low-context claims about Altman's 500K-GPU research-intern remark, Meta engineering culture, Cohere's London/Aleph Alpha move, and the Claude Code /loop talk. The set should keep the strongest primary items, drop the duplicate Cursor confirmation, and use additional Twitter/X search for better-sourced replacements where no eligible reserve cleanly fits.\",\"decisions\":[{\"id\":\"item_2066873915717136548\",\"decision\":\"keep\",\"reason\":\"Primary corporate announcement from SpaceX confirming the Cursor acquisition and joint model training; it is the strongest representative of the major acquisition story and has exceptional engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same event as the Cursor confirmation tweet, but this is the stronger primary acquirer-side source and should anchor the story.\"}},{\"id\":\"item_2066875698346954891\",\"decision\":\"superseded_by\",\"reason\":\"Cursor's confirmation is primary and high-engagement, but it covers the same acquisition event and essentially the same announcement angle as the stronger SpaceX post. Keeping both would spend two digest slots on one story.\",\"superseded_by\":\"item_2066873915717136548\",\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":true,\"same_event\":true,\"same_angle\":true,\"notes\":\"Duplicate acquisition confirmation of item_2066873915717136548 from the acquired-company side; useful corroboration but redundant as a standalone digest item.\"}},{\"id\":\"item_2066969532380721386\",\"decision\":\"keep\",\"reason\":\"Official AnthropicAI thread announcing an economic research framework for tracking Claude Code usage and value as it scales; concrete primary-source research/product-economics item with strong engagement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Shares the broad Claude Code theme with the /loop practitioner item, but this is a distinct economic-research framework rather than workflow advice.\"}},{\"id\":\"item_2066969072818872627\",\"decision\":\"needs_more_search\",\"reason\":\"The /loop workflow angle is interesting, but the selected tweet is a secondary summary of a 37-minute Claude Code engineer talk and is too context-dependent for a digest slot without a closer-to-primary Twitter/X source or fuller thread.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the selected Anthropic Claude Code economic-research item by product area, but it covers a practitioner workflow angle rather than the same event.\"}},{\"id\":\"item_2066969635099144682\",\"decision\":\"keep\",\"reason\":\"Official OpenAI research announcement about simulating deployment with de-identified user requests to anticipate real-world model behavior before release; concrete primary-source safety/research item.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No selected duplicate covers OpenAI's simulated-deployment method.\"}},{\"id\":\"item_2066913359409090967\",\"decision\":\"keep\",\"reason\":\"Primary statement from Mistral CEO Arthur Mensch that current and upcoming models will be open-weight, with a clear rationale around auditability and developer confidence. It adds non-US-lab and open-weight coverage.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Adjacent to recent Mistral model coverage, but this tweet is a distinct policy/strategy statement about open weights.\"}},{\"id\":\"item_2066989194467999778\",\"decision\":\"needs_more_search\",\"reason\":\"The reported Altman claim about 500,000 A100-equivalent GPUs as an AI research intern is potentially significant, but the selected tweet is a secondary clipped excerpt with incomplete quote context and no primary OpenAI or Altman source in the packet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Broadly related to OpenAI research-roadmap coverage, but not a duplicate of the selected OpenAI simulated-deployment research post.\"}},{\"id\":\"item_2066949173115543896\",\"decision\":\"keep\",\"reason\":\"Bloomberg-published Dario Amodei interview clip is source-traceable and high enough engagement, with a concrete account of the Altman stage moment and Amodei's OpenAI departure. It is softer than the research/product items but acceptable as a company-leadership/interview slot.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Overlaps in people and company context with the Fable/Anthropic items, but it is an interview/backstory angle rather than the export-control saga.\"}},{\"id\":\"item_2067059417678336455\",\"decision\":\"keep\",\"reason\":\"Fresh WSJ reporter nugget from the Anthropic Fable export-control story with a concrete Amodei-Lutnick quote exchange; despite topic fatigue, this is the stronger of the two selected Fable follow-ups because it adds new reported detail.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to the selected legal-analysis post and to recent Fable export-control coverage, but it is a new reported quote rather than legal interpretation.\"}},{\"id\":\"item_2067052688508899577\",\"decision\":\"needs_more_search\",\"reason\":\"The legal critique of the Lutnick letter is substantive, but the digest has already covered the Fable export-control saga heavily and this is another same-topic follow-up from a secondary analyst. Prefer a fresher non-Fable policy or company item if Twitter/X search finds one.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same broader Lutnick/Fable export-control event as item_2067059417678336455, but a different legal-analysis angle. The issue is saturation rather than exact duplication.\"}},{\"id\":\"item_2066784403531915543\",\"decision\":\"needs_more_search\",\"reason\":\"The Meta engineering-culture claims are high-engagement and relevant, but the selected tweet is an aggregation with serious claims about reassignments, layoffs, and 24/7 screen recording without a primary Twitter/X source in the packet. It needs a stronger source trail or replacement.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":true,\"notes\":\"Related to recent Meta AI reorganization coverage, but not a duplicate of another selected item in this packet.\"}},{\"id\":\"item_2066817307146330559\",\"decision\":\"needs_more_search\",\"reason\":\"Cohere's London expansion and Aleph Alpha acquisition would be useful diversity if source-traceable, but this selected tweet is secondary, low-engagement, and contains major corporate claims without a primary Cohere or closer-source post in the packet.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":false,\"same_angle\":false,\"notes\":\"No current selected duplicate covers Cohere, sovereign AI, London expansion, or Aleph Alpha; source traceability is the blocker.\"}},{\"id\":\"item_2066887164911108314\",\"decision\":\"keep\",\"reason\":\"Primary JetBrains executive/principal statement positioning JetBrains as the last large independent developer-tooling player after the Cursor deal and signaling its AI IDE roadmap; it adds a distinct competitive-landscape angle to the acquisition story.\",\"superseded_by\":null,\"replacement_candidate_id\":null,\"duplicate_assessment\":{\"is_duplicate\":false,\"same_event\":true,\"same_angle\":false,\"notes\":\"Same triggering event as the SpaceX/Cursor acquisition, but a distinct independent-dev-tools strategy angle rather than another acquisition confirmation.\"}}],\"set_level_flags\":[{\"type\":\"redundant_story\",\"item_ids\":[\"item_2066873915717136548\",\"item_2066875698346954891\"],\"reason\":\"Both selected items announce the same SpaceX/Cursor acquisition. Keep the stronger SpaceX acquirer-side announcement and treat Cursor's confirmation as corroboration rather than a separate digest story.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2066873915717136548\",\"item_2066875698346954891\",\"item_2066887164911108314\"],\"reason\":\"The set spends multiple slots around the Cursor acquisition and developer-tooling consolidation. JetBrains is a distinct competitive-angle item, but the Cursor confirmation duplicates the acquisition announcement.\"},{\"type\":\"same_topic_distinct_angle\",\"item_ids\":[\"item_2066969532380721386\",\"item_2066969072818872627\",\"item_2066949173115543896\",\"item_2067059417678336455\",\"item_2067052688508899577\"],\"reason\":\"Anthropic, Claude Code, Dario Amodei, and the Fable export-control saga occupy a large share of the packet. These are not all the same event, but the combined company/topic concentration crowds out broader AI coverage.\"},{\"type\":\"source_traceability_failure\",\"item_ids\":[\"item_2066969072818872627\",\"item_2066989194467999778\",\"item_2066784403531915543\",\"item_2066817307146330559\"],\"reason\":\"These selected items rely on secondary summaries, clipped remarks, aggregation, or low-context corporate claims rather than sufficiently direct Twitter/X sources for the underlying claims.\"},{\"type\":\"coverage_gap\",\"item_ids\":[\"item_2066969072818872627\",\"item_2067052688508899577\",\"item_2066784403531915543\",\"item_2066817307146330559\"],\"reason\":\"Replacing weaker secondary or saturated slots would create room for fresher Twitter-sourced model releases, research results, policy moves, non-Anthropic company news, open-source AI, or stronger practitioner analysis.\"}],\"additional_search_requests\":[{\"needed\":true,\"reason\":\"Find a closer-to-primary Twitter/X source for the Claude Code /loop talk or a stronger coding-agent workflow item if that angle should stay.\",\"suggested_query_theme\":\"Twitter/X search for Claude Code loop engineer talk autonomous coding workflow QA tester since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a primary or closer-source Twitter/X post for Sam Altman's 500K-GPU AI research-intern claim, or a better-sourced OpenAI research-roadmap item.\",\"suggested_query_theme\":\"Twitter/X search for Sam Altman 500000 A100 GPUs AI research intern OpenAI researcher since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a better-sourced Twitter/X item for Meta AI reorganization, developer reassignment, screen-recording, or engineering-culture impact claims.\",\"suggested_query_theme\":\"Twitter/X search for Meta AI reorg engineering culture screen recording developers layoffs since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a primary or closer-source Twitter/X item for Cohere's London expansion, Aleph Alpha acquisition, or sovereign AI positioning.\",\"suggested_query_theme\":\"Twitter/X search for Cohere London expansion Aleph Alpha acquisition sovereign AI since:2026-06-16\"},{\"needed\":true,\"reason\":\"Find a fresher non-Fable policy, company, model-release, or research item to reduce repeated Anthropic Fable export-control coverage.\",\"suggested_query_theme\":\"Twitter/X search for AI policy company model release research non Anthropic since:2026-06-16\"}]}",
+      "replayInvalid": true,
+      "livenessState": "working",
+      "stopReason": "stop",
+      "executionTrace": {
+        "winnerProvider": "github-copilot",
+        "winnerModel": "gpt-5.5",
+        "attempts": [
+          {
+            "provider": "github-copilot",
+            "model": "gpt-5.5",
+            "result": "success",
+            "stage": "assistant"
+          }
+        ],
+        "fallbackUsed": false,
+        "runner": "embedded"
+      },
+      "requestShaping": {
+        "authMode": "auth-profile",
+        "thinking": "high"
+      },
+      "toolSummary": {
+        "calls": 2,
+        "tools": [
+          "read",
+          "exec"
+        ],
+        "failures": 0
+      },
+      "completion": {
+        "stopReason": "stop",
+        "finishReason": "stop"
+      }
+    }
+  }
+}

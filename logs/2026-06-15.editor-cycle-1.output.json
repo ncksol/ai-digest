@@ -1,0 +1,229 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "The packet has a timely core around GLM-5.2, Google OKF, agent reliability research, UK AI-chatbot policy, and practical agent workflows, but several selected items are secondary quote recaps, low-traceability claims, or stale/theoretical analysis. Keep the strongest concrete items, replace the weakest Anthropic restriction reconstruction with an eligible reserve synthesis item, and run additional Twitter search for stronger primary or closer-to-primary sources on policy, Grok Build, Anthropic agent-product direction, and fresh technical/research coverage.",
+  "decisions": [
+    {
+      "id": "item_2066126669073510904",
+      "decision": "keep",
+      "reason": "High-engagement GLM-5.2 benchmark post with concrete scores, cost, and throughput claims; it is the strongest selected representative of the China open-source model performance story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the GLM-5.2 release event with item_2066370111364296812, but this one is primarily the benchmark/performance angle."
+      }
+    },
+    {
+      "id": "item_2066128853186035807",
+      "decision": "keep",
+      "reason": "Macron positioning Mistral as Europe's LLM contender is relevant AI geopolitics with very high reach. Use cautious wording because the packet source is a quote aggregator rather than a primary French-government or Macron account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the broader national-AI-competition theme in the GLM items, but it is a distinct Europe/Mistral political angle."
+      }
+    },
+    {
+      "id": "item_2066448757311340882",
+      "decision": "needs_more_search",
+      "reason": "The UK under-16 social-media-ban item is potentially relevant because the selection reason says it includes AI chatbot scope, but the visible tweet text is truncated and the source is a secondary summary. A stronger Twitter-source trail is needed before final inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers the UK child-safety or AI-chatbot policy story."
+      }
+    },
+    {
+      "id": "item_2066430310527504668",
+      "decision": "keep",
+      "reason": "Google Open Knowledge Format is a concrete AI-agent information-standardization release, and this selected tweet includes a direct Google Cloud source link despite low engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Reserve item_2066445175967436907 covers the same OKF event with an LLM-wiki framing, but the selected item is more source-traceable."
+      }
+    },
+    {
+      "id": "item_2066370111364296812",
+      "decision": "keep",
+      "reason": "Adds concrete GLM-5.2 product details such as one-million-token context, coding-plan availability, reliability claims, and open-weight/API availability, which complements rather than repeats the benchmark post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GLM-5.2 release cycle as item_2066126669073510904, but this is the product-feature and availability angle."
+      }
+    },
+    {
+      "id": "item_2066181618579214775",
+      "decision": "keep",
+      "reason": "Useful research item on deployed agents degrading as memories and summaries accumulate; it is concrete, current, and practitioner-relevant even though it is not a primary university account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the broader agent-systems cluster, but it is a reliability research angle rather than a workflow demo or product-direction quote."
+      }
+    },
+    {
+      "id": "item_2066294934387450138",
+      "decision": "needs_more_search",
+      "reason": "The infinite-compute/pretraining analysis is substantive and high-engagement, but it appears to revisit an older paper rather than a fresh release or current event. Prefer a fresher technical research or model-analysis candidate if available.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate; the weakness is freshness and digest priority rather than duplication."
+      }
+    },
+    {
+      "id": "item_2066179709717594551",
+      "decision": "keep",
+      "reason": "Concrete practitioner story about a multi-agent Claude system scanning businesses and generating landing-page/video outreach; it adds applied-agent texture with strong views, though final copy should avoid overstating unverified business impact.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad practical-agent theme as item_2066192015105073170, but this is a concrete workflow story rather than a product-direction quote."
+      }
+    },
+    {
+      "id": "item_2066250074263355435",
+      "decision": "replace_with_existing_candidate",
+      "reason": "The Anthropic/White House 24-hour reconstruction is low-engagement, source-opaque, and overlaps heavily with the week-long Fable 5 restrictions story already covered in recent history. Replace it with the eligible reserve item_2066279540427497861, which gives a broader and more digest-relevant US-restriction versus China-open-source synthesis.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2066279540427497861",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to the prior Anthropic export-restriction cycle and the selected GLM/open-source items, but the selected tweet's specific negotiation timeline is not corroborated within the packet."
+      }
+    },
+    {
+      "id": "item_2066242262762184785",
+      "decision": "needs_more_search",
+      "reason": "Grok Build in-terminal LaTeX/math rendering is a concrete developer-tooling update, but the selected tweet has low engagement and no clearly primary Twitter source in the packet. Use only if a stronger Twitter source is found or if the set needs a lightweight tooling item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No selected duplicate covers Grok Build or terminal math rendering."
+      }
+    },
+    {
+      "id": "item_2066192015105073170",
+      "decision": "needs_more_search",
+      "reason": "The Barry Zhang quote about moving from chat to continuous background agents is an interesting product-direction frame, but the selected tweet is a secondary quote post with no source trail and overlaps with recent Anthropic-heavy coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same broad agent-future angle as the Claude-agent practitioner story, but not the same event or evidence type."
+      }
+    },
+    {
+      "id": "item_2066113187288920310",
+      "decision": "needs_more_search",
+      "reason": "The Hassabis AGI-threshold quote is catchy, but it is an all-caps secondary quote recap and less concrete than release, policy, or research items. Prefer a primary or closer-to-primary Twitter source, or a more current DeepMind-related item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Related to reserve item_2066356019790582269 as another Hassabis vision quote, but this selected item is not a duplicate of another selected story."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2066126669073510904",
+        "item_2066370111364296812"
+      ],
+      "reason": "Both selected items cover GLM-5.2; one is benchmark/cost positioning and the other is product features and availability. They can coexist, but final digest should avoid making the set feel like two versions of the same launch."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2066430310527504668",
+        "item_2066181618579214775",
+        "item_2066179709717594551",
+        "item_2066192015105073170"
+      ],
+      "reason": "The set has a sizable agent-systems cluster spanning knowledge formats, agent-memory degradation, practical Claude-agent workflows, and background-agent product direction. These are distinct, but they may crowd out other AI categories if all weak items remain."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2066128853186035807",
+        "item_2066448757311340882",
+        "item_2066250074263355435",
+        "item_2066242262762184785",
+        "item_2066192015105073170",
+        "item_2066113187288920310"
+      ],
+      "reason": "These selected items rely on secondary summaries, truncated text, low-context product claims, or unattributed quote recaps rather than clearly primary or strongly traceable Twitter sources in the packet."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2066294934387450138",
+        "item_2066250074263355435",
+        "item_2066242262762184785",
+        "item_2066192015105073170",
+        "item_2066113187288920310"
+      ],
+      "reason": "Several selected slots are stale, weakly sourced, or quote-heavy; stronger Twitter-sourced product launches, model releases, research items, policy sources, or practitioner demos would improve the final digest."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter source for the UK under-16 social-media and AI-chatbot restriction story before including it as policy coverage.",
+      "suggested_query_theme": "UK under 16 social media ban AI chatbot restrictions since:2026-06-14"
+    },
+    {
+      "needed": true,
+      "reason": "Find a primary or closer-to-primary Twitter source for Grok Build adding terminal LaTeX or math rendering, or a stronger developer-tooling replacement.",
+      "suggested_query_theme": "Grok Build terminal LaTeX math rendering since:2026-06-14"
+    },
+    {
+      "needed": true,
+      "reason": "Find a better-sourced Twitter item for Anthropic's move toward background agents or continuous execution if that product-direction angle is desired.",
+      "suggested_query_theme": "Anthropic background agents continuous execution Barry Zhang since:2026-06-14"
+    },
+    {
+      "needed": true,
+      "reason": "Find fresher technical or research analysis to replace the older infinite-compute/pretraining recap if the digest needs a substantive research slot.",
+      "suggested_query_theme": "AI research paper model scaling pretraining agents reliability since:2026-06-14"
+    }
+  ]
+}

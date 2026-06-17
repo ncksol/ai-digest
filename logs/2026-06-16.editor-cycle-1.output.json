@@ -1,0 +1,206 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "The packet has enough strong items for publication after deduping: the strongest core is the Anthropic export-controls outcome, Mistral Le Gros Chaton paper/name cycle, OpenAI financials and partner network, Artificial Analysis benchmark update, RadicalNumerics launch, and agent/code tooling coverage. The main issue is overconcentration on the Anthropic/Fable 5 export-control saga, where the earlier Valuetainment meeting-context item is now superseded by later reporting. The Flash-KMeans item is concrete but very low-engagement and should be treated as a weaker research slot; however the packet still lands within the target range without requiring a reserve replacement.",
+  "decisions": [
+    {
+      "id": "item_2066686166884098244",
+      "decision": "keep",
+      "reason": "Keep as the strongest Anthropic export-controls representative: a Wired reporter states that Trump administration officials concluded talks with Anthropic without lifting Claude Fable 5 export controls, with clear outcome evidence and strong engagement of 881 likes, 261 retweets, and 421k views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same broad Anthropic/Fable 5 export-control saga as several selected items, but this is the clearest later outcome report and should carry the main story."
+      }
+    },
+    {
+      "id": "item_2066658389288005876",
+      "decision": "keep",
+      "reason": "Keep because Sophia Cai adds a distinct administration-side timeline angle, citing a senior White House official that resolution may take longer than a few days while leaving open a faster path; the item has solid engagement with 601 likes and 308k views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as the Wired outcome item, but a distinct WH process/timeline angle rather than merely repeating that controls remain in place."
+      }
+    },
+    {
+      "id": "item_2066546446971658349",
+      "decision": "superseded_by",
+      "reason": "Supersede because this earlier Valuetainment item only says Anthropic executives were meeting U.S. officials to restore access, while later selected reporting from Wired and Sophia Cai covers the meeting outcome and timeline with stronger source quality and more detail.",
+      "superseded_by": "item_2066686166884098244",
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same Anthropic-WH meeting story; the later Wired item provides the outcome, making this setup-only item redundant."
+      }
+    },
+    {
+      "id": "item_2066459604741997053",
+      "decision": "keep",
+      "reason": "Keep as a distinct analysis angle on the same saga: kimmonismus summarizes Axios reporting that reframes the dispute around Anthropic's cybersecurity expert review and pushback on Amazon/government jailbreak claims, with very high circulation at 3,300 likes and 1M views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Related to the export-control story but focused on the underlying evidentiary dispute rather than the meeting outcome or White House timeline."
+      }
+    },
+    {
+      "id": "item_2066456715650793956",
+      "decision": "keep",
+      "reason": "Keep because it is a primary-source Mistral CEO post confirming the model name as le gros chaton, with unusually high engagement of 8,300 likes, 1,000 retweets, and 1.3M views; it anchors the Mistral story directly from Arthur Mensch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Mistral Le Gros Chaton cycle as the paper item, but this is a primary-source naming/positioning signal rather than the paper-release analysis."
+      }
+    },
+    {
+      "id": "item_2066528515311493292",
+      "decision": "keep",
+      "reason": "Keep because it covers the concrete Mistral paper release explaining Le Gros Chaton training, tying the meme/name cycle to a substantive publication; engagement is strong at 1,800 likes and 295k views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Mistral model cycle as Arthur Mensch's naming tweet, but a distinct paper/publication angle."
+      }
+    },
+    {
+      "id": "item_2066732330954478008",
+      "decision": "keep",
+      "reason": "Keep because Ed Zitron claims an exclusive look at audited OpenAI financials, with concrete numbers of $13.07B 2025 revenue and $34B costs plus SoftBank and Microsoft revenue amounts; strong company-news signal with 1,400 likes and 149k views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct OpenAI financials story, not a duplicate of the Partner Network announcement."
+      }
+    },
+    {
+      "id": "item_2066503730480943302",
+      "decision": "keep",
+      "reason": "Keep because the tweet links to OpenAI's official Partner Network announcement and quotes the program description; it is a concrete company/ecosystem launch with 903 likes and 141k views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same company as the OpenAI financials item, but a different event and angle: partner ecosystem rather than financial performance."
+      }
+    },
+    {
+      "id": "item_2066700136018071841",
+      "decision": "keep",
+      "reason": "Keep because Artificial Analysis is the direct benchmark maintainer announcing Intelligence Index v4.1, including a shift toward agentic workloads, upgraded benchmarks, and new per-task metrics; primary-source benchmark release with 887 likes and 132k views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct benchmark/methodology update; no selected duplicate covers Artificial Analysis or agentic benchmark weighting."
+      }
+    },
+    {
+      "id": "item_2066496190502555888",
+      "decision": "keep",
+      "reason": "Keep because a RadicalNumerics co-founder announces the company emerging from stealth with a $50M seed round and an early biological-intelligence model preview; concrete primary-source startup/model release with 975 likes and 1.4M views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct bio-AI startup/model-preview story that broadens coverage beyond frontier labs and policy."
+      }
+    },
+    {
+      "id": "item_2066621765028327922",
+      "decision": "keep",
+      "reason": "Keep as a practical agent-tooling analysis item: DataChaz describes codebase-memory-mcp indexing the 28M-line Linux kernel in 3 minutes, giving a concrete open-source code-intelligence angle with moderate engagement of 591 likes.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Broadly related to agent/tooling coverage, but distinct from OpenAI Partner Network and benchmark items because it focuses on open-source codebase memory/indexing infrastructure."
+      }
+    },
+    {
+      "id": "item_2066803525007691808",
+      "decision": "keep",
+      "reason": "Keep, but as a lower-confidence research slot: the tweet gives concrete Flash-KMeans claims of a 200x exact KMeans speedup and beating cuML/FAISS, but engagement is very low at 15 likes and 1,200 views because it is recent. It is not a duplicate and adds ML systems variety.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct ML systems research item; weakness is low engagement and secondary summary status, not duplication."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2066686166884098244",
+        "item_2066658389288005876",
+        "item_2066546446971658349",
+        "item_2066459604741997053"
+      ],
+      "reason": "Four selected items cover the Anthropic/Fable 5 export-control saga. The Wired outcome, Sophia Cai WH timeline, and kimmonismus Axios evidentiary reframing are separable angles, but the earlier Valuetainment meeting-context item is redundant after later outcome reporting."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2066456715650793956",
+        "item_2066528515311493292"
+      ],
+      "reason": "Both selected items cover the Mistral Le Gros Chaton cycle, but one is the Mistral CEO's primary-source naming correction and the other is a paper-release item, so they can coexist if the digest wants both meme/primary-source and technical-publication angles."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2066732330954478008",
+        "item_2066503730480943302"
+      ],
+      "reason": "Both are OpenAI company stories, but they are distinct: audited financials/cost structure versus the official Partner Network launch."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2066803525007691808"
+      ],
+      "reason": "The Flash-KMeans item makes concrete technical performance claims through a low-engagement secondary summary; acceptable as a weaker research slot, but it would benefit from a stronger Twitter/X source if one is available."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Find a stronger Twitter/X source for the Flash-KMeans 200x exact KMeans speedup claim, preferably from an author, lab, project account, or paper-adjacent researcher.",
+      "suggested_query_theme": "Flash-KMeans exact KMeans 200x GPU cuML FAISS paper author"
+    }
+  ]
+}

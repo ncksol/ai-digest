@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-17",
+  "generated_by": "manual main-agent run (editor workflow removed)",
+  "searches": [
+    "AI since:2026-06-16", "LLM since:2026-06-16", "machine learning since:2026-06-16",
+    "GPT OR Claude OR Gemini since:2026-06-16", "open source AI model since:2026-06-16",
+    "AI agent since:2026-06-16", "Sam Altman since:2026-06-16", "Dario Amodei since:2026-06-16",
+    "Demis Hassabis since:2026-06-16", "from:karpathy since:2026-06-16 (empty)",
+    "from:sama since:2026-06-16 (empty)", "from:OpenAI since:2026-06-16", "from:AnthropicAI since:2026-06-16"
+  ],
+  "selected": [
+    {"id":"2066873915717136548","author":"SpaceX","cat":"news","reason":"Primary-source: SpaceX confirms all-stock Cursor acquisition; dominant story, 20M views","c":1500,"rt":5300,"lk":33000,"eng":39800},
+    {"id":"2066894493111242852","author":"chamath","cat":"analysis","reason":"Investor framing of $60B exit + control-plane thesis","c":124,"rt":184,"lk":2700,"eng":3008},
+    {"id":"2066922389200310642","author":"ns123abc","cat":"news","reason":"DeepSeek $7.4B raise at $50B+ valuation with cap-table detail","c":73,"rt":184,"lk":1400,"eng":1657},
+    {"id":"2066975654604881983","author":"AndrewCurran_","cat":"news","reason":"Bloomberg-sourced Lutnick export-license letter to Amodei; ties to ongoing Fable 5 export saga","c":34,"rt":88,"lk":490,"eng":612},
+    {"id":"2067138498734277026","author":"Discoplomacy","cat":"news","reason":"Same-day: Starmer lunch with Altman, Amodei, Hassabis, Mensch; weak engagement but concrete","c":2,"rt":0,"lk":9,"eng":11},
+    {"id":"2066989194467999778","author":"haider1","cat":"news","reason":"Altman: 500k A100-equivalent GPUs as AI research intern by September","c":28,"rt":31,"lk":312,"eng":371},
+    {"id":"2066863919856025629","author":"Hesamation","cat":"analysis","reason":"Altman calls LeCun anti-scaling bet misguided","c":49,"rt":52,"lk":455,"eng":556},
+    {"id":"2066969635099144682","author":"OpenAI","cat":"analysis","reason":"Primary-source OpenAI Deployment Simulation safety research","c":173,"rt":226,"lk":2000,"eng":2399},
+    {"id":"2066969532380721386","author":"AnthropicAI","cat":"analysis","reason":"Primary-source Anthropic Economic Index report on Claude Code usage","c":385,"rt":382,"lk":2500,"eng":3267},
+    {"id":"2066870197122899980","author":"Alibaba_Qwen","cat":"news","reason":"Primary-source Qwen-Robot Suite, 3 embodied foundation models","c":74,"rt":492,"lk":2400,"eng":2966},
+    {"id":"2066869851659121128","author":"gs_ai_","cat":"news","reason":"Genesis unveils Eno general-purpose robot","c":195,"rt":500,"lk":1800,"eng":2495},
+    {"id":"2066873986210767071","author":"AnatoliKopadze","cat":"personal_story","reason":"Widely shared Hassabis Cambridge lecture clip","c":34,"rt":109,"lk":468,"eng":611}
+  ],
+  "rejected_notable": [
+    {"id":"2066784403531915543","author":"GergelyOrosz","reason":"Meta eng-culture; 25.1h, outside 24h window"},
+    {"id":"2066685508944552137","author":"testingcatalog","reason":"Codex CDP browser; 31.6h, outside window"},
+    {"id":"2066749359039881449","author":"markgadala","reason":"Seedance 2; 27.4h, outside window"},
+    {"id":"2066803525007691808","author":"_avichawla","reason":"Flash-KMeans; in-window but already covered 2026-06-16"},
+    {"id":"2066806994821067006","author":"KanikaBK","reason":"Fable 5 system-prompt leak; sensational engagement-bait, unverified claims"},
+    {"id":"2066821448845365685","author":"TheChiefNerd","reason":"Altman jobs-doomer walkback; covered via stronger Altman items"}
+  ]
+}
