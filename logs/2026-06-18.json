@@ -645,5 +645,20 @@
     }
   },
   "editor_status": "editor_unavailable",
-  "editor_note": "Editor agent (github-copilot/gpt-5.5) returned \"LLM request failed.\" on both the initial 240s attempt and the 120s retry (zero tokens, ~1-6s each). Provider instability on the gpt-5.5 auth path. Continued with the current validated selected set per workflow fallback. No editor replacements applied."
+  "editor_note": "Editor agent (github-copilot/gpt-5.5) returned \"LLM request failed.\" on both the initial 240s attempt and the 120s retry (zero tokens, ~1-6s each). Provider instability on the gpt-5.5 auth path. Continued with the current validated selected set per workflow fallback. No editor replacements applied.",
+  "editor": {
+    "status": "completed",
+    "model": "github-copilot/claude-opus-4.8",
+    "cycle1_verdict": "needs_replacements",
+    "cycle1_removed": 4,
+    "additional_search": {
+      "ran": true,
+      "gaps_targeted": 4,
+      "replacements_promoted": 2
+    },
+    "cycle2_verdict": "pass",
+    "final_selected": 9,
+    "note": "Editor switched from gpt-5.5 to claude-opus-4.8; both editor cycles ran cleanly. 4 low-signal items removed in cycle 1; NVIDIA LocateAnything and Reuters G7 promoted via additional Twitter search; cycle 2 passed the 9-item set. overall_verdict normalised approve->pass (schema enum)."
+  },
+  "final_item_count": 9
 }
