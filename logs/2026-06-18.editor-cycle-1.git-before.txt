@@ -1,0 +1,5 @@
+?? _build_log_0618.mjs
+?? logs/2026-06-18.editor-cycle-1.git-before.txt
+?? logs/2026-06-18.editor-cycle-1.input.json
+?? logs/2026-06-18.json
+?? logs/2026-06-18.raw-search.jsonl
