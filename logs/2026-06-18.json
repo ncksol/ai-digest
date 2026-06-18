@@ -1,0 +1,684 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T07:00:00Z",
+  "since_date": "2026-06-17",
+  "searches": [
+    "AI since:2026-06-17",
+    "LLM since:2026-06-17",
+    "machine learning since:2026-06-17",
+    "GPT OR Claude OR Gemini since:2026-06-17",
+    "open source AI model since:2026-06-17",
+    "AI agent since:2026-06-17",
+    "Sam Altman since:2026-06-17",
+    "Dario Amodei since:2026-06-17",
+    "Demis Hassabis since:2026-06-17",
+    "from:karpathy since:2026-06-17 (0 results)",
+    "from:sama since:2026-06-17",
+    "from:OpenAI since:2026-06-17",
+    "from:AnthropicAI since:2026-06-17 (0 results)"
+  ],
+  "editor": {
+    "cycle": 1,
+    "verdict": "pass",
+    "removed": 0,
+    "replaced": 0,
+    "additional_search": false
+  },
+  "returned_tweets": [
+    {
+      "id": "2067427678529974740",
+      "author": "sama",
+      "text": "We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.",
+      "likes": 4100,
+      "replies": 240,
+      "retweets": 201,
+      "views": 333000,
+      "derived_timestamp": "2026-06-18T02:02:24Z",
+      "age_hours": 5.0
+    },
+    {
+      "id": "2067401895178817999",
+      "author": "Yuchenj_UW",
+      "text": "Noam Shazeer, the AI legend Google paid $2.7B to bring back two years ago, has left Google, to join OpenAI. Brutal news for Gemini.",
+      "likes": 2500,
+      "replies": 71,
+      "retweets": 135,
+      "views": 491000,
+      "derived_timestamp": "2026-06-18T00:19:56Z",
+      "age_hours": 6.7
+    },
+    {
+      "id": "2067422213112762831",
+      "author": "testingcatalog",
+      "text": "BREAKING: Midjourney announced its first hardware product, a full-body ultrasonic scanner.",
+      "likes": 355,
+      "replies": 14,
+      "retweets": 24,
+      "views": 25000,
+      "derived_timestamp": "2026-06-18T01:40:41Z",
+      "age_hours": 5.3
+    },
+    {
+      "id": "2067325646678687907",
+      "author": "AndyMasley",
+      "text": "The White House imposes an indefinite pause on frontier AI deployment",
+      "likes": 1600,
+      "replies": 58,
+      "retweets": 121,
+      "views": 316000,
+      "derived_timestamp": "2026-06-17T19:16:57Z",
+      "age_hours": 11.7
+    },
+    {
+      "id": "2067457198062436391",
+      "author": "ns123abc",
+      "text": "BREAKING: SK Telecom Triggered Anthropic's Export Controls. Not Amazon...",
+      "likes": 598,
+      "replies": 42,
+      "retweets": 73,
+      "views": 72000,
+      "derived_timestamp": "2026-06-18T03:59:42Z",
+      "age_hours": 3.0
+    },
+    {
+      "id": "2067351876899684785",
+      "author": "WSJ",
+      "text": "Exclusive: Apple plans to raise prices. CEO Tim Cook called the move unavoidable because the AI boom is driving up chip costs.",
+      "likes": 519,
+      "replies": 57,
+      "retweets": 198,
+      "views": 208000,
+      "derived_timestamp": "2026-06-17T21:01:11Z",
+      "age_hours": 10.0
+    },
+    {
+      "id": "2067314435685765367",
+      "author": "DavidSacks",
+      "text": "Yes",
+      "likes": 2900,
+      "replies": 166,
+      "retweets": 200,
+      "views": 161000,
+      "derived_timestamp": "2026-06-17T18:32:24Z",
+      "age_hours": 12.5
+    },
+    {
+      "id": "2067419366241575361",
+      "author": "signulll",
+      "text": "google paid $2.7b to acquire him in 24 & couldnt hold him 18mo later. that's pretty insane. feels like they recruited ai jesus.",
+      "likes": 4400,
+      "replies": 94,
+      "retweets": 129,
+      "views": 688000,
+      "derived_timestamp": "2026-06-18T01:29:22Z",
+      "age_hours": 5.5
+    },
+    {
+      "id": "2067293746556027376",
+      "author": "OpenAI",
+      "text": "The reaction is Chan-Lam coupling, a method chemists use to build pharmaceutically relevant molecules.",
+      "likes": 275,
+      "replies": 5,
+      "retweets": 12,
+      "views": 22000,
+      "derived_timestamp": "2026-06-17T17:10:12Z",
+      "age_hours": 13.8
+    },
+    {
+      "id": "2067264877463261400",
+      "author": "Marcos12345rico",
+      "text": "today we're launching @Palmier_io, a video editor Claude can edit. open-source. mac native. available now.",
+      "likes": 4000,
+      "replies": 185,
+      "retweets": 410,
+      "views": 491000,
+      "derived_timestamp": "2026-06-17T15:15:29Z",
+      "age_hours": 15.7
+    },
+    {
+      "id": "2067466049361228126",
+      "author": "himanshustwts",
+      "text": "Wow. As they say it is the age of research and OpenAI has got Noam himself. Shazeer contributed to Attention is All You Need, Sparse MoE, Switch Transformer, Multi Query.",
+      "likes": 96,
+      "replies": 2,
+      "retweets": 1,
+      "views": 5100,
+      "derived_timestamp": "2026-06-18T04:34:52Z",
+      "age_hours": 2.4
+    },
+    {
+      "id": "2067040336904613954",
+      "author": "0x0SojalSec",
+      "text": "Fully automatic censorship removal for Any LLM models. Built a tool that removes LLM censorship in 45 minutes flat.",
+      "likes": 912,
+      "replies": 17,
+      "retweets": 132,
+      "views": 51000,
+      "derived_timestamp": "2026-06-17T00:23:14Z",
+      "age_hours": 30.6
+    },
+    {
+      "id": "2067482316696629566",
+      "author": "Open_MOSS",
+      "text": "MOSS-TTS-Local Transformer v1.5 is now open source. Pure autoregressive Audio Tokenizer + LLM paradigm, Qwen3-4B backbone, native 48 kHz stereo, zero-shot voice cloning.",
+      "likes": 23,
+      "replies": 6,
+      "retweets": 7,
+      "views": 1300,
+      "derived_timestamp": "2026-06-18T05:39:30Z",
+      "age_hours": 1.3
+    },
+    {
+      "id": "2067275310559645987",
+      "author": "benno_krojer",
+      "text": "Sharing initial exploration of the new Gemma4 model: Inspecting Visual and Audio Token Representations in Gemma4-12B.",
+      "likes": 26,
+      "replies": 3,
+      "retweets": 5,
+      "views": 3700,
+      "derived_timestamp": "2026-06-17T15:56:56Z",
+      "age_hours": 15.1
+    },
+    {
+      "id": "2067410492008841643",
+      "author": "johnschulman2",
+      "text": "PPO had a second wave in the LLM era for reasons unanticipated by the original paper.",
+      "likes": 625,
+      "replies": 10,
+      "retweets": 62,
+      "views": 59000,
+      "derived_timestamp": "2026-06-18T00:54:06Z",
+      "age_hours": 6.1
+    },
+    {
+      "id": "2067233860287627359",
+      "author": "_ar9av",
+      "text": "So apparently Google ships a Gemini Nano 4B LLM (context limit: 9216 tokens) baked into chrome. Exposed it as an OpenAI-compatible API for local use.",
+      "likes": 551,
+      "replies": 16,
+      "retweets": 42,
+      "views": 91000,
+      "derived_timestamp": "2026-06-17T13:12:14Z",
+      "age_hours": 17.8
+    },
+    {
+      "id": "2067424411683320294",
+      "author": "markgurman",
+      "text": "Pretty wild: @midjourney's big hardware debut is a full body scanner with the goal of upending the MRI machine market, and a spa.",
+      "likes": 1500,
+      "replies": 37,
+      "retweets": 81,
+      "views": 116000,
+      "derived_timestamp": "2026-06-18T01:49:25Z",
+      "age_hours": 5.2
+    },
+    {
+      "id": "2067424497561670128",
+      "author": "altryne",
+      "text": "MidJourney just announced... a full body ultrasound! As powerful as MRI and as casual as a trip to the spa. 8,960 transducers, picometer-range motion, 17 GB/s.",
+      "likes": 2300,
+      "replies": 88,
+      "retweets": 361,
+      "views": 214000,
+      "derived_timestamp": "2026-06-18T01:49:45Z",
+      "age_hours": 5.2
+    },
+    {
+      "id": "2067462306858950681",
+      "author": "Cointelegraph",
+      "text": "NOW: AI startup Midjourney is pivoting to healthcare, unveiling a full-body ultrasound machine it claims surpasses MRI technology.",
+      "likes": 112,
+      "replies": 41,
+      "retweets": 20,
+      "views": 14000,
+      "derived_timestamp": "2026-06-18T04:20:00Z",
+      "age_hours": 2.7
+    },
+    {
+      "id": "2067346916929937827",
+      "author": "OpenAI",
+      "text": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research. 173 scientists, 750 tasks.",
+      "likes": 2200,
+      "replies": 160,
+      "retweets": 282,
+      "views": 388000,
+      "derived_timestamp": "2026-06-17T20:41:29Z",
+      "age_hours": 10.3
+    },
+    {
+      "id": "2067293745075442171",
+      "author": "OpenAI",
+      "text": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result with Molecule.one.",
+      "likes": 2400,
+      "replies": 154,
+      "retweets": 284,
+      "views": 312000,
+      "derived_timestamp": "2026-06-17T17:10:11Z",
+      "age_hours": 13.8
+    },
+    {
+      "id": "2067261787335233537",
+      "author": "chamath",
+      "text": "It may be overfit but it is really good to see open-weight models catch up to closed source labs so quickly. With recursive RL, the delta keeps shrinking.",
+      "likes": 671,
+      "replies": 67,
+      "retweets": 44,
+      "views": 137000,
+      "derived_timestamp": "2026-06-17T15:03:12Z",
+      "age_hours": 15.9
+    },
+    {
+      "id": "2067318628563767635",
+      "author": "julien_c",
+      "text": "Llama.cpp has a new branding + official website. Run local models today! By @alekgrygier and @ggerganov at ggml/hf.",
+      "likes": 175,
+      "replies": 10,
+      "retweets": 21,
+      "views": 11000,
+      "derived_timestamp": "2026-06-17T18:49:04Z",
+      "age_hours": 12.2
+    },
+    {
+      "id": "2067252580443460094",
+      "author": "TFTC21",
+      "text": "China just shipped a 744B parameter frontier AI model. MIT license, runs on consumer hardware, no NVIDIA required, 1M token context window.",
+      "likes": 184,
+      "replies": 16,
+      "retweets": 29,
+      "views": 12000,
+      "derived_timestamp": "2026-06-17T14:26:37Z",
+      "age_hours": 16.6
+    },
+    {
+      "id": "2067155552539701468",
+      "author": "DataChaz",
+      "text": "@NVIDIA just dropped LocateAnything, making object detection ~10x faster by fixing how the model writes coordinates.",
+      "likes": 317,
+      "replies": 16,
+      "retweets": 66,
+      "views": 26000,
+      "derived_timestamp": "2026-06-17T08:01:04Z",
+      "age_hours": 23.0
+    },
+    {
+      "id": "2067480763776307508",
+      "author": "ns123abc",
+      "text": "BREAKING: JPMorgan just cut off its entire staff in Hong Kong from accessing Claude. Goldman Sachs also did the same last month.",
+      "likes": 393,
+      "replies": 35,
+      "retweets": 85,
+      "views": 34000,
+      "derived_timestamp": "2026-06-18T05:33:20Z",
+      "age_hours": 1.4
+    },
+    {
+      "id": "2067339660905365935",
+      "author": "Polymarket",
+      "text": "JUST IN: Anthropic CEO Dario Amodei reveals companies testing Mythos warned it was a super weapon & said using it should require a gun license.",
+      "likes": 4400,
+      "replies": 569,
+      "retweets": 675,
+      "views": 1100000,
+      "derived_timestamp": "2026-06-17T20:12:39Z",
+      "age_hours": 10.8
+    },
+    {
+      "id": "2067305163556364497",
+      "author": "AndrewCurran_",
+      "text": "Dario Amodei and Demis Hassabis called for a US-led coalition to determine global standards and rules for AI, excluding China, at the G7.",
+      "likes": 649,
+      "replies": 72,
+      "retweets": 137,
+      "views": 217000,
+      "derived_timestamp": "2026-06-17T17:55:34Z",
+      "age_hours": 13.1
+    },
+    {
+      "id": "2067251442943942930",
+      "author": "business",
+      "text": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei were among tech bosses at a G7 working lunch on AI, as the US export decision causes tension among allies.",
+      "likes": 2700,
+      "replies": 156,
+      "retweets": 566,
+      "views": 1300000,
+      "derived_timestamp": "2026-06-17T14:22:06Z",
+      "age_hours": 16.6
+    },
+    {
+      "id": "2067257473296118022",
+      "author": "kimmonismus",
+      "text": "Trump and the AI CEOs are currently meeting. Judging by his facial expression, Sam seems to be enjoying himself more than Dario.",
+      "likes": 4300,
+      "replies": 253,
+      "retweets": 341,
+      "views": 878000,
+      "derived_timestamp": "2026-06-17T14:46:04Z",
+      "age_hours": 16.2
+    },
+    {
+      "id": "2067427421083652131",
+      "author": "sama",
+      "text": "noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait!",
+      "likes": 4600,
+      "replies": 235,
+      "retweets": 165,
+      "views": 364000,
+      "derived_timestamp": "2026-06-18T02:01:22Z",
+      "age_hours": 5.0
+    },
+    {
+      "id": "2067270634426831201",
+      "author": "GaryMarcus",
+      "text": "sam altman sitting next to donald trump, presumably doing his best to kneecap Anthropic and keep his own operation alive",
+      "likes": 190,
+      "replies": 26,
+      "retweets": 24,
+      "views": 14000,
+      "derived_timestamp": "2026-06-17T15:38:21Z",
+      "age_hours": 15.4
+    },
+    {
+      "id": "2067380582774894791",
+      "author": "ns123abc",
+      "text": "G7 AI SUMMIT. Evian-les-Bains, France. OpenAI on Trump's right, Google DeepMind on his left, Anthropic across the table.",
+      "likes": 185,
+      "replies": 21,
+      "retweets": 30,
+      "views": 15000,
+      "derived_timestamp": "2026-06-17T22:55:15Z",
+      "age_hours": 8.1
+    },
+    {
+      "id": "2067350540221334013",
+      "author": "cgtwts",
+      "text": "Nobody sells AI and fears AI harder than Dario.",
+      "likes": 446,
+      "replies": 16,
+      "retweets": 27,
+      "views": 72000,
+      "derived_timestamp": "2026-06-17T20:55:52Z",
+      "age_hours": 10.1
+    },
+    {
+      "id": "2067273105232281869",
+      "author": "cryptopunk7213",
+      "text": "dario seated on the opposite side of the room like a schoolboy being reprimanded while sam and demis sit either side of Trump.",
+      "likes": 1200,
+      "replies": 49,
+      "retweets": 80,
+      "views": 255000,
+      "derived_timestamp": "2026-06-17T15:48:11Z",
+      "age_hours": 15.2
+    },
+    {
+      "id": "2067223635161420164",
+      "author": "NobelPrize",
+      "text": "Chemistry laureate Demis Hassabis on how AI could give us more time back, at a London event with Paul Nurse.",
+      "likes": 139,
+      "replies": 11,
+      "retweets": 44,
+      "views": 11000,
+      "derived_timestamp": "2026-06-17T12:31:36Z",
+      "age_hours": 18.5
+    },
+    {
+      "id": "2067239844443513201",
+      "author": "tferriss",
+      "text": "NEW podcast: Sebastian Mallaby, Biographer of Demis Hassabis. Lessons from 100+ AI insiders on the race to superintelligence.",
+      "likes": 37,
+      "replies": 6,
+      "retweets": 8,
+      "views": 15000,
+      "derived_timestamp": "2026-06-17T13:36:01Z",
+      "age_hours": 17.4
+    },
+    {
+      "id": "2067310431669223425",
+      "author": "kimmonismus",
+      "text": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis calling for a US-led coalition to shape AI rules, excluding China.",
+      "likes": 835,
+      "replies": 64,
+      "retweets": 96,
+      "views": 97000,
+      "derived_timestamp": "2026-06-17T18:16:30Z",
+      "age_hours": 12.7
+    },
+    {
+      "id": "2067317740004900997",
+      "author": "ChrissGPT",
+      "text": "Sam Altman on the auto assistant researcher in September: I think that's a research problem for the AIs to figure out.",
+      "likes": 372,
+      "replies": 21,
+      "retweets": 34,
+      "views": 33000,
+      "derived_timestamp": "2026-06-17T18:45:32Z",
+      "age_hours": 12.2
+    },
+    {
+      "id": "2067172099949760684",
+      "author": "sairahul1",
+      "text": "Andrej Karpathy: 90% of Claude's mistakes come from missing context, not a weak model. 41% without CLAUDE.md, 3% with 12 rules.",
+      "likes": 1000,
+      "replies": 45,
+      "retweets": 149,
+      "views": 247000,
+      "derived_timestamp": "2026-06-17T09:06:49Z",
+      "age_hours": 21.9
+    },
+    {
+      "id": "2067051453022363992",
+      "author": "per_simmons_",
+      "text": "GPT-Realtime 2 is the future of the operating system. Opening apps, searching the web, editing in Premiere, all with voice.",
+      "likes": 1400,
+      "replies": 53,
+      "retweets": 116,
+      "views": 549000,
+      "derived_timestamp": "2026-06-17T01:07:25Z",
+      "age_hours": 29.9
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2067401895178817999",
+      "author": "Yuchenj_UW",
+      "category": "news",
+      "engagement_count": 2706,
+      "comments": 71,
+      "retweets": 135,
+      "likes": 2500,
+      "reason": "Concrete talent-move news: Shazeer leaving Google for OpenAI."
+    },
+    {
+      "id": "2067427421083652131",
+      "author": "sama",
+      "category": "news",
+      "engagement_count": 5000,
+      "comments": 235,
+      "retweets": 165,
+      "likes": 4600,
+      "reason": "Altman primary-source confirmation of Shazeer hire; distinct angle."
+    },
+    {
+      "id": "2067339660905365935",
+      "author": "Polymarket",
+      "category": "news",
+      "engagement_count": 5644,
+      "comments": 569,
+      "retweets": 675,
+      "likes": 4400,
+      "reason": "High-engagement concrete Amodei claim about Mythos testing feedback."
+    },
+    {
+      "id": "2067251442943942930",
+      "author": "business",
+      "category": "news",
+      "engagement_count": 3422,
+      "comments": 156,
+      "retweets": 566,
+      "likes": 2700,
+      "reason": "Authoritative Bloomberg report on the G7 AI lunch and export tension."
+    },
+    {
+      "id": "2067305163556364497",
+      "author": "AndrewCurran_",
+      "category": "news",
+      "engagement_count": 858,
+      "comments": 72,
+      "retweets": 137,
+      "likes": 649,
+      "reason": "Concrete reporting on Amodei/Hassabis US-led coalition call excluding China."
+    },
+    {
+      "id": "2067457198062436391",
+      "author": "ns123abc",
+      "category": "news",
+      "engagement_count": 713,
+      "comments": 42,
+      "retweets": 73,
+      "likes": 598,
+      "reason": "New detail reframing export-control trigger as SK Telecom."
+    },
+    {
+      "id": "2067480763776307508",
+      "author": "ns123abc",
+      "category": "news",
+      "engagement_count": 513,
+      "comments": 35,
+      "retweets": 85,
+      "likes": 393,
+      "reason": "Concrete enterprise-access news: JPMorgan HK cuts Claude."
+    },
+    {
+      "id": "2067424497561670128",
+      "author": "altryne",
+      "category": "news",
+      "engagement_count": 2749,
+      "comments": 88,
+      "retweets": 361,
+      "likes": 2300,
+      "reason": "Surprising Midjourney hardware announcement with detailed specs."
+    },
+    {
+      "id": "2067346916929937827",
+      "author": "OpenAI",
+      "category": "news",
+      "engagement_count": 2642,
+      "comments": 160,
+      "retweets": 282,
+      "likes": 2200,
+      "reason": "Official OpenAI LifeSciBench benchmark release."
+    },
+    {
+      "id": "2067293745075442171",
+      "author": "OpenAI",
+      "category": "news",
+      "engagement_count": 2838,
+      "comments": 154,
+      "retweets": 284,
+      "likes": 2400,
+      "reason": "Official OpenAI GPT-5.4 medicinal chemistry validated result."
+    },
+    {
+      "id": "2067261787335233537",
+      "author": "chamath",
+      "category": "analysis",
+      "engagement_count": 782,
+      "comments": 67,
+      "retweets": 44,
+      "likes": 671,
+      "reason": "Investor analysis on open-weight models closing the gap via recursive RL."
+    },
+    {
+      "id": "2067410492008841643",
+      "author": "johnschulman2",
+      "category": "analysis",
+      "engagement_count": 697,
+      "comments": 10,
+      "retweets": 62,
+      "likes": 625,
+      "reason": "Schulman technical observation on why PPO works in the LLM era."
+    },
+    {
+      "id": "2067172099949760684",
+      "author": "sairahul1",
+      "category": "analysis",
+      "engagement_count": 1194,
+      "comments": 45,
+      "retweets": 149,
+      "likes": 1000,
+      "reason": "Practitioner data on context engineering reducing agent mistakes."
+    },
+    {
+      "id": "2067318628563767635",
+      "author": "julien_c",
+      "category": "news",
+      "engagement_count": 206,
+      "comments": 10,
+      "retweets": 21,
+      "likes": 175,
+      "reason": "Open-source tooling update: llama.cpp official website launch."
+    },
+    {
+      "id": "2067351876899684785",
+      "author": "WSJ",
+      "category": "news",
+      "engagement_count": 774,
+      "comments": 57,
+      "retweets": 198,
+      "likes": 519,
+      "reason": "WSJ report linking Apple price rises to AI chip cost inflation."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2067427678529974740",
+      "author": "sama",
+      "exclusion_reason": "Altman Noam quip; capped author (sama at 2) and weaker than the confirmation tweet."
+    },
+    {
+      "id": "2067419366241575361",
+      "author": "signulll",
+      "exclusion_reason": "Commentary duplicate of Shazeer move."
+    },
+    {
+      "id": "2067257473296118022",
+      "author": "kimmonismus",
+      "exclusion_reason": "G7 meeting commentary; overlaps the G7 cluster, more observational."
+    },
+    {
+      "id": "2067325646678687907",
+      "author": "AndyMasley",
+      "exclusion_reason": "Editorializing framing of the export pause; story covered concretely by export cluster."
+    },
+    {
+      "id": "2067264877463261400",
+      "author": "Marcos12345rico",
+      "exclusion_reason": "Palmier video editor launch; reserve, lower priority than selected set."
+    },
+    {
+      "id": "2067233860287627359",
+      "author": "_ar9av",
+      "exclusion_reason": "Gemini Nano in Chrome; reserve practitioner story."
+    },
+    {
+      "id": "2067223635161420164",
+      "author": "NobelPrize",
+      "exclusion_reason": "Hassabis Nobel-event remarks; softer analysis, reserve."
+    },
+    {
+      "id": "2067252580443460094",
+      "author": "TFTC21",
+      "exclusion_reason": "Vague 744B China model claim, no concrete model name; bitcoin-framed account."
+    },
+    {
+      "id": "2067051453022363992",
+      "author": "per_simmons_",
+      "exclusion_reason": "GPT-Realtime 2 promo, older and promotional in tone."
+    },
+    {
+      "id": "2067040336904613954",
+      "author": "0x0SojalSec",
+      "exclusion_reason": "Censorship-removal tool, niche and not a clear primary release."
+    }
+  ]
+}

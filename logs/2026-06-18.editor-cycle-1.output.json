@@ -1,0 +1,232 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 15 selected items against the candidate pool, reserves, author caps, and recent history. The set is within the 10-16 target, respects the author cap of 2 (OpenAI x2, ns123abc x2, both at cap), and contains no hard redundant duplicates. Three thematic clusters appear but each entry carries a distinct concrete angle: the Shazeer-to-OpenAI move (third-party report plus Altman's primary-source confirmation), the G7 meeting (export-tension lunch reporting plus the specific US-led coalition-excluding-China proposal), and the broader Anthropic export-control story (Mythos 'gun license' safety framing, SK Telecom as the trigger, and JPMorgan Hong Kong cutting Claude access). All items have traceable xcancel URLs, named authors, and timestamps. No replacements or additional Twitter searches are required; all 15 items are kept.",
+  "decisions": [
+    {
+      "id": "item_2067401895178817999",
+      "decision": "keep",
+      "reason": "Concrete, traceable talent-move news (Shazeer leaving Google for OpenAI) with strong engagement. Pairs with the Altman confirmation as a distinct third-party reporting angle, not a duplicate.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as item_2067427421083652131 (Shazeer hire) but this is the third-party news report; the paired item is Altman's primary-source confirmation. Distinct angle."
+      }
+    },
+    {
+      "id": "item_2067427421083652131",
+      "decision": "keep",
+      "reason": "Primary-source executive confirmation from Altman of the Shazeer hire; adds first-party validation distinct from the news report. Author sama appears only once.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as item_2067401895178817999 but a primary-source statement rather than third-party reporting. Complementary, not redundant."
+      }
+    },
+    {
+      "id": "item_2067339660905365935",
+      "decision": "keep",
+      "reason": "High-engagement, concrete Amodei claim about Mythos testers warning it is a 'super weapon'; distinct safety-framing facet of the Anthropic export-control theme with a traceable source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Part of the broader Anthropic export/Mythos theme but a distinct safety-feedback claim, separate from the G7, SK Telecom, and JPMorgan items."
+      }
+    },
+    {
+      "id": "item_2067251442943942930",
+      "decision": "keep",
+      "reason": "Authoritative Bloomberg report on the G7 working lunch and export-control tension among allies; concrete policy news. Distinct from the coalition-proposal item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same G7 gathering as item_2067305163556364497 but covers the lunch and export-tension framing; the other item covers the specific US-led coalition proposal. Distinct angle. Shares g7-ai-lunch fingerprint with reserve item_2067257473296118022, which was correctly held back."
+      }
+    },
+    {
+      "id": "item_2067305163556364497",
+      "decision": "keep",
+      "reason": "Concrete reporting of Amodei and Hassabis calling for a US-led AI coalition that excludes China from frontier models and hardware; a distinct, substantive policy proposal from the G7.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same G7 event as item_2067251442943942930 but reports a specific coalition-excluding-China proposal rather than the lunch/tension framing. Distinct angle."
+      }
+    },
+    {
+      "id": "item_2067457198062436391",
+      "decision": "keep",
+      "reason": "New causal detail reframing the Anthropic export-control trigger as SK Telecom rather than Amazon; concrete and distinct from the other export-theme items. Author ns123abc appears twice, at the cap of 2.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related to the Anthropic export-control theme but introduces a distinct causal claim (SK Telecom as trigger). Different fingerprint and facet from items 3, 4, and 7."
+      }
+    },
+    {
+      "id": "item_2067480763776307508",
+      "decision": "keep",
+      "reason": "Concrete enterprise-access fallout: JPMorgan Hong Kong cutting Claude access. Distinct corporate-impact facet of the export story. Second and final ns123abc item, at the author cap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Within the Anthropic export theme but a separate corporate-fallout event (JPMorgan HK), distinct from the SK Telecom trigger and the G7/Mythos items."
+      }
+    },
+    {
+      "id": "item_2067424497561670128",
+      "decision": "keep",
+      "reason": "Concrete, surprising hardware product announcement (Midjourney full-body scanner) with detailed specs and strong engagement; standalone story with no overlap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product-announcement story; no clustering with other selected items."
+      }
+    },
+    {
+      "id": "item_2067346916929937827",
+      "decision": "keep",
+      "reason": "Official OpenAI benchmark release (LifeSciBench) with concrete scope and a traceable primary source. First of two OpenAI items, within the author cap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct OpenAI release (benchmark). Different topic from the GPT-5.4 chemistry result; both OpenAI items are at the cap of 2 but cover separate stories."
+      }
+    },
+    {
+      "id": "item_2067293745075442171",
+      "decision": "keep",
+      "reason": "Official OpenAI report of a GPT-5.4-driven medicinal chemistry result validated experimentally; concrete distinct science story. Second OpenAI item, at the author cap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the LifeSciBench item; an applied research result rather than a benchmark release."
+      }
+    },
+    {
+      "id": "item_2067261787335233537",
+      "decision": "keep",
+      "reason": "Practitioner/investor analysis (chamath) on open-weight models closing the gap with closed labs via recursive RL; distinct viewpoint adding analytical balance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis item; no overlap with other selections."
+      }
+    },
+    {
+      "id": "item_2067410492008841643",
+      "decision": "keep",
+      "reason": "High-signal technical observation from John Schulman on why PPO had a second wave in the LLM era; strong practitioner analysis with a traceable source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique technical-analysis item; no clustering."
+      }
+    },
+    {
+      "id": "item_2067172099949760684",
+      "decision": "keep",
+      "reason": "Concrete practitioner data on context engineering reducing agentic-coding mistake rates (Karpathy's framing with quantified rules); useful technical analysis distinct from other items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis item; no overlap with the Schulman or chamath analysis pieces."
+      }
+    },
+    {
+      "id": "item_2067318628563767635",
+      "decision": "keep",
+      "reason": "Concrete open-source tooling update (llama.cpp official website and branding) from a traceable practitioner source; distinct ecosystem-news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source tooling story; no clustering with other selections."
+      }
+    },
+    {
+      "id": "item_2067351876899684785",
+      "decision": "keep",
+      "reason": "Authoritative WSJ report linking Apple price increases to AI-driven chip cost inflation; concrete industry-impact news with a clear primary source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone industry-impact story; no overlap with other selected items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2067401895178817999",
+        "item_2067427421083652131"
+      ],
+      "reason": "Both cover the Noam Shazeer Google-to-OpenAI move but from distinct angles: item_2067401895178817999 is third-party news reporting while item_2067427421083652131 is Altman's primary-source confirmation. Complementary, not redundant; both kept."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2067251442943942930",
+        "item_2067305163556364497"
+      ],
+      "reason": "Both stem from the same G7 gathering but cover different substance: item_2067251442943942930 reports the working lunch and export-control tension among allies, while item_2067305163556364497 reports the specific US-led coalition-excluding-China proposal. Distinct angles; both kept. The reserve item_2067257473296118022 shares the g7-ai-lunch fingerprint with item_2067251442943942930 and was correctly held back to avoid a fingerprint collision."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2067339660905365935",
+        "item_2067251442943942930",
+        "item_2067457198062436391",
+        "item_2067480763776307508"
+      ],
+      "reason": "These four items all touch the broader Anthropic export-control / Mythos theme but each contributes a distinct concrete facet: Amodei's 'gun license' safety feedback (item_2067339660905365935), G7 diplomatic tension (item_2067251442943942930), SK Telecom as the trigger (item_2067457198062436391), and JPMorgan Hong Kong cutting Claude access (item_2067480763776307508). Different fingerprints and sub-stories; not redundant duplicates, so all kept."
+    }
+  ],
+  "additional_search_requests": []
+}
