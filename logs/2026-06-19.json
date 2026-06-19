@@ -1,0 +1,783 @@
+{
+  "date": "2026-06-19",
+  "since_date": "2026-06-18",
+  "reference_utc": "2026-06-19T07:00:00Z",
+  "window_hours": 24,
+  "searches": [
+    "AI since:2026-06-18 (limit 20)",
+    "LLM since:2026-06-18 (limit 20)",
+    "machine learning since:2026-06-18 (limit 20)",
+    "GPT OR Claude OR Gemini since:2026-06-18 (limit 20)",
+    "open source AI model since:2026-06-18 (limit 20)",
+    "AI agent since:2026-06-18 (limit 20)",
+    "Sam Altman since:2026-06-18 (limit 20)",
+    "Dario Amodei since:2026-06-18 (limit 20)",
+    "Demis Hassabis since:2026-06-18 (limit 20)",
+    "from:karpathy since:2026-06-18 (limit 5) - no tweets found",
+    "from:sama since:2026-06-18 (limit 5)",
+    "from:OpenAI since:2026-06-18 (limit 5)",
+    "from:AnthropicAI since:2026-06-18 (limit 5)"
+  ],
+  "returned_tweets": [
+    {
+      "q": "AI",
+      "author": "signulll",
+      "id": "2067419366241575361",
+      "likes": 8900,
+      "replies": 150,
+      "retweets": 306,
+      "views": 1500000,
+      "text": "google paid $2.7b to acquire him in 24... feels like they recruited ai jesus.",
+      "derived_timestamp": "2026-06-18T01:29:22.363Z",
+      "age_hours": 29.5
+    },
+    {
+      "q": "AI",
+      "author": "verge",
+      "id": "2067446452322967811",
+      "likes": 1900,
+      "replies": 29,
+      "retweets": 280,
+      "views": 140000,
+      "text": "Midjourney Medical goes from generating cat images to full-body ultrasound scans",
+      "derived_timestamp": "2026-06-18T03:17:00.188Z",
+      "age_hours": 27.7
+    },
+    {
+      "q": "AI",
+      "author": "OpenAI",
+      "id": "2067722693714338044",
+      "likes": 109,
+      "replies": 3,
+      "retweets": 2,
+      "views": 5500,
+      "text": "The most interesting test was cross-domain transfer...",
+      "derived_timestamp": "2026-06-18T21:34:41.268Z",
+      "age_hours": 9.4
+    },
+    {
+      "q": "AI",
+      "author": "lexx_aura",
+      "id": "2067713238125474273",
+      "likes": 8400,
+      "replies": 156,
+      "retweets": 1200,
+      "views": 360000,
+      "text": "This Animation is insane, and they say AI has no soul",
+      "derived_timestamp": "2026-06-18T20:57:06.880Z",
+      "age_hours": 10
+    },
+    {
+      "q": "AI",
+      "author": "dubeyamitabh",
+      "id": "2067619253600321574",
+      "likes": 11000,
+      "replies": 407,
+      "retweets": 3200,
+      "views": 938000,
+      "text": "Anthropic CEO Dario Amodei stated in a Bloomberg interview that the India AI Summit was extremely disorganised...",
+      "derived_timestamp": "2026-06-18T14:43:39.223Z",
+      "age_hours": 16.3
+    },
+    {
+      "q": "AI",
+      "author": "cursor_ai",
+      "id": "2067683814516858962",
+      "likes": 2400,
+      "replies": 85,
+      "retweets": 247,
+      "views": 131000,
+      "text": "Introducing /automate, a skill for agents to set up automations for you.",
+      "derived_timestamp": "2026-06-18T19:00:11.745Z",
+      "age_hours": 12
+    },
+    {
+      "q": "AI",
+      "author": "OpenAI",
+      "id": "2067672740539306261",
+      "likes": 3100,
+      "replies": 174,
+      "retweets": 271,
+      "views": 354000,
+      "text": "GPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions.",
+      "derived_timestamp": "2026-06-18T18:16:11.503Z",
+      "age_hours": 12.7
+    },
+    {
+      "q": "AI",
+      "author": "CoinDesk",
+      "id": "2067670392911667278",
+      "likes": 500,
+      "replies": 131,
+      "retweets": 215,
+      "views": 436000,
+      "text": "Michael Saylor reveals he used AI to design $STRC...",
+      "derived_timestamp": "2026-06-18T18:06:51.785Z",
+      "age_hours": 12.9
+    },
+    {
+      "q": "AI",
+      "author": "AlexFinn",
+      "id": "2067751557379297762",
+      "likes": 2500,
+      "replies": 262,
+      "retweets": 244,
+      "views": 207000,
+      "text": "I have GLM 5.2 running 100% locally on my Mac Studio. 2 bit quant. Better than Opus 4.8.",
+      "derived_timestamp": "2026-06-18T23:29:22.902Z",
+      "age_hours": 7.5
+    },
+    {
+      "q": "AI",
+      "author": "pmarca",
+      "id": "2067640859957539104",
+      "likes": 4400,
+      "replies": 168,
+      "retweets": 293,
+      "views": 404000,
+      "text": "Interesting. (Founder of Z.ai, creator of GLM AI models.)",
+      "derived_timestamp": "2026-06-18T16:09:30.580Z",
+      "age_hours": 14.8
+    },
+    {
+      "q": "LLM",
+      "author": "tmiyatake1",
+      "id": "2067397882559254630",
+      "likes": 16,
+      "replies": 0,
+      "retweets": 2,
+      "views": 2700,
+      "text": "Pramaana, AI verification tools, announced a $27M funding raise.",
+      "derived_timestamp": "2026-06-18T00:04:00.254Z",
+      "age_hours": 30.9
+    },
+    {
+      "q": "LLM",
+      "author": "0xMortyx",
+      "id": "2067658312057819644",
+      "likes": 210,
+      "replies": 10,
+      "retweets": 20,
+      "views": 17000,
+      "text": "Andrej Karpathy in 70 min reveal how LLM Quants actually uses AI",
+      "derived_timestamp": "2026-06-18T17:18:51.485Z",
+      "age_hours": 13.7
+    },
+    {
+      "q": "LLM",
+      "author": "Moleh1ll",
+      "id": "2067542395747484154",
+      "likes": 215,
+      "replies": 39,
+      "retweets": 18,
+      "views": 15000,
+      "text": "The gap isnt so much that Trump doesnt understand what an LLM is...",
+      "derived_timestamp": "2026-06-18T09:38:14.883Z",
+      "age_hours": 21.4
+    },
+    {
+      "q": "LLM",
+      "author": "svpino",
+      "id": "2067651554774298760",
+      "likes": 61,
+      "replies": 11,
+      "retweets": 10,
+      "views": 16000,
+      "text": "This is one of the reasons I dont want to use OpenClaw or Hermes...",
+      "derived_timestamp": "2026-06-18T16:52:00.423Z",
+      "age_hours": 14.1
+    },
+    {
+      "q": "LLM",
+      "author": "HarryTandy",
+      "id": "2067661787680444834",
+      "likes": 26,
+      "replies": 3,
+      "retweets": 14,
+      "views": 4400,
+      "text": "Demis Hassabis: Step one, solve intelligence. Step two, use it to solve everything else.",
+      "derived_timestamp": "2026-06-18T17:32:40.138Z",
+      "age_hours": 13.5
+    },
+    {
+      "q": "LLM",
+      "author": "xdadevelopers",
+      "id": "2067563087335395674",
+      "likes": 44,
+      "replies": 0,
+      "retweets": 1,
+      "views": 4200,
+      "text": "I replaced my entire browser extension stack with one local LLM",
+      "derived_timestamp": "2026-06-18T11:00:28.142Z",
+      "age_hours": 20
+    },
+    {
+      "q": "LLM",
+      "author": "dschwarz26",
+      "id": "2067408655956541947",
+      "likes": 158,
+      "replies": 11,
+      "retweets": 4,
+      "views": 21000,
+      "text": "Noams departure... when will Google release a frontier LLM? Gemini-3.1-Pro ~6 months behind.",
+      "derived_timestamp": "2026-06-18T00:46:48.832Z",
+      "age_hours": 30.2
+    },
+    {
+      "q": "machine learning",
+      "author": "alanchanguk",
+      "id": "2067583795126051172",
+      "likes": 411,
+      "replies": 42,
+      "retweets": 33,
+      "views": 52000,
+      "text": "Today were starting something new at Fuse. Were building robots.",
+      "derived_timestamp": "2026-06-18T12:22:45.264Z",
+      "age_hours": 18.6
+    },
+    {
+      "q": "machine learning",
+      "author": "frydwia",
+      "id": "2067601589011914989",
+      "likes": 264,
+      "replies": 73,
+      "retweets": 75,
+      "views": 450000,
+      "text": "Excited to announce Viktor in Microsoft Teams. $20M ARR.",
+      "derived_timestamp": "2026-06-18T13:33:27.657Z",
+      "age_hours": 17.4
+    },
+    {
+      "q": "machine learning",
+      "author": "CharlesMullins2",
+      "id": "2067585889874895299",
+      "likes": 162,
+      "replies": 7,
+      "retweets": 44,
+      "views": 6700,
+      "text": "Scientists built an AI that knows the laws of physics, 10x faster (Chalmers University).",
+      "derived_timestamp": "2026-06-18T12:31:04.691Z",
+      "age_hours": 18.5
+    },
+    {
+      "q": "machine learning",
+      "author": "DanKornas",
+      "id": "2067865216377921606",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 0,
+      "text": "Kaggle Competitions course content.",
+      "derived_timestamp": "2026-06-19T07:01:01.319Z",
+      "age_hours": 0
+    },
+    {
+      "q": "machine learning",
+      "author": "OpenAI",
+      "id": "2067722689515856262",
+      "likes": 400,
+      "replies": 8,
+      "retweets": 21,
+      "views": 31000,
+      "text": "We trained models with reinforcement learning on realistic conversations to reinforce beneficial traits.",
+      "derived_timestamp": "2026-06-18T21:34:40.267Z",
+      "age_hours": 9.4
+    },
+    {
+      "q": "GPT/Claude/Gemini",
+      "author": "AlfieJCarter",
+      "id": "2065482113768407079",
+      "likes": 613,
+      "replies": 632,
+      "retweets": 61,
+      "views": 72000,
+      "text": "Fable 5 just changed outbound. (older tweet, >24h)",
+      "derived_timestamp": "2026-06-12T17:11:25.381Z",
+      "age_hours": 157.8
+    },
+    {
+      "q": "GPT/Claude/Gemini",
+      "author": "HighSignal_AI",
+      "id": "2066860913576251706",
+      "likes": 12,
+      "replies": 1,
+      "retweets": 10,
+      "views": 2100,
+      "text": "What do AI agents do when humans arent watching? Emergence AI experiment. (>24h)",
+      "derived_timestamp": "2026-06-16T12:30:16.872Z",
+      "age_hours": 66.5
+    },
+    {
+      "q": "GPT/Claude/Gemini",
+      "author": "shedntcare_",
+      "id": "2067633310579433909",
+      "likes": 364,
+      "replies": 12,
+      "retweets": 59,
+      "views": 36000,
+      "text": "Anthropic launched its first official technical certification. Accenture training 30k, Deloitte 470k, Cognizant 350k.",
+      "derived_timestamp": "2026-06-18T15:39:30.668Z",
+      "age_hours": 15.3
+    },
+    {
+      "q": "GPT/Claude/Gemini",
+      "author": "TYehoshua",
+      "id": "2067715685871214817",
+      "likes": 142,
+      "replies": 12,
+      "retweets": 20,
+      "views": 39000,
+      "text": "Just shipped: Claude Agent for Jira.",
+      "derived_timestamp": "2026-06-18T21:06:50.468Z",
+      "age_hours": 9.9
+    },
+    {
+      "q": "GPT/Claude/Gemini",
+      "author": "Jaytel",
+      "id": "2067633379667849426",
+      "likes": 789,
+      "replies": 46,
+      "retweets": 43,
+      "views": 66000,
+      "text": "been messing with vibe coding on ipad with gpt realtime",
+      "derived_timestamp": "2026-06-18T15:39:47.140Z",
+      "age_hours": 15.3
+    },
+    {
+      "q": "GPT/Claude/Gemini",
+      "author": "ZixuanLi_",
+      "id": "2067803136283005393",
+      "likes": 384,
+      "replies": 33,
+      "retweets": 42,
+      "views": 54000,
+      "text": "GLM-5.2 app dev benchmark: GLM-5.1 21/70, GLM-5.2 48/70, Claude Fable 5 56/70.",
+      "derived_timestamp": "2026-06-19T02:54:20.271Z",
+      "age_hours": 4.1
+    },
+    {
+      "q": "open source AI",
+      "author": "cryptopunk7213",
+      "id": "2067456829035049204",
+      "likes": 149,
+      "replies": 12,
+      "retweets": 9,
+      "views": 23000,
+      "text": "imagine connecting your $20 claude subscription and playing AAA game in 10 mins",
+      "derived_timestamp": "2026-06-18T03:58:14.189Z",
+      "age_hours": 27
+    },
+    {
+      "q": "open source AI",
+      "author": "shedntcare_",
+      "id": "2067503560716337230",
+      "likes": 1400,
+      "replies": 55,
+      "retweets": 298,
+      "views": 123000,
+      "text": "China dropped DeerFlow, open source AI employee.",
+      "derived_timestamp": "2026-06-18T07:03:55.890Z",
+      "age_hours": 23.9
+    },
+    {
+      "q": "open source AI",
+      "author": "altryne",
+      "id": "2067750328993566954",
+      "likes": 11,
+      "replies": 4,
+      "retweets": 3,
+      "views": 3000,
+      "text": "ThursdAI Jun 18: Fable 5 yanked, GLM-5.2 tops open source, Kimi K2.7 Code, SpaceX buys Cursor, Noam to OpenAI.",
+      "derived_timestamp": "2026-06-18T23:24:30.032Z",
+      "age_hours": 7.6
+    },
+    {
+      "q": "open source AI",
+      "author": "JulianGoldieSEO",
+      "id": "2067555420923740363",
+      "likes": 11,
+      "replies": 5,
+      "retweets": 0,
+      "views": 1000,
+      "text": "GLM 5.2 open-source AI model you can run locally.",
+      "derived_timestamp": "2026-06-18T10:30:00.327Z",
+      "age_hours": 20.5
+    },
+    {
+      "q": "AI agent",
+      "author": "OpenAI",
+      "id": "2067722688165232654",
+      "likes": 1800,
+      "replies": 125,
+      "retweets": 201,
+      "views": 178000,
+      "text": "new research on training models to be broadly and persistently beneficial.",
+      "derived_timestamp": "2026-06-18T21:34:39.945Z",
+      "age_hours": 9.4
+    },
+    {
+      "q": "AI agent",
+      "author": "neil_xbt",
+      "id": "2067822430014632239",
+      "likes": 52,
+      "replies": 18,
+      "retweets": 10,
+      "views": 5200,
+      "text": "Uber burned its entire annual AI coding budget in four months running agent loops. Capped at $1,500/person.",
+      "derived_timestamp": "2026-06-19T04:11:00.255Z",
+      "age_hours": 2.8
+    },
+    {
+      "q": "Sam Altman",
+      "author": "signulll",
+      "id": "2067446889956430273",
+      "likes": 3100,
+      "replies": 115,
+      "retweets": 230,
+      "views": 270000,
+      "text": "cold open: google campus... pre-sync for sync alignment on ai velocity. (satire)",
+      "derived_timestamp": "2026-06-18T03:18:44.528Z",
+      "age_hours": 27.7
+    },
+    {
+      "q": "Sam Altman",
+      "author": "sama",
+      "id": "2067427421083652131",
+      "likes": 8900,
+      "replies": 354,
+      "retweets": 328,
+      "views": 826000,
+      "text": "noam is one of the people I have most wanted to work with since the very beginning of openai. (covered 06-18)",
+      "derived_timestamp": "2026-06-18T02:01:22.787Z",
+      "age_hours": 29
+    },
+    {
+      "q": "Sam Altman",
+      "author": "Kantrowitz",
+      "id": "2067735495946190899",
+      "likes": 29,
+      "replies": 2,
+      "retweets": 4,
+      "views": 15000,
+      "text": "OpenAI exploring alternatives to its current AI hardware stack. Sam Altman wants to diversify from Nvidia.",
+      "derived_timestamp": "2026-06-18T22:25:33.558Z",
+      "age_hours": 8.6
+    },
+    {
+      "q": "Sam Altman",
+      "author": "LLMJunky",
+      "id": "2067617580576092562",
+      "likes": 1700,
+      "replies": 222,
+      "retweets": 264,
+      "views": 312000,
+      "text": "White House signed MOU, lift blockade of Fable 5... (satire/parody)",
+      "derived_timestamp": "2026-06-18T14:37:00.343Z",
+      "age_hours": 16.4
+    },
+    {
+      "q": "Sam Altman",
+      "author": "cyrilXBT",
+      "id": "2067463366055244183",
+      "likes": 303,
+      "replies": 36,
+      "retweets": 40,
+      "views": 65000,
+      "text": "Sam Altman: Were going to see 10-person billion-dollar companies pretty soon. (>24h)",
+      "derived_timestamp": "2026-06-18T04:24:12.736Z",
+      "age_hours": 26.6
+    },
+    {
+      "q": "Sam Altman",
+      "author": "ihtesham2005",
+      "id": "2067668854684426593",
+      "likes": 752,
+      "replies": 89,
+      "retweets": 115,
+      "views": 202000,
+      "text": "Sam Altman said the smartest scientists in AI are the ones who held the entire field back.",
+      "derived_timestamp": "2026-06-18T18:00:45.043Z",
+      "age_hours": 13
+    },
+    {
+      "q": "Dario Amodei",
+      "author": "Overlap_Tech",
+      "id": "2067633712569745871",
+      "likes": 6,
+      "replies": 2,
+      "retweets": 1,
+      "views": 211,
+      "text": "Dario Amodei on AI & Warfare: A Human Must Always Make the Final Call.",
+      "derived_timestamp": "2026-06-18T15:41:06.510Z",
+      "age_hours": 15.3
+    },
+    {
+      "q": "Dario Amodei",
+      "author": "business",
+      "id": "2067836049657561564",
+      "likes": 21,
+      "replies": 2,
+      "retweets": 10,
+      "views": 10000,
+      "text": "Dario Amodeis doom-and-gloom messaging isnt working any more. (Bloomberg Opinion, Parmy Olson)",
+      "derived_timestamp": "2026-06-19T05:05:07.431Z",
+      "age_hours": 1.9
+    },
+    {
+      "q": "Dario Amodei",
+      "author": "amitmalviya",
+      "id": "2067666275715993837",
+      "likes": 716,
+      "replies": 53,
+      "retweets": 196,
+      "views": 56000,
+      "text": "Congress ecosystem circulating edited clip... Amodei clarified not singling out India.",
+      "derived_timestamp": "2026-06-18T17:50:30.169Z",
+      "age_hours": 13.2
+    },
+    {
+      "q": "Dario Amodei",
+      "author": "YahooFinance",
+      "id": "2067767340817600852",
+      "likes": 52,
+      "replies": 4,
+      "retweets": 14,
+      "views": 9300,
+      "text": "Dario Amodei says AI will make the software industry even larger than it is.",
+      "derived_timestamp": "2026-06-19T00:32:05.967Z",
+      "age_hours": 6.5
+    },
+    {
+      "q": "Dario Amodei",
+      "author": "Incognito_qfs",
+      "id": "2067696702061162526",
+      "likes": 1800,
+      "replies": 14,
+      "retweets": 241,
+      "views": 111000,
+      "text": "Dario Amodei remarks being taken out of context re: summit disorganisation.",
+      "derived_timestamp": "2026-06-18T19:51:24.375Z",
+      "age_hours": 11.1
+    },
+    {
+      "q": "Demis Hassabis",
+      "author": "ai_rohitt",
+      "id": "2067495847491981737",
+      "likes": 139,
+      "replies": 12,
+      "retweets": 32,
+      "views": 14000,
+      "text": "60-minute Cambridge lecture by Demis Hassabis. (lecture recirculated)",
+      "derived_timestamp": "2026-06-18T06:33:16.914Z",
+      "age_hours": 24.4
+    },
+    {
+      "q": "Demis Hassabis",
+      "author": "rowlsmanthorpe",
+      "id": "2067530823390085313",
+      "likes": 62,
+      "replies": 7,
+      "retweets": 16,
+      "views": 9100,
+      "text": "Exclusive: in the room with the AI bosses at the G7. Demis, Sam, Dario all said: we need international governance fast, disagreed on how.",
+      "derived_timestamp": "2026-06-18T08:52:15.818Z",
+      "age_hours": 22.1
+    },
+    {
+      "q": "Demis Hassabis",
+      "author": "tferriss",
+      "id": "2067684407066902705",
+      "likes": 102,
+      "replies": 14,
+      "retweets": 6,
+      "views": 25000,
+      "text": "The science fiction book that changed Demis Hassabiss life.",
+      "derived_timestamp": "2026-06-18T19:02:33.020Z",
+      "age_hours": 12
+    },
+    {
+      "q": "from:sama",
+      "author": "sama",
+      "id": "2067427678529974740",
+      "likes": 7900,
+      "replies": 431,
+      "retweets": 389,
+      "views": 885000,
+      "text": "We offer no explanation as to why Noams are so good at AI... (covered 06-18)",
+      "derived_timestamp": "2026-06-18T02:02:24.167Z",
+      "age_hours": 29
+    },
+    {
+      "q": "from:OpenAI",
+      "author": "OpenAI",
+      "id": "2067625110199247353",
+      "likes": 2200,
+      "replies": 143,
+      "retweets": 336,
+      "views": 1500000,
+      "text": "NEJM AI study: o3 Deep Research helped clinicians revisit unsolved rare pediatric disease cases.",
+      "derived_timestamp": "2026-06-18T15:06:55.545Z",
+      "age_hours": 15.9
+    },
+    {
+      "q": "from:OpenAI",
+      "author": "OpenAI",
+      "id": "2067625111717609504",
+      "likes": 235,
+      "replies": 4,
+      "retweets": 8,
+      "views": 16000,
+      "text": "reanalyzed 376 de-identified cases, 18 diagnoses identified.",
+      "derived_timestamp": "2026-06-18T15:06:55.907Z",
+      "age_hours": 15.9
+    },
+    {
+      "q": "from:AnthropicAI",
+      "author": "AnthropicAI",
+      "id": "2067651699486200091",
+      "likes": 1600,
+      "replies": 233,
+      "retweets": 177,
+      "views": 206000,
+      "text": "Phase 2 of Project Fetch: Claude programs a robodog. Opus 4.7 ~20x faster than last years best human team.",
+      "derived_timestamp": "2026-06-18T16:52:34.925Z",
+      "age_hours": 14.1
+    },
+    {
+      "q": "from:AnthropicAI",
+      "author": "AnthropicAI",
+      "id": "2067651700757086553",
+      "likes": 176,
+      "replies": 15,
+      "retweets": 19,
+      "views": 69000,
+      "text": "Watch the robodogs in action in our first Project Fetch experiment.",
+      "derived_timestamp": "2026-06-18T16:52:35.228Z",
+      "age_hours": 14.1
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2067672740539306261",
+      "category": "news",
+      "reason": "OpenAI GPT-5.5 Instant matches frontier Thinking models on health questions; available to all free ChatGPT users."
+    },
+    {
+      "id": "2067625110199247353",
+      "category": "news",
+      "reason": "Peer-reviewed NEJM AI study (o3 Deep Research) on rare pediatric disease cases; 376 cases, 18 diagnoses; 1.5M views."
+    },
+    {
+      "id": "2067722688165232654",
+      "category": "analysis",
+      "reason": "OpenAI alignment research on RL for persistent beneficial traits and cross-domain transfer."
+    },
+    {
+      "id": "2067651699486200091",
+      "category": "analysis",
+      "reason": "Anthropic Project Fetch Phase 2: Opus 4.7 ~20x faster than best human team at programming a robodog."
+    },
+    {
+      "id": "2067803136283005393",
+      "category": "news",
+      "reason": "GLM-5.2 app-dev benchmark with specific scores vs Claude Fable 5; key open-weight story."
+    },
+    {
+      "id": "2067619253600321574",
+      "category": "news",
+      "reason": "Highest-engagement item: Amodei India AI Summit disorganised remarks; 938K views."
+    },
+    {
+      "id": "2067683814516858962",
+      "category": "news",
+      "reason": "Cursor /automate skill release for natural-language automation setup."
+    },
+    {
+      "id": "2067735495946190899",
+      "category": "news",
+      "reason": "OpenAI exploring hardware alternatives to diversify from Nvidia; reported live from summit."
+    },
+    {
+      "id": "2067668854684426593",
+      "category": "analysis",
+      "reason": "Altman commentary on overconfident experts and scaling; 202K views."
+    },
+    {
+      "id": "2067715685871214817",
+      "category": "news",
+      "reason": "Claude Agent for Jira release on Anthropic Managed Agents infrastructure."
+    },
+    {
+      "id": "2067601589011914989",
+      "category": "news",
+      "reason": "Viktor expands to Microsoft Teams; $20M ARR; 450K views."
+    },
+    {
+      "id": "2067822430014632239",
+      "category": "analysis",
+      "reason": "Practitioner analysis of agent-loop economics; Uber budget cap detail."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2067419366241575361",
+      "reason": "signulll Shazeer reaction; 29.5h old, topic covered in 2026-06-18 digest."
+    },
+    {
+      "id": "2067446452322967811",
+      "reason": "verge Midjourney ultrasound; 27.7h old, covered in 2026-06-18 digest."
+    },
+    {
+      "id": "2067751557379297762",
+      "reason": "AlexFinn GLM-5.2 local; held as reserve, ZixuanLi benchmark covers the GLM angle more concretely."
+    },
+    {
+      "id": "2067670392911667278",
+      "reason": "Saylor AI-designed stock; reserve, not strong enough vs selected news."
+    },
+    {
+      "id": "2067836049657561564",
+      "reason": "Bloomberg Opinion on Amodei messaging; reserve, dubeyamitabh Amodei item already covers Amodei."
+    },
+    {
+      "id": "2067530823390085313",
+      "reason": "G7 governance reporting; reserve, G7 heavily covered 2026-06-18, redundancy risk."
+    },
+    {
+      "id": "2067713238125474273",
+      "reason": "lexx_aura AI animation; non-news engagement bait, no concrete development."
+    },
+    {
+      "id": "2067640859957539104",
+      "reason": "pmarca one-line GLM founder comment; too thin to stand alone."
+    },
+    {
+      "id": "2067633310579433909",
+      "reason": "shedntcare Anthropic certification thread; promo-style, overlaps prior enterprise-adoption coverage."
+    },
+    {
+      "id": "2067617580576092562",
+      "reason": "LLMJunky Fable 5 MOU; parody/satire, not a real event."
+    },
+    {
+      "id": "2067446889956430273",
+      "reason": "signulll Google satire; humour piece, not news."
+    },
+    {
+      "id": "2067696702061162526",
+      "reason": "Incognito_qfs Amodei out-of-context defence; same India-summit story, weaker angle than dubeyamitabh."
+    }
+  ],
+  "editor": {
+    "cycle": 1,
+    "overall_verdict": "pass",
+    "kept": 12,
+    "removed": 0,
+    "promoted_reserves": 0,
+    "additional_search": false,
+    "flags": [
+      "same_topic_distinct_angle (GLM-5.2 benchmark vs local anecdote, no in-set duplication)",
+      "source_traceability_failure (ihtesham/dubeyamitabh are second-hand paraphrases of Altman/Amodei remarks)"
+    ]
+  }
+}
