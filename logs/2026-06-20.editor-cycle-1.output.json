@@ -1,0 +1,163 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 11 selected items against the 2026-06-20 packet (target 10-16, so count is in range). No two selected items share a story_fingerprint, and all selected authors are distinct, so author-cap and redundancy constraints are satisfied. The Altman-biopic story is correctly capped to a single selected item (Variety) with carolecadwalla and DiscussingFish held in reserve. The DeepMind-discontent selection and the reserve Hassabis quote touch the same lab but are distinct angles and only one is selected, so no conflict. All selected items carry named authors and identifiable original sources (first-party posts or attributed relays of quotes/demos/releases), so source traceability is adequate for a Twitter digest; no item needs replacement. Verdict: pass.",
+  "decisions": [
+    {
+      "id": "item_2068051762708099449",
+      "decision": "keep",
+      "reason": "Highest-reach policy item (1.5M views): Trump's on-camera comments on Anthropic, Amodei, and the Defense Production Act. ns123abc is a known quote-relay account and the remarks are a verifiable public press exchange, so attribution is traceable. Unique fingerprint, no overlap with other selected items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other selected item covers Trump/Anthropic national-security remarks; distinct story."
+      }
+    },
+    {
+      "id": "item_2068000857757741251",
+      "decision": "keep",
+      "reason": "Sourced reporting on internal DeepMind discontent and Gemini 3.5 Pro positioning; distinct from prior Shazeer-departure history and from the reserve Hassabis quote. Concrete, dated claims (fifth on Artificial Analysis index, June 30 launch). Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the DeepMind subject with the reserve 0xwhrrari Hassabis quote but is a different event (internal-mood scoop vs a public optimism quote); the Hassabis item is not selected, so no in-set duplication."
+      }
+    },
+    {
+      "id": "item_2068039709126017356",
+      "decision": "keep",
+      "reason": "Substantive first-party essay from Andrew Ng (named, high-credibility author) tying together the week's export-control and access-restriction story with an AI-sovereignty/open-source thesis. Traceable to the author. Distinct analysis angle from the Trump news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Thematically adjacent to the Trump/Anthropic item (export controls) but a separate practitioner-analysis angle, not the same event."
+      }
+    },
+    {
+      "id": "item_2068122937308426676",
+      "decision": "keep",
+      "reason": "Concrete first-party product action from the official ClaudeDevs account: reset of 5-hour and weekly usage limits across all plans. Very high engagement (894K views), fully traceable to the vendor. Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items; standalone product-operations update."
+      }
+    },
+    {
+      "id": "item_2067918817171304889",
+      "decision": "keep",
+      "reason": "Primary item for the Altman-biopic story from Variety (1.1M views), a named industry outlet. Concrete business-angle news (Amazon MGM drops the film after its OpenAI deal). Correctly chosen as the single selected item for this fingerprint, with carolecadwalla and DiscussingFish held in reserve.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the 'amazon-drops-altman-biopic' event with reserve items item_2067979369339875619 and item_2068062908018253936, but those are unselected reserves; this is the only selected item for the story, so the set contains no duplicate."
+      }
+    },
+    {
+      "id": "item_2068043478479798495",
+      "decision": "keep",
+      "reason": "Independent benchmark result from Vals AI (the benchmark author themselves) on GLM 5.2 hitting 64% on Vibe Code Bench v1.1, leading open-weight models. First-party and traceable; corroborates the open-weight-momentum thread. Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Open-weight benchmark distinct from other selected items; no overlap."
+      }
+    },
+    {
+      "id": "item_2068031973667508531",
+      "decision": "keep",
+      "reason": "Reported talent-roster item naming John Jumper (Nobel laureate) among recent Anthropic hires. The roster names are publicly checkable and the company-moves angle is concrete. Author is a named tech reporter, so reasonably traceable. Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Anthropic-hiring angle is distinct from the Anthropic policy/product items in the set."
+      }
+    },
+    {
+      "id": "item_2067946538605642192",
+      "decision": "keep",
+      "reason": "Widely shared (3.3M views) practitioner demo of a verifier-gated multi-agent swarm (Kimi K2.6 + Opus 4.8) with concrete pass/fail numbers. Relay account, but the live demo and figures are specific; strong practitioner-interest angle. Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Multi-agent verification demo; no overlap with the local-inference (Mac Studio) item or other selections."
+      }
+    },
+    {
+      "id": "item_2067996575817945197",
+      "decision": "keep",
+      "reason": "Concrete open-source release (Headroom local proxy, ~35K stars) with a specific token-reduction claim. Practical tooling news; the project is publicly verifiable. Distinct from the Mac Studio inference item. Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Token-compression tooling release; separate from other cost/efficiency items in the set."
+      }
+    },
+    {
+      "id": "item_2068027712841842940",
+      "decision": "keep",
+      "reason": "Critical first-party observation from Gary Marcus on LLM-company profitability and falling prices; useful contrarian economic angle that balances the set. Named author, traceable. Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Economic-analysis angle distinct from all other selected items."
+      }
+    },
+    {
+      "id": "item_2067950377190719533",
+      "decision": "keep",
+      "reason": "Concrete local-inference demonstration: a trillion-parameter model on a 4-node Mac Studio cluster with specific throughput, power, and cost figures. Relay account, but the technical claims are specific and checkable. Distinct from the Headroom and swarm items. Unique fingerprint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Local-hardware inference angle; does not overlap with the agent-swarm or token-compression selections."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2068000857757741251",
+        "item_2068039709126017356",
+        "item_2068051762708099449"
+      ],
+      "reason": "Three selected items orbit the Anthropic/export-control/AI-governance theme from distinct angles (Trump national-security remarks, Andrew Ng's access-control essay, and DeepMind's competitive standing). They are not redundant, but they concentrate the set around frontier-lab politics; acceptable diversity is preserved by the open-weight, tooling, agent, and economics items."
+    }
+  ],
+  "additional_search_requests": []
+}
