@@ -1,0 +1,606 @@
+{
+  "schema_version": "twitter_ai_digest_editor_input.v1",
+  "date": "2026-06-21",
+  "since_date": "2026-06-20",
+  "editor_cycle": 1,
+  "selection_target": {
+    "normal_min": 10,
+    "normal_max": 16
+  },
+  "searches": [
+    {
+      "query": "AI since:2026-06-20",
+      "returned": 7
+    },
+    {
+      "query": "LLM since:2026-06-20",
+      "returned": 6
+    },
+    {
+      "query": "machine learning since:2026-06-20",
+      "returned": 8
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-06-20",
+      "returned": 7
+    },
+    {
+      "query": "open source AI model since:2026-06-20",
+      "returned": 9
+    },
+    {
+      "query": "AI agent since:2026-06-20",
+      "returned": 12
+    },
+    {
+      "query": "Sam Altman since:2026-06-20",
+      "returned": 7
+    },
+    {
+      "query": "Dario Amodei since:2026-06-20",
+      "returned": 6
+    },
+    {
+      "query": "Demis Hassabis since:2026-06-20",
+      "returned": 8
+    },
+    {
+      "query": "from:karpathy since:2026-06-20",
+      "returned": 0,
+      "status": "no_tweets_found"
+    },
+    {
+      "query": "from:sama since:2026-06-20",
+      "returned": 0,
+      "status": "no_tweets_found"
+    },
+    {
+      "query": "from:OpenAI since:2026-06-20",
+      "returned": 0,
+      "status": "no_tweets_found"
+    },
+    {
+      "query": "from:AnthropicAI since:2026-06-20",
+      "returned": 0,
+      "status": "no_tweets_found"
+    }
+  ],
+  "recent_history": [
+    {
+      "date": "2026-06-20",
+      "headlines": [
+        "Trump weighs in on Anthropic and the Defense Production Act",
+        "Anthropic resets Claude usage limits",
+        "Amazon MGM drops Sam Altman biopic",
+        "Internal discontent at Google DeepMind",
+        "Anthropic adds John Jumper",
+        "GLM 5.2 leads Vibe Code Bench",
+        "Netflix engineer open-sources Headroom"
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "headlines": [
+        "GPT-5.5 Instant matches Thinking on health",
+        "OpenAI-Boston Children's NEJM AI study",
+        "Claude programs a robodog 20x faster",
+        "Amodei calls India AI Summit disorganised",
+        "Cursor /automate skill"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "headlines": [
+        "Noam Shazeer leaves Google for OpenAI",
+        "Amodei says Mythos called a super weapon",
+        "Amodei and Hassabis call for US-led AI coalition",
+        "JPMorgan cuts Hong Kong off from Claude",
+        "OpenAI releases LifeSciBench"
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "headlines": [
+        "SpaceX exercises option to acquire Cursor",
+        "DeepSeek raises 7.4B",
+        "Commerce export-license letter to Anthropic",
+        "Anthropic Claude Code economic index",
+        "Alibaba Qwen-Robot Suite"
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "headlines": [
+        "Trump leaves Claude Fable 5 export controls in place",
+        "Mistral le gros chaton paper",
+        "OpenAI Partner Network",
+        "Artificial Analysis Intelligence Index v4.1"
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "headlines": [
+        "US export control directive vs Claude Fable 5 and Mythos 5",
+        "Moonshot open-sources Kimi-K2.7-Code",
+        "Meta caps employee AI token usage",
+        "Zyphra Zonos2 TTS"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "headlines": [
+        "Bezos Prometheus raises 12B",
+        "Anthropic Claude Corps fellowship",
+        "DiffusionGemma benchmarks",
+        "Codex bankable rate limit resets"
+      ]
+    }
+  ],
+  "tweet_pool": [
+    {
+      "id": "item_2068408711836745818",
+      "tweet_id": "2068408711836745818",
+      "author": "ihtesham2005",
+      "text": "Chamath fed Dario Amodei's own essays into Claude and asked for a psychological profile. What came back should be required reading for every investor in frontier AI. The model identified a pattern. Dario distrusts other labs. He distrusts authoritarian states.",
+      "url": "https://xcancel.com/ihtesham2005/status/2068408711836745818",
+      "derived_timestamp": "2026-06-20T19:00:40Z",
+      "age_hours": 12.0,
+      "replies": 53,
+      "retweets": 66,
+      "likes": 957,
+      "views": 168000,
+      "category": "analysis",
+      "selection_reason": "Chamath's All-In stunt feeding Dario's essays to Claude for a psychological profile; high engagement and a distinct story not in prior digests.",
+      "story_fingerprint": "chamath-claude-dario-psych-profile",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068348900126106085",
+      "tweet_id": "2068348900126106085",
+      "author": "rileywestreel",
+      "text": "Monica Lam (Stanford Professor): AI writes shallow reports for one reason, you ask it ONE question. Our method asks dozens, like a journalist, and the same chatbot starts writing articles 25% better organized than top AI.",
+      "url": "https://xcancel.com/rileywestreel/status/2068348900126106085",
+      "derived_timestamp": "2026-06-20T15:03:00Z",
+      "age_hours": 15.9,
+      "replies": 21,
+      "retweets": 224,
+      "likes": 1600,
+      "views": 347000,
+      "category": "analysis",
+      "selection_reason": "Stanford research method asking many sub-questions improves AI report organization by 25%; concrete research result with strong reach.",
+      "story_fingerprint": "monica-lam-storm-multiquestion-research",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068379007075102808",
+      "tweet_id": "2068379007075102808",
+      "author": "VadimStrizheus",
+      "text": "Perplexity CEO on China catching up in AI: Whatever you did to not let them catch up didn't even matter. They ended up catching up anyway. What's more dangerous is they have the best open-source model. That was DeepSeek.",
+      "url": "https://xcancel.com/VadimStrizheus/status/2068379007075102808",
+      "derived_timestamp": "2026-06-20T17:02:38Z",
+      "age_hours": 14.0,
+      "replies": 84,
+      "retweets": 191,
+      "likes": 1500,
+      "views": 427000,
+      "category": "analysis",
+      "selection_reason": "Perplexity CEO argues China caught up via DeepSeek open source; highest-reach exec view of the day at 427K views.",
+      "story_fingerprint": "perplexity-ceo-china-deepseek-catchup",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068444608435220873",
+      "tweet_id": "2068444608435220873",
+      "author": "LuizaJarovsky",
+      "text": "42 state attorneys general are investigating OpenAI over alleged harmful practices. The tide has totally changed. Even the authorities have had enough.",
+      "url": "https://xcancel.com/LuizaJarovsky/status/2068444608435220873",
+      "derived_timestamp": "2026-06-20T21:23:19Z",
+      "age_hours": 9.6,
+      "replies": 36,
+      "retweets": 241,
+      "likes": 388,
+      "views": 16000,
+      "category": "news",
+      "selection_reason": "42 state attorneys general investigating OpenAI; concrete policy and legal news not previously covered in the digest.",
+      "story_fingerprint": "42-state-ags-openai-investigation",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068372696690315650",
+      "tweet_id": "2068372696690315650",
+      "author": "gregisenberg",
+      "text": "GLM 5.2 might be the ChatGPT moment for local AI. 1M token context window so it holds an entire codebase at once. Top open model on coding right now. MIT licensed.",
+      "url": "https://xcancel.com/gregisenberg/status/2068372696690315650",
+      "derived_timestamp": "2026-06-20T16:37:34Z",
+      "age_hours": 14.4,
+      "replies": 158,
+      "retweets": 105,
+      "likes": 1500,
+      "views": 122000,
+      "category": "analysis",
+      "selection_reason": "Practitioner framing GLM 5.2 as a local-AI inflection with 1M context and MIT license; distinct angle on the open-weight shift.",
+      "story_fingerprint": "glm-52-local-ai-inflection",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068335340272934916",
+      "tweet_id": "2068335340272934916",
+      "author": "JafarNajafov",
+      "text": "Adobe Acrobat is cooked. Someone built a free, open-source PDF editor that runs entirely on your own machine and never uploads a single file. It's called Stirling-PDF.",
+      "url": "https://xcancel.com/JafarNajafov/status/2068335340272934916",
+      "derived_timestamp": "2026-06-20T14:09:07Z",
+      "age_hours": 16.8,
+      "replies": 22,
+      "retweets": 218,
+      "likes": 979,
+      "views": 51000,
+      "category": "news",
+      "selection_reason": "Stirling-PDF local open-source PDF editor surfacing with strong engagement; concrete tool of practitioner interest.",
+      "story_fingerprint": "stirling-pdf-local-open-source-editor",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068265109336867206",
+      "tweet_id": "2068265109336867206",
+      "author": "VaibhavSisinty",
+      "text": "Google just mass-confirmed what the smartest Claude Code users figured out months ago. The best way to give AI a memory is a folder of markdown files. Google Cloud published it as an official open spec.",
+      "url": "https://xcancel.com/VaibhavSisinty/status/2068265109336867206",
+      "derived_timestamp": "2026-06-20T09:30:03Z",
+      "age_hours": 21.5,
+      "replies": 17,
+      "retweets": 28,
+      "likes": 180,
+      "views": 16000,
+      "category": "news",
+      "selection_reason": "Google Cloud publishing a markdown-memory open spec; concrete standardisation move relevant to agent practitioners.",
+      "story_fingerprint": "google-agents-md-markdown-memory-spec",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068305261228683694",
+      "tweet_id": "2068305261228683694",
+      "author": "kyronis_talks",
+      "text": "Anthropic CEO: If my revenue is not 1 trillion, even 800 billion, there's no force on earth that could stop me from going bankrupt. In a 3-hour podcast, Dario Amodei does the math on his own bankruptcy. Revenue 10x a year.",
+      "url": "https://xcancel.com/kyronis_talks/status/2068305261228683694",
+      "derived_timestamp": "2026-06-20T12:09:36Z",
+      "age_hours": 18.8,
+      "replies": 26,
+      "retweets": 45,
+      "likes": 77,
+      "views": 10000,
+      "category": "analysis",
+      "selection_reason": "Dario does the math on his own bankruptcy in a long podcast; candid exec admission distinct from prior coverage.",
+      "story_fingerprint": "dario-bankruptcy-math-podcast",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068367450085998998",
+      "tweet_id": "2068367450085998998",
+      "author": "samiramanabi",
+      "text": "The talent density at Google is extremely high. That leads to incredible internal competition for resources but also means there is inherent resiliency. That being said, there is just one Noam Shazeer.",
+      "url": "https://xcancel.com/samiramanabi/status/2068367450085998998",
+      "derived_timestamp": "2026-06-20T16:16:43Z",
+      "age_hours": 14.7,
+      "replies": 13,
+      "retweets": 17,
+      "likes": 733,
+      "views": 128000,
+      "category": "personal_story",
+      "selection_reason": "Google insider reflection on talent density and the singular loss of Noam Shazeer; first-person practitioner story.",
+      "story_fingerprint": "google-talent-density-shazeer-reflection",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068488678947918124",
+      "tweet_id": "2068488678947918124",
+      "author": "fchollet",
+      "text": "The more you embrace AI, the more you need SaaS. This is not obvious to armchair market analysts who love disruption narratives, but it is obvious to people actually running companies.",
+      "url": "https://xcancel.com/fchollet/status/2068488678947918124",
+      "derived_timestamp": "2026-06-21T00:18:26Z",
+      "age_hours": 6.7,
+      "replies": 24,
+      "retweets": 31,
+      "likes": 206,
+      "views": 35000,
+      "category": "analysis",
+      "selection_reason": "Keras creator's contrarian take that embracing AI increases SaaS need; high-signal practitioner observation.",
+      "story_fingerprint": "fchollet-ai-increases-saas-need",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068444118443843795",
+      "tweet_id": "2068444118443843795",
+      "author": "DavidSacks",
+      "text": "Claude psychoanalyzing Dario is the AI slop I didn't know I needed.",
+      "url": "https://xcancel.com/DavidSacks/status/2068444118443843795",
+      "derived_timestamp": "2026-06-20T21:21:22Z",
+      "age_hours": 9.6,
+      "replies": 78,
+      "retweets": 104,
+      "likes": 1400,
+      "views": 116000,
+      "category": "analysis",
+      "selection_reason": "All-In host reacting to the Chamath/Dario psychoanalysis; strong engagement but duplicate angle to the selected ihtesham2005 item.",
+      "story_fingerprint": "chamath-claude-dario-psych-profile",
+      "pool_role": "reserve"
+    },
+    {
+      "id": "item_2068548272474775852",
+      "tweet_id": "2068548272474775852",
+      "author": "cyrilXBT",
+      "text": "GLM 5.2 just landed within 1% of Opus 4.8 on the hardest agentic coding benchmarks. At roughly a sixth of the price. 1.40 per million input tokens, 4.40 per million output.",
+      "url": "https://xcancel.com/cyrilXBT/status/2068548272474775852",
+      "derived_timestamp": "2026-06-21T04:15:14Z",
+      "age_hours": 2.7,
+      "replies": 10,
+      "retweets": 11,
+      "likes": 76,
+      "views": 2000,
+      "category": "analysis",
+      "selection_reason": "GLM 5.2 within 1 percent of Opus with concrete pricing; reserve for the GLM angle but lower engagement and overlaps gregisenberg.",
+      "story_fingerprint": "glm-52-local-ai-inflection",
+      "pool_role": "reserve"
+    },
+    {
+      "id": "item_2068456157933658375",
+      "tweet_id": "2068456157933658375",
+      "author": "r0ck3t23",
+      "text": "Sundar Pichai deployed 180 billion into AI. We probably have scaled our CapEx from 30 billion to approximately 180 billion. You don't do it if you don't think about the curve a certain way.",
+      "url": "https://xcancel.com/r0ck3t23/status/2068456157933658375",
+      "derived_timestamp": "2026-06-20T22:09:12Z",
+      "age_hours": 8.8,
+      "replies": 6,
+      "retweets": 10,
+      "likes": 34,
+      "views": 3600,
+      "category": "news",
+      "selection_reason": "Pichai CapEx scaling to 180B; reserve only, weak engagement and quote unverified against a primary source.",
+      "story_fingerprint": "pichai-180b-capex-scaling",
+      "pool_role": "reserve"
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "item_2068408711836745818",
+      "tweet_id": "2068408711836745818",
+      "author": "ihtesham2005",
+      "text": "Chamath fed Dario Amodei's own essays into Claude and asked for a psychological profile. What came back should be required reading for every investor in frontier AI. The model identified a pattern. Dario distrusts other labs. He distrusts authoritarian states.",
+      "url": "https://xcancel.com/ihtesham2005/status/2068408711836745818",
+      "derived_timestamp": "2026-06-20T19:00:40Z",
+      "age_hours": 12.0,
+      "replies": 53,
+      "retweets": 66,
+      "likes": 957,
+      "views": 168000,
+      "category": "analysis",
+      "selection_reason": "Chamath's All-In stunt feeding Dario's essays to Claude for a psychological profile; high engagement and a distinct story not in prior digests.",
+      "story_fingerprint": "chamath-claude-dario-psych-profile",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068348900126106085",
+      "tweet_id": "2068348900126106085",
+      "author": "rileywestreel",
+      "text": "Monica Lam (Stanford Professor): AI writes shallow reports for one reason, you ask it ONE question. Our method asks dozens, like a journalist, and the same chatbot starts writing articles 25% better organized than top AI.",
+      "url": "https://xcancel.com/rileywestreel/status/2068348900126106085",
+      "derived_timestamp": "2026-06-20T15:03:00Z",
+      "age_hours": 15.9,
+      "replies": 21,
+      "retweets": 224,
+      "likes": 1600,
+      "views": 347000,
+      "category": "analysis",
+      "selection_reason": "Stanford research method asking many sub-questions improves AI report organization by 25%; concrete research result with strong reach.",
+      "story_fingerprint": "monica-lam-storm-multiquestion-research",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068379007075102808",
+      "tweet_id": "2068379007075102808",
+      "author": "VadimStrizheus",
+      "text": "Perplexity CEO on China catching up in AI: Whatever you did to not let them catch up didn't even matter. They ended up catching up anyway. What's more dangerous is they have the best open-source model. That was DeepSeek.",
+      "url": "https://xcancel.com/VadimStrizheus/status/2068379007075102808",
+      "derived_timestamp": "2026-06-20T17:02:38Z",
+      "age_hours": 14.0,
+      "replies": 84,
+      "retweets": 191,
+      "likes": 1500,
+      "views": 427000,
+      "category": "analysis",
+      "selection_reason": "Perplexity CEO argues China caught up via DeepSeek open source; highest-reach exec view of the day at 427K views.",
+      "story_fingerprint": "perplexity-ceo-china-deepseek-catchup",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068444608435220873",
+      "tweet_id": "2068444608435220873",
+      "author": "LuizaJarovsky",
+      "text": "42 state attorneys general are investigating OpenAI over alleged harmful practices. The tide has totally changed. Even the authorities have had enough.",
+      "url": "https://xcancel.com/LuizaJarovsky/status/2068444608435220873",
+      "derived_timestamp": "2026-06-20T21:23:19Z",
+      "age_hours": 9.6,
+      "replies": 36,
+      "retweets": 241,
+      "likes": 388,
+      "views": 16000,
+      "category": "news",
+      "selection_reason": "42 state attorneys general investigating OpenAI; concrete policy and legal news not previously covered in the digest.",
+      "story_fingerprint": "42-state-ags-openai-investigation",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068372696690315650",
+      "tweet_id": "2068372696690315650",
+      "author": "gregisenberg",
+      "text": "GLM 5.2 might be the ChatGPT moment for local AI. 1M token context window so it holds an entire codebase at once. Top open model on coding right now. MIT licensed.",
+      "url": "https://xcancel.com/gregisenberg/status/2068372696690315650",
+      "derived_timestamp": "2026-06-20T16:37:34Z",
+      "age_hours": 14.4,
+      "replies": 158,
+      "retweets": 105,
+      "likes": 1500,
+      "views": 122000,
+      "category": "analysis",
+      "selection_reason": "Practitioner framing GLM 5.2 as a local-AI inflection with 1M context and MIT license; distinct angle on the open-weight shift.",
+      "story_fingerprint": "glm-52-local-ai-inflection",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068335340272934916",
+      "tweet_id": "2068335340272934916",
+      "author": "JafarNajafov",
+      "text": "Adobe Acrobat is cooked. Someone built a free, open-source PDF editor that runs entirely on your own machine and never uploads a single file. It's called Stirling-PDF.",
+      "url": "https://xcancel.com/JafarNajafov/status/2068335340272934916",
+      "derived_timestamp": "2026-06-20T14:09:07Z",
+      "age_hours": 16.8,
+      "replies": 22,
+      "retweets": 218,
+      "likes": 979,
+      "views": 51000,
+      "category": "news",
+      "selection_reason": "Stirling-PDF local open-source PDF editor surfacing with strong engagement; concrete tool of practitioner interest.",
+      "story_fingerprint": "stirling-pdf-local-open-source-editor",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068265109336867206",
+      "tweet_id": "2068265109336867206",
+      "author": "VaibhavSisinty",
+      "text": "Google just mass-confirmed what the smartest Claude Code users figured out months ago. The best way to give AI a memory is a folder of markdown files. Google Cloud published it as an official open spec.",
+      "url": "https://xcancel.com/VaibhavSisinty/status/2068265109336867206",
+      "derived_timestamp": "2026-06-20T09:30:03Z",
+      "age_hours": 21.5,
+      "replies": 17,
+      "retweets": 28,
+      "likes": 180,
+      "views": 16000,
+      "category": "news",
+      "selection_reason": "Google Cloud publishing a markdown-memory open spec; concrete standardisation move relevant to agent practitioners.",
+      "story_fingerprint": "google-agents-md-markdown-memory-spec",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068305261228683694",
+      "tweet_id": "2068305261228683694",
+      "author": "kyronis_talks",
+      "text": "Anthropic CEO: If my revenue is not 1 trillion, even 800 billion, there's no force on earth that could stop me from going bankrupt. In a 3-hour podcast, Dario Amodei does the math on his own bankruptcy. Revenue 10x a year.",
+      "url": "https://xcancel.com/kyronis_talks/status/2068305261228683694",
+      "derived_timestamp": "2026-06-20T12:09:36Z",
+      "age_hours": 18.8,
+      "replies": 26,
+      "retweets": 45,
+      "likes": 77,
+      "views": 10000,
+      "category": "analysis",
+      "selection_reason": "Dario does the math on his own bankruptcy in a long podcast; candid exec admission distinct from prior coverage.",
+      "story_fingerprint": "dario-bankruptcy-math-podcast",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068367450085998998",
+      "tweet_id": "2068367450085998998",
+      "author": "samiramanabi",
+      "text": "The talent density at Google is extremely high. That leads to incredible internal competition for resources but also means there is inherent resiliency. That being said, there is just one Noam Shazeer.",
+      "url": "https://xcancel.com/samiramanabi/status/2068367450085998998",
+      "derived_timestamp": "2026-06-20T16:16:43Z",
+      "age_hours": 14.7,
+      "replies": 13,
+      "retweets": 17,
+      "likes": 733,
+      "views": 128000,
+      "category": "personal_story",
+      "selection_reason": "Google insider reflection on talent density and the singular loss of Noam Shazeer; first-person practitioner story.",
+      "story_fingerprint": "google-talent-density-shazeer-reflection",
+      "pool_role": "selected"
+    },
+    {
+      "id": "item_2068488678947918124",
+      "tweet_id": "2068488678947918124",
+      "author": "fchollet",
+      "text": "The more you embrace AI, the more you need SaaS. This is not obvious to armchair market analysts who love disruption narratives, but it is obvious to people actually running companies.",
+      "url": "https://xcancel.com/fchollet/status/2068488678947918124",
+      "derived_timestamp": "2026-06-21T00:18:26Z",
+      "age_hours": 6.7,
+      "replies": 24,
+      "retweets": 31,
+      "likes": 206,
+      "views": 35000,
+      "category": "analysis",
+      "selection_reason": "Keras creator's contrarian take that embracing AI increases SaaS need; high-signal practitioner observation.",
+      "story_fingerprint": "fchollet-ai-increases-saas-need",
+      "pool_role": "selected"
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "item_2068444118443843795",
+      "tweet_id": "2068444118443843795",
+      "author": "DavidSacks",
+      "text": "Claude psychoanalyzing Dario is the AI slop I didn't know I needed.",
+      "url": "https://xcancel.com/DavidSacks/status/2068444118443843795",
+      "derived_timestamp": "2026-06-20T21:21:22Z",
+      "age_hours": 9.6,
+      "replies": 78,
+      "retweets": 104,
+      "likes": 1400,
+      "views": 116000,
+      "category": "analysis",
+      "selection_reason": "All-In host reacting to the Chamath/Dario psychoanalysis; strong engagement but duplicate angle to the selected ihtesham2005 item.",
+      "story_fingerprint": "chamath-claude-dario-psych-profile",
+      "pool_role": "reserve"
+    },
+    {
+      "id": "item_2068548272474775852",
+      "tweet_id": "2068548272474775852",
+      "author": "cyrilXBT",
+      "text": "GLM 5.2 just landed within 1% of Opus 4.8 on the hardest agentic coding benchmarks. At roughly a sixth of the price. 1.40 per million input tokens, 4.40 per million output.",
+      "url": "https://xcancel.com/cyrilXBT/status/2068548272474775852",
+      "derived_timestamp": "2026-06-21T04:15:14Z",
+      "age_hours": 2.7,
+      "replies": 10,
+      "retweets": 11,
+      "likes": 76,
+      "views": 2000,
+      "category": "analysis",
+      "selection_reason": "GLM 5.2 within 1 percent of Opus with concrete pricing; reserve for the GLM angle but lower engagement and overlaps gregisenberg.",
+      "story_fingerprint": "glm-52-local-ai-inflection",
+      "pool_role": "reserve"
+    },
+    {
+      "id": "item_2068456157933658375",
+      "tweet_id": "2068456157933658375",
+      "author": "r0ck3t23",
+      "text": "Sundar Pichai deployed 180 billion into AI. We probably have scaled our CapEx from 30 billion to approximately 180 billion. You don't do it if you don't think about the curve a certain way.",
+      "url": "https://xcancel.com/r0ck3t23/status/2068456157933658375",
+      "derived_timestamp": "2026-06-20T22:09:12Z",
+      "age_hours": 8.8,
+      "replies": 6,
+      "retweets": 10,
+      "likes": 34,
+      "views": 3600,
+      "category": "news",
+      "selection_reason": "Pichai CapEx scaling to 180B; reserve only, weak engagement and quote unverified against a primary source.",
+      "story_fingerprint": "pichai-180b-capex-scaling",
+      "pool_role": "reserve"
+    }
+  ],
+  "selection_criteria": {
+    "window_hours": 24,
+    "since_date": "2026-06-20",
+    "target_count": "10-16",
+    "author_cap": "1-2 per author",
+    "priorities": [
+      "concrete news",
+      "model/product/paper releases",
+      "policy/company moves",
+      "strong practitioner observations",
+      "useful technical analysis"
+    ],
+    "exclusions": [
+      "stories already covered in prior 7 digests",
+      "tweets older than 24h by snowflake timestamp",
+      "low-signal promotional spam",
+      "non-events"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-21",
+  "generated_at_utc": "2026-06-21T07:05:00Z",
+  "searches": [
+    { "query": "AI since:2026-06-20", "limit": 20, "status": "ok", "returned": 7 },
+    { "query": "LLM since:2026-06-20", "limit": 20, "status": "ok", "returned": 6 },
+    { "query": "machine learning since:2026-06-20", "limit": 20, "status": "ok", "returned": 8 },
+    { "query": "GPT OR Claude OR Gemini since:2026-06-20", "limit": 20, "status": "ok", "returned": 7 },
+    { "query": "open source AI model since:2026-06-20", "limit": 20, "status": "ok", "returned": 9 },
+    { "query": "AI agent since:2026-06-20", "limit": 20, "status": "ok", "returned": 12 },
+    { "query": "Sam Altman since:2026-06-20", "limit": 20, "status": "ok", "returned": 7 },
+    { "query": "Dario Amodei since:2026-06-20", "limit": 20, "status": "ok", "returned": 6 },
+    { "query": "Demis Hassabis since:2026-06-20", "limit": 20, "status": "ok", "returned": 8 },
+    { "query": "from:karpathy since:2026-06-20", "limit": 5, "status": "no_tweets_found", "returned": 0 },
+    { "query": "from:sama since:2026-06-20", "limit": 5, "status": "no_tweets_found", "returned": 0 },
+    { "query": "from:OpenAI since:2026-06-20", "limit": 5, "status": "no_tweets_found", "returned": 0 },
+    { "query": "from:AnthropicAI since:2026-06-20", "limit": 5, "status": "no_tweets_found", "returned": 0 },
+    { "query": "Chamath Dario psychological profile since:2026-06-19", "limit": 8, "status": "ok", "returned": 8, "note": "source verification for Chamath/Dario story" },
+    { "query": "Pichai 180 billion capex since:2026-06-19", "limit": 6, "status": "ok", "returned": 6, "note": "source verification; original repackagers too weak, dropped" }
+  ],
+  "returned_tweets": [
+    { "id": "2068348900126106085", "author": "rileywestreel", "text": "Monica Lam (Stanford Professor): AI writes shallow reports for one reason, you ask it ONE question. Our method asks dozens, like a journalist, and the same chatbot starts writing articles 25% better organized than top AI.", "likes": 1600, "replies": 21, "retweets": 224, "views": 347000, "derived_timestamp": "2026-06-20T15:03:00Z", "age_hours": 15.9 },
+    { "id": "2068379007075102808", "author": "VadimStrizheus", "text": "Perplexity CEO on China catching up in AI: Whatever you did to not let them catch up didn't even matter. They ended up catching up anyway. What's more dangerous is they have the best open-source model. That was DeepSeek.", "likes": 1500, "replies": 84, "retweets": 191, "views": 427000, "derived_timestamp": "2026-06-20T17:02:38Z", "age_hours": 14.0 },
+    { "id": "2068488678947918124", "author": "fchollet", "text": "The more you embrace AI, the more you need SaaS. This is not obvious to armchair market analysts who love disruption narratives, but it is obvious to people actually running companies.", "likes": 206, "replies": 24, "retweets": 31, "views": 35000, "derived_timestamp": "2026-06-21T00:18:26Z", "age_hours": 6.7 },
+    { "id": "2068372696690315650", "author": "gregisenberg", "text": "GLM 5.2 might be the ChatGPT moment for local AI. 1M token context window so it holds an entire codebase at once. Top open model on coding right now. MIT licensed.", "likes": 1500, "replies": 158, "retweets": 105, "views": 122000, "derived_timestamp": "2026-06-20T16:37:34Z", "age_hours": 14.4 },
+    { "id": "2068408711836745818", "author": "ihtesham2005", "text": "Chamath fed Dario Amodei's own essays into Claude and asked for a psychological profile. The model identified a pattern. Dario distrusts other labs. He distrusts authoritarian states.", "likes": 957, "replies": 53, "retweets": 66, "views": 168000, "derived_timestamp": "2026-06-20T19:00:40Z", "age_hours": 12.0 },
+    { "id": "2068335340272934916", "author": "JafarNajafov", "text": "Adobe Acrobat is cooked. Someone built a free, open-source PDF editor that runs entirely on your own machine and never uploads a single file. It's called Stirling-PDF.", "likes": 979, "replies": 22, "retweets": 218, "views": 51000, "derived_timestamp": "2026-06-20T14:09:07Z", "age_hours": 16.8 },
+    { "id": "2068265109336867206", "author": "VaibhavSisinty", "text": "Google just mass-confirmed what the smartest Claude Code users figured out months ago. The best way to give AI a memory is a folder of markdown files. Google Cloud published it as an official open spec.", "likes": 180, "replies": 17, "retweets": 28, "views": 16000, "derived_timestamp": "2026-06-20T09:30:03Z", "age_hours": 21.5 },
+    { "id": "2068444608435220873", "author": "LuizaJarovsky", "text": "42 state attorneys general are investigating OpenAI over alleged harmful practices. The tide has totally changed. Even the authorities have had enough.", "likes": 388, "replies": 36, "retweets": 241, "views": 16000, "derived_timestamp": "2026-06-20T21:23:19Z", "age_hours": 9.6 },
+    { "id": "2068305261228683694", "author": "kyronis_talks", "text": "Anthropic CEO: If my revenue is not 1 trillion, even 800 billion, there's no force on earth that could stop me from going bankrupt. In a 3-hour podcast, Dario Amodei does the math on his own bankruptcy. Revenue 10x a year.", "likes": 77, "replies": 26, "retweets": 45, "views": 10000, "derived_timestamp": "2026-06-20T12:09:36Z", "age_hours": 18.8 },
+    { "id": "2068367450085998998", "author": "samiramanabi", "text": "The talent density at Google is extremely high. That leads to incredible internal competition for resources but also means there is inherent resiliency. That being said, there is just one Noam Shazeer.", "likes": 733, "replies": 13, "retweets": 17, "views": 128000, "derived_timestamp": "2026-06-20T16:16:43Z", "age_hours": 14.7 },
+    { "id": "2068444118443843795", "author": "DavidSacks", "text": "Claude psychoanalyzing Dario is the AI slop I didn't know I needed.", "likes": 1400, "replies": 78, "retweets": 104, "views": 116000, "derived_timestamp": "2026-06-20T21:21:22Z", "age_hours": 9.6 },
+    { "id": "2068548272474775852", "author": "cyrilXBT", "text": "GLM 5.2 just landed within 1% of Opus 4.8 on the hardest agentic coding benchmarks. At roughly a sixth of the price.", "likes": 76, "replies": 10, "retweets": 11, "views": 2000, "derived_timestamp": "2026-06-21T04:15:14Z", "age_hours": 2.7 },
+    { "id": "2068456157933658375", "author": "r0ck3t23", "text": "Sundar Pichai deployed 180 billion into AI. We probably have scaled our CapEx from 30 billion to approximately 180 billion.", "likes": 34, "replies": 6, "retweets": 10, "views": 3600, "derived_timestamp": "2026-06-20T22:09:12Z", "age_hours": 8.8 },
+    { "id": "2068327121035088313", "author": "AndrewCurran_", "text": "Luca Guadagnino's movie chronicling the 2023 OpenAI board coup has been dropped by Amazon.", "likes": 171, "replies": 29, "retweets": 10, "views": 22000, "derived_timestamp": "2026-06-20T13:36:27Z", "age_hours": 17.4 }
+  ],
+  "selected_items": [
+    { "id": "item_2068408711836745818", "tweet_id": "2068408711836745818", "author": "ihtesham2005", "category": "analysis", "reason": "Chamath's All-In stunt feeding Dario's essays to Claude for a psychological profile; high engagement, distinct from any prior digest." },
+    { "id": "item_2068348900126106085", "tweet_id": "2068348900126106085", "author": "rileywestreel", "category": "analysis", "reason": "Stanford's Monica Lam multi-question STORM research method beats single-prompt AI by 25% organization; concrete research result, strong reach." },
+    { "id": "item_2068379007075102808", "tweet_id": "2068379007075102808", "author": "VadimStrizheus", "category": "analysis", "reason": "Perplexity CEO on China catching up via DeepSeek open-source; strongest reach of the day (427K views), practitioner/exec view." },
+    { "id": "item_2068444608435220873", "tweet_id": "2068444608435220873", "author": "LuizaJarovsky", "category": "news", "reason": "42 state attorneys general investigating OpenAI; concrete policy/legal news, not previously covered." },
+    { "id": "item_2068372696690315650", "tweet_id": "2068372696690315650", "author": "gregisenberg", "category": "analysis", "reason": "GLM 5.2 as a local-AI inflection, 1M context, MIT licensed; distinct practitioner framing of the open-weight shift." },
+    { "id": "item_2068335340272934916", "tweet_id": "2068335340272934916", "author": "JafarNajafov", "category": "news", "reason": "Stirling-PDF local open-source PDF editor; concrete tool release with strong engagement." },
+    { "id": "item_2068265109336867206", "tweet_id": "2068265109336867206", "author": "VaibhavSisinty", "category": "news", "reason": "Google Cloud publishing AGENTS.md-style markdown-memory open spec; concrete standardisation move." },
+    { "id": "item_2068305261228683694", "tweet_id": "2068305261228683694", "author": "kyronis_talks", "category": "analysis", "reason": "Dario doing the math on his own bankruptcy in a 3-hour podcast; distinct from prior coverage, candid exec admission." },
+    { "id": "item_2068367450085998998", "tweet_id": "2068367450085998998", "author": "samiramanabi", "category": "personal_story", "reason": "Google insider on talent density and the singular loss of Noam Shazeer; first-person practitioner reflection." },
+    { "id": "item_2068488678947918124", "tweet_id": "2068488678947918124", "author": "fchollet", "category": "analysis", "reason": "Keras creator's contrarian take that embracing AI increases SaaS need; high-signal practitioner observation." }
+  ],
+  "rejected_notable_items": [
+    { "id": "item_2068444118443843795", "tweet_id": "2068444118443843795", "author": "DavidSacks", "reason": "Same Chamath/Dario story as selected ihtesham2005 item; kept as reserve. Strong engagement (116K views) but duplicate angle." },
+    { "id": "item_2068548272474775852", "tweet_id": "2068548272474775852", "author": "cyrilXBT", "reason": "GLM 5.2 within 1% of Opus with pricing; reserve for GLM angle but lower engagement (2K views) and overlaps gregisenberg item." },
+    { "id": "item_2068456157933658375", "tweet_id": "2068456157933658375", "author": "r0ck3t23", "reason": "Pichai 180B CapEx; repackager with weak engagement (3.6K views), quote unverified against primary source. Reserve." },
+    { "id": "item_2068327121035088313", "tweet_id": "2068327121035088313", "author": "AndrewCurran_", "reason": "Amazon dropping the Altman biopic; already covered in 2026-06-20 digest. Excluded as stale story." }
+  ],
+  "excluded_stale_or_old": [
+    { "id": "2068064304503660962", "author": "bcherny", "reason": "Linear A decipher with Claude Code; 34.8h old, outside 24h window." },
+    { "id": "2066969532380721386", "author": "AnthropicAI", "reason": "Claude Code economic index; 107h old, already covered 2026-06-17." },
+    { "id": "2068186207218176199", "author": "GaryMarcus", "reason": "Amazon ratted on Anthropic; 26.7h old." }
+  ]
+}

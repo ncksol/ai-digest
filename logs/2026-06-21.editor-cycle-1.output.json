@@ -1,0 +1,140 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 10 selected items have distinct story fingerprints with no intra-set duplication. The two reserve items sharing fingerprints with selected items (DavidSacks duplicates the Chamath/Dario psych-profile story; cyrilXBT duplicates the GLM 5.2 story) were correctly left in reserve, so the published set contains no redundant stories. The GLM 5.2 selection (gregisenberg) carries forward from the 2026-06-20 digest but presents a distinct local-AI-inflection angle (1M context, MIT license) rather than the prior Vibe Code Bench framing, so it is acceptable as a continuation. Two Dario-related items (ihtesham2005 psych profile, kyronis_talks bankruptcy math) cover different events from different authors and do not breach the author cap. Several quote-paraphrase items (Perplexity CEO, Monica Lam, Pichai-adjacent commentary) lack primary-source links, but no selected item shows a fingerprint collision. Count is at the normal minimum of 10; no replacements required.",
+  "decisions": [
+    {
+      "id": "item_2068408711836745818",
+      "decision": "keep",
+      "reason": "Chamath feeding Dario's essays into Claude for a psychological profile is a distinct, high-engagement story (957 likes, 168K views) not present in the prior 7 digests. Unique fingerprint within the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares fingerprint chamath-claude-dario-psych-profile with reserve item DavidSacks, but that reserve is rejected and not in the published set; this is the primary, fuller-context version of the story."
+      }
+    },
+    {
+      "id": "item_2068348900126106085",
+      "decision": "keep",
+      "reason": "Concrete Stanford research result (Monica Lam multi-question method, 25% better-organized output) with strong reach at 347K views; not previously covered.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Paraphrased quote without a primary-source link, but no fingerprint collision with any other selected or published item."
+      }
+    },
+    {
+      "id": "item_2068379007075102808",
+      "decision": "keep",
+      "reason": "Highest-reach exec view of the day (427K views): Perplexity CEO arguing China caught up via DeepSeek open source. Distinct fingerprint and not in prior digests.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Paraphrased exec quote; DeepSeek appears in older digests only as a separate funding story, so this commentary angle is not a duplicate."
+      }
+    },
+    {
+      "id": "item_2068444608435220873",
+      "decision": "keep",
+      "reason": "Concrete policy/legal news: 42 state attorneys general investigating OpenAI. New to the digest and a clear hard-news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique fingerprint; no overlap with prior OpenAI coverage in the recent history."
+      }
+    },
+    {
+      "id": "item_2068372696690315650",
+      "decision": "keep",
+      "reason": "GLM 5.2 framed as a local-AI inflection (1M context, MIT license, top open coding model) by a practitioner; strong engagement at 122K views. Distinct angle from the 2026-06-20 'GLM 5.2 leads Vibe Code Bench' headline.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same underlying GLM 5.2 release referenced on 2026-06-20 and shared with reserve item cyrilXBT, but this is a distinct local-AI framing rather than a benchmark-leaderboard repeat; the overlapping cyrilXBT reserve was correctly not selected."
+      }
+    },
+    {
+      "id": "item_2068335340272934916",
+      "decision": "keep",
+      "reason": "Concrete practitioner tool (Stirling-PDF, local open-source PDF editor) with strong engagement (979 likes, 218 RTs). New, unique story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique fingerprint; no prior coverage."
+      }
+    },
+    {
+      "id": "item_2068265109336867206",
+      "decision": "keep",
+      "reason": "Concrete standardization move: Google Cloud publishing an official markdown-memory open spec, relevant to agent practitioners. Distinct story not in prior digests.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Lower engagement (180 likes) but a genuine release/spec item; unique fingerprint."
+      }
+    },
+    {
+      "id": "item_2068305261228683694",
+      "decision": "keep",
+      "reason": "Candid Dario Amodei admission doing the math on his own bankruptcy in a long podcast; distinct angle from the psych-profile story and from prior Amodei coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different event and different author from the ihtesham2005 Dario item; both posters are distinct so the 1-2 per-author cap is not breached."
+      }
+    },
+    {
+      "id": "item_2068367450085998998",
+      "decision": "keep",
+      "reason": "First-person Google insider reflection on talent density and the singular loss of Noam Shazeer; good reach (128K views) and a distinct personal-story angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shazeer's move to OpenAI was a 2026-06-18 headline, but this is a distinct reflective commentary angle, not a re-report of the departure event."
+      }
+    },
+    {
+      "id": "item_2068488678947918124",
+      "decision": "keep",
+      "reason": "High-signal contrarian take from Keras creator fchollet that embracing AI increases SaaS need; recent (6.7h) and a distinct practitioner observation.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique fingerprint; no overlap with any other selected or prior item."
+      }
+    }
+  ],
+  "set_level_flags": [],
+  "additional_search_requests": []
+}
