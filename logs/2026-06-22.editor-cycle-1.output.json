@@ -1,0 +1,184 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Twelve selected items form a coherent, in-window AI digest spanning news, practitioner, and analysis. Strongest items are well-sourced product/strategy signals (Sakana Fugu launch, ChatGPT bidirectional voice, Zuckerberg/Meta coding-agent pivot, Greg Brockman Codex demo, Replit sales-culture detail, Hugging Face open-source framing, Sakana multi-agent analysis, LLM hidden-world-modeling study, Artificial biopic buyer angle). The Sakana launch and the Sakana-paper analysis are kept as same-topic distinct angles. Three items rely on second-hand attribution or a single low-reach source and are kept with a sourcing caveat rather than replaced: the ridark_eth relay of an attributed Karpathy 'second brain' idea (Karpathy did not post in window), the 0xMovez paraphrase of Andrew Ng's '100% of tasks done by agents' claim, and the Paul__Walsh framing of Anthropic's Persona ID-verification requirement (3.4K views, includes a 'backed by Peter Thiel' assertion). No item is a duplicate requiring removal and no swap improves the set, so all twelve are retained with set-level traceability flags noted.",
+  "decisions": [
+    {
+      "id": "item_2068861630327443966",
+      "decision": "keep",
+      "reason": "Highest-reach in-window item (2.6M views) and a concrete first-party product launch from SakanaAILabs (Sakana Fugu multi-agent orchestration, Fugu Ultra). Strong anchor news item with clear authorship.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Sakana topic with item_2068904825685787083, but this is the primary launch announcement while the other is third-party analysis. Distinct angle, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2068669840261333099",
+      "decision": "keep_with_change",
+      "reason": "In-window, plainly stated factual framing of Anthropic's government photo-ID verification requirement via Persona, which is a genuinely notable policy story. Kept, but flagged: reach is very low (3.4K views, 39 likes) and the tweet adds a 'provider is Persona, backed by Peter Thiel' assertion that is single-sourced here, so it carries a source-traceability caveat for downstream verification.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other selected item covers the Anthropic/Persona ID-verification story. Unique angle; traceability concern is about sourcing strength, not duplication."
+      }
+    },
+    {
+      "id": "item_2068804428849672671",
+      "decision": "keep",
+      "reason": "Concrete product-rollout signal: bidirectional ChatGPT voice mode appearing for some users. Clear, in-window, reasonable engagement (64K views) and no overlap with other selected items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone OpenAI product story; no duplication with the rest of the set."
+      }
+    },
+    {
+      "id": "item_2068695538070065411",
+      "decision": "keep",
+      "reason": "Company-strategy signal: Zuckerberg reframing Meta's Llama effort around an AI coding agent and AI-written code over a 12-18 month horizon. Distinct corporate-direction angle; complements rather than duplicates the agent-loop practitioner items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Touches the broader 'AI writes most code / agent loops' theme shared with 0xMovez and gdb items, but the event (Meta/Llama strategy, Zuckerberg) and angle are distinct."
+      }
+    },
+    {
+      "id": "item_2068824282378232224",
+      "decision": "keep",
+      "reason": "Distinct, fresh angle on the Artificial/Altman biopic story: a finished Guadagnino film failing to find a buyer. Good engagement (111K views) and differentiated from prior coverage of the same saga.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other selected item covers the biopic; unique within this set. Recent-history is empty so no cross-cycle duplication to assess."
+      }
+    },
+    {
+      "id": "item_2068763235587694769",
+      "decision": "keep_with_change",
+      "reason": "Strong, high-reach practitioner signal (438K views) on the shift from prompting to self-improving agent loops, attributed to Andrew Ng. Kept, but flagged: it is a paraphrase relayed by 0xMovez rather than a first-party Ng post, and the '100% of my tasks are now done by AI agents / no more prompting in 3-6 months' phrasing is an extreme characterization. Retained with a source-traceability caveat; no better in-window first-party version exists in the pool.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the agent-loop theme with item_2068753952850546985 and item_2068695538070065411, but the speaker (Ng), claim, and framing are distinct. Not a duplicate; concern is attribution strength."
+      }
+    },
+    {
+      "id": "item_2068753952850546985",
+      "decision": "keep_with_change",
+      "reason": "Widely circulated practitioner idea (2.7M views on the relay) about using AI to build a 'second brain' rather than to write code, attributed to Karpathy. Kept, but flagged: Karpathy did not post in window, so this ridark_eth relay is second-hand attribution carrying a '16M views' claim about an original it does not link. Retained as the best in-window source with a source-traceability caveat.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve item_2068885434503966827 (Graphify shipped 48h after the idea) is a downstream follow-on to this same idea but a distinct event; this item is the idea itself. Not a duplicate."
+      }
+    },
+    {
+      "id": "item_2068761809318990054",
+      "decision": "keep",
+      "reason": "Concrete demonstration from OpenAI president Greg Brockman of Codex used to test every feature of an app. First-party principal figure, strong reach (511K views), distinct practitioner angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the broad coding-agent theme but is a unique first-party demo; no duplication."
+      }
+    },
+    {
+      "id": "item_2068904825685787083",
+      "decision": "keep",
+      "reason": "Useful analysis of when multi-agent orchestration beats a single frontier model, pairing directly with the Sakana Fugu launch. Adds interpretive depth as a distinct analytical angle on the same topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same Sakana topic as item_2068861630327443966 but a clearly distinct angle (third-party analysis vs primary launch). Same-topic-distinct-angle, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2068688725958148465",
+      "decision": "keep",
+      "reason": "Hugging Face CEO Clement Delangue framing open-source AI leadership as a precursor to general AI leadership. First-party, sober ecosystem analysis with a distinct viewpoint; no overlap with other items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone ecosystem-framing item; no duplication within the set."
+      }
+    },
+    {
+      "id": "item_2068921421380874666",
+      "decision": "keep",
+      "reason": "Concrete research finding on a limitation of LLM agents (failing to build stable internal models as hidden worlds grow complex). Adds a sober technical counterweight to the optimistic agent-loop items; distinct content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research-limitation angle; no duplication. Low reach (2.9K views) but content value is editorial balance, not engagement."
+      }
+    },
+    {
+      "id": "item_2068747165812543780",
+      "decision": "keep",
+      "reason": "Notable company-culture detail on AI coding company Replit reorienting heavily around sales (half of employees in sales; CEO now calls himself a 'sales bro'). Distinct business-culture angle; reasonable engagement (39K views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone company-culture item; no duplication within the set."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2068861630327443966",
+        "item_2068904825685787083"
+      ],
+      "reason": "Both cover Sakana Fugu but from distinct angles: item_2068861630327443966 is the primary product launch and item_2068904825685787083 is third-party analysis of when multi-agent orchestration beats a single frontier model. Kept together intentionally as complementary coverage, not as redundant duplicates."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2068753952850546985",
+        "item_2068763235587694769",
+        "item_2068669840261333099"
+      ],
+      "reason": "Three retained items rely on second-hand attribution or a single low-reach source. item_2068753952850546985 attributes a 'second brain' idea and a 16M-view figure to Karpathy via a relay (Karpathy did not post in window). item_2068763235587694769 paraphrases Andrew Ng's '100% of tasks done by agents' claim via the 0xMovez relay rather than a first-party post. item_2068669840261333099 is a single 3.4K-view tweet that asserts Anthropic's Persona ID-verification provider is 'backed by Peter Thiel'. Each is the best in-window option and is kept with a sourcing caveat; downstream prose should hedge attribution accordingly."
+    }
+  ],
+  "additional_search_requests": []
+}

@@ -1,0 +1,615 @@
+{
+  "date": "2026-06-22",
+  "generated_at_utc": "2026-06-22T07:05:00Z",
+  "reference_cutoff_utc": "2026-06-21T07:00:00Z",
+  "searches": [
+    {
+      "query": "AI since:2026-06-21",
+      "limit": 20,
+      "returned": 6
+    },
+    {
+      "query": "LLM since:2026-06-21",
+      "limit": 20,
+      "returned": 4
+    },
+    {
+      "query": "machine learning since:2026-06-21",
+      "limit": 20,
+      "returned": 8
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-06-21",
+      "limit": 20,
+      "returned": 8
+    },
+    {
+      "query": "open source AI model since:2026-06-21",
+      "limit": 20,
+      "returned": 6
+    },
+    {
+      "query": "AI agent since:2026-06-21",
+      "limit": 20,
+      "returned": 6
+    },
+    {
+      "query": "Sam Altman since:2026-06-21",
+      "limit": 20,
+      "returned": 7
+    },
+    {
+      "query": "Dario Amodei since:2026-06-21",
+      "limit": 20,
+      "returned": 6
+    },
+    {
+      "query": "Demis Hassabis since:2026-06-21",
+      "limit": 20,
+      "returned": 7
+    },
+    {
+      "query": "from:karpathy since:2026-06-21",
+      "limit": 5,
+      "returned": 0,
+      "note": "No tweets found"
+    },
+    {
+      "query": "from:sama since:2026-06-21",
+      "limit": 5,
+      "returned": 0,
+      "note": "No tweets found"
+    },
+    {
+      "query": "from:OpenAI since:2026-06-21",
+      "limit": 5,
+      "returned": 0,
+      "note": "No tweets found"
+    },
+    {
+      "query": "from:AnthropicAI since:2026-06-21",
+      "limit": 5,
+      "returned": 0,
+      "note": "No tweets found"
+    },
+    {
+      "query": "Anthropic Persona identity verification since:2026-06-21",
+      "limit": 15,
+      "returned": 10,
+      "note": "targeted retry for fresher in-window source on ID-verification story"
+    }
+  ],
+  "returned_tweets": [
+    {
+      "id": "2068861630327443966",
+      "author": "SakanaAILabs",
+      "text": "Introducing Sakana Fugu: a full multi-agent orchestration system via a single model API. Fugu Ultra matches Fable and Mythos without export-control risk.",
+      "likes": 7200,
+      "replies": 246,
+      "retweets": 2400,
+      "views": 2600000,
+      "derived_timestamp": "2026-06-22T01:00:24Z",
+      "age_hours": 6.1
+    },
+    {
+      "id": "2068763235587694769",
+      "author": "0xMovez",
+      "text": "Andrew Ng: 100% of my tasks are now done by AI agents. Loops is next; in 3-6 months everyone will use self-improving loops, no more prompting.",
+      "likes": 2900,
+      "replies": 76,
+      "retweets": 427,
+      "views": 438000,
+      "derived_timestamp": "2026-06-21T18:29:25Z",
+      "age_hours": 12.6
+    },
+    {
+      "id": "2068753952850546985",
+      "author": "ridark_eth",
+      "text": "Karpathy idea (16M views): stop using AI to write code, use it to build a second brain. Point Claude Code at a folder, drop in sources.",
+      "likes": 14000,
+      "replies": 346,
+      "retweets": 1600,
+      "views": 2700000,
+      "derived_timestamp": "2026-06-21T17:52:32Z",
+      "age_hours": 13.2
+    },
+    {
+      "id": "2068688737769275479",
+      "author": "eng_khairallah1",
+      "text": "this is gold: How to build your first AI agent (full guide).",
+      "likes": 1600,
+      "replies": 43,
+      "retweets": 225,
+      "views": 277000,
+      "derived_timestamp": "2026-06-21T15:54:00Z",
+      "age_hours": 15.1
+    },
+    {
+      "id": "2068804428849672671",
+      "author": "mark_k",
+      "text": "New ChatGPT voice mode rolling out to some users; the AI can listen and speak at the same time (bidirectional).",
+      "likes": 878,
+      "replies": 62,
+      "retweets": 52,
+      "views": 64000,
+      "derived_timestamp": "2026-06-21T21:13:07Z",
+      "age_hours": 9.9
+    },
+    {
+      "id": "2068761809318990054",
+      "author": "gdb",
+      "text": "codex for testing every single feature in your app.",
+      "likes": 2900,
+      "replies": 89,
+      "retweets": 146,
+      "views": 511000,
+      "derived_timestamp": "2026-06-21T18:23:45Z",
+      "age_hours": 12.7
+    },
+    {
+      "id": "2068869662809702589",
+      "author": "charles_irl",
+      "text": "Released six new state-of-the-art drafters for accelerated inference plus a blog on speculative decoding.",
+      "likes": 94,
+      "replies": 5,
+      "retweets": 11,
+      "views": 5000,
+      "derived_timestamp": "2026-06-22T01:32:00Z",
+      "age_hours": 5.5
+    },
+    {
+      "id": "2068757260642472206",
+      "author": "analogalok",
+      "text": "gemma 4 26b-a4b moe rewrote the definition of gaming laptop in 2026.",
+      "likes": 47,
+      "replies": 5,
+      "retweets": 1,
+      "views": 3300,
+      "derived_timestamp": "2026-06-21T18:07:00Z",
+      "age_hours": 12.9
+    },
+    {
+      "id": "2068596191286501851",
+      "author": "haider1",
+      "text": "GLM 5.2 DeepSWE: 44% at $3.92 / 78k tokens vs gemini 3.5 flash 37% at $7.34 / 276k tokens.",
+      "likes": 117,
+      "replies": 18,
+      "retweets": 7,
+      "views": 6900,
+      "derived_timestamp": "2026-06-21T07:25:39Z",
+      "age_hours": 23.6
+    },
+    {
+      "id": "2068673014372442480",
+      "author": "hrswatigupta",
+      "text": "Anthropic pays $750k+ for engineers who build LLM architectures from scratch; Stanford taught it in a free 1-hour lecture.",
+      "likes": 279,
+      "replies": 16,
+      "retweets": 48,
+      "views": 49000,
+      "derived_timestamp": "2026-06-21T12:30:55Z",
+      "age_hours": 18.6
+    },
+    {
+      "id": "2068688725958148465",
+      "author": "ClementDelangue",
+      "text": "Not open-source AI leadership OR general AI leadership; it's open-source AI leadership BEFORE general AI leadership.",
+      "likes": 307,
+      "replies": 39,
+      "retweets": 44,
+      "views": 41000,
+      "derived_timestamp": "2026-06-21T13:33:21Z",
+      "age_hours": 17.5
+    },
+    {
+      "id": "2068550357555535906",
+      "author": "piyascode9",
+      "text": "Google's NotebookLM is one of the most powerful free learning tools; 8 use cases.",
+      "likes": 236,
+      "replies": 29,
+      "retweets": 74,
+      "views": 24000,
+      "derived_timestamp": "2026-06-21T08:02:00Z",
+      "age_hours": 23
+    },
+    {
+      "id": "2068675754322465095",
+      "author": "sairahul1",
+      "text": "Steal these 7 Claude prompts to learn anything 10x faster.",
+      "likes": 403,
+      "replies": 34,
+      "retweets": 103,
+      "views": 64000,
+      "derived_timestamp": "2026-06-21T12:40:00Z",
+      "age_hours": 18.4
+    },
+    {
+      "id": "2068542652019081216",
+      "author": "0xIlyy",
+      "text": "Anthropic rolling out identity verification for certain capabilities; provider is Persona, backed by Peter Thiel.",
+      "likes": 2000,
+      "replies": 236,
+      "retweets": 362,
+      "views": 380000,
+      "derived_timestamp": "2026-06-21T03:52:54Z",
+      "age_hours": 27.2
+    },
+    {
+      "id": "2068925699411304939",
+      "author": "RoundtableSpace",
+      "text": "Early GPT-5.6 Pro output shows a full 747 in three.js; spatial reasoning strong but not fully coherent vs Fable 5.",
+      "likes": 126,
+      "replies": 11,
+      "retweets": 4,
+      "views": 46000,
+      "derived_timestamp": "2026-06-22T05:15:00Z",
+      "age_hours": 1.8
+    },
+    {
+      "id": "2068627267488710930",
+      "author": "sairahul1",
+      "text": "Anthropic engineer: you're not supposed to prompt Claude, you're supposed to build a system that prompts itself. Loops.",
+      "likes": 2500,
+      "replies": 77,
+      "retweets": 368,
+      "views": 634000,
+      "derived_timestamp": "2026-06-21T09:29:08Z",
+      "age_hours": 21.6
+    },
+    {
+      "id": "2067525659480490087",
+      "author": "jonathan_wilke",
+      "text": "I don't get the hype around CLI coding tools like Claude Code; UIs won 30 years ago.",
+      "likes": 2600,
+      "replies": 1400,
+      "retweets": 209,
+      "views": 700000,
+      "derived_timestamp": "2026-06-18T08:31:44Z",
+      "age_hours": 94.5
+    },
+    {
+      "id": "2068904825685787083",
+      "author": "ChrissGPT",
+      "text": "On the Sakana paper: one clean prompt favours a single frontier model, but messier tasks favour multi-agent.",
+      "likes": 126,
+      "replies": 11,
+      "retweets": 4,
+      "views": 14000,
+      "derived_timestamp": "2026-06-22T03:52:03Z",
+      "age_hours": 3.2
+    },
+    {
+      "id": "2068910600101494974",
+      "author": "RoundtableSpace",
+      "text": "Claude Code subagents can now nest 5 levels deep, hard cap at depth 5.",
+      "likes": 90,
+      "replies": 15,
+      "retweets": 9,
+      "views": 44000,
+      "derived_timestamp": "2026-06-22T04:15:00Z",
+      "age_hours": 2.8
+    },
+    {
+      "id": "2068636346277904875",
+      "author": "cyrilXBT",
+      "text": "Anthropic giving six months of Claude Max 20x free to open-source maintainers; up to 10,000 spots, applications close June 30, 2026.",
+      "likes": 119,
+      "replies": 17,
+      "retweets": 20,
+      "views": 24000,
+      "derived_timestamp": "2026-06-21T10:05:13Z",
+      "age_hours": 21
+    },
+    {
+      "id": "2068885434503966827",
+      "author": "cyrilXBT",
+      "text": "London engineer Safi Shamsi shipped Graphify: one command turns any folder into a Claude Code second brain.",
+      "likes": 119,
+      "replies": 17,
+      "retweets": 20,
+      "views": 9500,
+      "derived_timestamp": "2026-06-22T02:35:00Z",
+      "age_hours": 4.5
+    },
+    {
+      "id": "2068695538070065411",
+      "author": "karlmehta",
+      "text": "Zuckerberg: Meta's Llama race changes in 12-18 months; most code written by AI agents that run tests and improve the loop. Building a coding agent.",
+      "likes": 86,
+      "replies": 30,
+      "retweets": 21,
+      "views": 23000,
+      "derived_timestamp": "2026-06-21T14:00:25Z",
+      "age_hours": 17.1
+    },
+    {
+      "id": "2068824282378232224",
+      "author": "aakashgupta",
+      "text": "A finished Guadagnino film with Garfield as Altman can't find a buyer; script makes Altman a pathological liar, Ilya a key figure.",
+      "likes": 682,
+      "replies": 15,
+      "retweets": 120,
+      "views": 111000,
+      "derived_timestamp": "2026-06-21T22:32:00Z",
+      "age_hours": 8.5
+    },
+    {
+      "id": "2068681089917559053",
+      "author": "aakashgupta",
+      "text": "Why Amazon would rather hand a finished film to a rival studio than release it; Artificial is done, Guadagnino directed, Garfield plays Altman.",
+      "likes": 206,
+      "replies": 14,
+      "retweets": 23,
+      "views": 166000,
+      "derived_timestamp": "2026-06-21T13:03:00Z",
+      "age_hours": 18
+    },
+    {
+      "id": "2068921924869366257",
+      "author": "nightwriter22",
+      "text": "Focus Features, Warner Bros., A24 and Netflix all passed on Guadagnino's Artificial, starring Garfield, about Altman's 2023 ousting. Per Variety.",
+      "likes": 29,
+      "replies": 1,
+      "retweets": 2,
+      "views": 954,
+      "derived_timestamp": "2026-06-22T05:00:00Z",
+      "age_hours": 2.1
+    },
+    {
+      "id": "2068655167059451961",
+      "author": "MarioNawfal",
+      "text": "Amazon pulled distribution of Altman biopic Artificial after a $50B OpenAI partnership; film covered his firing.",
+      "likes": 161,
+      "replies": 41,
+      "retweets": 13,
+      "views": 40000,
+      "derived_timestamp": "2026-06-21T11:20:00Z",
+      "age_hours": 19.7
+    },
+    {
+      "id": "2068921421380874666",
+      "author": "rohanpaul_ai",
+      "text": "Study: as hidden worlds get more complex, LLM agents fall behind; they cannot turn growing evidence into a stable internal model.",
+      "likes": 38,
+      "replies": 2,
+      "retweets": 10,
+      "views": 2900,
+      "derived_timestamp": "2026-06-22T04:58:00Z",
+      "age_hours": 2.1
+    },
+    {
+      "id": "2068747165812543780",
+      "author": "thesamparr",
+      "text": "Half of Replit's employees are in sales; CEO now calls himself a sales bro and shows up to at-risk deals.",
+      "likes": 258,
+      "replies": 13,
+      "retweets": 7,
+      "views": 39000,
+      "derived_timestamp": "2026-06-21T17:25:34Z",
+      "age_hours": 13.6
+    },
+    {
+      "id": "2068669840261333099",
+      "author": "Paul__Walsh",
+      "text": "Anthropic now requires government photo-ID verification before unlocking certain Claude capabilities; provider is Persona, backed by Peter Thiel.",
+      "likes": 39,
+      "replies": 5,
+      "retweets": 18,
+      "views": 3400,
+      "derived_timestamp": "2026-06-21T12:18:18Z",
+      "age_hours": 18.8
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2068861630327443966",
+      "author": "SakanaAILabs",
+      "text": "Introducing Sakana Fugu: a full multi-agent orchestration system via a single model API; Fugu Ultra matches Fable and Mythos without export-control risk.",
+      "url": "https://xcancel.com/SakanaAILabs/status/2068861630327443966",
+      "derived_timestamp": "2026-06-22T01:00:24Z",
+      "replies": 246,
+      "retweets": 2400,
+      "likes": 7200,
+      "views": 2600000,
+      "category": "news",
+      "selection_reason": "Major product launch; positions Fugu Ultra as export-control-free frontier alternative. Highest reach in pool (2.6M views)."
+    },
+    {
+      "id": "2068669840261333099",
+      "author": "Paul__Walsh",
+      "text": "Anthropic now requires government photo-ID verification before unlocking certain Claude capabilities; provider is Persona, backed by Peter Thiel.",
+      "url": "https://xcancel.com/Paul__Walsh/status/2068669840261333099",
+      "derived_timestamp": "2026-06-21T12:18:18Z",
+      "replies": 5,
+      "retweets": 18,
+      "likes": 39,
+      "views": 3400,
+      "category": "news",
+      "selection_reason": "Concrete factual framing of Anthropic's ID-verification requirement via Persona. Chosen over higher-engagement 0xIlyy tweet (27.2h, out of window) because it is in-window and states the mechanism plainly."
+    },
+    {
+      "id": "2068804428849672671",
+      "author": "mark_k",
+      "text": "New ChatGPT voice mode rolling out to some users; the AI can listen and speak at the same time (bidirectional).",
+      "url": "https://xcancel.com/mark_k/status/2068804428849672671",
+      "derived_timestamp": "2026-06-21T21:13:07Z",
+      "replies": 62,
+      "retweets": 52,
+      "likes": 878,
+      "views": 64000,
+      "category": "news",
+      "selection_reason": "Concrete product rollout: bidirectional ChatGPT voice mode appearing for some users."
+    },
+    {
+      "id": "2068695538070065411",
+      "author": "karlmehta",
+      "text": "Zuckerberg: Meta's Llama race changes in 12-18 months; most code written by AI agents that run tests and improve the loop. Building a coding agent.",
+      "url": "https://xcancel.com/karlmehta/status/2068695538070065411",
+      "derived_timestamp": "2026-06-21T14:00:25Z",
+      "replies": 30,
+      "retweets": 21,
+      "likes": 86,
+      "views": 23000,
+      "category": "news",
+      "selection_reason": "Company-strategy signal: Zuckerberg reframes Meta's Llama effort around a coding agent and AI-written code."
+    },
+    {
+      "id": "2068824282378232224",
+      "author": "aakashgupta",
+      "text": "A finished Guadagnino film with Garfield as Altman can't find a buyer; the script makes Altman a pathological liar and Ilya a key figure.",
+      "url": "https://xcancel.com/aakashgupta/status/2068824282378232224",
+      "derived_timestamp": "2026-06-21T22:32:00Z",
+      "replies": 15,
+      "retweets": 120,
+      "likes": 682,
+      "views": 111000,
+      "category": "news",
+      "selection_reason": "Distinct new angle on the Artificial biopic: multiple studios passing on a finished film. Different from the prior Amazon-drops-biopic item."
+    },
+    {
+      "id": "2068763235587694769",
+      "author": "0xMovez",
+      "text": "Andrew Ng: 100% of my tasks are now done by AI agents; loops are next, in 3-6 months everyone uses self-improving loops, no more prompting.",
+      "url": "https://xcancel.com/0xMovez/status/2068763235587694769",
+      "derived_timestamp": "2026-06-21T18:29:25Z",
+      "replies": 76,
+      "retweets": 427,
+      "likes": 2900,
+      "views": 438000,
+      "category": "practitioner",
+      "selection_reason": "Strong practitioner signal from Andrew Ng on shifting from prompting to self-improving agent loops; 438K views."
+    },
+    {
+      "id": "2068753952850546985",
+      "author": "ridark_eth",
+      "text": "Karpathy idea (16M views): stop using AI to write code, use it to build a second brain; point Claude Code at a folder, drop in sources.",
+      "url": "https://xcancel.com/ridark_eth/status/2068753952850546985",
+      "derived_timestamp": "2026-06-21T17:52:32Z",
+      "replies": 346,
+      "retweets": 1600,
+      "likes": 14000,
+      "views": 2700000,
+      "category": "practitioner",
+      "selection_reason": "Widely circulated practitioner idea attributed to Karpathy. Karpathy did not post in window; this relay is the in-window source (2.7M views)."
+    },
+    {
+      "id": "2068761809318990054",
+      "author": "gdb",
+      "text": "Codex for testing every single feature in your app.",
+      "url": "https://xcancel.com/gdb/status/2068761809318990054",
+      "derived_timestamp": "2026-06-21T18:23:45Z",
+      "replies": 89,
+      "retweets": 146,
+      "likes": 2900,
+      "views": 511000,
+      "category": "practitioner",
+      "selection_reason": "OpenAI president Greg Brockman demonstrating Codex used to test every feature of an app; concrete use from a principal figure."
+    },
+    {
+      "id": "2068904825685787083",
+      "author": "ChrissGPT",
+      "text": "On the Sakana paper: one clean prompt favours a single frontier model, but messier tasks (delegation, verification, synthesis) favour multi-agent.",
+      "url": "https://xcancel.com/ChrissGPT/status/2068904825685787083",
+      "derived_timestamp": "2026-06-22T03:52:03Z",
+      "replies": 11,
+      "retweets": 4,
+      "likes": 126,
+      "views": 14000,
+      "category": "analysis",
+      "selection_reason": "Useful analysis of when Sakana's multi-agent orchestration beats a single frontier model; pairs with the Sakana launch."
+    },
+    {
+      "id": "2068688725958148465",
+      "author": "ClementDelangue",
+      "text": "Not open-source AI leadership OR general AI leadership; it's open-source AI leadership BEFORE general AI leadership.",
+      "url": "https://xcancel.com/ClementDelangue/status/2068688725958148465",
+      "derived_timestamp": "2026-06-21T13:33:21Z",
+      "replies": 39,
+      "retweets": 44,
+      "likes": 307,
+      "views": 41000,
+      "category": "analysis",
+      "selection_reason": "Hugging Face CEO framing open-source leadership as a precursor to general AI leadership; sober ecosystem analysis."
+    },
+    {
+      "id": "2068921421380874666",
+      "author": "rohanpaul_ai",
+      "text": "Study: as hidden worlds grow more complex, LLM agents fall behind and fail to turn evidence into a stable internal model.",
+      "url": "https://xcancel.com/rohanpaul_ai/status/2068921421380874666",
+      "derived_timestamp": "2026-06-22T04:58:00Z",
+      "replies": 2,
+      "retweets": 10,
+      "likes": 38,
+      "views": 2900,
+      "category": "analysis",
+      "selection_reason": "Concrete research finding on a limitation of LLM agents in interactive rule-discovery; adds a sober technical counterweight."
+    },
+    {
+      "id": "2068747165812543780",
+      "author": "thesamparr",
+      "text": "Half of Replit's employees are in sales; the CEO now calls himself a sales bro and shows up to at-risk deals.",
+      "url": "https://xcancel.com/thesamparr/status/2068747165812543780",
+      "derived_timestamp": "2026-06-21T17:25:34Z",
+      "replies": 13,
+      "retweets": 7,
+      "likes": 258,
+      "views": 39000,
+      "category": "practitioner",
+      "selection_reason": "Notable company-culture detail on an AI coding company (Replit) reorienting heavily around sales."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2068636346277904875",
+      "author": "cyrilXBT",
+      "text": "Anthropic giving six months of Claude Max 20x free to open-source maintainers; up to 10,000 spots, applications close June 30, 2026.",
+      "url": "https://xcancel.com/cyrilXBT/status/2068636346277904875",
+      "derived_timestamp": "2026-06-21T10:05:13Z",
+      "replies": 17,
+      "retweets": 20,
+      "likes": 119,
+      "views": 24000,
+      "exclusion_reason": "Concrete and dated, strong reserve, but hype-toned all-caps source and lower priority than core launches/news; held as reserve."
+    },
+    {
+      "id": "2068596191286501851",
+      "author": "haider1",
+      "text": "GLM 5.2 DeepSWE benchmark vs gemini 3.5 flash on score, cost and tokens.",
+      "url": "https://xcancel.com/haider1/status/2068596191286501851",
+      "derived_timestamp": "2026-06-21T07:25:39Z",
+      "replies": 18,
+      "retweets": 7,
+      "likes": 117,
+      "views": 6900,
+      "exclusion_reason": "GLM 5.2 covered four days running; this is a fresh distinct benchmark but topic fatigue; held as reserve."
+    },
+    {
+      "id": "2068885434503966827",
+      "author": "cyrilXBT",
+      "text": "London engineer Safi Shamsi shipped Graphify, turning any folder into a Claude Code second brain, 48h after Karpathy's idea.",
+      "url": "https://xcancel.com/cyrilXBT/status/2068885434503966827",
+      "derived_timestamp": "2026-06-22T02:35:00Z",
+      "replies": 17,
+      "retweets": 20,
+      "likes": 119,
+      "views": 9500,
+      "exclusion_reason": "Derivative of the Karpathy second-brain item already selected; avoids same-topic overrepresentation."
+    },
+    {
+      "id": "2068673014372442480",
+      "author": "hrswatigupta",
+      "text": "Anthropic pays $750k+ for engineers who build LLM architectures from scratch; Stanford taught it in a free 1-hour lecture.",
+      "url": "https://xcancel.com/hrswatigupta/status/2068673014372442480",
+      "derived_timestamp": "2026-06-21T12:30:55Z",
+      "replies": 16,
+      "retweets": 48,
+      "likes": 279,
+      "views": 49000,
+      "exclusion_reason": "Engagement-bait framing of a free Stanford lecture; weaker than selected analysis items; reserve only."
+    }
+  ],
+  "editor_status": "editor_unavailable",
+  "editor_note": "Editor cycle 1: first attempt failed extraction (markdown-fenced + prose); retry returned pure JSON but output validation failed on 3 decision values using non-enum label keep_with_change. Editor verdict was pass_with_changes with zero replacement requests and no additional_search_requests, so the selected set was endorsed and retained unchanged. One retry budget exhausted; proceeded with current valid selected set per Step 3.2.",
+  "editor_alert_status": "editor_alert_failed",
+  "editor_alert_note": "Telegram alert blocked: cross-context messaging denied (cron bound to discord, target telegram). Continued per Step 3.2 because source data is valid."
+}
