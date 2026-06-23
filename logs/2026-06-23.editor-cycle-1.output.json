@@ -1,0 +1,162 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 11 selected items are within the 6-11 target, each traceable to a stated primary or corroborated source, and no two selected items are redundant. The OpenAI Daybreak/GPT-5.5-Cyber launch (item_2069104283824640023) and the IntCyberDigest analysis (item_2069119519751094524) cover the same event from distinct angles (official primary vs. third-party benchmark/dual-use analysis), which is acceptable and flagged at set level. The reserve items sama and gdb are redundant restatements of the same OpenAI launch, and DiscussingFilm reserve duplicates the official DeepMind/A24 announcement; all were correctly left in reserve. Author distribution is balanced with no author selected more than once. No coverage gaps or additional Twitter searches are required.",
+  "decisions": [
+    {
+      "id": "item_2069104283824640023",
+      "decision": "keep",
+      "reason": "Official OpenAI primary-source launch of the Daybreak expansion and full GPT-5.5-Cyber, corroborated by sama and gdb in the pool. High engagement, concrete, and clearly traceable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same OpenAI cyber launch event as item_2069119519751094524, but this is the official primary announcement while the other is third-party analysis. Distinct angle, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2069119519751094524",
+      "decision": "keep",
+      "reason": "Distinct third-party analytical reframe of the OpenAI cyber launch with concrete CyberGym benchmark detail (beats Mythos) and dual-use framing. Adds analysis not present in the primary announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Covers the same OpenAI cyber launch as item_2069104283824640023 but from an analysis angle with added benchmark and dual-use detail. Same-topic distinct-angle, retained intentionally."
+      }
+    },
+    {
+      "id": "item_2069066675895337405",
+      "decision": "keep",
+      "reason": "Official GoogleDeepMind primary announcement of the A24 movie-tools research partnership, with the $75M figure attributed to WSJ reporting. Concrete corporate news, distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the DeepMind/A24 event with the DiscussingFilm reserve (item_2069065221071597906); this official primary source is preferred over the secondary restatement."
+      }
+    },
+    {
+      "id": "item_2069267306182762907",
+      "decision": "keep",
+      "reason": "Most detailed primary report of ByteDance Seedance 2.0/2.5 video models with concrete specs (30s single-pass, native 4K, 50 reference inputs, 3D white-model), corroborated by testingcatalog and LinusEkenstam. Distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other selected or reserve item covers the Seedance release."
+      }
+    },
+    {
+      "id": "item_2068974957619781856",
+      "decision": "keep",
+      "reason": "Notable open-source release of 11 Apache-2.0 repositories from a major bank's AI Lab. Concrete and distinct from frontier-lab news, providing coverage breadth.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story; no overlap with any other item in the pool."
+      }
+    },
+    {
+      "id": "item_2069066628344791166",
+      "decision": "keep",
+      "reason": "Widely circulated on-stage event showing ChatGPT producing fabricated answers during an Altman demo, with detail corroborated by FutureWinsDaily. Strong engagement and a distinct practitioner/news angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique event; not covered by any other selected or reserve item."
+      }
+    },
+    {
+      "id": "item_2069064659613958348",
+      "decision": "keep",
+      "reason": "Concrete open-source product launch (Clips, an agent-native Loom alternative) with a clear agent-native design angle and solid engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product launch; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2069063719817265463",
+      "decision": "keep",
+      "reason": "Substantive research summary of a large LLM-as-a-Judge reliability audit (21 judges, ~541k judgments across MT-Bench/JudgeBench/RewardBench) with a concrete methodological finding. Adds research depth.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research item; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2069131548658651240",
+      "decision": "keep",
+      "reason": "Concrete, low-noise practitioner build repurposing Apple Notes as an LLM client for any API. Distinct hands-on angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique build; not covered elsewhere in the pool."
+      }
+    },
+    {
+      "id": "item_2069255017630974264",
+      "decision": "keep",
+      "reason": "Fresh hands-on agent computer-use account (Hermes installing Computer Use and returning a screenshot without manual config). Concrete workflow, distinct from other agent items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique practitioner account; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2069134637906165942",
+      "decision": "keep",
+      "reason": "Local-AI demand signal (Mac Studio units selling out except the 96GB config) with solid engagement and a distinct hardware angle that complements the software-heavy set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique hardware/demand-signal item; no overlap with other items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2069104283824640023",
+        "item_2069119519751094524"
+      ],
+      "reason": "Both cover the OpenAI Daybreak / GPT-5.5-Cyber launch: item_2069104283824640023 is the official primary announcement and item_2069119519751094524 is a distinct third-party analysis adding CyberGym benchmark detail and dual-use framing. Retained as complementary, not redundant."
+    }
+  ],
+  "additional_search_requests": []
+}
