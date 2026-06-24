@@ -1,0 +1,182 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "All 12 selected items are within the 7-12 target with a healthy spread across news, analysis, and practitioner categories, and each traces to a named author, institution, or first-party account, so the full set is kept with no replacements. Two set-level caveats are flagged. First, the Karpathy LLM UI/UX framing (item_2069547676849557725) and the SlackHQ Claude Tag launch (item_2069470647470977288) cover the same Slack-Claude-integration story from distinct angles (practitioner analysis vs first-party product announcement); both are retained as complementary, and the Karpathy reserve follow-up was correctly left in reserve to avoid a third restatement and author overrepresentation. Second, the synthwavedd release-schedule scoop (item_2069432791184650426) is a single anonymous multi-claim rumor with no primary-source link; it is high-signal (1.2M views) so it is retained but flagged for source traceability. IntCyberDigest appears twice but on two genuinely distinct stories (Meta tracking halt and the Tolmo kernel transcript), which is acceptable. No additional Twitter searches are required.",
+  "decisions": [
+    {
+      "id": "item_2069547676849557725",
+      "decision": "keep",
+      "reason": "High-signal Karpathy framing on a third LLM UI/UX redesign, tied to the live Slack Claude Tag launch. 2.1M views, clearly attributed. Retained as the analysis angle of the Slack-Claude story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Slack-Claude-integration story as item_2069470647470977288 but conceptual framing vs product announcement. Distinct angle, not a duplicate. The reserve Karpathy follow-up item_2069601818540392669 is a third restatement and was correctly left in reserve."
+      }
+    },
+    {
+      "id": "item_2069470647470977288",
+      "decision": "keep",
+      "reason": "First-party SlackHQ product launch of Claude Tag as a native taggable in-channel agent. Primary source, distinct from the Karpathy analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Slack-Claude story as item_2069547676849557725 but first-party announcement vs analysis. Complementary, not redundant."
+      }
+    },
+    {
+      "id": "item_2069432791184650426",
+      "decision": "keep",
+      "reason": "Widely circulated release-schedule scoop across multiple frontier-lab timelines, 1.2M views. Retained for reach but flagged at set level as an anonymous single-source rumor with no primary link.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other selected item covers these release-schedule claims. Concern is verifiability, not redundancy."
+      }
+    },
+    {
+      "id": "item_2069483224158646739",
+      "decision": "keep",
+      "reason": "First-party OpenAI announcement of DevDay 2026 with concrete date, location, and deadline. Clean primary source, no overlap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique DevDay 2026 event. No overlap with other items."
+      }
+    },
+    {
+      "id": "item_2069434100054962567",
+      "decision": "keep",
+      "reason": "First-party NVIDIA release of the open BioNeMo Agent Toolkit giving agents callable scientific tools. Concrete and traceable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product release. No overlap."
+      }
+    },
+    {
+      "id": "item_2069518604932944087",
+      "decision": "keep",
+      "reason": "Notable company/policy move: Meta halting an employee-tracking AI-training program after a data-exposure incident. Distinct story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different story from the other IntCyberDigest item (item_2069529510803087599). Two distinct stories from one account, not over-representation."
+      }
+    },
+    {
+      "id": "item_2069529510803087599",
+      "decision": "keep",
+      "reason": "Concrete technical capability demo with a published transcript: Claude Fable 5 writing a booting NT-shaped kernel in Rust. Distinct from the Meta story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different story from the other IntCyberDigest item (item_2069518604932944087). Attributed to named startup Tolmo with a transcript. Not a duplicate."
+      }
+    },
+    {
+      "id": "item_2069420372089520483",
+      "decision": "keep",
+      "reason": "Notable leadership remark from DeepMind CEO Demis Hassabis on recursive self-improvement and safety. Attributed to a named principal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Second-hand relay of a Hassabis quote, distinct from the Demis drug-discovery reserve item (item_2069484922021273694), which was left in reserve. Not a duplicate."
+      }
+    },
+    {
+      "id": "item_2069500921382326531",
+      "decision": "keep",
+      "reason": "Useful technical analysis of an agentic compiler-optimisation loop (Act, Observe, Learn, Repeat). 243K views, concrete.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique loop-engineering topic. No overlap."
+      }
+    },
+    {
+      "id": "item_2069528807669907586",
+      "decision": "keep",
+      "reason": "Concrete hands-on practitioner comparison of coding agents (Cursor vs Codex vs Claude Code). Distinct practitioner voice.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique coding-agent comparison. No overlap."
+      }
+    },
+    {
+      "id": "item_2069411742753399086",
+      "decision": "keep",
+      "reason": "Practitioner story on clustering four Mac minis to run 235B-parameter models commercially. 302K views, unique local-inference angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique local-hardware-clustering story. No overlap."
+      }
+    },
+    {
+      "id": "item_2069519369487753560",
+      "decision": "keep",
+      "reason": "Concrete AI-detection failure case with named institution (Adelphi University), student, tool (Turnitin), and date. Strong engagement and real-world relevance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique AI-detection story with checkable specifics. No overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2069547676849557725",
+        "item_2069470647470977288"
+      ],
+      "reason": "Both cover the Slack Claude integration: item_2069470647470977288 is the first-party SlackHQ announcement of Claude Tag, while item_2069547676849557725 is Karpathy's higher-level LLM UI/UX analysis built on that launch. Retained as complementary angles; the Karpathy reserve follow-up item_2069601818540392669 was a third restatement and correctly left in reserve."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2069432791184650426"
+      ],
+      "reason": "The release-schedule scoop is a single anonymous account relaying multiple unconfirmed model-timeline claims (GPT-5.6 delay, DeepMind 3.5 Pro, Bidi voice model, Claude Sonnet 5 EAP) with no primary-source link or first-party corroboration. Retained for reach (1.2M views) but flagged as unverified; downstream framing should hedge it as rumor."
+    }
+  ],
+  "additional_search_requests": []
+}
