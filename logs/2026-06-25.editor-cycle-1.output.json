@@ -1,0 +1,202 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "The 13-item set is publishable and sits within the 7-13 target. Lead coverage is the OpenAI Jalapeño chip launch (item_2069770172802773292, official) paired with a genuinely distinct analytical angle (item_2069857412660801738, claim it was designed by Codex/GPT); these are same-event/different-angle rather than redundant, flagged for transparency. The reserve gdb tweet covers the same Jalapeño story and is correctly left in reserve. OpenAI appears twice (chip + GPT-5.5 Instant) which is within the allowed cap of 2 distinct stories, so not overrepresented. Two low-engagement items rest on a single secondary account paraphrasing an unverified claim with no primary link: item_2069841192309981661 (VaibhavSisinty, an unrecognizable 'Qwen-AgentWorld' Alibaba release) and item_2069749962871844940 (_avichawla speculative-decoding claim, ~6.4K views, 'reportedly', no source). Both are kept but flagged as source_traceability_failure, and a targeted additional Twitter search is requested to find a more traceable primary or corroborating source for the Alibaba open-source agent story. No hard duplicates require replacement.",
+  "decisions": [
+    {
+      "id": "item_2069770172802773292",
+      "decision": "keep",
+      "reason": "Headline story of the day: OpenAI's first in-house AI chip (Jalapeño) from an official account with 3.6M views, corroborated by gdb. Clear primary source and traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Jalapeño launch event as item_2069857412660801738 and reserve gdb item_2069809298612621629, but this is the canonical official announcement; the paired item carries a distinct analytical angle."
+      }
+    },
+    {
+      "id": "item_2069857412660801738",
+      "decision": "keep",
+      "reason": "Distinct analytical angle on the Jalapeño launch (claim the chip was virtually entirely designed by Codex/GPT). Adds value beyond the official announcement rather than restating it.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as item_2069770172802773292 but a different, analysis-led claim about how the chip was designed; treated as same-topic distinct-angle, not redundant."
+      }
+    },
+    {
+      "id": "item_2069843083701915755",
+      "decision": "keep",
+      "reason": "Official OpenAI model update (GPT-5.5 Instant) with 1.1M views. Distinct OpenAI story from the chip news; within the allowed cap of two OpenAI items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unrelated to the Jalapeño chip story; separate product announcement from the same official account."
+      }
+    },
+    {
+      "id": "item_2069710170070855873",
+      "decision": "keep",
+      "reason": "Open-source model release (GLM 5.2, MIT licensed, 1M-token context) with the clearest factual account. Reserve jahooma item is a follow-on availability note, not a substitute.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related to reserve item_2069951731539349823 (GLM 5.2 free in a coding agent) but this is the primary release; the reserve is a distinct availability update kept in reserve."
+      }
+    },
+    {
+      "id": "item_2069841192309981661",
+      "decision": "keep",
+      "reason": "Open-source agent release from Alibaba, distinct from GLM 5.2. Kept for topical coverage, but engagement is modest and the source is a secondary account; flagged for traceability and a corroborating search is requested.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different release from GLM 5.2; no primary/official link and 'Qwen-AgentWorld' is not a recognizable product name, so verification is weak."
+      }
+    },
+    {
+      "id": "item_2069869327411749012",
+      "decision": "keep",
+      "reason": "Funding news (a16z leads $200M seed for Mirendil) from the official investor account with 546K views. Strong source traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone funding story with no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2069943259900653712",
+      "decision": "keep",
+      "reason": "Company/policy reporting from a named WIRED journalist on Anthropic's negotiations to restore its most powerful models. Distinct topic with a credible reporter source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unrelated to the reserve Dario Amodei biotech item; different subject (model-restoration talks vs. biotech remarks)."
+      }
+    },
+    {
+      "id": "item_2069718855551955194",
+      "decision": "keep",
+      "reason": "Product launch (Vida proactive agent) from the launching account with 980K views. Distinct agent story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate agent product from Qwen-AgentWorld and Claude Tag; no event overlap."
+      }
+    },
+    {
+      "id": "item_2069814177624121469",
+      "decision": "keep",
+      "reason": "Strong practitioner analysis of Slack's Claude Tag and lock-in incentives with 844K views. High-signal opinion piece.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Analysis angle on a Claude/Anthropic product; distinct from the Anthropic policy reporting item."
+      }
+    },
+    {
+      "id": "item_2069825182689317301",
+      "decision": "keep",
+      "reason": "Notable practitioner observation from Karpathy on platform toxicity (389K views). Adds a personal-story category for set diversity.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique personal-story item with no topical overlap."
+      }
+    },
+    {
+      "id": "item_2069784839474032896",
+      "decision": "keep",
+      "reason": "Useful, concrete technical observation on agent-skill prompt writing (236K views). Distinct practitioner-analysis topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other items; agent-prompting craft angle."
+      }
+    },
+    {
+      "id": "item_2069749962871844940",
+      "decision": "keep",
+      "reason": "Concrete inference-performance claim (speculative decoding, 122B model 250 to 1000+ tok/s). Distinct topic, kept for technical coverage, but very low engagement (~6.4K views) and 'reportedly' with no source link; flagged for traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone technical item; weak sourcing ('reportedly', no primary link) is a verification concern rather than a duplication one."
+      }
+    },
+    {
+      "id": "item_2069828651210920410",
+      "decision": "keep",
+      "reason": "Forward-looking product signal on bidirectional voice models, sourced to a Greg Brockman quote. Distinct from the Jalapeño and GPT-5.5 items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate OpenAI-adjacent topic (voice models) reported by a journalist; no event overlap with the chip or model-update items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2069770172802773292",
+        "item_2069857412660801738"
+      ],
+      "reason": "Both cover the OpenAI Jalapeño chip launch but from distinct angles: the official announcement versus the analytical claim that the chip was virtually entirely designed by Codex/GPT. Retained together intentionally; reserve gdb item_2069809298612621629 covers the same story and is correctly left in reserve to avoid a third same-event entry."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2069841192309981661",
+        "item_2069749962871844940"
+      ],
+      "reason": "Both rest on a single secondary account paraphrasing an unverified claim with no primary or official link: item_2069841192309981661 cites an unrecognizable 'Qwen-AgentWorld' Alibaba open-source release, and item_2069749962871844940 is a 'reportedly' speculative-decoding benchmark (~6.4K views). Kept for coverage but require corroboration before final publish."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "The Alibaba open-source agent item (item_2069841192309981661) lacks a traceable primary source and the product name 'Qwen-AgentWorld' is not independently recognizable; a targeted Twitter search may surface an official Qwen/Alibaba post or a higher-signal corroborating account to confirm or replace it.",
+      "suggested_query_theme": "Alibaba Qwen open-source AI agent model release since:2026-06-24 from:Alibaba_Qwen OR Qwen agent open source"
+    }
+  ]
+}
