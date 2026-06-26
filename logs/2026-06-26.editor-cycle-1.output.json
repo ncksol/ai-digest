@@ -1,0 +1,170 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Eleven selected items sit within the 6-11 target. The day's dominant story (U.S. government gating GPT-5.6 access) is covered through three genuinely distinct angles: ns123abc's high-engagement breaking summary, steph_palazzolo's first-party The Information scoop, and AndrewCurran_'s primary Amodei letter to the White House and named senators. No author is overrepresented (each appears once). The Codex/agentic-work thread is anchored by the official OpenAI post, with redundant reserve duplicates (thsottiaux, gdb) correctly left out. The main traceability concern is JonhernandezIA's dramatic Hassabis 'edge of the singularity' paraphrase from a secondary aggregator account with no linked primary; it is flagged but retained since Twitter-only verification cannot resolve it and the engagement and relevance justify inclusion. All eleven decisions are keep; no replacements needed and the reserve pool offers no superior same-angle substitute.",
+  "decisions": [
+    {
+      "id": "item_2070254377831727283",
+      "decision": "keep",
+      "reason": "Strongest-engagement (983K views) breaking summary of the GPT-5.6 government-gated release naming Commerce Sec Lutnick; anchors the day's dominant story and is corroborated by steph_palazzolo's first-party scoop.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GPT-5.6 gating event as steph_palazzolo and AndrewCurran_, but this is the aggregated high-reach summary angle, distinct from the original scoop and the primary letter."
+      }
+    },
+    {
+      "id": "item_2070241787180966279",
+      "decision": "keep",
+      "reason": "The Information's original reporting-team scoop with the highest view count (1.4M) on the story; distinct angle emphasizing security concerns and staggered rollout, providing first-party sourcing for the cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as ns123abc but is the primary journalistic source with a distinct security and staggered-rollout framing; strengthens traceability for the cluster."
+      }
+    },
+    {
+      "id": "item_2070134863370567864",
+      "decision": "keep",
+      "reason": "Concrete primary document: Amodei's letter to the White House and Senators Tim Scott and Elizabeth Warren; a distinct policy-actor angle within the regulation story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Related to the broader GPT-5.6/regulation story but introduces a separate primary artifact (the Amodei letter) and named senators, not covered by the other cluster items."
+      }
+    },
+    {
+      "id": "item_2070196105745518913",
+      "decision": "keep",
+      "reason": "Official OpenAI post detailing internal cross-departmental Codex adoption; concrete first-party company statement with strong engagement (4.1K likes, 785K views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Anchor of the Codex/agentic-work thread; reserve items thsottiaux and gdb are the redundant duplicates of this angle and were correctly excluded."
+      }
+    },
+    {
+      "id": "item_2070183531612172697",
+      "decision": "keep",
+      "reason": "Official Anthropic company move as founding partner of the RAISE US workforce coalition; concrete, first-party, and topically distinct from the regulation and Codex stories.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone Anthropic workforce/policy announcement; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2070198119174705264",
+      "decision": "keep",
+      "reason": "Widely-viewed (274K) Amodei quote contrasting co-founder retention at Anthropic vs OpenAI; strong practitioner-interest culture item distinct from the official Anthropic announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Secondary aggregator (0xCodila) relaying an Amodei quote; culture/retention angle is distinct from the AnthropicAI partnership post, though it shares the Anthropic subject."
+      }
+    },
+    {
+      "id": "item_2070153054679179400",
+      "decision": "keep",
+      "reason": "Concrete open-source model release (DeepReinforce Ornith-1.0, 397B MoE for agentic coding); distinct open-weights release news not covered elsewhere.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone model-release item; no overlap with other selections."
+      }
+    },
+    {
+      "id": "item_2070233315685376461",
+      "decision": "keep",
+      "reason": "High-engagement (4.2K likes, 478K views) research finding on LLM trading underperforming buy-and-hold over 20 years; concrete, widely-shared analysis with a distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis item; paraphrases a study but topically unique, so no duplication risk within the set."
+      }
+    },
+    {
+      "id": "item_2070388588211306695",
+      "decision": "keep",
+      "reason": "High-view (537K) demonstration of a multi-model agent building a full Slack-like app from a single prompt; concrete practitioner/product angle distinct from official releases.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Mentions models 'may be banned' in passing but the core is an independent multi-LLM app-build demo, a different angle from the GPT-5.6 gating cluster."
+      }
+    },
+    {
+      "id": "item_2070110837591720236",
+      "decision": "keep",
+      "reason": "Concrete research artifact (Stanford 16-page agent-structure paper) with a clear Build/Reflect/Curate/Reuse framework; useful technical analysis on a distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone technical analysis; secondary-account paraphrase but topically unique within the set."
+      }
+    },
+    {
+      "id": "item_2070121973342994753",
+      "decision": "keep",
+      "reason": "Strongest-engagement Hassabis item with concrete safety-timeline claims (bio/nuclear risk within 2 years); distinct AGI-safety angle from the policy and product stories. Retained despite secondary-source paraphrasing because Twitter-only verification cannot resolve it and relevance is high.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone AGI-safety item; flagged for source traceability because the dramatic Hassabis quote comes from a secondary aggregator (JonhernandezIA) with no linked primary, but it is the only safety-angle coverage in the set."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2070254377831727283",
+        "item_2070241787180966279",
+        "item_2070134863370567864"
+      ],
+      "reason": "Three items cover the GPT-5.6 government-gating story but from genuinely distinct angles: ns123abc's aggregated high-reach breaking summary, steph_palazzolo's first-party The Information scoop, and AndrewCurran_'s primary Amodei letter to named senators. Retained as complementary, not redundant, with the scoop providing primary sourcing."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2070121973342994753"
+      ],
+      "reason": "The Hassabis 'AGI at the edge of the singularity / bio and nuclear risks within 2 years' claim is relayed by a secondary aggregator account (JonhernandezIA) with no linked primary source, transcript, or talk reference in the tweet text, leaving the dramatic quote unverifiable through the digest's Twitter-only workflow."
+    }
+  ],
+  "additional_search_requests": []
+}
