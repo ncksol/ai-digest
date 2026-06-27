@@ -1,0 +1,180 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 11 selected items are well-sourced, fresh, and form a coherent set led by the GPT-5.6 (Sol/Terra/Luna) limited-preview launch and the parallel US export-control story on Anthropic's Mythos 5. Selection correctly held the redundant first-party OpenAI/sama sub-tweets and the SophiaCai99 duplicate of the Mythos 5 export news in reserve. Two clusters share a broad topic but each contributes a distinct angle (GPT-5.6 launch + government access framing; Anthropic economic-impact: Econ Index data, displacement clip, AGI-timeline debate), so they are flagged informationally rather than cut. Two items relay second-hand quotes without a primary link (cryptorover on Musk/Cook, AnatoliKopadze on the Anthropic CEO), flagged for source traceability; both remain acceptable as widely-circulated clips with clear attribution, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2070555272230384038",
+      "decision": "keep",
+      "reason": "Top news of the day: first-party OpenAI announcement of the GPT-5.6 family (Sol/Terra/Luna) limited preview. Highest-engagement launch tweet and the canonical thread head; source is the official OpenAI account so traceability is solid despite the reply/view metric gap noted in selection.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GPT-5.6 launch event as the sama statement and the reserve OpenAI flagship/cybersecurity tweets, but this is the primary announcement head and the distinct 'introducing the family' angle. The reserve OpenAI sub-tweets are the redundant copies and were correctly not selected."
+      }
+    },
+    {
+      "id": "item_2070607488274358364",
+      "decision": "keep",
+      "reason": "Altman's first-party statement framing the limited-preview launch as a US-government request rather than OpenAI's plan. Distinct company/policy angle on the launch event; high engagement and authoritative source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same launch/government-access event as the OpenAI head and the second sama tweet, but contributes the 'why limited preview' company framing. Distinct angle, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2070609190977228893",
+      "decision": "keep",
+      "reason": "Altman's sharper follow-up distinguishing support for a mandated red-team preview window from opposition to the government picking customers. Second sama item but a genuinely distinct policy nuance, within author cap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Builds on the same government-access thread as the prior sama statement but adds a distinct normative position. Two sama items both justified by separate angles; not redundant."
+      }
+    },
+    {
+      "id": "item_2070649677784191321",
+      "decision": "keep",
+      "reason": "Concrete policy counterpart to the GPT-5.6 story: Commerce lifts the export block on Anthropic's Mythos 5 for 100 US institutions (Fable excluded), citing Semafor and naming the Lutnick-to-Brown letter. Specific, attributed, and corroborated by the reserve SophiaCai99 report.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same Mythos 5 export-lift event as reserve item_2070649934735434176 (SophiaCai99). This AndrewCurran_ version is the more detailed, better-sourced account and is selected; the SophiaCai99 near-duplicate was correctly held in reserve, so no redundancy exists within the selected set."
+      }
+    },
+    {
+      "id": "item_2070528961235575278",
+      "decision": "keep",
+      "reason": "First-party Anthropic data release: updated Economic Index using hourly sampling plus a first user survey. Canonical thread head from the official account; clear sourcing despite the thread-head metric gap noted in selection.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Topically adjacent to the Amodei displacement clip and AGI-timeline item (Anthropic economic impact), but a distinct data-release angle. The reserve Econ Index survey-stat tweet is the same release and was correctly not selected."
+      }
+    },
+    {
+      "id": "item_2070536579459035426",
+      "decision": "keep",
+      "reason": "Strong practitioner hands-on signal: a named local model (Ornith-1.0 35b) claimed to beat Qwen 3.6 on a DGX Spark without 200GB+ RAM. Concrete, testable claim with high views and healthy reply engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open/local-model practitioner story; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2070749186925195770",
+      "decision": "keep",
+      "reason": "Sharp, fresh analytic take tying GLM-5.2 plus US frontier-model restrictions to a revenue/IPO risk for closed labs. Credible practitioner voice; ties the open-source thread to the export-control story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct analysis angle; thematically connects the export-control and open-source threads without duplicating any single item."
+      }
+    },
+    {
+      "id": "item_2070535054074552795",
+      "decision": "keep",
+      "reason": "Concrete on-stage exchange contrasting Amodei (AGI 1-2 yrs) and Hassabis (5-10 yrs), with Amodei arguing to slow to the longer timeline. Notable framing of the timeline debate from named principals.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Part of the broad Anthropic/Amodei economic-and-AGI cluster but a distinct AGI-timeline angle, separate from the displacement clip and the Econ Index data. Low raw engagement noted, but content value is high."
+      }
+    },
+    {
+      "id": "item_2070489150294274236",
+      "decision": "keep",
+      "reason": "Widely shared Amodei interview clip on AI's labour-market split and jobs that may disappear (262k views). Complements the Econ Index data from a human-impact angle. Quote is paraphrased second-hand; flagged for traceability but acceptable as a high-reach clip with clear attribution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same Anthropic-economic-impact cluster as the Econ Index and AGI-timeline items, but a distinct displacement/labour angle. Not a duplicate; flagged at set level for shared topic and for second-hand sourcing."
+      }
+    },
+    {
+      "id": "item_2070586945722609771",
+      "decision": "keep",
+      "reason": "Practitioner claim of a fine-tuned 14b model targeting LLM 'slop' after a week of beta testing. Concrete technical observation with healthy reply engagement; adds model-quality angle to the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique small-model fine-tuning story; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2070462341247090958",
+      "decision": "keep",
+      "reason": "High-reach macro/supply item relaying Musk on AI-driven production shortages and Tim Cook on 40-year-high tech cost inflation (330k views). Adds the AI-buildout cost angle. Quotes are second-hand from an aggregator with no primary link; flagged for traceability but retained as a widely-circulated framing of the cost story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique macro/cost-of-compute angle; no content overlap with other selected items. Flagged at set level only for second-hand source traceability."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2070555272230384038",
+        "item_2070607488274358364",
+        "item_2070609190977228893"
+      ],
+      "reason": "Three items cover the same GPT-5.6 limited-preview launch event but each adds a distinct angle: OpenAI's primary family announcement, Altman's framing of the government-requested limited preview, and Altman's nuanced position on mandated red-teaming vs. the government picking customers. Kept together intentionally; the redundant OpenAI flagship/cybersecurity/750-tok sub-tweets were correctly held in reserve."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2070528961235575278",
+        "item_2070489150294274236",
+        "item_2070535054074552795"
+      ],
+      "reason": "Three items orbit the same Anthropic/Amodei economic-and-AGI theme from distinct angles: the first-party Econ Index data release, a high-reach interview clip on labour-market displacement, and the on-stage Amodei vs. Hassabis AGI-timeline exchange. Distinct enough to retain all three; flagged so the writer avoids stacking them or implying they are one story."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2070462341247090958",
+        "item_2070489150294274236"
+      ],
+      "reason": "Both items relay second-hand quotes without a primary link: cryptorover paraphrases Musk and Tim Cook, and AnatoliKopadze paraphrases the Anthropic CEO from an interview clip. Attribution is clear and the clips are widely circulated, so they are retained, but the writer should hedge attribution and avoid presenting the paraphrases as verified primary quotes."
+    }
+  ],
+  "additional_search_requests": []
+}
