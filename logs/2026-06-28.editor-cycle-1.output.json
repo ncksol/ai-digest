@@ -1,0 +1,179 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 11 selected items are concrete, attributed, and within the 6-11 target. Coverage spans the DeepSeek DSpark open-source release, the China-vs-US-lab capability narrative, compute-driven access limits, model-identity reporting, AI-market sentiment, UK sovereign AI, an Amodei open-source argument, a practitioner downstream story, a research paper, and an executive hiring quote. No two selected items are hard duplicates of the same event and angle, so no replacements are required. Two adjacent pairs are noted as same-topic/distinct-angle: Polymarket vs pmarca (both Chinese-model-beats-US-labs, but bug-finding benchmark vs broad insider positioning) and Yuchenj_UW DSpark vs nunkeai's downstream draft-model build. The reserve pool's US government AI-access cluster (AnthropicAI Mythos 5 redeployment, GPT-5.6 access rejection, Lutnick call) is a coherent secondary story only lightly represented via the Cosine sovereign-LLM item; flagged as a coverage gap rather than a blocking issue. The DSpark duplicate within the pool itself (danielhanchen vs the selected Yuchenj_UW) is correctly left in reserve.",
+  "decisions": [
+    {
+      "id": "item_2070928299744972814",
+      "decision": "keep",
+      "reason": "Strongest within-window source for the concrete DeepSeek DSpark open-source release (DSpark + DeepSpec framework) with specific throughput figures. Anchors the day's biggest open-source story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the DSpark release event with reserve item_2070751700626076109 (danielhanchen), but this is the selected primary and danielhanchen stays in reserve, so no in-set duplication. nunkeai's item is a distinct downstream practitioner angle on the same paper."
+      }
+    },
+    {
+      "id": "item_2071039148484378891",
+      "decision": "keep",
+      "reason": "Concrete, high-reach competitive-capability claim (Zhipu AI matching Claude Mythos at finding security bugs); timely given the Mythos access debate and benchmark-specific rather than a generic ranking.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Adjacent to pmarca's GLM-5.2 claim in topic (Chinese model vs US labs) but distinct angle: a specific security-bug benchmark match, not a broad insider positioning statement."
+      }
+    },
+    {
+      "id": "item_2070977289932935435",
+      "decision": "keep",
+      "reason": "High-reach insider observation framing the open-weight competitive shift (GLM-5.2 matching/beating US public models). Distinct analytical framing that complements the benchmark-specific Polymarket item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broad topic as Polymarket/Zhipu but different angle (sweeping insider claim about GLM-5.2 across the board vs a single security-bug benchmark). Retained as distinct-angle coverage."
+      }
+    },
+    {
+      "id": "item_2071085599935655960",
+      "decision": "keep",
+      "reason": "Concrete reported business move from a primary news source (FT) on compute-driven access caps (Google capping Meta's Gemini use). Unique capacity/infrastructure angle in the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other items; the only compute-capacity/business-access story in the set."
+      }
+    },
+    {
+      "id": "item_2071123605694652737",
+      "decision": "keep",
+      "reason": "Concrete model-identity reporting with specific architecture detail (Owl Alpha = Meituan LongCat-2.0-Preview, 1.6T MoE). Adds a distinct technical-disclosure angle; rohanpaul capped at two items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Low engagement but uniquely informative on model identity/architecture. No duplicate event in the set."
+      }
+    },
+    {
+      "id": "item_2070898783886671921",
+      "decision": "keep",
+      "reason": "Concrete market-sentiment item with named funds and attribution (Chinese hedge funds warning of an AI super bubble). Provides the finance/macro angle absent elsewhere.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone finance-sentiment story; no overlap with capability or release items."
+      }
+    },
+    {
+      "id": "item_2070859393973830047",
+      "decision": "keep",
+      "reason": "Concrete national-AI item (UK sovereign LLM via Cosine on the Isambard supercomputer), distinct from US-centric access/regulation stories and the main capability narrative.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Only sovereign-AI item in the set; partially overlaps the broader government/AI theme also present in the reserve access cluster but from a distinct UK-build angle."
+      }
+    },
+    {
+      "id": "item_2071079939403809252",
+      "decision": "keep",
+      "reason": "Substantive Amodei argument on why open source differs in AI (opacity of model internals). Adds an AI-safety/open-weights debate angle and is the more distinct of rohanpaul's two items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Conceptual argument, not an event; complements rather than duplicates the open-source release items. Distinct from the same author's Owl Alpha item."
+      }
+    },
+    {
+      "id": "item_2070979527971688660",
+      "decision": "keep",
+      "reason": "Concrete practitioner story (solo operator training a 1.29B draft model for Qwen 3.6 27B) showing the downstream effect of the DSpark/DeepSeek work. Grounds the headline release in real builder activity.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "References the same DeepSeek paper as the Yuchenj_UW DSpark item but is a distinct practitioner-build angle, not a restatement of the release."
+      }
+    },
+    {
+      "id": "item_2070824205663273175",
+      "decision": "keep",
+      "reason": "Concrete research/paper item (Cambridge + NVIDIA revisiting the 2003 Goedel Machine self-improvement concept). Adds a technical/research angle not covered by release or commentary items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research story; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2070850102105686212",
+      "decision": "keep",
+      "reason": "Widely shared attributed executive quote (Jensen Huang on hiring AI-expert graduates). Rounds out the labour/skills angle with strong reach (112k views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone labour/skills quote; no duplicate in the set."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2071039148484378891",
+        "item_2070977289932935435"
+      ],
+      "reason": "Both cover the Chinese-model-matches-or-beats-US-labs narrative. Polymarket is a specific security-bug benchmark match against Claude Mythos; pmarca is a broad insider claim about GLM-5.2 beating US public models with no compromises. Retained as distinct angles but should not both be framed identically in the writeup."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2070928299744972814",
+        "item_2070979527971688660"
+      ],
+      "reason": "Yuchenj_UW reports the DSpark/DeepSpec open-source release; nunkeai is a solo operator acting on the same DeepSeek paper. Same underlying source work, but a release announcement vs a downstream practitioner build. Keep both but make the dependency explicit rather than redundant."
+    },
+    {
+      "type": "coverage_gap",
+      "item_ids": [
+        "item_2070665903440871779",
+        "item_2070745255302099382",
+        "item_2070800669917724965"
+      ],
+      "reason": "The reserve pool contains a coherent, very high-reach US government AI-access story (AnthropicAI: Mythos 5 redeployment to critical-infrastructure orgs at 4.2M views; JinjingLiang: GPT-5.6 preview rejection / government-handpicked access; shashj: Lutnick caution to Altman). Only the UK Cosine sovereign-LLM item lightly touches the government/AI theme; the US access-control thread is largely unrepresented in the selected set. Noted for editorial awareness, not blocking."
+    }
+  ],
+  "additional_search_requests": []
+}
