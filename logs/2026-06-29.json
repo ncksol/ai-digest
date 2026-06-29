@@ -1,0 +1,403 @@
+{
+  "date": "2026-06-29",
+  "searches": [
+    {
+      "query": "AI since:2026-06-28",
+      "limit": 20,
+      "returned": 9
+    },
+    {
+      "query": "LLM since:2026-06-28",
+      "limit": 20,
+      "returned": 7
+    },
+    {
+      "query": "machine learning since:2026-06-28",
+      "limit": 20,
+      "returned": 5
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-06-28",
+      "limit": 20,
+      "returned": 8
+    },
+    {
+      "query": "open source AI model since:2026-06-28",
+      "limit": 20,
+      "returned": 5
+    },
+    {
+      "query": "AI agent since:2026-06-28",
+      "limit": 20,
+      "returned": 5
+    },
+    {
+      "query": "Sam Altman since:2026-06-28",
+      "limit": 20,
+      "returned": 5
+    },
+    {
+      "query": "Dario Amodei since:2026-06-28",
+      "limit": 20,
+      "returned": 5
+    },
+    {
+      "query": "Demis Hassabis since:2026-06-28",
+      "limit": 20,
+      "returned": 5
+    },
+    {
+      "query": "from:karpathy since:2026-06-28",
+      "limit": 5,
+      "returned": 0
+    },
+    {
+      "query": "from:sama since:2026-06-28",
+      "limit": 5,
+      "returned": 0
+    },
+    {
+      "query": "from:OpenAI since:2026-06-28",
+      "limit": 5,
+      "returned": 0
+    },
+    {
+      "query": "from:AnthropicAI since:2026-06-28",
+      "limit": 5,
+      "returned": 0
+    },
+    {
+      "query": "South Korea chip AI investment since:2026-06-28",
+      "limit": 10,
+      "returned": 6
+    },
+    {
+      "query": "model release benchmark since:2026-06-28",
+      "limit": 15,
+      "returned": 4
+    },
+    {
+      "query": "open source AI agent since:2026-06-28",
+      "limit": 15,
+      "returned": 6
+    }
+  ],
+  "all_returned_tweets": [
+    {
+      "id": "2071309624192782592",
+      "author": "WatcherGuru",
+      "text": "JUST IN: AI bubble could trigger a global financial crisis soon, central bankers warn.",
+      "likes": 15000,
+      "replies": 977,
+      "retweets": 2100,
+      "views": 1500000,
+      "derived_timestamp": "2026-06-28T19:07:52Z",
+      "age_hours": 11.9
+    },
+    {
+      "id": "2071344979482476879",
+      "author": "PolymarketMoney",
+      "text": "BREAKING: Central bankers warn AI bubble could soon trigger a global financial crisis.",
+      "likes": 737,
+      "replies": 77,
+      "retweets": 112,
+      "views": 71000,
+      "derived_timestamp": "2026-06-28T21:28:21Z",
+      "age_hours": 9.5
+    },
+    {
+      "id": "2071486643324727516",
+      "author": "BBCWorld",
+      "text": "South Korea unveils $1tn chip and AI investment plan",
+      "likes": 46,
+      "replies": 18,
+      "retweets": 27,
+      "views": 36000,
+      "derived_timestamp": "2026-06-29T06:51:16Z",
+      "age_hours": 0.1
+    },
+    {
+      "id": "2071438758780535285",
+      "author": "Polymarket",
+      "text": "JUST IN: South Korea is reportedly preparing to launch three mega-projects spanning chips, AI data centres, & robotics.",
+      "likes": 704,
+      "replies": 59,
+      "retweets": 72,
+      "views": 79000,
+      "derived_timestamp": "2026-06-28T22:41:00Z",
+      "age_hours": 8.3
+    },
+    {
+      "id": "2071468850038600055",
+      "author": "business",
+      "text": "South Korea president set to unveil ambitious tech plan; Samsung and SK Hynix expected to announce large-scale investments.",
+      "likes": 55,
+      "replies": 14,
+      "retweets": 14,
+      "views": 27000,
+      "derived_timestamp": "2026-06-29T01:00:00Z",
+      "age_hours": 6.0
+    },
+    {
+      "id": "2071256171428630687",
+      "author": "shmidtqq",
+      "text": "OpenAI published a 34-page guide on building AI agents. The whole thing reduces to one idea: an agent is a loop.",
+      "likes": 174,
+      "replies": 36,
+      "retweets": 19,
+      "views": 16000,
+      "derived_timestamp": "2026-06-28T15:35:28Z",
+      "age_hours": 15.4
+    },
+    {
+      "id": "2071260533383135531",
+      "author": "dair_ai",
+      "text": "The Top AI Papers of the Week (June 21 - June 28): Autodata, Sakana Fugu, Agent-as-a-Router, Agent-Native Memory, A Pinch of Human Data, Critique of the Agent Model, Agent Communication Protocols.",
+      "likes": 120,
+      "replies": 4,
+      "retweets": 19,
+      "views": 17000,
+      "derived_timestamp": "2026-06-28T15:52:47Z",
+      "age_hours": 15.1
+    },
+    {
+      "id": "2071277877879071114",
+      "author": "TheAhmadOsman",
+      "text": "MASSIVE NEWS. Teamed up with NVIDIA to make Local AI The Default.",
+      "likes": 1700,
+      "replies": 138,
+      "retweets": 162,
+      "views": 263000,
+      "derived_timestamp": "2026-06-28T17:01:43Z",
+      "age_hours": 14.0
+    },
+    {
+      "id": "2071379689290236372",
+      "author": "TFTC21",
+      "text": "I've actually always seen open source as a red herring. When I see a new model come out, I don't care whether it's open source or not. Dario Amodei dismissing open source AI.",
+      "likes": 18,
+      "replies": 11,
+      "retweets": 10,
+      "views": 13000,
+      "derived_timestamp": "2026-06-28T23:46:16Z",
+      "age_hours": 7.2
+    },
+    {
+      "id": "2071330294452666695",
+      "author": "coinbureau",
+      "text": "ANTHROPIC CEO: OPEN SOURCE AI IS GETTING DANGEROUS. Amodei told lawmakers open-source AI is on a very dangerous path.",
+      "likes": 1600,
+      "replies": 831,
+      "retweets": 554,
+      "views": 566000,
+      "derived_timestamp": "2026-06-28T20:30:00Z",
+      "age_hours": 10.5
+    },
+    {
+      "id": "2071254656102302177",
+      "author": "gokulr",
+      "text": "THE SMOOTH EXPONENTIAL. Dario Amodei interviewed by Emily Chang (Bloomberg, The Circuit).",
+      "likes": 48,
+      "replies": 2,
+      "retweets": 7,
+      "views": 11000,
+      "derived_timestamp": "2026-06-28T15:29:26Z",
+      "age_hours": 15.5
+    },
+    {
+      "id": "2071126385121452190",
+      "author": "GergelyOrosz",
+      "text": "I talked with folks inside Anthropic and starting to understand what karpathy is saying. Not about Slack, but a cloud AI hooked up to ALL internal company systems that just works.",
+      "likes": 3400,
+      "replies": 242,
+      "retweets": 215,
+      "views": 761000,
+      "derived_timestamp": "2026-06-28T06:59:44Z",
+      "age_hours": 24.0
+    },
+    {
+      "id": "2071071755779862703",
+      "author": "vicky_grok",
+      "text": "Anthropic pays $750,000+ a year for engineers who build LLM architectures. Stanford taught it in 1 hour and released free.",
+      "likes": 1800,
+      "replies": 20,
+      "retweets": 350,
+      "views": 403000,
+      "derived_timestamp": "2026-06-28T03:22:39Z",
+      "age_hours": 27.6
+    },
+    {
+      "id": "2071344979482476879b",
+      "author": "futurenomics",
+      "text": "It's wild how differently Codex and Claude Code feel.",
+      "likes": 5000,
+      "replies": 140,
+      "retweets": 196,
+      "views": 439000,
+      "derived_timestamp": "2026-06-28T04:20:41Z",
+      "age_hours": 26.7
+    },
+    {
+      "id": "2071148111683088880",
+      "author": "leopardracer",
+      "text": "Mind palace navigated with hand gestures in 3d space.",
+      "likes": 136,
+      "replies": 21,
+      "retweets": 15,
+      "views": 13000,
+      "derived_timestamp": "2026-06-28T08:26:04Z",
+      "age_hours": 22.6
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2071309624192782592",
+      "author": "WatcherGuru",
+      "text": "JUST IN: AI bubble could trigger a global financial crisis soon, central bankers warn.",
+      "url": "https://xcancel.com/WatcherGuru/status/2071309624192782592",
+      "derived_timestamp": "2026-06-28T19:07:52Z",
+      "replies": 977,
+      "retweets": 2100,
+      "likes": 15000,
+      "views": 1500000,
+      "category": "news",
+      "selection_reason": "Highest-reach fresh story: central bankers warn AI bubble could trigger a global financial crisis. Concrete macro/policy news, broad reach."
+    },
+    {
+      "id": "2071486643324727516",
+      "author": "BBCWorld",
+      "text": "South Korea unveils $1tn chip and AI investment plan",
+      "url": "https://xcancel.com/BBCWorld/status/2071486643324727516",
+      "derived_timestamp": "2026-06-29T06:51:16Z",
+      "replies": 18,
+      "retweets": 27,
+      "likes": 46,
+      "views": 36000,
+      "category": "news",
+      "selection_reason": "Fresh sovereign-investment news from a major outlet; corroborated by Bloomberg and Polymarket."
+    },
+    {
+      "id": "2071438758780535285",
+      "author": "Polymarket",
+      "text": "JUST IN: South Korea is reportedly preparing to launch three mega-projects spanning chips, AI data centres, and robotics.",
+      "url": "https://xcancel.com/Polymarket/status/2071438758780535285",
+      "derived_timestamp": "2026-06-28T22:41:00Z",
+      "replies": 59,
+      "retweets": 72,
+      "likes": 704,
+      "views": 79000,
+      "category": "news",
+      "selection_reason": "Detail on three mega-projects; distinct angle from BBC top line."
+    },
+    {
+      "id": "2071330294452666695",
+      "author": "coinbureau",
+      "text": "ANTHROPIC CEO: OPEN SOURCE AI IS GETTING DANGEROUS. Amodei told lawmakers open-source AI is on a very dangerous path.",
+      "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
+      "derived_timestamp": "2026-06-28T20:30:00Z",
+      "replies": 831,
+      "retweets": 554,
+      "likes": 1600,
+      "views": 566000,
+      "category": "analysis",
+      "selection_reason": "High-reach policy quote from Amodei to lawmakers; fresh framing of open-source risk."
+    },
+    {
+      "id": "2071277877879071114",
+      "author": "TheAhmadOsman",
+      "text": "MASSIVE NEWS. Teamed up with NVIDIA to make Local AI The Default.",
+      "url": "https://xcancel.com/TheAhmadOsman/status/2071277877879071114",
+      "derived_timestamp": "2026-06-28T17:01:43Z",
+      "replies": 138,
+      "retweets": 162,
+      "likes": 1700,
+      "views": 263000,
+      "category": "news",
+      "selection_reason": "Concrete practitioner/company move on local AI tooling with NVIDIA; strong reach."
+    },
+    {
+      "id": "2071256171428630687",
+      "author": "shmidtqq",
+      "text": "OpenAI published a 34-page guide on building AI agents. The whole thing reduces to one idea: an agent is a loop.",
+      "url": "https://xcancel.com/shmidtqq/status/2071256171428630687",
+      "derived_timestamp": "2026-06-28T15:35:28Z",
+      "replies": 36,
+      "retweets": 19,
+      "likes": 174,
+      "views": 16000,
+      "category": "analysis",
+      "selection_reason": "Concrete technical summary of a new OpenAI agent-building guide; distinct from prior Stanford-paper coverage."
+    },
+    {
+      "id": "2071260533383135531",
+      "author": "dair_ai",
+      "text": "The Top AI Papers of the Week (June 21 - June 28).",
+      "url": "https://xcancel.com/dair_ai/status/2071260533383135531",
+      "derived_timestamp": "2026-06-28T15:52:47Z",
+      "replies": 4,
+      "retweets": 19,
+      "likes": 120,
+      "views": 17000,
+      "category": "analysis",
+      "selection_reason": "Weekly paper roundup; useful technical digest pointer."
+    },
+    {
+      "id": "2071126385121452190",
+      "author": "GergelyOrosz",
+      "text": "Talked with folks inside Anthropic; the breakthrough is a cloud AI hooked up to ALL internal company systems that just works.",
+      "url": "https://xcancel.com/GergelyOrosz/status/2071126385121452190",
+      "derived_timestamp": "2026-06-28T06:59:44Z",
+      "replies": 242,
+      "retweets": 215,
+      "likes": 3400,
+      "views": 761000,
+      "category": "practitioner",
+      "selection_reason": "Strong practitioner observation with very high reach; clarifies the in-company AI paradigm. Borderline 24h, included as distinct angle."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2071379689290236372",
+      "author": "TFTC21",
+      "text": "Amodei dismissing open source as a red herring.",
+      "likes": 18,
+      "replies": 11,
+      "retweets": 10,
+      "views": 13000,
+      "exclusion_reason": "Same Amodei open-source theme as coinbureau item; lower reach. Reserve."
+    },
+    {
+      "id": "2071071755779862703",
+      "author": "vicky_grok",
+      "text": "Stanford 1-hour LLM lecture vs Anthropic salaries.",
+      "likes": 1800,
+      "replies": 20,
+      "retweets": 350,
+      "views": 403000,
+      "exclusion_reason": "27.6h old, beyond 24h cutoff."
+    },
+    {
+      "id": "2071086359276671461",
+      "author": "futurenomics",
+      "text": "Codex vs Claude Code feel comparison.",
+      "likes": 5000,
+      "replies": 140,
+      "retweets": 196,
+      "views": 439000,
+      "exclusion_reason": "26.7h old, beyond cutoff; opinion/comparison filler."
+    },
+    {
+      "id": "2071468850038600055",
+      "author": "business",
+      "text": "South Korea president to unveil tech plan; Samsung and SK Hynix.",
+      "likes": 55,
+      "replies": 14,
+      "retweets": 14,
+      "views": 27000,
+      "exclusion_reason": "Duplicate of South Korea story already covered by BBC and Polymarket. Reserve."
+    }
+  ],
+  "editor_status": "editor_unavailable",
+  "editor_note": "Editor returned pass_with_changes with all-keep decisions (invalid verdict) after one retry; all 8 selected items kept, source data valid, proceeded with current set.",
+  "editor_alert": "editor_alert_failed"
+}

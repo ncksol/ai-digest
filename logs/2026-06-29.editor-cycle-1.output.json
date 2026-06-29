@@ -1,0 +1,137 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Eight selected items span a broad set of distinct topics: AI bubble macro warning, South Korea's $1tn chip/AI plan (two complementary angles), Amodei's open-source risk stance, local AI tooling, an OpenAI agent guide, a weekly papers roundup, and an Anthropic internal-systems observation. Author distribution is healthy. Main concern: BBC and Polymarket cover the same South Korea event from distinct angles (top line vs three-mega-project detail), and three aggregator/hype-styled items (WatcherGuru, coinbureau, TheAhmadOsman) lack clear primary-source attribution. Verdict pass_with_changes: keep all, flag the same-topic pairing and the traceability gaps; no eligible reserve improves on any selected item, so no replacements.",
+  "decisions": [
+    {
+      "id": "item_2071309624192782592",
+      "decision": "keep",
+      "reason": "Highest-reach fresh macro story; central bankers warning on AI bubble is concrete policy-relevant news. Distinct topic. Aggregator phrasing lacks a primary central-bank source but story is widely reportable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other item covers AI-bubble systemic risk."
+      }
+    },
+    {
+      "id": "item_2071486643324727516",
+      "decision": "keep",
+      "reason": "Major-outlet top line on South Korea's $1tn chip/AI plan; corroborated by Polymarket and Bloomberg. Anchor for the SK cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same SK event as Polymarket and reserve 'business', but BBC is the headline framing; distinct angle from mega-project detail."
+      }
+    },
+    {
+      "id": "item_2071438758780535285",
+      "decision": "keep",
+      "reason": "Adds distinct detail (three mega-projects: chips, AI data centres, robotics) beyond BBC headline. Complementary angle, not pure duplicate.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same SK event as BBC; differentiated by mega-project breakdown."
+      }
+    },
+    {
+      "id": "item_2071330294452666695",
+      "decision": "keep",
+      "reason": "High-reach Amodei policy quote on open-source AI risk; strongest version of this story. Aggregator headline styling but quote is attributable to testimony.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Amodei testimony as reserve TFTC21, but this is the lead high-reach version."
+      }
+    },
+    {
+      "id": "item_2071277877879071114",
+      "decision": "keep",
+      "reason": "Concrete local-AI/NVIDIA tooling move with strong reach. Distinct topic. 'MASSIVE NEWS' framing lacks linked primary source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other items."
+      }
+    },
+    {
+      "id": "item_2071256171428630687",
+      "decision": "keep",
+      "reason": "Useful technical summary of OpenAI's 34-page agent guide; distinct analysis item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique topic."
+      }
+    },
+    {
+      "id": "item_2071260533383135531",
+      "decision": "keep",
+      "reason": "Weekly AI papers roundup; valuable digest pointer, distinct from agent guide.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique topic."
+      }
+    },
+    {
+      "id": "item_2071126385121452190",
+      "decision": "keep",
+      "reason": "High-reach practitioner observation on Anthropic internal-systems integration; distinct angle from policy and SK stories.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from coinbureau's open-source policy angle."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2071486643324727516",
+        "item_2071438758780535285"
+      ],
+      "reason": "BBC (headline) and Polymarket (three mega-projects detail) cover the same South Korea $1tn plan from complementary angles; kept as two but reader should know they are one event."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2071309624192782592",
+        "item_2071277877879071114"
+      ],
+      "reason": "WatcherGuru and TheAhmadOsman use 'JUST IN'/'MASSIVE NEWS' framing without a linked primary source; central-bank warning and NVIDIA local-AI claim need original-source confirmation."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": false,
+      "reason": null,
+      "suggested_query_theme": null
+    }
+  ]
+}

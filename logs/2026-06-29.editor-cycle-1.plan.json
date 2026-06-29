@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "errors": [
+    {
+      "ok": false,
+      "stage": "semantic",
+      "code": "invalid_change_verdict",
+      "path": "/overall_verdict",
+      "message": "overall_verdict 'pass_with_changes' requires at least one non-keep decision or needed search request"
+    }
+  ]
+}
