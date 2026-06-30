@@ -1,0 +1,199 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Reviewed 14 selected items against 5 reserve candidates. No two selected items cover the same event or angle; topical clustering around AI coding agents (Google Agents CLI, Qwen RL paper, ex-Google harness walkthrough, e-ink Claude Code) is acceptable as distinct angles. Three news/analysis items rest on second-hand or datamined claims with no primary-source traceability in-tweet: the ns123abc Anthropic-Amazon repricing report, the M1Astra Fable 5 datamine, and the low-engagement The_Cyber_News PoC attack. These are kept but flagged for source-traceability caution rather than replaced, since no eligible reserve covers the same beat and the underlying stories are individually distinct and topical. Set size (14) sits one above the normal_max of 13; no removal is forced here but downstream trimming of the weakest item is advisable.",
+  "decisions": [
+    {
+      "id": "item_2071566924803395741",
+      "decision": "keep",
+      "reason": "Highest-engagement concrete release in window (Meta Brain2Qwerty v2, v1 in Nature). Primary author account (AIatMeta), traceable, clearly newsworthy.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve item_2071707531152642119 (aakashgupta) covers the same Brain2Qwerty v2 event as a secondary breakdown, but it is a reserve and not selected, so no set-level duplication exists among selected items. This original is the canonical source."
+      }
+    },
+    {
+      "id": "item_2071688039114342592",
+      "decision": "keep",
+      "reason": "Concrete product release (OpenClaw native iOS/Android apps) from the primary account; strong engagement and recency.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product-launch story; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2071752389183647758",
+      "decision": "keep",
+      "reason": "Concrete platform release (hosted X MCP server exposing X API to agents) from the primary XDevelopers account; high engagement and recent.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from other agent-tooling items; this is a first-party platform/API announcement, not a practitioner walkthrough."
+      }
+    },
+    {
+      "id": "item_2071715347581837357",
+      "decision": "keep",
+      "reason": "Concrete company/policy move (NVIDIA + Palantir bringing Nemotron open models to air-gapped government environments) from the primary nvidia account; specific and verifiable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique gov/infrastructure open-model story; no overlap."
+      }
+    },
+    {
+      "id": "item_2071571183665881515",
+      "decision": "keep",
+      "reason": "Concrete funding news with named lead investor (Salesforce Ventures) and round size ($135M Series A); high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Sole funding item in the set; distinct event."
+      }
+    },
+    {
+      "id": "item_2071570522173800711",
+      "decision": "keep",
+      "reason": "Concrete reported news from a major outlet (BBC) on AI limits in manufacturing QA; very high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique AI-limits/labor angle from a primary news outlet; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2071727890467565942",
+      "decision": "keep",
+      "reason": "Distinct business-leverage story (Anthropic-Amazon shift to per-token pricing). Kept because no eligible reserve covers this beat and the angle is unique, but the claim is second-hand ('reported to have') from a commentator account with no primary source in-tweet; flagged for source-traceability caution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate. Concern is verification/traceability rather than redundancy: relayed rumor without a linked primary source."
+      }
+    },
+    {
+      "id": "item_2071792190221664294",
+      "decision": "keep",
+      "reason": "Specific product datamine (Claude/Anthropic Fable 5 billing tied to identity verification). Distinct topic; kept because no reserve covers it, but it is a speculative app-string datamine with no official confirmation, so flagged for source-traceability caution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate. Unverified datamine of unreleased product strings; traceability concern, not redundancy."
+      }
+    },
+    {
+      "id": "item_2071751318587560191",
+      "decision": "keep",
+      "reason": "Distinct security angle (PoC where a clean-looking GitHub repo hijacks AI coding agents). Kept for topical breadth, but engagement is very low (73 likes, ~5.3k views) and the source is a secondary aggregator with no primary write-up linked; flagged for source-traceability caution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate. Weakest item by engagement and sourcing; concern is traceability and signal strength, not overlap. Best downstream-trim candidate if set must shrink to normal_max."
+      }
+    },
+    {
+      "id": "item_2071509401224261823",
+      "decision": "keep",
+      "reason": "Concrete shipped tooling (Google Agents CLI implementing an agentic-engineering workflow, 7 ADK skills via one setup command); solid engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the broad 'coding agents' theme with items 2071763405049123258, 2071616173620240885 and 2071619133007921599, but the angle is distinct (first-party CLI/ADK tooling). Same-topic-distinct-angle, not redundant."
+      }
+    },
+    {
+      "id": "item_2071763405049123258",
+      "decision": "keep",
+      "reason": "Concrete research summary (Qwen RL coding-agent reward-horizon paper, co-evolving verifier); distinct technical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Author omarsar0 also has a reserve item (LLM-as-a-Judge), but only this one is selected, so no overrepresentation. Coding-agent theme but a unique research-paper angle."
+      }
+    },
+    {
+      "id": "item_2071619133007921599",
+      "decision": "keep",
+      "reason": "Distinct practitioner personal story (running Claude Code on a reMarkable Paper Pro e-ink tablet); good engagement and a fresh hardware angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Coding-agent adjacency only; the angle (e-ink hardware experience) is distinct from the tooling and research items. Same-topic-distinct-angle."
+      }
+    },
+    {
+      "id": "item_2071616173620240885",
+      "decision": "keep",
+      "reason": "Practitioner analysis on agent harnesses, LLM ops and eval loops; useful concrete technical content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Overlaps the coding-agent theme with items 2071509401224261823 and 2071763405049123258 but at a different level (general harness/eval methodology vs specific CLI/paper). Distinct angle, not redundant."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2071509401224261823",
+        "item_2071763405049123258",
+        "item_2071616173620240885",
+        "item_2071619133007921599"
+      ],
+      "reason": "Four items cluster on the AI coding-agents theme but each takes a clearly distinct angle: first-party Google Agents CLI/ADK tooling, a Qwen RL reward-horizon research paper, a general agent-harness/eval-loop methodology walkthrough, and a personal e-ink-hardware usage story. Acceptable as varied coverage rather than redundancy; noted so downstream can balance the mix."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2071727890467565942",
+        "item_2071792190221664294",
+        "item_2071751318587560191"
+      ],
+      "reason": "Three items rest on second-hand or unverified claims with no primary source linked in-tweet: ns123abc relays a 'reported' Anthropic-Amazon repricing rumor, M1Astra reports a speculative Fable 5 app-string datamine, and The_Cyber_News aggregates a PoC attack at very low engagement. Kept this cycle for topical breadth and absence of equivalent reserves, but each should be treated as needing external confirmation before being presented as established fact."
+    }
+  ],
+  "additional_search_requests": []
+}
