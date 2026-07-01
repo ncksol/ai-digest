@@ -1,0 +1,183 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Eleven selected items span the day's top AI stories with strong sourcing overall. The Anthropic export-control reversal is covered by two AnthropicAI items at the 2-item author cap, each carrying a distinct concrete angle (Commerce lifting controls on both Fable 5 and Mythos 5 vs. the Fable 5 global redeploy with new cybersecurity classifiers), so they are kept as same-event/distinct-angle rather than merged. Claude Sonnet 5 is likewise covered from two complementary angles (GitHub Copilot GA vs. Box's independent agentic eval), which is acceptable topical coverage, not redundancy. The one material weakness is item_2071973414538297435 (AndrewCurran_ 'OpenAI has found a way to cut inference costs in half'), a bare secondhand claim with no link, primary source, or supporting detail; it is retained but flagged for source traceability, and additional Twitter search is requested for a better-sourced OpenAI inference-cost item since no eligible reserve is a clean 1:1 replacement.",
+  "decisions": [
+    {
+      "id": "item_2072106151890809341",
+      "decision": "keep",
+      "reason": "Top story of the day by engagement (8.2M views) and a concrete official AnthropicAI announcement that US Commerce lifted export controls on both Fable 5 and Mythos 5. First of two AnthropicAI items (within the 2-author cap); covers the full reversal across both models.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same export-control event as item_2072163884430229756 but a distinct angle: this is the Commerce-lifts-controls announcement covering both Fable 5 and Mythos 5, versus the operational Fable-5 redeploy/classifier follow-up."
+      }
+    },
+    {
+      "id": "item_2072163884430229756",
+      "decision": "keep",
+      "reason": "Operational follow-up with distinct concrete substance: Fable 5 global redeployment with a new set of classifiers targeting cybersecurity tasks. Second AnthropicAI item, at the 2-author cap, and the strongest distinct angle from the export-lift announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same export-control storyline as item_2072106151890809341 but different angle (redeploy timing plus new cybersecurity classifiers rather than the Commerce policy reversal itself). Kept as same-event/distinct-angle."
+      }
+    },
+    {
+      "id": "item_2072004836674167294",
+      "decision": "keep",
+      "reason": "Concrete official OpenAI benchmark release (GeneBench-Pro) focused on agents navigating messy biological data. Distinct topic and well-sourced from the official account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items; unique benchmark/biology-agents topic."
+      }
+    },
+    {
+      "id": "item_2072023913966559601",
+      "decision": "keep",
+      "reason": "Concrete product-availability news: Claude Sonnet 5 GA rolling out in GitHub Copilot with specific eval notes (CLI-style tasks, prompt-cache utilization). New model not covered in prior digests.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Sonnet 5 subject with item_2072046374045249671 but a distinct angle (official GA/availability vs. third-party benchmark). Complementary coverage, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2071987494799716626",
+      "decision": "keep",
+      "reason": "Concrete Google product launch (Short Video Overviews in NotebookLM, 1M views) from the official account. Distinct feature with clear sourcing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product-launch topic; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2071919757209502205",
+      "decision": "keep",
+      "reason": "Concrete data point (study of 21,559 US firms on AI adoption and employment growth) with strong engagement and a distinct labor/economics angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone economics/labor topic; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2071940117875282030",
+      "decision": "keep",
+      "reason": "Strong domain-expert observation on an LLM prover-verifier loop solving 9 open Theoretical CS problems, with high engagement and a concrete first-person claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research/analysis topic; distinct from other selected items."
+      }
+    },
+    {
+      "id": "item_2071973414538297435",
+      "decision": "keep",
+      "reason": "Reported OpenAI inference-cost-halving development from a credible AI-news account with strong engagement, but the tweet is a bare one-line secondhand claim with no link, primary source, or supporting detail, so it is retained with a source-traceability flag rather than treated as fully verified. No eligible reserve is a clean 1:1 replacement (the only distinct-topic reserve, item_2072061140943921550, is unrelated tokens/watt commentary), so additional Twitter search is requested instead of a weak swap.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate of any selected item. Weakness is sourcing depth (unlinked secondhand claim), not overlap."
+      }
+    },
+    {
+      "id": "item_2071950234725290053",
+      "decision": "keep",
+      "reason": "Concrete practitioner detail quoting the Head of Codex on internal adoption (90% of OpenAI uses Codex; agentic loop does 40% of Codex coding). Distinct adoption data point.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique practitioner/adoption angle; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2072144627474579925",
+      "decision": "keep",
+      "reason": "Sharp practitioner observation on LLM pricing economics (price per token != cost per task) that resonated (108K views). Distinct analytical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone economics-of-inference commentary; complements but does not duplicate the Codex or inference-cost items."
+      }
+    },
+    {
+      "id": "item_2072046374045249671",
+      "decision": "keep",
+      "reason": "Concrete third-party eval result for Claude Sonnet 5 from Box's CEO (frontier-class on complex multi-step enterprise document work, ahead of Sonnet 4.6). Independent benchmark that complements the Sonnet 5 GA item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Sonnet 5 subject with item_2072023913966559601 but a distinct angle (independent third-party eval vs. official GA). Complementary, not duplicative."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2072106151890809341",
+        "item_2072163884430229756"
+      ],
+      "reason": "Two AnthropicAI items on the same export-control reversal storyline, kept as distinct angles: Commerce lifting controls on both Fable 5 and Mythos 5 versus the Fable 5 global redeploy with new cybersecurity classifiers. At the 2-item author cap for AnthropicAI."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2072023913966559601",
+        "item_2072046374045249671"
+      ],
+      "reason": "Two items on Claude Sonnet 5 from complementary angles: official GA rollout in GitHub Copilot versus Box's independent agentic Complex Work Eval. Acceptable topical coverage rather than a redundant story."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2071973414538297435"
+      ],
+      "reason": "AndrewCurran_ 'OpenAI has found a way to cut inference costs in half' is a single-line secondhand claim with no link, primary source, quoted spokesperson, or supporting detail, so the underlying OpenAI development cannot be traced or verified from the tweet alone."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "The only OpenAI inference-cost item (item_2071973414538297435) is an unlinked secondhand claim, and no eligible reserve is a clean 1:1 replacement, so a better-sourced tweet on OpenAI halving inference costs is needed to firm up that story.",
+      "suggested_query_theme": "OpenAI inference cost reduction / halving inference costs (official OpenAI or primary-source tweets since 2026-06-30)"
+    }
+  ]
+}
