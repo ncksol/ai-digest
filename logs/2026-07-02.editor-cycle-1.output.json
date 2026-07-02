@@ -1,0 +1,186 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 12 selected items are distinct events or distinct angles with no true duplicates inside the selected set. The set sits at the max of 12 with good category spread (frontier policy/governance, first-party product releases, open-source, named research papers, enterprise-scale metrics, competitive pricing, and creative tooling). A dense AI-safety/governance cluster (Fable 5 redeployment, White House standards, Altman op-ed, Amodei oversight gap, Karp attack) is flagged as same-topic distinct-angle for transparency but is not redundant. Two items (Discoplomacy Altman op-ed relay and karlmehta Amodei paraphrase) have thin sourcing/engagement, flagged as source-traceability concerns, but both name concrete sources (FT, named executives) and remain acceptable; no replacements are warranted. Verdict: pass, keep all items.",
+  "decisions": [
+    {
+      "id": "item_2072402636813607381",
+      "decision": "keep",
+      "reason": "Top story with the day's highest engagement; official Claude account confirming Fable 5 global redeployment. Clear lead item, keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Covers the same Fable 5 redeployment event as reserve item_2072163884430229756 (AnthropicAI), but that reserve is rejected and not in the selected set, so there is no in-set duplication. This selected item is the stronger primary (official Claude account, higher engagement)."
+      }
+    },
+    {
+      "id": "item_2072459054044295315",
+      "decision": "keep",
+      "reason": "Concrete FT-sourced policy development (White House AI model standards) that advances the Fable 5 storyline with a distinct government-action angle. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broader Fable 5 / AI-governance topic as the lead item and the Amodei/Altman policy items, but a distinct angle (White House standards / benchmark). Not a duplicate."
+      }
+    },
+    {
+      "id": "item_2072391836220752085",
+      "decision": "keep",
+      "reason": "Only relay of Altman's FT op-ed on making AI safe; named-executive policy statement traceable to the FT. Engagement is very low and it is a single low-signal relay, but sourcing is concrete and the angle is distinct. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the AI-safety/governance topic with the White House, Amodei, and Karp items, but is a distinct Altman FT op-ed angle. Not a duplicate."
+      }
+    },
+    {
+      "id": "item_2072409250312425824",
+      "decision": "keep",
+      "reason": "Official first-party Google product release (Gemini Spark on macOS, MCP + integrations). Distinct product-news angle, high traceability. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Gemini product-release story with no overlap against other selected items."
+      }
+    },
+    {
+      "id": "item_2072335408294236164",
+      "decision": "keep",
+      "reason": "Named open-source release (voice stack on Gemma 4 31B, Cerebras, OpenAI realtime drop-in). Distinct open-source angle from the frontier/policy items. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct open-source voice-stack release; no event or angle overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2072404664323305772",
+      "decision": "keep",
+      "reason": "Concrete named NVIDIA SIGGRAPH research (GPC foundation models for movement). Distinct research angle, low engagement but specific and attributable. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct NVIDIA GPC research paper; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2072249189677896171",
+      "decision": "keep",
+      "reason": "Named NAVER research paper on retrieval collapse under AI web pollution. Distinct analysis angle with a concrete paper reference. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct NAVER retrieval-collapse paper; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2072320033955414366",
+      "decision": "keep",
+      "reason": "Quantified enterprise-scale AI usage figure (Meta 73.7T tokens/month) with strong engagement. Distinct business-scale angle. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Meta token-consumption business-scale figure; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2072345789415006563",
+      "decision": "keep",
+      "reason": "Named-executive governance statement (Amodei on the oversight gap) complementing the policy cluster with a distinct frontier-lab-leader angle. Paraphrased quote with no source link and minimal engagement, so traceability is thin, but the angle adds value. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same AI-governance topic as the White House, Altman, and Karp items, but a distinct Amodei oversight-gap angle. Not a duplicate."
+      }
+    },
+    {
+      "id": "item_2072245147426062738",
+      "decision": "keep",
+      "reason": "Practitioner analysis on the imminent GPT-5.6 GA window versus Anthropic pricing. Distinct competitive/pricing angle. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct GPT-5.6 vs Anthropic pricing/competition analysis; no duplicate in set."
+      }
+    },
+    {
+      "id": "item_2072403984304984202",
+      "decision": "keep",
+      "reason": "High-engagement relay of Palantir CEO Karp's on-camera attack on frontier AI economics. Distinct enterprise-backlash angle from the pro-governance items. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same frontier-AI-governance topic as Altman/Amodei/White House items, but a distinct enterprise-backlash angle (Karp attack). Not a duplicate."
+      }
+    },
+    {
+      "id": "item_2072331826056646824",
+      "decision": "keep",
+      "reason": "Hands-on practitioner account of Runway Agent 2.0 as an agentic creative workflow. Distinct creative-tooling angle, the only such item in the set. Keep.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Runway Agent 2.0 creative-tooling account; no overlap with other selected items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2072402636813607381",
+        "item_2072459054044295315",
+        "item_2072391836220752085",
+        "item_2072345789415006563",
+        "item_2072403984304984202"
+      ],
+      "reason": "Five items sit on the overlapping AI-safety/governance and frontier-AI-policy terrain (Fable 5 redeployment, White House AI standards, Altman FT safety op-ed, Amodei oversight-gap warning, and Karp's on-camera attack). Each carries a genuinely distinct angle (official redeployment, government standards, pro-framework op-ed, frontier-lab-leader critique, and enterprise backlash), so they are complementary rather than redundant, but the cluster is dense and worth noting."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2072391836220752085",
+        "item_2072345789415006563"
+      ],
+      "reason": "Both are low-engagement single relays without direct source links: the Discoplomacy item paraphrases an Altman FT op-ed (7 likes) and the karlmehta item paraphrases a Dario Amodei quote (9 likes, no link). They name concrete, checkable sources (the FT and the named executives) so they clear the bar to keep, but the sourcing is thin and the underlying quotes are not independently corroborated within the packet."
+    }
+  ],
+  "additional_search_requests": []
+}

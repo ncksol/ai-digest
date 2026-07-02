@@ -1,0 +1,10 @@
+EMBEDDED FALLBACK: Gateway agent timed out; running embedded agent with fresh session gateway-fallback-bfbdffe8-886c-4192-978f-8c112476e3cb: GatewayTransportError: gateway timeout after 150000ms
+Gateway target: ws://127.0.0.1:18789
+Source: local loopback
+Config: /Users/nick/.openclaw/openclaw.json
+Bind: lan
+[warn] Subagent orphan run pruned source=restore run=70f416e2-8860-4303-a326-c6ca0d06b5d4 child=agent:main:subagent:2b2928a6-5008-4848-b89d-351936e5da51 reason=missing-session-entry
+[warn] Subagent orphan run pruned source=restore run=749a769c-a0e1-428f-821d-9913c7e04e09 child=agent:main:subagent:3ae7059c-ad98-4a50-8c90-97fc15db15a3 reason=missing-session-entry
+[warn] Subagent orphan run pruned source=restore run=dacc1f3e-5512-4e9b-8c90-bdac96670e36 child=agent:main:subagent:5a0261b6-ae32-4177-824a-c854aec15bac reason=missing-session-entry
+[warn] Subagent orphan run pruned source=restore run=9df7248f-2df1-40e5-96c2-0a08351601a4 child=agent:main:subagent:244a45d1-e399-4b85-813c-e5a512829005 reason=missing-session-entry
+[agent/embedded] [context-engine] deferred turn maintenance queued taskId=ca737c76-7687-4b12-ae59-9321d883b95b sessionKey=agent:twitter-ai-digest-editor:explicit:gateway-fallback-bfbdffe8-886c-4192-978f-8c112476e3cb lane=context-engine-turn-maintenance:agent:twitter-ai-digest-editor:explicit:gateway-fallback-bfbdffe8-886c-4192-978f-8c112476e3cb
