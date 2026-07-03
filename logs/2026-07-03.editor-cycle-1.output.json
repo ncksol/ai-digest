@@ -1,0 +1,175 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 12 selected items against a 5-item reserve pool. All 12 are high-signal, attributable, and category-diverse (news, analysis, personal_story), sitting at the normal maximum of 12. No redundant stories, fingerprint collisions, overrepresented authors, or source-traceability failures were found. The two Claude Fable 5 items are retained as same-topic-distinct-angle (subscription timeline vs Claude Tag availability). No replacements or additional Twitter searches are required.",
+  "decisions": [
+    {
+      "id": "item_2072814903170408784",
+      "decision": "keep",
+      "reason": "Anthropic staffer trq212 gives a concrete, attributable statement on Claude Fable 5 subscription timeline (off subs after July 7, restored as capacity allows) with very high engagement (6.8k likes, 1M views). Distinct policy/timeline angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Claude Fable 5 topic with claudeai item but covers subscription-plan timeline, a distinct angle from product-surface availability. Kept as complementary."
+      }
+    },
+    {
+      "id": "item_2072708957077176563",
+      "decision": "keep",
+      "reason": "Microsoft CEO Satya Nadella lays out a major enterprise AI strategy ('Frontier Co.') from a top exec; strong sourcing and engagement (1.3M views). Unique topic in the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No topical overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2072725610061803522",
+      "decision": "keep",
+      "reason": "Official Anthropic account confirms Claude Fable 5 is now available in Claude Tag plus a Boris Cherny / Cat Wu conversation on the Claude Code to Claude Tag path. Concrete product-availability news, distinct angle from the subscription-timeline item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same Claude Fable 5 subject as trq212 but a different angle (product-surface availability and origin conversation vs subscription timeline). Retained as distinct."
+      }
+    },
+    {
+      "id": "item_2072780713531748609",
+      "decision": "keep",
+      "reason": "Relayed Zuckerberg remarks tying slower-than-expected AI-agent progress to >$125-145B capex and 8,000 layoffs. High-signal macro exec statement; principal clearly named.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related to the broader Meta AI thread but a distinct event (Zuckerberg macro remarks) versus the Watermelon model scoop."
+      }
+    },
+    {
+      "id": "item_2072831703111045435",
+      "decision": "keep",
+      "reason": "Reporter scoop (CharlesRollet1) that Meta's upcoming 'Watermelon' model has caught up to GPT-5.5 using an order of magnitude more compute than 'Avocado'. Concrete, sourced competitive claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares Meta-AI theme with the Zuckerberg item but is a separate, specific model scoop; distinct event and angle."
+      }
+    },
+    {
+      "id": "item_2072803623587999914",
+      "decision": "keep",
+      "reason": "Document-based release: Dario Amodei email to the Pentagon (Feb 26, 2026) surfaced publicly with strong engagement (1.5k likes). Distinct primary-source item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Only selected item on this document; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2072831495463428580",
+      "decision": "keep",
+      "reason": "Gergely Orosz offers a strong practitioner argument that experienced engineers remain valuable because they can judge model output and AI-reviewing-AI code is unreliable. Distinct analysis angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique practitioner-analysis angle; no duplication."
+      }
+    },
+    {
+      "id": "item_2072716688483831885",
+      "decision": "keep",
+      "reason": "Summary of new Stanford AutoMem research treating agent memory management as a trainable skill. Concrete paper-based technical item, distinct research topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research item; no overlap."
+      }
+    },
+    {
+      "id": "item_2072636519299289413",
+      "decision": "keep",
+      "reason": "Researcher announces an ICML 2026 paper (Flow-Based Density Ratio Estimation) with genomics applications. Concrete peer-reviewed research, distinct from other items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique academic paper item; no overlap."
+      }
+    },
+    {
+      "id": "item_2072698126683836531",
+      "decision": "keep",
+      "reason": "Practitioner demo of an agent autonomously paying for data via the Coinbase-built x402 open protocol (Linux Foundation governed). Distinct agent-payments/infrastructure angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique agent-payments topic; no overlap."
+      }
+    },
+    {
+      "id": "item_2072697120398938340",
+      "decision": "keep",
+      "reason": "Concrete enterprise practitioner story: Jamie Dimon (JPMorgan) describing building a production-ready Treasury dashboard with Claude Code in 20 minutes. Distinct personal_story angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct enterprise-usage anecdote; mentions Dario Amodei in passing but is not about the Pentagon email item."
+      }
+    },
+    {
+      "id": "item_2072683589909504198",
+      "decision": "keep",
+      "reason": "ThePrimeagen flags Anthropic Terms-of-Service language restricting AI tool builders from competing work. Practitioner caution with strong engagement; distinct angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique TOS/competitive-caution angle; no duplication."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2072814903170408784",
+        "item_2072725610061803522"
+      ],
+      "reason": "Both items concern Claude Fable 5 but cover distinct angles: trq212 addresses the subscription-plan timeline (off subs after July 7, restored later), while claudeai announces Fable 5 availability in Claude Tag plus the Claude Code to Claude Tag origin conversation. Retained as complementary rather than redundant."
+    }
+  ],
+  "additional_search_requests": []
+}

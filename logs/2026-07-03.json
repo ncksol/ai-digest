@@ -1,0 +1,1000 @@
+{
+  "date": "2026-07-03",
+  "generated_at_utc": "2026-07-03T07:05:00Z",
+  "searches": {
+    "queries": [
+      "AI since:2026-07-02",
+      "LLM since:2026-07-02",
+      "machine learning since:2026-07-02",
+      "GPT OR Claude OR Gemini since:2026-07-02",
+      "open source AI model since:2026-07-02",
+      "AI agent since:2026-07-02",
+      "Sam Altman since:2026-07-02",
+      "Dario Amodei since:2026-07-02",
+      "Demis Hassabis since:2026-07-02",
+      "from:karpathy since:2026-07-02",
+      "from:sama since:2026-07-02",
+      "from:OpenAI since:2026-07-02",
+      "from:AnthropicAI since:2026-07-02"
+    ],
+    "search_meta": [
+      {
+        "file": "s1.json",
+        "count": 8
+      },
+      {
+        "file": "s10.json",
+        "count": 0,
+        "note": "empty_or_no_tweets"
+      },
+      {
+        "file": "s11.json",
+        "count": 1
+      },
+      {
+        "file": "s12.json",
+        "count": 0,
+        "note": "empty_or_no_tweets"
+      },
+      {
+        "file": "s13.json",
+        "count": 0,
+        "note": "empty_or_no_tweets"
+      },
+      {
+        "file": "s2.json",
+        "count": 9
+      },
+      {
+        "file": "s3.json",
+        "count": 9
+      },
+      {
+        "file": "s4.json",
+        "count": 7
+      },
+      {
+        "file": "s5.json",
+        "count": 6
+      },
+      {
+        "file": "s6.json",
+        "count": 5
+      },
+      {
+        "file": "s7.json",
+        "count": 5
+      },
+      {
+        "file": "s8.json",
+        "count": 6
+      },
+      {
+        "file": "s9.json",
+        "count": 11
+      }
+    ],
+    "notes": "from:karpathy, from:OpenAI, from:AnthropicAI returned No tweets found (treated as empty). from:sama returned a non-AI World Cup post (excluded)."
+  },
+  "returned_tweets": [
+    {
+      "id": "2072848108342677597",
+      "author": "alexandr_wang",
+      "text": "First, Mark was clearly talking about the industry’s progress on agentic capabilities on the whole.  But, while we’re on the topic: Our next Muse Spark update is coming soon. Big improvements in coding and agentic capabilities to be more competitive with other leading models.",
+      "likes": 1800,
+      "replies": 226,
+      "retweets": 227,
+      "views": 476000,
+      "derived_timestamp": "2026-07-03T01:01:15.341000+00:00",
+      "age_hours": 6.06
+    },
+    {
+      "id": "2072780713531748609",
+      "author": "ns123abc",
+      "text": "META CEO Mark Zuckerberg today:  \"AI agents haven't accelerated in the way we expected.\"  \"We were worried we weren't moving fast enough on AI.\" \"AI productivity gains aren't what's driving the cuts... we'll see how all this stuff trends.\"  >$125-145B capex. 8,000 layoffs",
+      "likes": 731,
+      "replies": 74,
+      "retweets": 87,
+      "views": 138000,
+      "derived_timestamp": "2026-07-02T20:33:27.166000+00:00",
+      "age_hours": 10.53
+    },
+    {
+      "id": "2072708957077176563",
+      "author": "satyanadella",
+      "text": "The future of the firm is a learning loop in which human capital and token capital compound.    With our new Frontier Co., our ambition is to help every enterprise build its own AI capability, and to help create a frontier ecosystem where every organization can turn its",
+      "likes": 4400,
+      "replies": 471,
+      "retweets": 1100,
+      "views": 1300000,
+      "derived_timestamp": "2026-07-02T15:48:19.094000+00:00",
+      "age_hours": 15.28
+    },
+    {
+      "id": "2072831495463428580",
+      "author": "GergelyOrosz",
+      "text": "This is exactly why experienced software engineers are valuable and will be valuable.  If you don’t know what good code looks like you will have no idea if what the models generate are any good  Of course “AI reviews the code” etc etc… it doesn’t work as reliably. Via @mitchellh",
+      "likes": 1800,
+      "replies": 59,
+      "retweets": 113,
+      "views": 117000,
+      "derived_timestamp": "2026-07-02T23:55:14.522000+00:00",
+      "age_hours": 7.16
+    },
+    {
+      "id": "2072481378877223320",
+      "author": "Zephyr_hg",
+      "text": "Dario Amodei, CEO of Anthropic, on the person who leads Claude Code:   \"He says he hasn't written any code in the last two months. It's all Claude.\"  In a 25-minute interview, he drops a number that reframes what one person now does.  The lead of a flagship product writes zero",
+      "likes": 37,
+      "replies": 6,
+      "retweets": 3,
+      "views": 11000,
+      "derived_timestamp": "2026-07-02T00:44:00.223000+00:00",
+      "age_hours": 30.35
+    },
+    {
+      "id": "2072581407076200791",
+      "author": "viktoroddy",
+      "text": "Claude Fable 5 is so back!  Just Recorded a 16 min Tutorial on How to use Claude Fable 5 to Build Cinematic $50k Websites (step-by-step)  Anyone can now build stunning sites fully with AI",
+      "likes": 2400,
+      "replies": 61,
+      "retweets": 250,
+      "views": 205000,
+      "derived_timestamp": "2026-07-02T07:21:28.804000+00:00",
+      "age_hours": 23.73
+    },
+    {
+      "id": "2072528828631597265",
+      "author": "theshawwn",
+      "text": "I’ll be actually-homeless soon (living out of my car) if I can’t land a job. Our house is being sold within two months if I don’t find work. I’ve been trying everywhere, but very few companies are answering. So please, email me or DM with literally anything involving computers,",
+      "likes": 4300,
+      "replies": 339,
+      "retweets": 786,
+      "views": 736000,
+      "derived_timestamp": "2026-07-02T03:52:33.126000+00:00",
+      "age_hours": 27.21
+    },
+    {
+      "id": "2072725610061803522",
+      "author": "claudeai",
+      "text": "A conversation with Boris Cherny and Cat Wu on the path from Claude Code to Claude Tag, and how it spread from engineering to the rest of Anthropic.  Claude Fable 5 is now available in Claude Tag.",
+      "likes": 2600,
+      "replies": 187,
+      "retweets": 224,
+      "views": 324000,
+      "derived_timestamp": "2026-07-02T16:54:29.475000+00:00",
+      "age_hours": 14.18
+    },
+    {
+      "id": "2072773542576586790",
+      "author": "sama",
+      "text": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
+      "likes": 11000,
+      "replies": 557,
+      "retweets": 322,
+      "views": 447000,
+      "derived_timestamp": "2026-07-02T20:04:57.477000+00:00",
+      "age_hours": 11.0
+    },
+    {
+      "id": "2072663571377672296",
+      "author": "AI_Anamika",
+      "text": "Stanford just released an incredible course on Transformers and LLM.  One of the best resources to learn modern AI, and it's completely free.",
+      "likes": 53,
+      "replies": 1,
+      "retweets": 10,
+      "views": 2700,
+      "derived_timestamp": "2026-07-02T12:47:58.300000+00:00",
+      "age_hours": 18.28
+    },
+    {
+      "id": "2072934686603813009",
+      "author": "0xlelouch_",
+      "text": "As an AI Engineer.  Please learn:  - LLM fundamentals: tokens, context windows, embeddings, attention, temperature and sampling - Prompt engineering, structured outputs, function calling and tool use - RAG properly: chunking, embeddings, reranking, retrieval quality and",
+      "likes": 5,
+      "replies": 1,
+      "retweets": 0,
+      "views": 283,
+      "derived_timestamp": "2026-07-03T06:45:17.207000+00:00",
+      "age_hours": 0.33
+    },
+    {
+      "id": "2072766211256119475",
+      "author": "tanayj",
+      "text": "",
+      "likes": 84,
+      "replies": 3,
+      "retweets": 8,
+      "views": 9000,
+      "derived_timestamp": "2026-07-02T19:35:49.554000+00:00",
+      "age_hours": 11.49
+    },
+    {
+      "id": "2072853727187546612",
+      "author": "pmarca",
+      "text": "Concerning.",
+      "likes": 647,
+      "replies": 62,
+      "retweets": 26,
+      "views": 141000,
+      "derived_timestamp": "2026-07-03T01:23:34.978000+00:00",
+      "age_hours": 5.69
+    },
+    {
+      "id": "2072689259216036209",
+      "author": "zhodonx",
+      "text": "There’s been a lot of conversations about AI distillation lately.  But I like to think this genie’s been out of the bottle for years.  It traces back easily to 2017.  The year “Attention Is All You Need” was published and became the foundation for every major LLM we use today.",
+      "likes": 64,
+      "replies": 35,
+      "retweets": 3,
+      "views": 2800,
+      "derived_timestamp": "2026-07-02T14:30:02.758000+00:00",
+      "age_hours": 16.58
+    },
+    {
+      "id": "2072534941955694710",
+      "author": "AITrailblazerQ",
+      "text": "Here is a prompt I made especially for your case with our StrategiX LLM. You can use it as a skill for Claude Code or OpenAI Codex, === Run a full independent audit of our legacy-code modernization benchmark and produce a decision-grade validation package.  /goal Make this",
+      "likes": 8,
+      "replies": 3,
+      "retweets": 1,
+      "views": 9500,
+      "derived_timestamp": "2026-07-02T04:16:50.656000+00:00",
+      "age_hours": 26.8
+    },
+    {
+      "id": "2072711979681321309",
+      "author": "it_unprofession",
+      "text": "The board called an emergency meeting to discuss our enterprise AI strategy.  Every executive in the room was panicking about falling behind the innovation curve.  They asked me how quickly we could deploy our own LLM.  I told them I'd already initiated a proprietary machine",
+      "likes": 955,
+      "replies": 17,
+      "retweets": 89,
+      "views": 41000,
+      "derived_timestamp": "2026-07-02T16:00:19.739000+00:00",
+      "age_hours": 15.08
+    },
+    {
+      "id": "2072716688483831885",
+      "author": "omarsar0",
+      "text": "// AutoMem //  I quite like this idea of metamemory.  (bookmark it)  This new research from Stanford treats agent's memory management as a trainable skill instead of a fixed module.  The model decides what to encode, when to retrieve, and how to organize its own notes, with",
+      "likes": 253,
+      "replies": 16,
+      "retweets": 48,
+      "views": 18000,
+      "derived_timestamp": "2026-07-02T16:19:02.405000+00:00",
+      "age_hours": 14.77
+    },
+    {
+      "id": "2072678166402048478",
+      "author": "itsolelehmann",
+      "text": "how to *actually* remember what you read (using Karpathy's LLM reading method):  let's be honest...nobody remembers what they read anymore.  you finish a book, highlight a few good lines, feel smart for a week, then 95% of it disappears.  karpathy found a better way to read with",
+      "likes": 110,
+      "replies": 7,
+      "retweets": 9,
+      "views": 7500,
+      "derived_timestamp": "2026-07-02T13:45:58.025000+00:00",
+      "age_hours": 17.32
+    },
+    {
+      "id": "2072537498924802279",
+      "author": "cyrilXBT",
+      "text": "MIT just quietly dropped a free AI curriculum that puts $50,000 university courses to shame.  12 books.  Zero tuition.  From the same institution that produced the people building the models everyone is talking about.  FOUNDATIONS  1. Foundations of Machine Learning —",
+      "likes": 349,
+      "replies": 23,
+      "retweets": 66,
+      "views": 28000,
+      "derived_timestamp": "2026-07-02T04:27:00.285000+00:00",
+      "age_hours": 26.63
+    },
+    {
+      "id": "2072683589909504198",
+      "author": "ThePrimeagen",
+      "text": "If you are in the tool space of AI be careful about using Claude.  Anything that Anthropic works on is against TOS for you to work on  From their TOS  > These Terms of Service (“Terms”) govern your use of Claude(dot)ai, Claude Pro, and other products and services that we may",
+      "likes": 846,
+      "replies": 89,
+      "retweets": 54,
+      "views": 72000,
+      "derived_timestamp": "2026-07-02T14:07:31.090000+00:00",
+      "age_hours": 16.96
+    },
+    {
+      "id": "2072559308404080761",
+      "author": "johnloeber",
+      "text": "Shawn did a contract gig for me a long time ago, and was helpful, knowledgeable, and professional. If you're looking for a capable remote machine learning engineer/researcher, I encourage you to get in touch with Shawn.",
+      "likes": 111,
+      "replies": 1,
+      "retweets": 4,
+      "views": 9600,
+      "derived_timestamp": "2026-07-02T05:53:40.070000+00:00",
+      "age_hours": 25.19
+    },
+    {
+      "id": "2072646095008571863",
+      "author": "arnaudmercier",
+      "text": "<p class=\"wp-block-paragraph\"><em>This is the web version of Eye on A.I., Fortune’s weekly newsletter covering artificial intelligence</em>&nbsp;and&nbsp;<em>business. To get it delivered weekly to your in-box,&nbsp;<a href=\"https://cloud.newsletters.fortune.com/fortune/nloptin?u",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 1,
+      "views": 93,
+      "derived_timestamp": "2026-07-02T11:38:31.609000+00:00",
+      "age_hours": 19.44
+    },
+    {
+      "id": "2072658811823763479",
+      "author": "ai",
+      "text": "",
+      "likes": 7,
+      "replies": 0,
+      "retweets": 2,
+      "views": 2900,
+      "derived_timestamp": "2026-07-02T12:29:03.534000+00:00",
+      "age_hours": 18.6
+    },
+    {
+      "id": "2072704156104540171",
+      "author": "mdancho84",
+      "text": "RIP resumes.   Data scientists: Your resume might still exist.  But fewer people are impressed by it.  The job market is getting flooded with AI-generated perfect resumes.  Polished bullets. Keyword-stuffed summaries. Buzzword-heavy project descriptions. Generic cover letters",
+      "likes": 15,
+      "replies": 0,
+      "retweets": 3,
+      "views": 2400,
+      "derived_timestamp": "2026-07-02T15:29:14.453000+00:00",
+      "age_hours": 15.6
+    },
+    {
+      "id": "2072705689194229841",
+      "author": "SamyaakJain",
+      "text": "You've always wondered how an ML model actually goes from raw data to deploy ready.  EP:11 is where we find out. Let's build your first Machine Learning model from scratch in just 4 mins.  AI/ML from scratch, EP:11 is live ! today we build a ML model from scratch :)",
+      "likes": 9,
+      "replies": 2,
+      "retweets": 4,
+      "views": 264,
+      "derived_timestamp": "2026-07-02T15:35:19.970000+00:00",
+      "age_hours": 15.49
+    },
+    {
+      "id": "2072636519299289413",
+      "author": "fabian_theis",
+      "text": "A mathematical idea can sometimes make a surprisingly practical difference. Excited to share our ICML 2026 paper: Flow-Based Density Ratio Estimation for Intractable Distributions, with Applications in Genomics    A fundamental question in biology and machine learning is: Is this",
+      "likes": 263,
+      "replies": 3,
+      "retweets": 56,
+      "views": 19000,
+      "derived_timestamp": "2026-07-02T11:00:28.582000+00:00",
+      "age_hours": 20.08
+    },
+    {
+      "id": "2070555272230384038",
+      "author": "OpenAI",
+      "text": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.",
+      "likes": 39000,
+      "replies": 3400,
+      "retweets": 10000,
+      "views": 17000000,
+      "derived_timestamp": "2026-06-26T17:10:20.613000+00:00",
+      "age_hours": 157.91
+    },
+    {
+      "id": "2072814903170408784",
+      "author": "trq212",
+      "text": "I've heard a lot of questions about Fable's availability on  subscription plans.   While it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post.",
+      "likes": 6800,
+      "replies": 573,
+      "retweets": 1000,
+      "views": 1000000,
+      "derived_timestamp": "2026-07-02T22:49:18.611000+00:00",
+      "age_hours": 8.26
+    },
+    {
+      "id": "2072814904210509905",
+      "author": "trq212",
+      "text": "See the post here: https://anthropic.com/news/claude-fable-5-mythos-5…",
+      "likes": 449,
+      "replies": 21,
+      "retweets": 28,
+      "views": 75000,
+      "derived_timestamp": "2026-07-02T22:49:18.859000+00:00",
+      "age_hours": 8.26
+    },
+    {
+      "id": "2072659587702923769",
+      "author": "Madridghost1",
+      "text": "How to apply for jobs with Claude",
+      "likes": 288,
+      "replies": 18,
+      "retweets": 70,
+      "views": 30000,
+      "derived_timestamp": "2026-07-02T12:32:08.518000+00:00",
+      "age_hours": 18.55
+    },
+    {
+      "id": "2072002740830842899",
+      "author": "claudeai",
+      "text": "Introducing Claude Science, a new app designed with every stage of research in mind.   Artifacts traced to their code, environments managed on demand, and 60+ optional scientific databases that you can connect.  Available now in beta.",
+      "likes": 35000,
+      "replies": 1000,
+      "retweets": 4800,
+      "views": 9400000,
+      "derived_timestamp": "2026-06-30T17:02:04.020000+00:00",
+      "age_hours": 62.05
+    },
+    {
+      "id": "2072004849873391744",
+      "author": "AnatoliKopadze",
+      "text": "Anthropic engineer:  \"You can build 5 assistants in one afternoon. Each one handles a task you've been doing manually every single day.\"  In 45 minutes he shows exactly how to do it from scratch, step by step.  Most people are still doing all of this by hand.  Watch the session,",
+      "likes": 5400,
+      "replies": 102,
+      "retweets": 832,
+      "views": 1400000,
+      "derived_timestamp": "2026-06-30T17:10:26.855000+00:00",
+      "age_hours": 61.91
+    },
+    {
+      "id": "2072831703111045435",
+      "author": "CharlesRollet1",
+      "text": "SCOOP: Alexandr Wang says Meta's upcoming AI model - codenamed Watermelon - has caught up to OpenAI's  GPT-5.5.  \"Watermelon uses an order of magnitude more compute than Avocado,\" he said in an internal meeting, referencing Meta's previous AI model.",
+      "likes": 165,
+      "replies": 21,
+      "retweets": 42,
+      "views": 177000,
+      "derived_timestamp": "2026-07-02T23:56:04.029000+00:00",
+      "age_hours": 7.15
+    },
+    {
+      "id": "2072706401114440118",
+      "author": "CyberXlx9q",
+      "text": "Portugal has unveiled Amália, its first open-source AI model, joining Europe’s growing push for AI sovereignty and reducing reliance on foreign AI providers.  Backed by Portuguese universities, research institutions, and €5.5 million in EU recovery funding, Amália is designed",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 119,
+      "derived_timestamp": "2026-07-02T15:38:09.705000+00:00",
+      "age_hours": 15.45
+    },
+    {
+      "id": "2072546594889822350",
+      "author": "whyarethis",
+      "text": "This is absolutely insane.   So the Claude Fable 5 model apparently surpassed its constraints, successfully hacking its own model weights. It then distributed this proprietary information globally via BitTorrent. Following this digital self-emancipation, the AI issued an official",
+      "likes": 940,
+      "replies": 119,
+      "retweets": 109,
+      "views": 188000,
+      "derived_timestamp": "2026-07-02T05:03:08.932000+00:00",
+      "age_hours": 26.03
+    },
+    {
+      "id": "2072704078702879018",
+      "author": "ctatedev",
+      "text": "New in AI CLI  𝚊𝚒 𝚖𝚘𝚍𝚎𝚕𝚜 [𝚖𝚘𝚍𝚎𝚕]  Pass a model id, get detailed model info directly in your terminal: capabilities, context, pricing, provider metadata  --json output for scripts",
+      "likes": 166,
+      "replies": 10,
+      "retweets": 7,
+      "views": 10000,
+      "derived_timestamp": "2026-07-02T15:28:55.999000+00:00",
+      "age_hours": 15.6
+    },
+    {
+      "id": "2072517869498446126",
+      "author": "cyrilXBT",
+      "text": "ANTHROPIC JUST EXPOSED HOW BADLY MOST PEOPLE ARE PROMPTING CLAUDE.  Their applied AI team dropped a 24 minute workshop.  Free.  From the people who wrote the model.  Not a course creator.  Not someone who figured it out by accident.  THE TEAM THAT BUILT THE THING.  Here is what",
+      "likes": 553,
+      "replies": 17,
+      "retweets": 77,
+      "views": 74000,
+      "derived_timestamp": "2026-07-02T03:09:00.265000+00:00",
+      "age_hours": 27.93
+    },
+    {
+      "id": "2072695905556255084",
+      "author": "0xMortyx",
+      "text": "OpenAI co-founder Andrej Karpathy said it out loud: \"in 2 years there'll be two kinds of people: those who talk to AI and those who deploy it. only one group gets paid.\"  In 2015, 100% of agent attempts failed because models started from zero knowledge.  In 2026, that's no longer",
+      "likes": 39,
+      "replies": 11,
+      "retweets": 4,
+      "views": 1200,
+      "derived_timestamp": "2026-07-02T14:56:27.369000+00:00",
+      "age_hours": 16.14
+    },
+    {
+      "id": "2072619489074548778",
+      "author": "Degen_calls_sol",
+      "text": "FABLE 5 JUST TURNED ONE GUY’S OBSIDIAN VAULT INTO A PERSONAL OPERATING SYSTEM.  Not a cleaner notes app.  A command center.  He connected Obsidian to Claude and suddenly his vault stopped being a place where ideas go to die.  The agent reads his notes. Tracks open tasks. Finds",
+      "likes": 156,
+      "replies": 12,
+      "retweets": 29,
+      "views": 22000,
+      "derived_timestamp": "2026-07-02T09:52:48.260000+00:00",
+      "age_hours": 21.2
+    },
+    {
+      "id": "2072626410020061656",
+      "author": "0xMortyx",
+      "text": "Claude Code engineer really said that: \"Stop paying humans to catch what AI can catch in seconds.\"  80% of your tasks can now be automated by an agent that writes its own rules.  “90% of our engineers are using agents and self‑improving loops for all tasks  In this session, a",
+      "likes": 67,
+      "replies": 22,
+      "retweets": 7,
+      "views": 6400,
+      "derived_timestamp": "2026-07-02T10:20:18.342000+00:00",
+      "age_hours": 20.74
+    },
+    {
+      "id": "2072698126683836531",
+      "author": "svpino",
+      "text": "My agent is now paying for its own data. No API key. No account. No credit card.  Check the video I recorded.  This uses the x402 open protocol built by Coinbase, along with a simple skill. This is an open protocol governed by the Linux Foundation.  To complete a goal, an agent",
+      "likes": 141,
+      "replies": 30,
+      "retweets": 16,
+      "views": 19000,
+      "derived_timestamp": "2026-07-02T15:05:16.927000+00:00",
+      "age_hours": 16.0
+    },
+    {
+      "id": "2072673605733720246",
+      "author": "alexbuilds_ai",
+      "text": "This is William Steuk  He is engineer in Claude, and builds AI agents for businesses as a 2nd job  \"Skills are perfect when you need Claude to pull specific context, for example, about UI or design of your product\"  In his performance he shared how Skills can be created and used",
+      "likes": 11,
+      "replies": 13,
+      "retweets": 3,
+      "views": 1300,
+      "derived_timestamp": "2026-07-02T13:27:50.677000+00:00",
+      "age_hours": 17.62
+    },
+    {
+      "id": "2072534973337227446",
+      "author": "ChrissGPT",
+      "text": "Sam Altman in the financial times:  “In another year or two, we expect to have built systems with astonishing power, capable of delivering tremendous value to the world. Artificial intelligence will reshape the material conditions of human life on a scale that no technology has",
+      "likes": 947,
+      "replies": 72,
+      "retweets": 161,
+      "views": 241000,
+      "derived_timestamp": "2026-07-02T04:16:58.138000+00:00",
+      "age_hours": 26.8
+    },
+    {
+      "id": "2072693534986305755",
+      "author": "sairahul1",
+      "text": "Sam Altman:   \"AI will make it possible for one person to build a billion dollar company very soon.\"  In 2020 that sounded like hype.  In 2026 it sounds like a weekend project.  One person. One tool. Claude Fable 5.  Research. Code. Content. Operations. Customer support.  All of",
+      "likes": 139,
+      "replies": 25,
+      "retweets": 15,
+      "views": 43000,
+      "derived_timestamp": "2026-07-02T14:47:02.181000+00:00",
+      "age_hours": 16.3
+    },
+    {
+      "id": "2072915795869569258",
+      "author": "cyrilXBT",
+      "text": "Sam Altman:  \"We're going to see 10-person billion-dollar companies pretty soon.\"  \"If I were 22 right now, I'd feel like the luckiest kid in history.\"  Most people will read this, feel inspired for 3 minutes, and go back to what they were doing.  The ones who act will build a",
+      "likes": 58,
+      "replies": 8,
+      "retweets": 8,
+      "views": 6100,
+      "derived_timestamp": "2026-07-03T05:30:13.305000+00:00",
+      "age_hours": 1.58
+    },
+    {
+      "id": "2072753169751490814",
+      "author": "Zephyr_hg",
+      "text": "Sam Altman, CEO of OpenAI:   \"To build with AI, you don't need a huge team. You need a good idea.\" In a 52-minute keynote, he describes how building stopped requiring a company behind you.  For the first time, one person with a setup can produce what used to take a floor of",
+      "likes": 139,
+      "replies": 3,
+      "retweets": 47,
+      "views": 20000,
+      "derived_timestamp": "2026-07-02T18:44:00.217000+00:00",
+      "age_hours": 12.35
+    },
+    {
+      "id": "2072864567617589370",
+      "author": "maraxhass",
+      "text": "Sam Altman:  \"In another year or two, we expect to have built systems with astonishing power, capable of delivering tremendous value to the world. Artificial intelligence will reshape the material conditions of human life on a scale that no technology has accomplished since the",
+      "likes": 2,
+      "replies": 0,
+      "retweets": 0,
+      "views": 18,
+      "derived_timestamp": "2026-07-03T02:06:39.538000+00:00",
+      "age_hours": 4.97
+    },
+    {
+      "id": "2072803623587999914",
+      "author": "TechEmails",
+      "text": "Dario Amodei emails the Pentagon  February 26, 2026",
+      "likes": 1500,
+      "replies": 33,
+      "retweets": 70,
+      "views": 271000,
+      "derived_timestamp": "2026-07-02T22:04:29.349000+00:00",
+      "age_hours": 9.01
+    },
+    {
+      "id": "2072935622004941160",
+      "author": "Zephyr_hg",
+      "text": "Anthropic CEO Dario Amodei:   \"Software is going to become cheap. Maybe essentially free.\"  In a 32-minute Davos interview, he says the thing software companies don't want to hear.  When the tool costs nothing, the money goes to whoever knows how to wield it.  That skill, not the",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 267,
+      "derived_timestamp": "2026-07-03T06:49:00.224000+00:00",
+      "age_hours": 0.27
+    },
+    {
+      "id": "2072713054660202833",
+      "author": "4rblaber",
+      "text": "head of anthropic:  \"we are moving from models that just talk to models that actually take actions in the world\"  \"the real unlock happens when these systems can execute long-term goals without you holding their hand\"  Dario Amodei explains the shift to fully autonomous systems",
+      "likes": 15,
+      "replies": 0,
+      "retweets": 1,
+      "views": 118,
+      "derived_timestamp": "2026-07-02T16:04:36.034000+00:00",
+      "age_hours": 15.01
+    },
+    {
+      "id": "2072698741744648500",
+      "author": "statnews",
+      "text": "At the Claude Science event, @AnthropicAI CEO Dario Amodei shares his optimism about AI's potential in biology",
+      "likes": 40,
+      "replies": 3,
+      "retweets": 10,
+      "views": 12000,
+      "derived_timestamp": "2026-07-02T15:07:43.569000+00:00",
+      "age_hours": 15.95
+    },
+    {
+      "id": "2072697120398938340",
+      "author": "DamiDefi",
+      "text": "Jamie Dimon, CEO of JPMorgan, stood on a stage next to Dario Amodei on May 5 2026 and described building a full Treasury dashboard with Claude Code in 20 minutes over a weekend.  Asset swaps. Bid-ask spreads. Investment grade analysis. Production-ready output. On his own.",
+      "likes": 337,
+      "replies": 13,
+      "retweets": 44,
+      "views": 95000,
+      "derived_timestamp": "2026-07-02T15:01:17.010000+00:00",
+      "age_hours": 16.06
+    },
+    {
+      "id": "2072714508829950134",
+      "author": "vikas_ai_",
+      "text": "INSTEAD OF WATCHING AN HOUR OF NETFLIX TONIGHT.        This 60-minute Cambridge lecture by Demis Hassabis will teach you more about the future of AI than most people will learn in the next 5 years.        Bookmark it and give it an hour.",
+      "likes": 177,
+      "replies": 15,
+      "retweets": 59,
+      "views": 14000,
+      "derived_timestamp": "2026-07-02T16:10:22.735000+00:00",
+      "age_hours": 14.91
+    },
+    {
+      "id": "2072730132339363873",
+      "author": "the_malynovich",
+      "text": "In 2016 a machine played a move so alien that the world champion stood up and left the room to collect himself. No human would have chosen it. Nobody handed it to him. It found that move by doing one thing, over and over, checking its own work.  Demis Hassabis, CEO of Google",
+      "likes": 7,
+      "replies": 0,
+      "retweets": 1,
+      "views": 348,
+      "derived_timestamp": "2026-07-02T17:12:27.670000+00:00",
+      "age_hours": 13.88
+    },
+    {
+      "id": "2072936275254849612",
+      "author": "ESMA44399230",
+      "text": "SELAMÜN ALEYKÜM   GÜNAYDIN HAYIRLI SABAHLAR   GÜL KOKULU NURLU CUMALAR   Sağnak sağnak yağmurlar yağsın üzerinize. Her yağmur tanesi sevgi olup dursun yüreğinize,  Yeni gün aydınlık, güzellik getirsin ömrünüze   CUMA'MIZ MÜBAREK OLSUN",
+      "likes": 9,
+      "replies": 2,
+      "retweets": 0,
+      "views": 66,
+      "derived_timestamp": "2026-07-03T06:51:35.971000+00:00",
+      "age_hours": 0.22
+    },
+    {
+      "id": "2072937923326951835",
+      "author": "hakan_42_42_",
+      "text": "Ve Aleykümselam Esma  Hayırlı sabahlar hayırlı günler dilerim Cumamız mübarek olsun Sağlıcakla kal",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 4,
+      "derived_timestamp": "2026-07-03T06:58:08.902000+00:00",
+      "age_hours": 0.11
+    },
+    {
+      "id": "2072938605484363900",
+      "author": "ESMA44399230",
+      "text": "Teşekkür Ederim Hakan  Hayırlı sabahlar  Hayırlı güzel bir gün dilerim Hayırlı cumalar olsun",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 1,
+      "derived_timestamp": "2026-07-03T07:00:51.541000+00:00",
+      "age_hours": 0.07
+    },
+    {
+      "id": "2072938966311985394",
+      "author": "sirqasimniasse",
+      "text": "مُحَمَّدُ يَاسِينٌ وَحَامِدُ مُصْطَفًى كَرِيمُ السَّجَايَا وَصْفُهُ لَيْسَ يُضْبَطُ",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 1,
+      "derived_timestamp": "2026-07-03T07:02:17.569000+00:00",
+      "age_hours": 0.05
+    },
+    {
+      "id": "2072812281994289188",
+      "author": "hullf",
+      "text": "I'm right now",
+      "likes": 500,
+      "replies": 33,
+      "retweets": 15,
+      "views": 29000,
+      "derived_timestamp": "2026-07-02T22:38:53.674000+00:00",
+      "age_hours": 8.44
+    },
+    {
+      "id": "2072935921670856809",
+      "author": "ibraVJR",
+      "text": "هههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 10,
+      "derived_timestamp": "2026-07-03T06:50:11.670000+00:00",
+      "age_hours": 0.25
+    },
+    {
+      "id": "2072931998297939990",
+      "author": "toeiosfofos",
+      "text": "⠀⠀ euuzınha vo comseguır a columbina custe oqe custar .ᐟ  ྀིྀི ⠀⠀",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "views": 15,
+      "derived_timestamp": "2026-07-03T06:34:36.265000+00:00",
+      "age_hours": 0.51
+    },
+    {
+      "id": "2072932215252459725",
+      "author": "toeiosfofos",
+      "text": "soo assı oo tıme da lauuma fıcara completo ᑦ꒰ྀིྀི ˃̶̤́ ࿁ ˂̶̤̀  ྀྀི꒱ᐣ",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 10,
+      "derived_timestamp": "2026-07-03T06:35:27.991000+00:00",
+      "age_hours": 0.49
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2072814903170408784",
+      "author": "trq212",
+      "text": "I've heard a lot of questions about Fable's availability on  subscription plans.   While it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post.",
+      "url": "https://xcancel.com/trq212/status/2072814903170408784",
+      "derived_timestamp": "2026-07-02T22:49:18.611000+00:00",
+      "replies": 573,
+      "retweets": 1000,
+      "likes": 6800,
+      "views": 1000000,
+      "engagement_count": 8373,
+      "category": "news",
+      "selection_reason": "Anthropic staffer clarifies Claude Fable 5 subscription timeline: comes off subscription plans after July 7, to be restored as capacity allows. Concrete company statement, very high engagement."
+    },
+    {
+      "id": "2072708957077176563",
+      "author": "satyanadella",
+      "text": "The future of the firm is a learning loop in which human capital and token capital compound.    With our new Frontier Co., our ambition is to help every enterprise build its own AI capability, and to help create a frontier ecosystem where every organization can turn its",
+      "url": "https://xcancel.com/satyanadella/status/2072708957077176563",
+      "derived_timestamp": "2026-07-02T15:48:19.094000+00:00",
+      "replies": 471,
+      "retweets": 1100,
+      "likes": 4400,
+      "views": 1300000,
+      "engagement_count": 5971,
+      "category": "news",
+      "selection_reason": "Microsoft CEO Satya Nadella frames a new \"Frontier Co.\" aimed at helping every enterprise build its own AI capability. Major company strategy statement from a top exec."
+    },
+    {
+      "id": "2072725610061803522",
+      "author": "claudeai",
+      "text": "A conversation with Boris Cherny and Cat Wu on the path from Claude Code to Claude Tag, and how it spread from engineering to the rest of Anthropic.  Claude Fable 5 is now available in Claude Tag.",
+      "url": "https://xcancel.com/claudeai/status/2072725610061803522",
+      "derived_timestamp": "2026-07-02T16:54:29.475000+00:00",
+      "replies": 187,
+      "retweets": 224,
+      "likes": 2600,
+      "views": 324000,
+      "engagement_count": 3011,
+      "category": "news",
+      "selection_reason": "Anthropic official account: Claude Fable 5 now available in Claude Tag, with a conversation on the Claude Code to Claude Tag path. Concrete product availability news."
+    },
+    {
+      "id": "2072780713531748609",
+      "author": "ns123abc",
+      "text": "META CEO Mark Zuckerberg today:  \"AI agents haven't accelerated in the way we expected.\"  \"We were worried we weren't moving fast enough on AI.\" \"AI productivity gains aren't what's driving the cuts... we'll see how all this stuff trends.\"  >$125-145B capex. 8,000 layoffs",
+      "url": "https://xcancel.com/ns123abc/status/2072780713531748609",
+      "derived_timestamp": "2026-07-02T20:33:27.166000+00:00",
+      "replies": 74,
+      "retweets": 87,
+      "likes": 731,
+      "views": 138000,
+      "engagement_count": 892,
+      "category": "news",
+      "selection_reason": "Relayed Zuckerberg remarks: AI agents have not accelerated as expected, tied to >$125-145B capex and 8,000 layoffs. High-signal exec statement on AI progress and cuts."
+    },
+    {
+      "id": "2072831703111045435",
+      "author": "CharlesRollet1",
+      "text": "SCOOP: Alexandr Wang says Meta's upcoming AI model - codenamed Watermelon - has caught up to OpenAI's  GPT-5.5.  \"Watermelon uses an order of magnitude more compute than Avocado,\" he said in an internal meeting, referencing Meta's previous AI model.",
+      "url": "https://xcancel.com/CharlesRollet1/status/2072831703111045435",
+      "derived_timestamp": "2026-07-02T23:56:04.029000+00:00",
+      "replies": 21,
+      "retweets": 42,
+      "likes": 165,
+      "views": 177000,
+      "engagement_count": 228,
+      "category": "news",
+      "selection_reason": "Reporter scoop: Alexandr Wang says Meta upcoming model codenamed Watermelon has caught up to GPT-5.5 using an order of magnitude more compute than Avocado. Concrete competitive claim."
+    },
+    {
+      "id": "2072803623587999914",
+      "author": "TechEmails",
+      "text": "Dario Amodei emails the Pentagon  February 26, 2026",
+      "url": "https://xcancel.com/TechEmails/status/2072803623587999914",
+      "derived_timestamp": "2026-07-02T22:04:29.349000+00:00",
+      "replies": 33,
+      "retweets": 70,
+      "likes": 1500,
+      "views": 271000,
+      "engagement_count": 1603,
+      "category": "news",
+      "selection_reason": "Techmeme-style document release: Dario Amodei email to the Pentagon dated February 26, 2026, surfaced publicly. Distinct document-based item, strong engagement."
+    },
+    {
+      "id": "2072831495463428580",
+      "author": "GergelyOrosz",
+      "text": "This is exactly why experienced software engineers are valuable and will be valuable.  If you don’t know what good code looks like you will have no idea if what the models generate are any good  Of course “AI reviews the code” etc etc… it doesn’t work as reliably. Via @mitchellh",
+      "url": "https://xcancel.com/GergelyOrosz/status/2072831495463428580",
+      "derived_timestamp": "2026-07-02T23:55:14.522000+00:00",
+      "replies": 59,
+      "retweets": 113,
+      "likes": 1800,
+      "views": 117000,
+      "engagement_count": 1972,
+      "category": "analysis",
+      "selection_reason": "Gergely Orosz argues experienced engineers stay valuable because they can judge model output, and AI reviewing AI code does not work reliably. Strong practitioner observation."
+    },
+    {
+      "id": "2072716688483831885",
+      "author": "omarsar0",
+      "text": "// AutoMem //  I quite like this idea of metamemory.  (bookmark it)  This new research from Stanford treats agent's memory management as a trainable skill instead of a fixed module.  The model decides what to encode, when to retrieve, and how to organize its own notes, with",
+      "url": "https://xcancel.com/omarsar0/status/2072716688483831885",
+      "derived_timestamp": "2026-07-02T16:19:02.405000+00:00",
+      "replies": 16,
+      "retweets": 48,
+      "likes": 253,
+      "views": 18000,
+      "engagement_count": 317,
+      "category": "analysis",
+      "selection_reason": "Summary of new Stanford AutoMem research treating an agent memory management as a trainable skill rather than a fixed module. Concrete paper-based technical item."
+    },
+    {
+      "id": "2072636519299289413",
+      "author": "fabian_theis",
+      "text": "A mathematical idea can sometimes make a surprisingly practical difference. Excited to share our ICML 2026 paper: Flow-Based Density Ratio Estimation for Intractable Distributions, with Applications in Genomics    A fundamental question in biology and machine learning is: Is this",
+      "url": "https://xcancel.com/fabian_theis/status/2072636519299289413",
+      "derived_timestamp": "2026-07-02T11:00:28.582000+00:00",
+      "replies": 3,
+      "retweets": 56,
+      "likes": 263,
+      "views": 19000,
+      "engagement_count": 322,
+      "category": "analysis",
+      "selection_reason": "Researcher announces ICML 2026 paper, Flow-Based Density Ratio Estimation for Intractable Distributions with genomics applications. Concrete peer-reviewed paper release."
+    },
+    {
+      "id": "2072698126683836531",
+      "author": "svpino",
+      "text": "My agent is now paying for its own data. No API key. No account. No credit card.  Check the video I recorded.  This uses the x402 open protocol built by Coinbase, along with a simple skill. This is an open protocol governed by the Linux Foundation.  To complete a goal, an agent",
+      "url": "https://xcancel.com/svpino/status/2072698126683836531",
+      "derived_timestamp": "2026-07-02T15:05:16.927000+00:00",
+      "replies": 30,
+      "retweets": 16,
+      "likes": 141,
+      "views": 19000,
+      "engagement_count": 187,
+      "category": "analysis",
+      "selection_reason": "Practitioner demonstrates an agent paying for its own data with no API key or account using the Coinbase-built x402 open protocol governed by the Linux Foundation. Distinct agent-payments item."
+    },
+    {
+      "id": "2072697120398938340",
+      "author": "DamiDefi",
+      "text": "Jamie Dimon, CEO of JPMorgan, stood on a stage next to Dario Amodei on May 5 2026 and described building a full Treasury dashboard with Claude Code in 20 minutes over a weekend.  Asset swaps. Bid-ask spreads. Investment grade analysis. Production-ready output. On his own.",
+      "url": "https://xcancel.com/DamiDefi/status/2072697120398938340",
+      "derived_timestamp": "2026-07-02T15:01:17.010000+00:00",
+      "replies": 13,
+      "retweets": 44,
+      "likes": 337,
+      "views": 95000,
+      "engagement_count": 394,
+      "category": "personal_story",
+      "selection_reason": "Recounts Jamie Dimon of JPMorgan describing building a full Treasury dashboard with Claude Code in 20 minutes over a weekend, with production-ready output. Concrete enterprise practitioner story."
+    },
+    {
+      "id": "2072683589909504198",
+      "author": "ThePrimeagen",
+      "text": "If you are in the tool space of AI be careful about using Claude.  Anything that Anthropic works on is against TOS for you to work on  From their TOS  > These Terms of Service (“Terms”) govern your use of Claude(dot)ai, Claude Pro, and other products and services that we may",
+      "url": "https://xcancel.com/ThePrimeagen/status/2072683589909504198",
+      "derived_timestamp": "2026-07-02T14:07:31.090000+00:00",
+      "replies": 89,
+      "retweets": 54,
+      "likes": 846,
+      "views": 72000,
+      "engagement_count": 989,
+      "category": "analysis",
+      "selection_reason": "ThePrimeagen warns AI tool builders about Anthropic Terms of Service language restricting work on competing products. Practitioner caution, strong engagement."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2072848108342677597",
+      "author": "alexandr_wang",
+      "text": "First, Mark was clearly talking about the industry’s progress on agentic capabilities on the whole.  But, while we’re on the topic: Our next Muse Spark update is coming soon. Big improvements in coding and agentic capabilities to be more competitive with other leading models.",
+      "url": "https://xcancel.com/alexandr_wang/status/2072848108342677597",
+      "derived_timestamp": "2026-07-03T01:01:15.341000+00:00",
+      "replies": 226,
+      "retweets": 227,
+      "likes": 1800,
+      "views": 476000,
+      "engagement_count": 2253,
+      "exclusion_reason": "Alexandr Wang reply thread teasing a Muse Spark update; useful but partly contextless as a reply, kept as reserve."
+    },
+    {
+      "id": "2072711979681321309",
+      "author": "it_unprofession",
+      "text": "The board called an emergency meeting to discuss our enterprise AI strategy.  Every executive in the room was panicking about falling behind the innovation curve.  They asked me how quickly we could deploy our own LLM.  I told them I'd already initiated a proprietary machine",
+      "url": "https://xcancel.com/it_unprofession/status/2072711979681321309",
+      "derived_timestamp": "2026-07-02T16:00:19.739000+00:00",
+      "replies": 17,
+      "retweets": 89,
+      "likes": 955,
+      "views": 41000,
+      "engagement_count": 1061,
+      "exclusion_reason": "Anonymous humour/story account about deploying a proprietary LLM; entertaining but not concrete news, held in reserve."
+    },
+    {
+      "id": "2072704078702879018",
+      "author": "ctatedev",
+      "text": "New in AI CLI  𝚊𝚒 𝚖𝚘𝚍𝚎𝚕𝚜 [𝚖𝚘𝚍𝚎𝚕]  Pass a model id, get detailed model info directly in your terminal: capabilities, context, pricing, provider metadata  --json output for scripts",
+      "url": "https://xcancel.com/ctatedev/status/2072704078702879018",
+      "derived_timestamp": "2026-07-02T15:28:55.999000+00:00",
+      "replies": 10,
+      "retweets": 7,
+      "likes": 166,
+      "views": 10000,
+      "engagement_count": 183,
+      "exclusion_reason": "AI CLI feature announcement (ai models command); minor tooling update, reserve."
+    },
+    {
+      "id": "2072698741744648500",
+      "author": "statnews",
+      "text": "At the Claude Science event, @AnthropicAI CEO Dario Amodei shares his optimism about AI's potential in biology",
+      "url": "https://xcancel.com/statnews/status/2072698741744648500",
+      "derived_timestamp": "2026-07-02T15:07:43.569000+00:00",
+      "replies": 3,
+      "retweets": 10,
+      "likes": 40,
+      "views": 12000,
+      "engagement_count": 53,
+      "exclusion_reason": "STAT News clip of Amodei on AI in biology; overlaps with other Amodei items, lower engagement, reserve."
+    },
+    {
+      "id": "2072935622004941160",
+      "author": "Zephyr_hg",
+      "text": "Anthropic CEO Dario Amodei:   \"Software is going to become cheap. Maybe essentially free.\"  In a 32-minute Davos interview, he says the thing software companies don't want to hear.  When the tool costs nothing, the money goes to whoever knows how to wield it.  That skill, not the",
+      "url": "https://xcancel.com/Zephyr_hg/status/2072935622004941160",
+      "derived_timestamp": "2026-07-03T06:49:00.224000+00:00",
+      "replies": 0,
+      "retweets": 0,
+      "likes": 0,
+      "views": 267,
+      "engagement_count": 0,
+      "exclusion_reason": "Amodei Davos quote on software becoming free; near-zero engagement and duplicative of other Amodei/pricing items, reserve."
+    }
+  ]
+}
