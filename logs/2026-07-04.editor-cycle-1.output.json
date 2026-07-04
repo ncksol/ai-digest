@@ -1,0 +1,140 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 10 selected items are distinct stories from 10 distinct authors, sit within the 6-10 normal target, and each carries a concrete, traceable claim (named model, paper, product, person, or repo). No same-event duplication, no fingerprint collisions, and no author overrepresentation across the selected set. Notable near-neighbor topics (e.g. Gemini pricing/leak, an alternate agent-runtime guide, an Altman-monopoly critique) live only in the reserve pool and do not collide with any selected item, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2073090339020116476",
+      "decision": "keep",
+      "reason": "Concrete, verifiable product news: Kimi K2.7 Code as the first open-weight model in the GitHub Copilot picker, posted by the official github account. Distinct news story with clear source traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other selected item covers Copilot model-picker or Kimi; unique open-weight-model-availability angle."
+      }
+    },
+    {
+      "id": "item_2073157575407722776",
+      "decision": "keep",
+      "reason": "Concrete open-source release (LangChain OpenWiki, a codebase-wiki agent) with a named org and product. Distinct tooling-release story, well sourced.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Codebase-wiki agent is a different product and event from all other selected items."
+      }
+    },
+    {
+      "id": "item_2072961737008336937",
+      "decision": "keep",
+      "reason": "Strong technical analysis of a named Hugging Face experiment (frozen model, evolved harness) with high engagement. Traceable to an identifiable HF blog write-up.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Harness-evolution methodology differs from the reserve Google runtime-optimization guide; no selected overlap."
+      }
+    },
+    {
+      "id": "item_2073083956950388894",
+      "decision": "keep",
+      "reason": "High-engagement critical analysis on weak direct AI returns versus big-tech capex, from a known commentator. Distinct financial-skeptic angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Economics-of-AI-returns angle is distinct from LeCun's technical scaling-limits argument; different claims and evidence."
+      }
+    },
+    {
+      "id": "item_2073051716665380929",
+      "decision": "keep",
+      "reason": "Named-source technical viewpoint (Yann LeCun) on limits of LLM scaling toward human-level AI. Concrete, attributable argument.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Technical scaling-limits framing is separate from edzitron's revenue/capex critique despite both being AI-skeptical."
+      }
+    },
+    {
+      "id": "item_2073031325246726196",
+      "decision": "keep",
+      "reason": "Concrete product launch (Condense.chat compression proxy with named Helene 1 and Adeline 1 models) aimed at cutting coding-agent token bills. Traceable, specific.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Token-compression proxy is a distinct product; no other selected item covers compression or these models."
+      }
+    },
+    {
+      "id": "item_2072975910442275007",
+      "decision": "keep",
+      "reason": "Names a specific paper and researcher (Samsung SAIT, Alexia Jolicoeur-Martineau, 'Less is More: Recursive Reasoning with Tiny Networks'), a distinct small-recursive-networks research story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Tiny recursive-reasoning research differs from all other selected items; low engagement but strong traceability and topic diversity."
+      }
+    },
+    {
+      "id": "item_2072968663435755794",
+      "decision": "keep",
+      "reason": "Practitioner resource contrasting Anthropic's LLM-architect pay band with a free Stanford build-an-LLM lecture. Two concrete, checkable references.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Careers-plus-learning-resource framing is unique in the selected set."
+      }
+    },
+    {
+      "id": "item_2073104617706008840",
+      "decision": "keep",
+      "reason": "Widely shared practitioner analysis arguing that as AI makes execution cheap, edge shifts to problem selection, relationships, and timing. High engagement, coherent thesis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Strategy/meta-commentary angle is distinct from the economic and technical critiques in the set."
+      }
+    },
+    {
+      "id": "item_2073076327632998575",
+      "decision": "keep",
+      "reason": "Practitioner resource: a GitHub repo cataloguing permanently free AI/LLM APIs with real rate limits. Concrete, useful, traceable to a repo.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Free-API-catalog resource is a different artifact from the Stanford lecture and pay-band item; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [],
+  "additional_search_requests": []
+}
