@@ -1,0 +1,157 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "needs_replacements",
+  "summary": "Nine of ten selected items are distinct and defensible, but the set is heavily concentrated on Dario Amodei: item_2073414092841455938 (karlmehta, CNN jobs forecast, 235k views) and item_2073513932619206960 (Zephyr_hg, Davos 'software essentially free', only 11 likes / 3.3k views) are the same speaker on adjacent AI-economics themes, and a third Amodei reference appears via item_2073546997521699050 (Sacks rebuttal). The Zephyr_hg item is the weakest link (0 replies, 11 likes) and thematically overlaps the stronger jobs item, so it is flagged same_topic_distinct_angle and marked for replacement with the highest-reach eligible reserve, item_2073470949572452668 (AnatoliKopadze Hinton lecture, 402k views), which restores a distinct foundational-researcher safety voice. karlmehta also appears twice (jobs + Hassabis risks); the two cover different speakers and topics so both are kept, but an overrepresented_author flag is raised. All items carry direct xcancel URLs; no fingerprint collisions or source-traceability failures.",
+  "decisions": [
+    {
+      "id": "item_2073414092841455938",
+      "decision": "keep",
+      "reason": "karlmehta relays an on-record Dario Amodei CNN statement with specific figures (half of entry-level white-collar jobs gone, 10-20% unemployment in 1-5 years); highest-engagement news item at 235k views, 584 likes, 143 RTs and the strongest labour-market entry.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author (karlmehta) and speaker (Amodei) as other items but distinct CNN jobs-forecast event; kept as the strongest Amodei angle over the weaker Zephyr_hg Davos take."
+      }
+    },
+    {
+      "id": "item_2073408562949218318",
+      "decision": "keep",
+      "reason": "RegalosDigitals reports a concrete product/docs launch (Anthropic official copy-paste prompt library for the dev lifecycle) at 392 likes / 70k views; only tooling-release item and distinct from every model/exec-quote entry.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique Anthropic developer-tooling launch; no overlap with any other selected story."
+      }
+    },
+    {
+      "id": "item_2073351871042117954",
+      "decision": "keep",
+      "reason": "HuggingModels announces a concrete release, Nvidia Qwen3.6-27B-NVFP4 (27B model on a single GPU via FP4 quantization), 310 likes / 21k views; only open-weight model-release item in the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct FP4 model-release announcement; no competing model release among the selected items."
+      }
+    },
+    {
+      "id": "item_2073406521212625266",
+      "decision": "keep",
+      "reason": "HighSignal_AI frames a specific Sam Altman argument (internet training tokens running out; pivot to models generating their own training data); only synthetic-data/scaling-wall angle, distinct from sedielem's scaling-law-bug point despite lower reach (1.9k views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Altman data-exhaustion/synthetic-data thesis differs from sedielem's historical scaling-law-bug claim; different speaker and argument."
+      }
+    },
+    {
+      "id": "item_2073446445307617366",
+      "decision": "keep",
+      "reason": "sedielem offers a credible practitioner technical claim that the original scaling laws were wrong due to a bug, wasting compute on oversized undertrained models; strong engagement for analysis (626 likes, 97k views, 53 RTs) and a distinct research-history angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Scaling-law-bug observation is unique; does not overlap the Altman data-wall item or any other analysis pick."
+      }
+    },
+    {
+      "id": "item_2073395181185888357",
+      "decision": "keep",
+      "reason": "SouthernValue95 gives a counter-narrative hyperscaler-economics analysis with concrete figures (EBIT/head growing 20-50% amid record capex/R&D); only financial-markets angle and distinct from the Amodei/Altman exec quotes at 137 likes / 33k views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Hyperscaler EBIT/capex analysis is a unique finance angle; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2073513932619206960",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Zephyr_hg relays Amodei's Davos 'software becomes essentially free' line, but it is the weakest item in the set (0 replies, 11 likes, 3.3k views) and a second Amodei AI-economics take adjacent to the stronger jobs item_2073414092841455938; replacing it with the 402k-view Hinton lecture improves reach and topic diversity.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2073470949572452668",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same speaker (Amodei) and same broad AI-economics theme as item_2073414092841455938 (jobs/software cheapening); distinct sub-claim but redundant and far lower engagement, so swapped for the distinct Hinton safety lecture reserve."
+      }
+    },
+    {
+      "id": "item_2073499112876761166",
+      "decision": "keep",
+      "reason": "karpathy's first-hand reaction that models can now create rich, playable knowledge-plus-code worlds is a direct primary-source capability observation (322 likes, 28k views) from a named practitioner; distinct generative-capability angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Primary-source Karpathy capability note; different subject from the reserve Av1dlive Karpathy 'second-brain wiki' tip, no collision."
+      }
+    },
+    {
+      "id": "item_2073432956765630470",
+      "decision": "keep",
+      "reason": "karlmehta relays Demis Hassabis naming two principal AI risks and conceding the second (general control) is unsolved (105 likes, 21k views); only AI-risk-taxonomy item and a different speaker/topic than the same author's Amodei jobs item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author (karlmehta) as item_2073414092841455938 but distinct speaker (Hassabis) and distinct topic (risk taxonomy vs jobs); kept, with an overrepresented_author flag raised at set level."
+      }
+    },
+    {
+      "id": "item_2073546997521699050",
+      "decision": "keep",
+      "reason": "firesidealpha captures a live All-In open-source policy exchange (David Sacks answering Amodei's 'open-source is dangerous' with 'Dangerous to whom?'); only open-source-policy-debate item, distinct from the Amodei economics/jobs quotes despite low engagement (13 likes, 2.7k views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "References Amodei but the story is the Sacks open-source rebuttal, a different event and angle from the Amodei jobs/software items; not a duplicate."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2073414092841455938",
+        "item_2073513932619206960"
+      ],
+      "reason": "Both relay Dario Amodei on AI economics (entry-level job losses vs software becoming essentially free); adjacent sub-angles of the same speaker/theme, so the weaker low-engagement Zephyr_hg item is marked for replacement."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2073414092841455938",
+        "item_2073432956765630470"
+      ],
+      "reason": "karlmehta supplies two selected items (Amodei jobs and Hassabis risks); at the author cap of two. Distinct speakers and topics so both are kept, but flagged for visibility against further karlmehta additions."
+    }
+  ],
+  "additional_search_requests": []
+}
