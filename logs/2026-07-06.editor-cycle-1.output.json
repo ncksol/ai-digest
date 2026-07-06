@@ -1,0 +1,183 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 12 selected items against the packet's selection target (7-12). All 12 carry distinct story fingerprints, concrete named subjects, and non-overlapping angles, so every item is kept. The only topical adjacency is Fable 5: the selected omarsar0 item is a first-party practitioner threejs build, while the mardehaym reserve is a pricing-complaint anecdote about the same product — distinct angles, flagged as same_topic_distinct_angle rather than treated as redundant. No hard duplicates, fingerprint collisions, or overrepresented authors were found, and no eligible reserve improves on any kept item, so no replacements are requested. Two items (crptAtlas/Stanford Shepherd, globaltimesnews/ByteDance-Alibaba shutdown) rest on low-reach single-source reporting and are noted for source traceability, but not strong enough to force replacement in this cycle. Verdict: pass.",
+  "decisions": [
+    {
+      "id": "item_2073709900820099232",
+      "decision": "keep",
+      "reason": "Concrete named tool release (Pliny's T3MP3ST offensive-security framework) with very high reach (1.5M views, 1900 likes). Distinct news story with no overlap in the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique tool-release story; no other item covers T3MP3ST or offensive-security frameworks."
+      }
+    },
+    {
+      "id": "item_2073791666553844074",
+      "decision": "keep",
+      "reason": "First-party principal-source claim from Altman about GPT-5.6 discovering new math; highest-engagement item in the set (10K likes, 1.2M views). Distinct frontier-capability news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "WhaleInsider reserve (Meta Watermelon vs GPT-5.5) touches model benchmarks but is a separate model and event; no duplication."
+      }
+    },
+    {
+      "id": "item_2073711117298188369",
+      "decision": "keep",
+      "reason": "Concrete revenue-growth data point (AI revenues ~3x faster than mobile/Internet waves) from a high-signal voice. Distinct market-analysis angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Only macro AI-revenue analysis item in the set; no overlap."
+      }
+    },
+    {
+      "id": "item_2073846453580050877",
+      "decision": "keep",
+      "reason": "Concrete named research artifact (Stanford Shepherd checkpoint/rewind for live agents), distinct from other analysis items. Low reach and single-source, but topically unique and adds a research angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other item covers agent checkpoint/rewind tooling; low engagement (4.4K views) flagged separately for source traceability, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2073892031240294726",
+      "decision": "keep",
+      "reason": "Specific actionable ruleset (Karpathy's 9 rules for building AI agents) offering concrete guidance. Distinct agent-building angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "akshay_pachaar reserve (1-person AI company) is adjacent build-guidance but a different framing and subject; not a duplicate."
+      }
+    },
+    {
+      "id": "item_2073802241274941638",
+      "decision": "keep",
+      "reason": "Concrete primary-source document (Amodei on AI surveillance of Americans, dated Feb 15 2026) from TechEmails. Distinct policy/primary-source story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique surveillance-policy primary source; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2073770608379531369",
+      "decision": "keep",
+      "reason": "Concrete China policy/company move with a date (ByteDance Doubao and Alibaba Qwen shutting personalized AI agents July 15). Distinct regional-policy story that adds geographic coverage. Low reach/single-source noted for traceability but topically valuable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Only China-regional regulatory story in the set; low engagement (5.1K views) flagged for source traceability, not duplication."
+      }
+    },
+    {
+      "id": "item_2073918048419885311",
+      "decision": "keep",
+      "reason": "Named commentary (Calacanis on Nvidia open-source LLM vs Claude for 95% of searches) with distinct strategic framing and solid reach (125K views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source-strategy commentary; no overlap in the set."
+      }
+    },
+    {
+      "id": "item_2073904860182008174",
+      "decision": "keep",
+      "reason": "High-reach AI moderation failure (Discord AI flags grid images as CSAM, bans accounts) with 811K views and 1700 retweets. Explicitly selected as the strongest of a duplicate pair.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Selection reason notes a weaker duplicate existed; this is the retained strongest instance. No competing moderation-failure item remains in the selected set."
+      }
+    },
+    {
+      "id": "item_2073917360118133191",
+      "decision": "keep",
+      "reason": "Strong practitioner take on AI code review (reviewing a much smaller percent of code than 5 years ago). Distinct personal-story angle on AI-assisted development.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Only AI-code-review practitioner reflection in the set; no overlap."
+      }
+    },
+    {
+      "id": "item_2073812647091315151",
+      "decision": "keep",
+      "reason": "Concrete named paper (Chalmers on whether an LLM could be conscious). Distinct philosophy/analysis item that diversifies the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique consciousness/philosophy item; no overlap."
+      }
+    },
+    {
+      "id": "item_2073865696253980735",
+      "decision": "keep",
+      "reason": "First-party practitioner build (Fable 5 best at threejs 3D worlds, with gpt-realtime-2) describing a specific stack. Distinct build-experience angle. Shares the Fable 5 subject with the mardehaym reserve but at a different angle, so it is kept and the topical adjacency is flagged at set level.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same product (Fable 5) as reserve item_2073827260113506726, but this is a first-party capability/build report versus that reserve's pricing-complaint anecdote — distinct angle, not a duplicate. Flagged as same_topic_distinct_angle at set level."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2073865696253980735",
+        "item_2073827260113506726"
+      ],
+      "reason": "Both items reference Fable 5, but the selected omarsar0 item is a first-party threejs/gpt-realtime-2 capability build while the mardehaym reserve is a pricing-complaint anecdote ($20 lost typing 'hey'). Distinct angles on the same product; noting the adjacency so at most one Fable 5 framing is carried and to avoid pulling the reserve in as a redundant second Fable 5 item."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2073846453580050877",
+        "item_2073770608379531369"
+      ],
+      "reason": "Both rest on very low-reach single-source tweets (crptAtlas/Stanford Shepherd at 4.4K views; globaltimesnews/ByteDance-Alibaba shutdown at 5.1K views) with no corroborating first-party or high-reach account in the pool. Kept this cycle for topical value and coverage, but flagged as weakly traceable; the specific named claims (Shepherd checkpoint/rewind tool, July 15 agent shutdown) warrant corroboration before they are treated as firmly sourced."
+    }
+  ],
+  "additional_search_requests": []
+}
