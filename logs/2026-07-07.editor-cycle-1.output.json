@@ -1,0 +1,201 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "All 13 selected items are fresh (same-day), distinct at the event level, and form a broad, coherent set spanning research (Anthropic's J-space/global-workspace interpretability finding), a concrete platform-safety incident (Discord's weekend auto-ban misfire and reinstatement, 1.8M views), model/product news (GPT-5.6 Sol tiers + Cerebras throughput, Tencent Hy3, Prismor, LingBot-Vision), and leadership/analysis (Schmidt's cash-wall argument, Altman's fire-code safety model, Zuckerberg's AI engineer loop, Nvidia's brain/harness framing, Hassabis's Davos advice, Frederiksen on AI and democracy, and the Fable 5 usage take). No two selected items duplicate the same event, so no removals or replacements are required. Two soft issues are flagged for the writer rather than cut: karlmehta appears twice (two distinct subjects, Altman and Zuckerberg), and several analysis items relay second-hand paraphrased quote-clips or an unofficial leak (GPT-5.6 Sol) without a primary link, so attribution should be hedged. The related Jack_W_Lindsey workspace tweet was correctly held in reserve as the same story as the AnthropicAI lead.",
+  "decisions": [
+    {
+      "id": "item_2074185351304724498",
+      "decision": "keep",
+      "reason": "First-party Anthropic thread announcing the J-space / global-workspace interpretability finding; the canonical lead artifact of the story at 677K views with strong engagement. Official source, so traceability is solid.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same interpretability finding as reserve item_2074215950602379388 (Jack_W_Lindsey, a co-author's personal take), but this is the primary official announcement and the strongest single artifact. The reserve near-duplicate was correctly held out, so there is no redundancy within the selected set."
+      }
+    },
+    {
+      "id": "item_2074282860123767135",
+      "decision": "keep",
+      "reason": "Discord's official support account explaining the weekend safety-system misfire that wrongly banned ~200 accounts and confirming full reinstatement; a concrete, first-party automated-safety incident with the highest reach in the set (1.8M views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique platform automated-moderation incident; no overlap with any other selected item."
+      }
+    },
+    {
+      "id": "item_2074135405314896383",
+      "decision": "keep",
+      "reason": "Concrete GPT-5.6 Sol launch details (Codex tiers Sol Ultra/Sol/Terra/Luna plus a Cerebras deployment at up to 750 tok/s) at 108K views; the day's main frontier-model product story. Retained despite unofficial 'leak' sourcing; flagged at set level for traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique GPT-5.6 Sol product story; no other selected item covers this launch. Sourced from a non-official account using 'leaks/confirmed' framing, so it is flagged for source traceability rather than duplication."
+      }
+    },
+    {
+      "id": "item_2074355818879983886",
+      "decision": "keep",
+      "reason": "Freshest item in the set (~2h); Eric Schmidt's 'cash wall before power wall' framing with concrete ~$50B/GW math is a distinct, quotable take on the AI capex debate.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique compute-economics/capex angle; no content overlap with other selected items. Second-hand paraphrase of Schmidt, flagged for traceability at set level."
+      }
+    },
+    {
+      "id": "item_2074063373613051948",
+      "decision": "keep",
+      "reason": "Sam Altman's 'fire code' model for AI safety (build resilience instead of trying to block every dangerous use) is a distinct policy framing from a named principal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct AI-safety-policy angle. Same author (karlmehta) as the Zuckerberg item, but a different subject and topic; flagged at set level for author overrepresentation only. Second-hand paraphrase, flagged for traceability."
+      }
+    },
+    {
+      "id": "item_2074142635124801787",
+      "decision": "keep",
+      "reason": "Zuckerberg describing Meta's AI engineer loop (AI writes code, then works on improving Llama itself, beyond autocomplete) is a concrete company-direction signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Meta/Llama self-improvement angle. Same author (karlmehta) as the Altman item but a different principal and subject; flagged at set level for author overrepresentation only. Second-hand paraphrase, flagged for traceability."
+      }
+    },
+    {
+      "id": "item_2074137277760975330",
+      "decision": "keep",
+      "reason": "Nvidia VP-of-engineering 'LLM is the brain, harness is the body' framing for long-running internal agents is a useful practitioner architecture view distinct from the other agent items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct agent-architecture framing; no overlap with the Prismor launch (agent security/observability) or other items. Paraphrased speech quote, flagged for traceability at set level."
+      }
+    },
+    {
+      "id": "item_2074141482882318488",
+      "decision": "keep",
+      "reason": "Tencent's fully open-source Hy3 model, evaluated via 270 professionals on real tasks rather than benchmarks, is a concrete open-model release with a distinctive evaluation angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source model-release story; distinct from the LingBot-Vision and Prismor releases in author, model, and domain."
+      }
+    },
+    {
+      "id": "item_2074154305712791893",
+      "decision": "keep",
+      "reason": "Launch of Prismor, an open-source control plane for production AI agents (secret redaction, action visibility); a concrete tooling release addressing agent security/observability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique agent-security/observability launch; distinct from the Nvidia agent-architecture commentary and other open-source releases."
+      }
+    },
+    {
+      "id": "item_2074098283224715305",
+      "decision": "keep",
+      "reason": "Demis Hassabis's Davos advice to become 'unbelievably proficient' with AI tools is concrete, quotable guidance from a named lab leader.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct leadership-advice angle; no overlap with the other analysis items. Paraphrased panel quote, flagged for traceability at set level."
+      }
+    },
+    {
+      "id": "item_2074254844223771010",
+      "decision": "keep",
+      "reason": "Open-source release of LingBot-Vision, a visual foundation model for physical AI with progress on consistent depth over long, continuous operations; a distinct robotics/vision release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique physical-AI/vision-model release; distinct from the Tencent Hy3 and Prismor releases in domain and author."
+      }
+    },
+    {
+      "id": "item_2074261106030465070",
+      "decision": "keep",
+      "reason": "Denmark's PM Mette Frederiksen publicly linking political power, capital, tech giants, and AI to the undermining of democracy is a notable policy-leader voice on AI governance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique AI-and-democracy policy angle from a head of government; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2074189718892232965",
+      "decision": "keep",
+      "reason": "An Anthropic engineer arguing Fable 5 is already smarter than users know how to use, with the bottleneck being the user, is a high-reach (179K views) practitioner take on getting more out of Claude.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model-usage/practitioner angle; unrelated to the AnthropicAI J-space interpretability item despite the shared Anthropic association. Second-hand framing of an engineer's clip, flagged for traceability at set level."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2074063373613051948",
+        "item_2074142635124801787"
+      ],
+      "reason": "karlmehta appears twice in the selected set (Sam Altman's fire-code safety model and Zuckerberg's Meta AI engineer loop). The two items cover different principals and distinct subjects, so both are retained, but the writer should attribute them to the underlying speakers rather than stacking them as one author's commentary."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2074135405314896383",
+        "item_2074355818879983886",
+        "item_2074063373613051948",
+        "item_2074142635124801787",
+        "item_2074137277760975330",
+        "item_2074098283224715305",
+        "item_2074189718892232965"
+      ],
+      "reason": "These items relay second-hand paraphrased quotes or an unofficial leak without a primary link: the GPT-5.6 Sol details come from a non-official account using 'leaks/confirmed' framing, and the Schmidt, Altman, Zuckerberg, Nvidia-VP, Hassabis, and Fable-5 items paraphrase speeches/interview clips. Attribution is clear and the clips/leaks are widely circulated, so all are retained, but the writer should hedge attribution and avoid presenting the paraphrases or the leak as verified primary quotes."
+    }
+  ],
+  "additional_search_requests": []
+}
