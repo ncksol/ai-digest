@@ -1,0 +1,1 @@
+Response text must be pure JSON — no Markdown fences or surrounding prose

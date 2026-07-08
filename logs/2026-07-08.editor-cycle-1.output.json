@@ -1,0 +1,182 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "12 selected items, within the 7-12 target. Coverage is well-distributed across OpenAI, Anthropic, Meta MSL, xAI, Google, and open-source, with no single author overrepresented. The GPT-5.6 launch is covered from two distinct angles (OpenAI's official Thursday announcement and Theo's hands-on practitioner review), which is complementary rather than redundant. The two Anthropic items are separate stories (Fable 5 access extension vs. Claude for Open Source) from different accounts. Reported/secondhand claims (ns123abc Grok 4.5 'per a staff memo', RodmanAi Tencent OSS) carry named sources with concrete claims and are acceptable as reported news, with sourcing noted. The reserve item from sama duplicates the selected OpenAI launch tweet but is not selected, so it does not affect the set. Zephyr_hg's Hassabis clip is very thin on engagement (588 views) but is recent and from a named lab CEO. All selected items are kept; no replacements needed.",
+  "decisions": [
+    {
+      "id": "item_2074704958419792299",
+      "decision": "keep",
+      "reason": "Official OpenAI confirmation of a firm Thursday public launch for the full GPT-5.6 family (Sol/Terra/Luna) plus global preview expansion. First-party source, 2.7M views, concrete and dated. Anchor news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the GPT-5.6 launch event with item_2074708892341481755 (theo), but this is the official announcement angle vs. a hands-on review. The reserve item_2074709023807664454 (sama) restates this same announcement but is not selected."
+      }
+    },
+    {
+      "id": "item_2074555909347369105",
+      "decision": "keep",
+      "reason": "Concrete product release: Meta Superintelligence Labs ships its first image model, Muse Image, an agentic generator live in the Meta AI app, announced by a named exec. Distinct vendor and product from the rest of the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other item covers Meta MSL or image generation. Standalone story."
+      }
+    },
+    {
+      "id": "item_2074548242386178258",
+      "decision": "keep",
+      "reason": "First-party Anthropic update with a concrete new date: Fable 5 access extended on all paid plans through July 12. 14M views, highest-engagement item in the set. Distinct from the Claude for Open Source story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Anthropic org with item_2074570404035993780 (ClaudeDevs) but is a separate story (model access window vs. open-source program) from a different account."
+      }
+    },
+    {
+      "id": "item_2074570404035993780",
+      "decision": "keep",
+      "reason": "Concrete company move: Anthropic expands Claude for Open Source, offering six months of Max 20x free to maintainers and core contributors. Strong engagement and a distinct topic from the Fable 5 access item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same Anthropic org as item_2074548242386178258 but a different program and account; not a duplicate event."
+      }
+    },
+    {
+      "id": "item_2074604203180208524",
+      "decision": "keep",
+      "reason": "Concrete near-term release signal: xAI and Cursor reportedly shipping Grok 4.5 to compete with Opus 4.8 and GPT-5.5. Distinct model-launch news from a named account. Sourcing is secondhand ('per a staff memo') and is framed as reported.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Grok 4.5 is a separate model launch from GPT-5.6 and the Claude/Meta items. Claim is reported via a staff memo rather than a first-party xAI post; retained as reported news with sourcing noted."
+      }
+    },
+    {
+      "id": "item_2074708892341481755",
+      "decision": "keep",
+      "reason": "Strong first-hand practitioner review of GPT-5.6 with concrete behavioural claims (long autonomous runs, subagent handling). Complements the official launch item with a distinct hands-on angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GPT-5.6 launch event as item_2074704958419792299 but a distinct angle (independent review vs. official announcement). Kept as same_topic_distinct_angle rather than a duplicate."
+      }
+    },
+    {
+      "id": "item_2074605703281693175",
+      "decision": "keep",
+      "reason": "Concrete personnel move: a senior OpenAI figure announces his own departure in a first-person Slack message. Named first-party source, notable engagement, distinct from the GPT-5.6 product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "OpenAI-adjacent but a personnel story, not the product launch. No overlap with other items."
+      }
+    },
+    {
+      "id": "item_2074755111046504513",
+      "decision": "keep",
+      "reason": "Fresh Hassabis career-advice clip with concrete, quotable guidance from a named lab CEO. Adds a distinct viewpoint (education/skills) to the set. Engagement is very thin (588 views) but recency and source strength support inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the Amodei analysis item: different speaker and different theme (skills advice vs. safety governance). Very low traction noted but not a duplicate."
+      }
+    },
+    {
+      "id": "item_2074520119842316405",
+      "decision": "keep",
+      "reason": "Quotable Amodei position on safety-before-speed from a longer interview. Named lab CEO with a concrete framing distinct from the Hassabis clip and the product items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Both this and the Hassabis item are lab-CEO commentary, but on different themes (threat reporting vs. skills). Distinct angle, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2074505722524577845",
+      "decision": "keep",
+      "reason": "Concrete research signal: an ICML Outstanding Paper on Grokking surfaced by a credible ML practitioner. Adds genuine research depth that no other item provides.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Only research/paper item in the set. Standalone."
+      }
+    },
+    {
+      "id": "item_2074559295660978521",
+      "decision": "keep",
+      "reason": "Concrete developer-platform update: Gemini API Managed Agents gain production features (background tasks, remote MCP, function calls, credential refresh, free-tier). Distinct vendor (Google) from the OpenAI/Anthropic items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Google developer-platform news; no overlap with the other vendors' items."
+      }
+    },
+    {
+      "id": "item_2074435421233459534",
+      "decision": "keep",
+      "reason": "Concrete open-source release: Tencent open-sources a local-first agent memory system with no external vector DB or cloud APIs. Broadens open-source coverage; distinct from the Claude for Open Source program item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Relayed by a secondary account rather than Tencent directly, but a concrete named release. Distinct from all other items; sourcing noted."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2074704958419792299",
+        "item_2074708892341481755"
+      ],
+      "reason": "Both cover the GPT-5.6 launch: item_2074704958419792299 is OpenAI's official Thursday announcement and item_2074708892341481755 is Theo's independent hands-on review. Complementary angles on the same event; both retained intentionally."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2074709023807664454"
+      ],
+      "reason": "Reserve item item_2074709023807664454 (sama, 'GPT-5.6 sol launches thursday') restates the same launch announcement as the selected item_2074704958419792299 (OpenAI) with the same angle. It is correctly left unselected and should not be promoted, as it would duplicate the official announcement already in the set."
+    }
+  ],
+  "additional_search_requests": []
+}
