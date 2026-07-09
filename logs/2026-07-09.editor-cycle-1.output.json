@@ -1,0 +1,187 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Strong, concrete set anchored by real releases (GPT-Live, SWE-1.7, Robostral Navigate, Alibaba web agent) plus benchmark-integrity and safety research. Main issues: OpenAI is overrepresented (3 selected items), the GPT-Live story spans 3 items (intro/rollout/sama) as distinct angles, and several principal quotes are third-party paraphrases with weak source traceability. The Grok 4.5 practitioner item is too low-signal to carry a slot and is replaced with the concrete GPT-5.6 launch reserve.",
+  "decisions": [
+    {
+      "id": "item_2074907025537224840",
+      "decision": "keep",
+      "reason": "Highest-signal concrete release of the day: OpenAI GPT-Live voice models announcement from the official account with strong engagement. Anchor item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GPT-Live launch event as the rollout and sama items, but this is the primary announcement angle. Distinct from the availability-status and principal-reaction angles."
+      }
+    },
+    {
+      "id": "item_2075019750569378007",
+      "decision": "keep",
+      "reason": "Adds a distinct availability angle (fully rolled out to Go/Plus/Pro, free rollout in progress) that the intro tweet does not cover. Same author but incremental, verifiable status.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GPT-Live event and same author (OpenAI) as the intro tweet; kept for the distinct rollout/availability angle. Contributes to OpenAI author overrepresentation flagged at set level."
+      }
+    },
+    {
+      "id": "item_2074882968770728416",
+      "decision": "keep",
+      "reason": "Concrete named coding-model launch (SWE-1.7) with specific speed/cost claims. Distinct author and story from the rest of the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique Cognition model release; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2074856309438980145",
+      "decision": "keep",
+      "reason": "Mistral's first embodied-navigation robotics model with a concrete benchmark claim (R2R-CE). Distinct robotics domain and named release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique robotics release; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2075086293155852422",
+      "decision": "keep",
+      "reason": "Fresh open-source agent release (Alibaba web-control agent). Adds open-weight/agent coverage that no other selected item provides.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Third-party report (RoundtableSpace) rather than the primary source, but the claim is specific and distinct from other items. Low engagement but topically unique."
+      }
+    },
+    {
+      "id": "item_2074972179385720836",
+      "decision": "keep",
+      "reason": "Concrete benchmark-integrity news: OpenAI retracts SWE-Bench Pro recommendation citing 30% broken tasks. Directly relevant to how coding models are evaluated.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same SWE-Bench Pro story as reserve item_2074972180769907186 (audit detail), but that reserve is a same-author follow-on thread and is not selected. This is the headline-claim angle. Contributes to OpenAI author overrepresentation flagged at set level."
+      }
+    },
+    {
+      "id": "item_2075005777522172146",
+      "decision": "keep",
+      "reason": "Official Anthropic safety/alignment research announcement (off-switch dual-use, with AE Studio) from the lab account. Adds distinct alignment coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research announcement; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2074909079450050629",
+      "decision": "keep",
+      "reason": "Altman's first-person principal-voice framing on GPT-Live shifting his own preference from typing to voice. Distinct reaction angle on the launch from a named principal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GPT-Live event as the two OpenAI items; kept for the distinct principal first-person angle. Part of the same_topic_distinct_angle cluster flagged at set level."
+      }
+    },
+    {
+      "id": "item_2074914783623557533",
+      "decision": "keep",
+      "reason": "Substantive Hassabis research-direction quote (AI for simulations) distinct from the recurring 'master the tools' clip. Adds a research-vision angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Third-party paraphrase (r0ck3t23) of a Hassabis quote with no primary link; source traceability is weak but the item is topically distinct from the reserve Hassabis 'undergrads/tools' clip. Flagged at set level for traceability."
+      }
+    },
+    {
+      "id": "item_2074862979145945266",
+      "decision": "keep",
+      "reason": "Amodei Bloomberg interview surfacing concrete policy/safety claims (25% collapse odds, red-line commentary). Adds policy/principal coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Third-party paraphrase (heynavtoor) of a Bloomberg interview with no primary link; source traceability is weak and the specific figures are unverifiable from the tweet alone. Flagged at set level for traceability."
+      }
+    },
+    {
+      "id": "item_2075090486403166516",
+      "decision": "replace",
+      "reason": "Too low-signal to carry a digest slot: 'Grok 4.5 is a good model' is a bare opinion with no concrete claim, benchmark, or detail, and low engagement. Replacing with the concrete GPT-5.6 Sol/Terra/Luna launch reserve, which is a specific, high-engagement named release.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2074704958419792299",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate; replaced on quality/signal grounds. Source traceability also weak (no link to any Grok 4.5 release or evidence)."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2074907025537224840",
+        "item_2075019750569378007",
+        "item_2074909079450050629"
+      ],
+      "reason": "Three items cover the single GPT-Live launch story: OpenAI announcement, OpenAI rollout/availability status, and Altman's principal reaction. Each carries a distinct angle (announcement, availability, principal voice), but the cluster is dense and the two OpenAI items are close; if trimming is needed, the rollout status item is the weakest."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2074907025537224840",
+        "item_2075019750569378007",
+        "item_2074972179385720836"
+      ],
+      "reason": "OpenAI appears as the author on three selected items (GPT-Live intro, GPT-Live rollout, SWE-Bench Pro retraction), skewing the set toward a single organization."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2074914783623557533",
+        "item_2074862979145945266",
+        "item_2075086293155852422"
+      ],
+      "reason": "These items are third-party paraphrases (r0ck3t23 for Hassabis, heynavtoor for Amodei/Bloomberg, RoundtableSpace for the Alibaba agent) that summarize quotes or releases without linking to a primary source, so the specific claims (e.g., 25% collapse odds, R2R navigation agent) cannot be traced from the tweet itself."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "One selected item was replaced on quality grounds and several principal-quote items rely on weak third-party sourcing; an additional Twitter pass could surface primary-source posts from official lab and principal accounts to strengthen traceability.",
+      "suggested_query_theme": "Primary-source posts from official AI lab and principal accounts (OpenAI, AnthropicAI, GoogleDeepMind, sama, Dario Amodei, Demis Hassabis, Alibaba/Qwen) confirming the day's model launches and interview quotes since 2026-07-08."
+    }
+  ]
+}
