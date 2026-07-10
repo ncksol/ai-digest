@@ -1,0 +1,195 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Twelve selected items form a coherent set anchored on the GPT-5.6 / ChatGPT Work launch, with distinct angles (livestream announce, product intro, developer desktop app, enterprise cost framing) plus competitive threads (Meta Muse Spark, Musk-on-Anthropic and the SpaceXAI compute-dependence context), Anthropic product and governance news, OpenAI personnel news, third-party distribution, and a research analysis. Each item carries a source URL and derived timestamp, coverage spans multiple labs, and no hard duplicates or fingerprint collisions were found. The multiple OpenAI-launch and Musk/Anthropic items are same-event-distinct-angle rather than redundant, so the set passes without replacements.",
+  "decisions": [
+    {
+      "id": "item_2075264378962907597",
+      "decision": "keep",
+      "reason": "Altman's livestream announcement is the day's anchor story and frames the three product releases; unique originating angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GPT-5.6 launch event as items 2-4 but this is the top-level announcement angle."
+      }
+    },
+    {
+      "id": "item_2075274271845404744",
+      "decision": "keep",
+      "reason": "Official ChatGPT Work product intro; highest-reach official post with concrete agent capabilities.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the launch event with the sama livestream post but supplies the distinct product-detail angle."
+      }
+    },
+    {
+      "id": "item_2075275868268789885",
+      "decision": "keep",
+      "reason": "Developer-facing desktop app and Computer Use details are distinct from the consumer product intro.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same launch, developer/tooling angle distinct from items 1-2."
+      }
+    },
+    {
+      "id": "item_2075267201058426944",
+      "decision": "keep",
+      "reason": "Enterprise cost / dollars-per-task framing of the 5.6 family is an analysis angle separate from the product launch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same 5.6 release but economic/enterprise framing, not a product announcement."
+      }
+    },
+    {
+      "id": "item_2075218444056707458",
+      "decision": "keep",
+      "reason": "Zuckerberg releasing Muse Spark 1.1 and Meta Model API is a major competing model launch; highest reach in the pool.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Meta launch, no overlap with OpenAI items."
+      }
+    },
+    {
+      "id": "item_2075278580955685036",
+      "decision": "keep",
+      "reason": "Musk's own first-person tweet (77k likes, 3.1M views) naming Anthropic the current AI leader and disavowing a compute cutoff is a primary-source competitive statement, posted 13h ago, distinct from the yacineMTB dependence-claim angle; concrete company news, not a duplicate.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Related to the yacineMTB SpaceXAI-compute item but this is Musk's own first-person statement, a distinct primary angle."
+      }
+    },
+    {
+      "id": "item_2075175415497314306",
+      "decision": "keep",
+      "reason": "Provides the SpaceXAI compute-dependence context that motivates the Musk statement; complementary practitioner angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Anthropic/SpaceXAI compute topic as the Musk item but offers the analytical dependence-claim angle rather than Musk's own post."
+      }
+    },
+    {
+      "id": "item_2075225957711929667",
+      "decision": "keep",
+      "reason": "Concrete Anthropic product news (usage-reflection/recap feature) distinct from OpenAI and Meta launches.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone Anthropic product story."
+      }
+    },
+    {
+      "id": "item_2075354679031067058",
+      "decision": "keep",
+      "reason": "Notable OpenAI personnel news on Fidji Simo; distinct human-interest/company angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique personnel story unrelated to the product launches."
+      }
+    },
+    {
+      "id": "item_2075257492716879967",
+      "decision": "keep",
+      "reason": "Anthropic governance move (Bernanke joins Long-Term Benefit Trust) is distinct institutional news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone governance story."
+      }
+    },
+    {
+      "id": "item_2075375851479420951",
+      "decision": "keep",
+      "reason": "Third-party distribution of GPT-5.6 in Perplexity shows rapid ecosystem uptake, a distinct downstream angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Touches the 5.6 launch but from a third-party adoption angle, not an OpenAI announcement."
+      }
+    },
+    {
+      "id": "item_2075365812572205484",
+      "decision": "keep",
+      "reason": "Research analysis framing verification as a new scaling axis adds technical depth distinct from product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Independent research story; low engagement but adds coverage diversity."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2075264378962907597",
+        "item_2075274271845404744",
+        "item_2075275868268789885",
+        "item_2075267201058426944",
+        "item_2075375851479420951"
+      ],
+      "reason": "Five items cover the GPT-5.6 / ChatGPT Work launch but each holds a distinct angle (livestream announce, product intro, developer desktop app, enterprise cost framing, third-party distribution). Not redundant, but concentrated on one event; noted for balance."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2075278580955685036",
+        "item_2075175415497314306"
+      ],
+      "reason": "Both concern the Anthropic/SpaceXAI compute-dependence story; Musk's first-person post and the practitioner dependence-claim are complementary distinct angles rather than duplicates."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2075264378962907597",
+        "item_2075267201058426944",
+        "item_2075354679031067058"
+      ],
+      "reason": "Three of the twelve selected items are from sama; all cover distinct angles (launch announce, cost framing, personnel), so kept, but author concentration is flagged for awareness."
+    }
+  ],
+  "additional_search_requests": []
+}
