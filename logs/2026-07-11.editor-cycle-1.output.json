@@ -1,0 +1,149 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 10 selected items are distinct, well-sourced AI news/analysis/personal-story tweets from the 2026-07-10 window. The set spans OpenAI GPT-5.6 developments (math proof, health model, Microsoft 365 Copilot default), a safety/policy move (bio bug bounty), an Apple IP dispute report, agentic workflow observations, a coding-agent failure caution, model-churn commentary, and distinct research on AI adoption. No selected item is redundant with another selected item, so no replacements are needed. The polynoamial math-proof selection and the gdb reserve cover the same event (fingerprint collision), but that collision is confined to the reserve pool and does not affect the selected set.",
+  "decisions": [
+    {
+      "id": "item_2075646048425431469",
+      "decision": "keep",
+      "reason": "Concrete, high-signal claim of a novel math result from a publicly available frontier model, attributed to a named OpenAI researcher. Strongest version of this story in the pool.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the 50-year math conjecture event with reserve item_2075670151702430044 (gdb), but this selected tweet is the fuller, better-attributed version. The reserve is the duplicate, not this item."
+      }
+    },
+    {
+      "id": "item_2075686461693898868",
+      "decision": "keep",
+      "reason": "Official OpenAI post on health-focused GPT-5.6 Luna capabilities with a concrete cost/performance claim. Distinct product angle from other GPT-5.6 items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author (OpenAI) as the bio bug bounty item but a clearly distinct topic and angle."
+      }
+    },
+    {
+      "id": "item_2075647722766614733",
+      "decision": "keep",
+      "reason": "Concrete safety/policy move: formalised bio bug bounty with doubled rewards. Distinct from product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author (OpenAI) as the health model item but a distinct safety/policy story."
+      }
+    },
+    {
+      "id": "item_2075585386441789605",
+      "decision": "keep",
+      "reason": "Concrete distribution milestone: GPT-5.6 becomes the preferred model in Microsoft 365 Copilot. Distinct angle from capability and safety items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Part of the broader GPT-5.6 news cluster but covers a unique distribution/adoption event."
+      }
+    },
+    {
+      "id": "item_2075630236348330046",
+      "decision": "keep",
+      "reason": "Thinking Machines co-founder frames the lab's research direction; substantive analysis distinct from OpenAI product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2075657271401390161",
+      "decision": "keep",
+      "reason": "High-reach practitioner caution about an agentic coding failure with GPT-5.6 Sol; adds a critical, real-world counterpoint to the launch hype.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Mentions GPT-5.6 Sol like other items but is a distinct personal failure story, not product news."
+      }
+    },
+    {
+      "id": "item_2075739020789760078",
+      "decision": "keep",
+      "reason": "Widely-circulated report of an Apple-OpenAI hardware IP dispute; distinct newsworthy story with high reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Single-source allegation phrased strongly, but unique in the set and clearly framed as alleged."
+      }
+    },
+    {
+      "id": "item_2075604612359315647",
+      "decision": "keep",
+      "reason": "High-reach practitioner observation on a shift in agent workflow style from a notable figure; distinct analysis-style personal note.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from other agent-related items; no event overlap."
+      }
+    },
+    {
+      "id": "item_2075550584917160258",
+      "decision": "keep",
+      "reason": "Practitioner observation on the pace of model releases and provider churn; distinct meta-commentary angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2075605492798459977",
+      "decision": "keep",
+      "reason": "Concrete research finding on AI adoption by a militant group; broadens topical coverage beyond product/lab news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique topic in the set."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "fingerprint_collision",
+      "item_ids": [
+        "item_2075646048425431469",
+        "item_2075670151702430044"
+      ],
+      "reason": "Selected polynoamial tweet and reserve gdb tweet both report the same event (50-year math conjecture solved with Sol Ultra). The reserve is the duplicate; the selected item is kept as the stronger, better-attributed version, so this collision does not require any change to the selected set."
+    }
+  ],
+  "additional_search_requests": []
+}
