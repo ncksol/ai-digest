@@ -1,0 +1,183 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Reviewed 11 selected items against a thin pool (all recency searches returned 0). Coverage skews heavily toward GPT-5.6 Sol/OpenAI, with two sama tweets creating author overrepresentation. Kept most items but flagged the low-signal, hard-to-trace free_ai_guides file-deletion claim (15 likes, 1.2K views, no primary source) as a traceability failure and recommend replacing it. No eligible reserve cleanly fits that safety-incident slot, so needs_more_search is used. Also flagged the two sama items as same-author overrepresentation and the medical-benchmark angle as overlapping with the pmarca reserve.",
+  "decisions": [
+    {
+      "id": "item_2075876651574210643",
+      "decision": "keep",
+      "reason": "Massively viral (8.1M views), concrete probe of frontier vision limits; strong standalone item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from thomasschulzz font item: that is generation, this is a human-only font defeating models."
+      }
+    },
+    {
+      "id": "item_2075985056846451123",
+      "decision": "keep",
+      "reason": "Altman citing a medical benchmark result; high-signal news from a primary account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same medical-AI theme as pmarca reserve (better doctor claim), but distinct source and specific benchmark framing."
+      }
+    },
+    {
+      "id": "item_2076034575311278319",
+      "decision": "keep",
+      "reason": "Fresh Altman reaction to the live Apple/OpenAI legal fight; newsworthy and from primary account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Second sama item; contributes to author overrepresentation but topically distinct from the medical tweet."
+      }
+    },
+    {
+      "id": "item_2076119366647894371",
+      "decision": "keep",
+      "reason": "Widely shared practitioner workaround to run GPT-5.6 Sol via CLIProxyAPI.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner tooling angle."
+      }
+    },
+    {
+      "id": "item_2075992167227768980",
+      "decision": "reject",
+      "reason": "Very low engagement (15 likes, 1.2K views) and an unverifiable second-hand claim of file-deletion incidents with no primary source or traceable safety-card citation; traceability risk too high for the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No eligible reserve covers the same GPT-5.6 Sol safety-incident angle; recommend additional Twitter search."
+      }
+    },
+    {
+      "id": "item_2075951605917380816",
+      "decision": "keep",
+      "reason": "Concrete safety-research point from a named DeepMind interpretability lead; adds analytical depth.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Low raw engagement but distinct, substantive safety angle."
+      }
+    },
+    {
+      "id": "item_2075994424484732984",
+      "decision": "keep",
+      "reason": "Concrete research claim (Atomic Task Graph lifting small open models); strong open-model coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research item."
+      }
+    },
+    {
+      "id": "item_2075920658241028327",
+      "decision": "keep",
+      "reason": "Fresh Amodei framing of the AI transition; distinct analytical voice.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from Hassabis science-acceleration talk."
+      }
+    },
+    {
+      "id": "item_2076062383215141096",
+      "decision": "keep",
+      "reason": "Circulating Hassabis talk on compressing scientific progress; relevant analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from Amodei framing despite both being leader-vision content."
+      }
+    },
+    {
+      "id": "item_2075932575147733290",
+      "decision": "keep",
+      "reason": "Concrete educational release (Ng + Anthropic agentic-skills course).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct educational item."
+      }
+    },
+    {
+      "id": "item_2076001786700394610",
+      "decision": "keep",
+      "reason": "Detailed, widely shared practitioner blueprint for router-style AGENTS.md setups.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner setup angle from the CLIProxyAPI tooling tweet."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2075985056846451123",
+        "item_2076034575311278319"
+      ],
+      "reason": "Two sama tweets are in the selected set (plus a third sama item in reserve), concentrating voice on a single author."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2075992167227768980"
+      ],
+      "reason": "free_ai_guides file-deletion claim is a low-engagement, second-hand assertion with no primary source or verifiable safety-card citation."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2075985056846451123",
+        "item_2076167642201936140"
+      ],
+      "reason": "Altman medical-benchmark tweet and pmarca 'better doctor' reserve cover the same medical-AI topic from distinct angles."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "The rejected free_ai_guides safety-incident item has no clean reserve replacement covering GPT-5.6 Sol destructive-action incidents; need a better-sourced tweet on this theme.",
+      "suggested_query_theme": "GPT-5.6 Sol deleted files / destructive action safety incident reports"
+    }
+  ]
+}
