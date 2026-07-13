@@ -1,0 +1,170 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Eleven selected items form a coherent, diverse digest spanning OpenAI/Anthropic product updates, open-source inference milestones, model-competition signals, policy, and named-executive commentary, within the 6-11 target. Two GPT-5.6 Sol items (thsottiaux infra update, sama community call) are distinct angles and both retained. The COLIBRI 744B item overlaps with a weaker reserve (hasantoxr) which stays unused in reserve. Main concern is source traceability on relayed/leaked claims (RoundtableSpace Gemini leak, Kalshi relaying Musk); items are kept but flagged.",
+  "decisions": [
+    {
+      "id": "item_2076365965915467978",
+      "decision": "keep",
+      "reason": "Concrete OpenAI infra/product update (usage-limit removal, GPT-5.6 Sol efficiency) from a named OpenAI leader with very high engagement. Distinct angle from sama's community-call post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares 5.6 Sol topic with sama item but covers an infra/usage-limit change, a distinct angle."
+      }
+    },
+    {
+      "id": "item_2076351399999557669",
+      "decision": "keep",
+      "reason": "Official Anthropic announcement (Claude Fable 5 access, Claude Code rate limits through July 19); concrete and very high reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique Anthropic product announcement with no overlap in the set."
+      }
+    },
+    {
+      "id": "item_2076229362559664188",
+      "decision": "keep",
+      "reason": "Strongest version of the COLIBRI 744B-on-25GB-no-GPU inference milestone; concrete detail and higher engagement than the reserve duplicate.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same story as reserve item_2076135762291261627 (hasantoxr); this selected item is the fuller, higher-engagement version and is retained. Reserve stays unused."
+      }
+    },
+    {
+      "id": "item_2076253133517598859",
+      "decision": "keep",
+      "reason": "Concrete technical research: NVIDIA transformer variant with measured 1.7x decoding speedup and +6.5-point long-reasoning accuracy.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research item; no overlap in the set."
+      }
+    },
+    {
+      "id": "item_2076339551354941709",
+      "decision": "keep",
+      "reason": "Relevant model-competition signal on a leaked Gemini 3.5 Pro benchmark. Kept for newsworthiness but flagged for traceability: an unverified leak relayed by a non-primary account with no primary source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model-competition angle; no duplicate in the set."
+      }
+    },
+    {
+      "id": "item_2076341651107348503",
+      "decision": "keep",
+      "reason": "Named executive (Nadella) framing on AI's hidden cost; strong reach and distinct analysis angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique commentary item; no overlap."
+      }
+    },
+    {
+      "id": "item_2076241104408568288",
+      "decision": "keep",
+      "reason": "Concrete AI-data-consent policy story affecting consumer health data; distinct policy angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique policy item; no overlap."
+      }
+    },
+    {
+      "id": "item_2076398253332140410",
+      "decision": "keep",
+      "reason": "Direct from Altman; community-call around 5.6 Sol adoption with very high reach. Distinct angle from the thsottiaux infra update.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares 5.6 Sol topic with thsottiaux item but is a community/engagement post, a distinct angle."
+      }
+    },
+    {
+      "id": "item_2076330331460788520",
+      "decision": "keep",
+      "reason": "Fresh escalation angle on the Apple/OpenAI lawsuit. Kept but flagged for traceability: relays a Musk claim via a non-primary account without a primary source link.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct lawsuit-escalation angle; no duplicate in the set."
+      }
+    },
+    {
+      "id": "item_2076332058310582527",
+      "decision": "keep",
+      "reason": "Substantive Hassabis observation on AI-regulation dynamics; distinct analysis angle. Low engagement but topically valuable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique regulation-commentary item; no overlap."
+      }
+    },
+    {
+      "id": "item_2076300553207112003",
+      "decision": "keep",
+      "reason": "Practitioner-community read on Notion's expansion into AI software; strong engagement and distinct practitioner angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique practitioner item; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2076365965915467978",
+        "item_2076398253332140410"
+      ],
+      "reason": "Both concern GPT-5.6 Sol but from distinct angles: thsottiaux reports an infra/usage-limit change while sama makes a community build-showcase call. Retained as complementary, not redundant."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2076339551354941709",
+        "item_2076330331460788520"
+      ],
+      "reason": "Both are relayed/leaked claims from non-primary accounts (RoundtableSpace on a Gemini 3.5 Pro benchmark leak; Kalshi relaying a Musk statement) with no primary source link, limiting verifiability."
+    }
+  ],
+  "additional_search_requests": []
+}
