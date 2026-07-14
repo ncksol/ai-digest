@@ -1,0 +1,153 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 11 selected items against 4 eligible reserves. The set is topically diverse (security incident, practitioner story, first-party research, ICML keynote, agent-cost finding, open-source release, memory research, agent-loop breakdown, skeptic framing, Altman post, SaaS market analysis) with no true duplicates. Two sama posts exist across the pool but only one is selected, so no overrepresentation issue. The Altman 'clarity is nice' item is thin on standalone context but does not rise to a set-level failure. Count (11) sits at the top of the 6-11 target range. All items retained.",
+  "decisions": [
+    {
+      "id": "item_2076689215258014069",
+      "decision": "keep",
+      "reason": "High-signal xAI Grok Build CLI security incident with concrete claim and massive engagement; unique story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other item covers this security incident."
+      }
+    },
+    {
+      "id": "item_2076794038456385546",
+      "decision": "keep",
+      "reason": "Concrete first-person GPT-5.6 incident with named OpenAI response; distinct personal-story angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the xAI incident; different vendor and framing."
+      }
+    },
+    {
+      "id": "item_2076719546954825769",
+      "decision": "keep",
+      "reason": "First-party Anthropic research on Claude value variation by language; unique analytical content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other analysis items."
+      }
+    },
+    {
+      "id": "item_2076747808452083744",
+      "decision": "keep",
+      "reason": "Named ICML keynote from a credible researcher on AI and future work; distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique event and perspective."
+      }
+    },
+    {
+      "id": "item_2076701705736257657",
+      "decision": "keep",
+      "reason": "Quantified technical finding on agent context compaction cost savings; concrete and unique.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the Claude Code agent-loop breakdown."
+      }
+    },
+    {
+      "id": "item_2076722464671793184",
+      "decision": "keep",
+      "reason": "Concrete open-source LlamaCoder v4 release built around GLM 5.2; unique product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other release item overlaps."
+      }
+    },
+    {
+      "id": "item_2076826479082536996",
+      "decision": "keep",
+      "reason": "Concrete summary of a Google memory-consolidation (sleep phase) approach; distinct research angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different research topic from other analysis items."
+      }
+    },
+    {
+      "id": "item_2076605076714729684",
+      "decision": "keep",
+      "reason": "Useful practitioner breakdown of Claude Code agent loop types; distinct from the token-cost finding.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Both touch agents but cover different subject matter."
+      }
+    },
+    {
+      "id": "item_2076804636997026274",
+      "decision": "keep",
+      "reason": "Notable skeptic framing tied to a Turing-award figure; distinct contrarian angle. Low engagement but adds set diversity.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique viewpoint; no duplicate."
+      }
+    },
+    {
+      "id": "item_2076696938918084809",
+      "decision": "keep",
+      "reason": "High-engagement Altman post amid the OpenAI/Anthropic exchange; thin text but strong signal and unique among selected.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Only one sama post is selected; no overrepresentation. Context is terse but not a duplicate."
+      }
+    },
+    {
+      "id": "item_2076668937169690852",
+      "decision": "keep",
+      "reason": "Concrete market observation on AI's impact on SaaS valuations; unique economic angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other item covers SaaS/market economics."
+      }
+    }
+  ],
+  "set_level_flags": [],
+  "additional_search_requests": []
+}
