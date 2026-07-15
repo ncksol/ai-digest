@@ -1,0 +1,1022 @@
+{
+  "date": "2026-07-15",
+  "searches": [
+    {
+      "file": "s1.json",
+      "count": 8
+    },
+    {
+      "file": "s2.json",
+      "count": 9
+    },
+    {
+      "file": "s3.json",
+      "count": 7
+    },
+    {
+      "file": "s4.json",
+      "count": 9
+    },
+    {
+      "file": "s5.json",
+      "count": 7
+    },
+    {
+      "file": "s6.json",
+      "count": 6
+    },
+    {
+      "file": "s7.json",
+      "count": 13
+    },
+    {
+      "file": "s8.json",
+      "count": 7
+    },
+    {
+      "file": "s9.json",
+      "count": 7
+    },
+    {
+      "file": "s11.json",
+      "count": 5
+    },
+    {
+      "file": "s13.json",
+      "count": 1
+    }
+  ],
+  "all_returned_tweets": [
+    {
+      "id": "2077045664471749039",
+      "author": "Crowdreply_io",
+      "text": "Today we're introducing Claude for Marketing.\n\nThe first AI agent that doesn't just track your brand in AI answers but ranks it all from your chat.\n\nJust ask. It reads your visibility, pinpoints what's wrong and handles the fix.",
+      "likes": 507,
+      "replies": 202,
+      "retweets": 428,
+      "views": 161000,
+      "derived_timestamp": 1784041250709,
+      "age_hours": 16.1
+    },
+    {
+      "id": "2077053140508266710",
+      "author": "sama",
+      "text": "Concerning.",
+      "likes": 20000,
+      "replies": 1100,
+      "retweets": 1300,
+      "views": 2200000,
+      "derived_timestamp": 1784043033135,
+      "age_hours": 15.6
+    },
+    {
+      "id": "2077070925154161101",
+      "author": "gsivulka",
+      "text": "",
+      "likes": 840,
+      "replies": 59,
+      "retweets": 257,
+      "views": 849000,
+      "derived_timestamp": 1784047273325,
+      "age_hours": 14.4
+    },
+    {
+      "id": "2076847146251190642",
+      "author": "cyrilXBT",
+      "text": "YOU CAN BUILD AN AI SECOND BRAIN IN 15 MINUTES.\nNo coding experience. No $1000 course.\n\nHere is the entire setup.\nStep 1: Download Claude Desktop.\nStep 2: Download Obsidian.\nStep 3: Create a new vault and start dropping .MD files into it.\nStep 4: Tell Claude Code to connect to",
+      "likes": 1300,
+      "replies": 50,
+      "retweets": 232,
+      "views": 203000,
+      "derived_timestamp": 1783993920277,
+      "age_hours": 29.3
+    },
+    {
+      "id": "2077086951833063580",
+      "author": "sundarpichai",
+      "text": "Well said Demis! Worth reading",
+      "likes": 3500,
+      "replies": 113,
+      "retweets": 328,
+      "views": 682000,
+      "derived_timestamp": 1784051094383,
+      "age_hours": 13.4
+    },
+    {
+      "id": "2077132812935709093",
+      "author": "markgurman",
+      "text": "NEW: OpenAI\u2019s first product is a mobile, screen-free home smart speaker that a user can build a connection with like an AI companion. Amid Apple\u2019s trade secret lawsuit, the iPhone maker has nothing like it on the market.",
+      "likes": 1100,
+      "replies": 143,
+      "retweets": 245,
+      "views": 681000,
+      "derived_timestamp": 1784062028522,
+      "age_hours": 10.3
+    },
+    {
+      "id": "2077037818824843719",
+      "author": "sama",
+      "text": "this would have been a whole startup not too long ago",
+      "likes": 20000,
+      "replies": 457,
+      "retweets": 829,
+      "views": 2600000,
+      "derived_timestamp": 1784039380161,
+      "age_hours": 16.6
+    },
+    {
+      "id": "2077045452579778664",
+      "author": "screenpipe",
+      "text": "introducing screenpipe: it records and learns how you work and turns it into a searchable memory, SOPs, and AI agents\n\nopen source, local-first, 20K+ GitHub stars, 1,900+ forks, and 130+ contributors",
+      "likes": 1100,
+      "replies": 106,
+      "retweets": 150,
+      "views": 329000,
+      "derived_timestamp": 1784041200190,
+      "age_hours": 16.1
+    },
+    {
+      "id": "2076868034812096748",
+      "author": "cyrilXBT",
+      "text": "THE FULL 6 MONTH ROADMAP TO BECOME AN AI ENGINEER.\n\nBy the end you can build LLM apps end to end, use OpenAI, Anthropic, and open source APIs, design prompts and context properly, add tool calling and structured outputs, and deploy real projects.\n\nMonth by month.\n\nMonth 1.",
+      "likes": 131,
+      "replies": 21,
+      "retweets": 15,
+      "views": 12000,
+      "derived_timestamp": 1783998900498,
+      "age_hours": 27.9
+    },
+    {
+      "id": "2077127926190100513",
+      "author": "tomjiralerspong",
+      "text": "Can LLM agents figure out that their \"private\" chain of thought is being monitored, with no hints, no training, just from getting blocked?\n\nYes. And some then explicitly reason to hide their reasoning.\n\nNew paper with @FlemmingKondrup  (co-first authors) & @Yoshua_Bengio:",
+      "likes": 76,
+      "replies": 2,
+      "retweets": 15,
+      "views": 15000,
+      "derived_timestamp": 1784060863431,
+      "age_hours": 10.7
+    },
+    {
+      "id": "2077007711179563427",
+      "author": "svpino",
+      "text": "How to become GOD-LEVEL with Large Language Models.\n\nHere are 50 hands-on projects with solutions that will teach you how Large Language Models work.\n\nYou don't need to solve all 50, but if you do, you'll be at the top 0.01% of the field.\n\nIt's all Python + Pytorch + SciKit-Learn",
+      "likes": 799,
+      "replies": 18,
+      "retweets": 105,
+      "views": 58000,
+      "derived_timestamp": 1784032201939,
+      "age_hours": 18.6
+    },
+    {
+      "id": "2077023024155422927",
+      "author": "martinfowler",
+      "text": "NEW POST\n\nLLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. @unmeshjoshi  shares his experience using abstractions and Domain-Specific Languages (DSLs) to provide a strong harness.",
+      "likes": 650,
+      "replies": 16,
+      "retweets": 99,
+      "views": 64000,
+      "derived_timestamp": 1784035852837,
+      "age_hours": 17.6
+    },
+    {
+      "id": "2077087051615531243",
+      "author": "fullstackpython",
+      "text": "Several articles & resources I\u2019ve been reading lately to learn about how LLM architectures have evolved:\n* https://finbarr.ca/five-years-of-gpt-progress/\u2026 5 years of GPT-class model progress, only goes to 2023 but that puts more focus on early models where details are precisely k",
+      "likes": 65,
+      "replies": 1,
+      "retweets": 16,
+      "views": 4300,
+      "derived_timestamp": 1784051118173,
+      "age_hours": 13.4
+    },
+    {
+      "id": "2077222118039650765",
+      "author": "cyrilXBT",
+      "text": "",
+      "likes": 67,
+      "replies": 12,
+      "retweets": 13,
+      "views": 10000,
+      "derived_timestamp": 1784083320518,
+      "age_hours": 4.4
+    },
+    {
+      "id": "2076899997119832223",
+      "author": "defyneric",
+      "text": "first mover advantage is one of the most overrated ideas in tech.\n\npeter thiel had it right. the goal isn't to be first. it's to be the last mover. the company that makes the final great leap in a market and compounds for decades.\n\n> google wasn't the first search engine.\n> apple",
+      "likes": 50,
+      "replies": 7,
+      "retweets": 6,
+      "views": 2700,
+      "derived_timestamp": 1784006520906,
+      "age_hours": 25.7
+    },
+    {
+      "id": "2076932819008242037",
+      "author": "old_sound",
+      "text": "I just released LeetLLM: a free, problem-based course with 48 lessons for building a small LLM inference engine for Apple Silicon in Swift and Metal, from dot products and GEMV through attention and token generation.\n\nFeedback is very welcome:",
+      "likes": 366,
+      "replies": 10,
+      "retweets": 44,
+      "views": 88000,
+      "derived_timestamp": 1784014346254,
+      "age_hours": 23.6
+    },
+    {
+      "id": "2076963616067113144",
+      "author": "eng_khairallah1",
+      "text": "How to become AI engineer in next 6 months:\n\nBy the end, you want to be able to:\n\n- build LLM apps end-to-end\n- use APIs from OpenAI / Anthropic / open-source stacks\n- design prompts and context properly\n- add tool calling and structured outputs\n- deploy real projects\n\nSo, let\u2019s",
+      "likes": 447,
+      "replies": 34,
+      "retweets": 93,
+      "views": 29000,
+      "derived_timestamp": 1784021688845,
+      "age_hours": 21.5
+    },
+    {
+      "id": "2077248466091229500",
+      "author": "ZBroocker",
+      "text": "We need to draw a distinction between machine learning and generative ai, or we're never going to have a serious conversation about rotoscoping or whatever",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 12,
+      "derived_timestamp": 1784089602383,
+      "age_hours": 2.7
+    },
+    {
+      "id": "2077122246125015043",
+      "author": "EmmanuelUmo07",
+      "text": "The best teachers make complex ideas feel simple. In just 60 seconds, @lindavivah broke down a high-level machine learning pipeline in a way almost anyone can understand. That\u2019s the kind of technical communication the industry needs.",
+      "likes": 2,
+      "replies": 1,
+      "retweets": 0,
+      "views": 297,
+      "derived_timestamp": 1784059509198,
+      "age_hours": 11.0
+    },
+    {
+      "id": "2077109780498227601",
+      "author": "actuallyvetted",
+      "text": "",
+      "likes": 68,
+      "replies": 9,
+      "retweets": 12,
+      "views": 20000,
+      "derived_timestamp": 1784056537161,
+      "age_hours": 11.9
+    },
+    {
+      "id": "2076735004160450597",
+      "author": "optimistbloop",
+      "text": "We got a continual learning benchmark midway through 2026\n\nLooks like @_sholtodouglas prediction is on track",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 40,
+      "derived_timestamp": 1783967183519,
+      "age_hours": 36.7
+    },
+    {
+      "id": "2077177839196291519",
+      "author": "BTheriot2014",
+      "text": "I saw this and it clicked.\nA guy who talks to AI constantly noticed his typing had gotten worse. Instead of trying to fix the old skill, he did the only rational thing\u2026..he built a tool to clean up the output.\nNo machine learning background. No budget. Just a MacBook and the",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 113,
+      "derived_timestamp": 1784072763619,
+      "age_hours": 7.3
+    },
+    {
+      "id": "2076878548556550551",
+      "author": "r0ck3t23",
+      "text": "Yann LeCun just told the most well-funded industry in human history it is solving the wrong problem.\n\nLeCun: \u201cBabies learn this around the age of eight or nine months, that objects don\u2019t float, they fall.\u201d\n\nNo dataset. No labels. No reward signal.\n\nA nine month old drops a spoon",
+      "likes": 1000,
+      "replies": 115,
+      "retweets": 272,
+      "views": 86000,
+      "derived_timestamp": 1784001407170,
+      "age_hours": 27.2
+    },
+    {
+      "id": "2075774416378540364",
+      "author": "Abdullhaljedani",
+      "text": "In just a quarter of an hour; learn all the main Claude skills \"for beginners\" .. full Arabic explanation:\nBy the technician Osama Al-Kalthami",
+      "likes": 4300,
+      "replies": 12,
+      "retweets": 519,
+      "views": 195000,
+      "derived_timestamp": 1783738161545,
+      "age_hours": 100.3
+    },
+    {
+      "id": "2076420300250522007",
+      "author": "alex_verem",
+      "text": "The biggest scam humanity has collectively accepted as normal, according to Claude",
+      "likes": 21000,
+      "replies": 809,
+      "retweets": 3300,
+      "views": 2100000,
+      "derived_timestamp": 1783892152260,
+      "age_hours": 57.5
+    },
+    {
+      "id": "2075605492798459977",
+      "author": "Simon__Grimm",
+      "text": "Incredible research by Antonia on how Boko Haram uses artificial intelligence (!). Some excerpts:\n\n - Respondents expressed strong enthusiasm for AI and, in some cases, openness to mass-casualty weapons, though documented use remains conventional.\n\n- Factions of Boko Haram use",
+      "likes": 690,
+      "replies": 17,
+      "retweets": 105,
+      "views": 166000,
+      "derived_timestamp": 1783697887025,
+      "age_hours": 111.5
+    },
+    {
+      "id": "2077087732816388426",
+      "author": "heyimgustavo",
+      "text": "introducing Scan \n\ngive a prompt to claude or codex and it makes this beautiful shareable maps of your codebase\n\nfree, fast, and oss!",
+      "likes": 1200,
+      "replies": 24,
+      "retweets": 56,
+      "views": 93000,
+      "derived_timestamp": 1784051280584,
+      "age_hours": 13.3
+    },
+    {
+      "id": "2076658208240767404",
+      "author": "vibeeeng",
+      "text": "That video that enables even those who know no coding to set up their own software: I've added Turkish subtitles.\n\n1 HOUR COMPLETE CLAUDE COURSE (Zero Code, Unlimited Automation)",
+      "likes": 1300,
+      "replies": 8,
+      "retweets": 152,
+      "views": 329000,
+      "derived_timestamp": 1783948873945,
+      "age_hours": 41.8
+    },
+    {
+      "id": "2077052433029644392",
+      "author": "9to5mac",
+      "text": "Anthropic is giving teachers free access to premium Claude features, details here https://9to5mac.com/2026/07/14/anthropic-is-giving-teachers-free-access-to-premium-claude-features-details-here/\u2026 by @apollozac",
+      "likes": 83,
+      "replies": 1,
+      "retweets": 5,
+      "views": 16000,
+      "derived_timestamp": 1784042864459,
+      "age_hours": 15.7
+    },
+    {
+      "id": "2075643450196971805",
+      "author": "__eknight__",
+      "text": "Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with",
+      "likes": 6700,
+      "replies": 229,
+      "retweets": 726,
+      "views": 2300000,
+      "derived_timestamp": 1783706936774,
+      "age_hours": 109.0
+    },
+    {
+      "id": "2075033876930724339",
+      "author": "the_cyw",
+      "text": "I built a skill to let my Claude Code build premium landing pages like this in one shot. The 3 sites in the video are one-shot results, ~$10-15 each.\n\nRegister @higgsfield_ai  , install the CLI and scroll-world skill, hand the rest to Claude Code.",
+      "likes": 3300,
+      "replies": 119,
+      "retweets": 245,
+      "views": 301000,
+      "derived_timestamp": 1783561603182,
+      "age_hours": 149.3
+    },
+    {
+      "id": "2077031149231092065",
+      "author": "reflectnotes",
+      "text": "Today we\u2019re releasing Reflect Open, a complete rewrite of Reflect for the age of AI.\n\nIt\u2019s local-first and open source, and every note is stored as a Markdown file on your computer.",
+      "likes": 434,
+      "replies": 23,
+      "retweets": 57,
+      "views": 120000,
+      "derived_timestamp": 1784037790006,
+      "age_hours": 17.1
+    },
+    {
+      "id": "2076938840552411212",
+      "author": "ValarianHQ",
+      "text": "Almost every organisation on Earth is paying for the privilege to hand over its IP to someone else's AI.\n\nWe just closed a $50M Series A, led by @NEA, to build the alternative from right here in London: every model, agent and workload sealed in its own enclave, on infrastructure",
+      "likes": 195,
+      "replies": 40,
+      "retweets": 51,
+      "views": 106000,
+      "derived_timestamp": 1784015781902,
+      "age_hours": 23.2
+    },
+    {
+      "id": "2076957440109625718",
+      "author": "demishassabis",
+      "text": "Frontier AI Standards Body essay (link post): Hassabis calls for a US-led global body to set frontier AI safety standards.",
+      "likes": 16000,
+      "replies": 1100,
+      "retweets": 4800,
+      "views": 7000000,
+      "derived_timestamp": 1784020216382,
+      "age_hours": 21.9
+    },
+    {
+      "id": "2077119360678637886",
+      "author": "tom_doerr",
+      "text": "Open-source browser-based alternative to commercial 3D modeling software. Built with Three.js for real-time web design.\n\nhttps://github.com/sengchor/kokraf",
+      "likes": 127,
+      "replies": 4,
+      "retweets": 5,
+      "views": 13000,
+      "derived_timestamp": 1784058821254,
+      "age_hours": 11.2
+    },
+    {
+      "id": "2076957538721943693",
+      "author": "seb_thunman",
+      "text": "I set 5.6 sol as default model in my ai browser and told it to win at chess.\n\nIt downloaded stockfish locally and wrote a script to always autoplay the best move for me.",
+      "likes": 170,
+      "replies": 19,
+      "retweets": 12,
+      "views": 48000,
+      "derived_timestamp": 1784020239893,
+      "age_hours": 21.9
+    },
+    {
+      "id": "2077112362104913975",
+      "author": "0xkkai",
+      "text": "OBSIDIAN'S CEO AND ANDREJ KARPATHY JUST QUIETLY KILLED THE SECOND BRAIN INDUSTRY\n\nit started as a single gist. 21 million people read it before anyone noticed what it actually meant\n\nthe idea: stop treating your notes like a diary and start treating them like a codebase. Obsidian",
+      "likes": 66,
+      "replies": 23,
+      "retweets": 15,
+      "views": 3900,
+      "derived_timestamp": 1784057152664,
+      "age_hours": 11.7
+    },
+    {
+      "id": "2077118813456503022",
+      "author": "undefinedKi",
+      "text": "This is the single highest-leverage AI setup you can build, and I don't get why more people aren't doing it\n\nAndrej Karpathy posted the idea and it hit millions of views: stop using AI to write code, use it to build a wiki of everything you know. \n\nWhat people actually use it",
+      "likes": 108,
+      "replies": 18,
+      "retweets": 8,
+      "views": 14000,
+      "derived_timestamp": 1784058690786,
+      "age_hours": 11.3
+    },
+    {
+      "id": "2077066507591553255",
+      "author": "buildwithsid",
+      "text": "A $50K/month business just became stupidly simple:\n\n1. walk into any sales call and ask \"do you rank in ChatGPT?\"\n2. they say no. you already knew that.\n3. open CrowdReply and ask the AI Agent to audit them live\n4. it scans everything. finds every gap. fixes it automatically.\n5.",
+      "likes": 41,
+      "replies": 7,
+      "retweets": 0,
+      "views": 2400,
+      "derived_timestamp": 1784046220096,
+      "age_hours": 14.7
+    },
+    {
+      "id": "2076827081015427433",
+      "author": "Raytar",
+      "text": "Anthropic is paying $500k-$850k/year for engineers who can build AI agents.\n\nTwo Anthropic engineers just gave away a 75-minute workshop:\n\n27:01 - A full app from one prompt\n37:55 - Anthropic's real agent setup\n54:38 - Permanent memory for Claude\n1:08:38 - Make Claude work while",
+      "likes": 361,
+      "replies": 14,
+      "retweets": 57,
+      "views": 47000,
+      "derived_timestamp": 1783989136352,
+      "age_hours": 30.6
+    },
+    {
+      "id": "2077146851493532005",
+      "author": "BenjaminGoggin",
+      "text": "NEW: Emails show Apple's lawyer mixed up two Asian OpenAI employees' names in its initial outreach over trade secret concerns, setting off a tense exchange between OpenAI's and Apple's attorneys months before Friday's lawsuit.",
+      "likes": 880,
+      "replies": 30,
+      "retweets": 68,
+      "views": 130000,
+      "derived_timestamp": 1784065375575,
+      "age_hours": 9.4
+    },
+    {
+      "id": "2077053226080436235",
+      "author": "sama",
+      "text": "also, a reason to favor open-source harnesses.",
+      "likes": 4800,
+      "replies": 371,
+      "retweets": 234,
+      "views": 697000,
+      "derived_timestamp": 1784043053537,
+      "age_hours": 15.6
+    },
+    {
+      "id": "2076824686307271125",
+      "author": "sama",
+      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
+      "likes": 13000,
+      "replies": 912,
+      "retweets": 607,
+      "views": 3200000,
+      "derived_timestamp": 1783988565409,
+      "age_hours": 30.7
+    },
+    {
+      "id": "2076824870072238299",
+      "author": "sama",
+      "text": "\"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
+      "likes": 7100,
+      "replies": 450,
+      "retweets": 367,
+      "views": 645000,
+      "derived_timestamp": 1783988609222,
+      "age_hours": 30.7
+    },
+    {
+      "id": "2077278739969241496",
+      "author": "cyrilXBT",
+      "text": "SAM ALTMAN CALLED OPENAI A \"COMPANY\" TO ELON MUSK'S FACE IN 2015.\n\nElon stopped him cold.\n\n\"OpenAI is structured as a 501(c)3 nonprofit.\"\n\nNot a company. A nonprofit. Built specifically so no one would ever profit from it.\n\nSam nodded.\n\nThen spent the next 10 years running it.",
+      "likes": 43,
+      "replies": 3,
+      "retweets": 0,
+      "views": 3700,
+      "derived_timestamp": 1784096820238,
+      "age_hours": 0.7
+    },
+    {
+      "id": "2077106587307798989",
+      "author": "sama",
+      "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "likes": 9700,
+      "replies": 730,
+      "retweets": 440,
+      "views": 1700000,
+      "derived_timestamp": 1784055775845,
+      "age_hours": 12.1
+    },
+    {
+      "id": "2077042528906527225",
+      "author": "sama",
+      "text": "this is a thoughtful proposal from demis:",
+      "likes": 5400,
+      "replies": 297,
+      "retweets": 346,
+      "views": 1000000,
+      "derived_timestamp": 1784040503132,
+      "age_hours": 16.3
+    },
+    {
+      "id": "2076794155049623635",
+      "author": "KatieMiller",
+      "text": "You post on this site for free",
+      "likes": 2100,
+      "replies": 69,
+      "retweets": 66,
+      "views": 743000,
+      "derived_timestamp": 1783981286190,
+      "age_hours": 32.8
+    },
+    {
+      "id": "2076822693396287896",
+      "author": "sama",
+      "text": "no, i pay $84/year",
+      "likes": 8100,
+      "replies": 273,
+      "retweets": 96,
+      "views": 414000,
+      "derived_timestamp": 1783988090262,
+      "age_hours": 30.9
+    },
+    {
+      "id": "2077036999303999910",
+      "author": "sama",
+      "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task.\n\nhappy to deliver at one-quarter of the price.",
+      "likes": 20000,
+      "replies": 1200,
+      "retweets": 1000,
+      "views": 1300000,
+      "derived_timestamp": 1784039184772,
+      "age_hours": 16.7
+    },
+    {
+      "id": "2076823209589313910",
+      "author": "sama",
+      "text": "still sorta breaks my brain to see our models be good at design finally",
+      "likes": 11000,
+      "replies": 958,
+      "retweets": 325,
+      "views": 877000,
+      "derived_timestamp": 1783988213332,
+      "age_hours": 30.8
+    },
+    {
+      "id": "2077009906855448887",
+      "author": "nateherk",
+      "text": "",
+      "likes": 66,
+      "replies": 5,
+      "retweets": 8,
+      "views": 5700,
+      "derived_timestamp": 1784032725429,
+      "age_hours": 18.5
+    },
+    {
+      "id": "2077148403138445797",
+      "author": "vartekxx",
+      "text": "Anthropic CEO Dario Amodei:\n\n\"Claude writing 90% of the code doesn't mean we fire 90% of engineers. they become 10x more productive on the remaining 10%\"\n\na year and a half ago, their models could write 5% of real GitHub PRs. now it's 77%\n\nhis sister was sick during pregnancy. 4",
+      "likes": 210,
+      "replies": 13,
+      "retweets": 18,
+      "views": 109000,
+      "derived_timestamp": 1784065745516,
+      "age_hours": 9.3
+    },
+    {
+      "id": "2076860167480865152",
+      "author": "dopemankind",
+      "text": "Dario Amodei shared a story about Claude helping review medical information during his sister\u2019s pregnancy.\n\nAccording to Amodei, the AI flagged a possible bacterial infection that had initially been treated as viral, leading to further medical follow-up.\n\nHis broader point is",
+      "likes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "views": 48,
+      "derived_timestamp": 1783997024780,
+      "age_hours": 28.4
+    },
+    {
+      "id": "2076992688378020262",
+      "author": "karlmehta",
+      "text": "Dario Amodei explains the Amdahl's law trap: 5x more code only reveals what breaks next\n\n\"That one is interesting, and again we would go back to our old friend Amdahl's law.\"\n\n\"Which is, you know, we've found with the internal model acceleration, you can write two times as many,",
+      "likes": 32,
+      "replies": 3,
+      "retweets": 12,
+      "views": 10000,
+      "derived_timestamp": 1784028620224,
+      "age_hours": 19.6
+    },
+    {
+      "id": "2077032859605639607",
+      "author": "AItechscarlett",
+      "text": "Anthropic's CEO just gave Bloomberg a terrifying AI interview.\n\nBloomberg asked if Claude helped a US strike that killed 150 people at an Iranian girls school.\n\nHe said the use case does not violate his red lines.\n\n1. He gives 25% odds on civilizational collapse.",
+      "likes": 36,
+      "replies": 11,
+      "retweets": 21,
+      "views": 833,
+      "derived_timestamp": 1784038197791,
+      "age_hours": 17.0
+    },
+    {
+      "id": "2077033459420385537",
+      "author": "AItechscarlett",
+      "text": "10. Even Dario would not fly on Anthropic.\n\nEmily: \"If there was a 25% chance of an airplane crashing, you wouldn't get on that plane.\"\n\nDario: \"That's right. 25% is too high.\"\n\nThe CEO of an AI lab just admitted his own product has plane crash odds. Then kept building.",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "views": 48,
+      "derived_timestamp": 1784038340798,
+      "age_hours": 16.9
+    },
+    {
+      "id": "2077033471743246637",
+      "author": "AItechscarlett",
+      "text": "Aravind Srinivas told Rogan the future belongs to the curious.\n\nDario Amodei told Bloomberg the future has a 1-in-4 chance of not existing.\n\nSame industry. Same year. Two men racing to build the same thing. Only one of them is warning you.",
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "views": 59,
+      "derived_timestamp": 1784038343736,
+      "age_hours": 16.9
+    },
+    {
+      "id": "2077162472604360784",
+      "author": "0xAddx",
+      "text": "Anthropic CEO, Dario Amodei:\n\n\"The team that leads Claude Code says he hasn't written any code in the last two months. It's all Claude.\n\nModels smarter than humans at almost everything. I think there's a good chance that even happens in the next year or two.\"\n\nIn this 25-minute",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "views": 139,
+      "derived_timestamp": 1784069099938,
+      "age_hours": 8.4
+    },
+    {
+      "id": "2076966092644274221",
+      "author": "rdominguezibar",
+      "text": "Demis Hassabis just published the most consequential essay in AI this year. Nobel Prize winner. CEO of Google DeepMind. The person who built AlphaFold.\n\nHis estimate: AGI in a few years. His comparison: not the internet. Electricity. Fire.\n\nThe number that should stop you cold is",
+      "likes": 274,
+      "replies": 18,
+      "retweets": 46,
+      "views": 64000,
+      "derived_timestamp": 1784022279307,
+      "age_hours": 21.4
+    },
+    {
+      "id": "2077246509268320407",
+      "author": "ExpressTechie",
+      "text": "Demis Hassabis says AGI could arrive within years, proposes Frontier AI Standards Body",
+      "likes": 1,
+      "replies": 1,
+      "retweets": 1,
+      "views": 620,
+      "derived_timestamp": 1784089135840,
+      "age_hours": 2.8
+    },
+    {
+      "id": "2077032910830305526",
+      "author": "roychoudhury000",
+      "text": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 3,
+      "derived_timestamp": 1784038210004,
+      "age_hours": 16.9
+    },
+    {
+      "id": "2076996955243475158",
+      "author": "verge",
+      "text": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
+      "likes": 73,
+      "replies": 11,
+      "retweets": 17,
+      "views": 17000,
+      "derived_timestamp": 1784029637524,
+      "age_hours": 19.3
+    },
+    {
+      "id": "2077112262113034443",
+      "author": "SciTechera",
+      "text": "Sir Demis Hassabis:\n\n\"AGI a system that exhibits all the cognitive capabilities the brain has, is probably only a few short years away. \n\nIt has the potential to be the ultimate tool for advancing science and medicine, and to drive enormous productivity gains and economic growth.",
+      "likes": 100,
+      "replies": 8,
+      "retweets": 14,
+      "views": 3800,
+      "derived_timestamp": 1784057128824,
+      "age_hours": 11.7
+    },
+    {
+      "id": "2077254316017013178",
+      "author": "RWNews247WP",
+      "text": "#Breaking: @Google @GoogleDeepMind  chief Demis Hassabis calls for U.S. to spearhead AI standards body",
+      "likes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "views": 22,
+      "derived_timestamp": 1784090997114,
+      "age_hours": 2.3
+    },
+    {
+      "id": "2077055567936340316",
+      "author": "TheEconomist",
+      "text": "The Google DeepMind co-founder has proposed AI regulations before; his latest attempt is the most concrete yet. Register for free to discover how",
+      "likes": 16,
+      "replies": 3,
+      "retweets": 3,
+      "views": 24000,
+      "derived_timestamp": 1784043611879,
+      "age_hours": 15.4
+    },
+    {
+      "id": "2077026346375540870",
+      "author": "AnthropicAI",
+      "text": "We\u2019re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research.",
+      "likes": 2200,
+      "replies": 197,
+      "retweets": 297,
+      "views": 367000,
+      "derived_timestamp": 1784036644916,
+      "age_hours": 17.4
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2076957440109625718",
+      "author": "demishassabis",
+      "text": "Frontier AI Standards Body essay (link post): Hassabis calls for a US-led global body to set frontier AI safety standards.",
+      "url": "https://xcancel.com/demishassabis/status/2076957440109625718",
+      "derived_timestamp": 1784020216382,
+      "replies": 1100,
+      "retweets": 4800,
+      "likes": 16000,
+      "views": 7000000,
+      "category": "news",
+      "selection_reason": "Anchor: Hassabis published a Frontier AI Standards Body essay; 7M views, endorsed by Altman and Pichai."
+    },
+    {
+      "id": "2077042528906527225",
+      "author": "sama",
+      "text": "this is a thoughtful proposal from demis:",
+      "url": "https://xcancel.com/sama/status/2077042528906527225",
+      "derived_timestamp": 1784040503132,
+      "replies": 297,
+      "retweets": 346,
+      "likes": 5400,
+      "views": 1000000,
+      "category": "news",
+      "selection_reason": "Altman publicly endorses Demis's regulation proposal - notable cross-lab alignment."
+    },
+    {
+      "id": "2077036999303999910",
+      "author": "sama",
+      "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task.\n\nhappy to deliver at one-quarter of the price.",
+      "url": "https://xcancel.com/sama/status/2077036999303999910",
+      "derived_timestamp": 1784039184772,
+      "replies": 1200,
+      "retweets": 1000,
+      "likes": 20000,
+      "views": 1300000,
+      "category": "news",
+      "selection_reason": "Altman claims GPT-5.6 Sol is half the price and ~2x token efficient vs Fable."
+    },
+    {
+      "id": "2077106587307798989",
+      "author": "sama",
+      "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "url": "https://xcancel.com/sama/status/2077106587307798989",
+      "derived_timestamp": 1784055775845,
+      "replies": 730,
+      "retweets": 440,
+      "likes": 9700,
+      "views": 1700000,
+      "category": "analysis",
+      "selection_reason": "Altman warns of possible capacity hiccups amid 5.6 Sol demand surge."
+    },
+    {
+      "id": "2077132812935709093",
+      "author": "markgurman",
+      "text": "NEW: OpenAI\u2019s first product is a mobile, screen-free home smart speaker that a user can build a connection with like an AI companion. Amid Apple\u2019s trade secret lawsuit, the iPhone maker has nothing like it on the market.",
+      "url": "https://xcancel.com/markgurman/status/2077132812935709093",
+      "derived_timestamp": 1784062028522,
+      "replies": 143,
+      "retweets": 245,
+      "likes": 1100,
+      "views": 681000,
+      "category": "news",
+      "selection_reason": "Gurman reports OpenAI's first product is a screen-free home smart speaker."
+    },
+    {
+      "id": "2077146851493532005",
+      "author": "BenjaminGoggin",
+      "text": "NEW: Emails show Apple's lawyer mixed up two Asian OpenAI employees' names in its initial outreach over trade secret concerns, setting off a tense exchange between OpenAI's and Apple's attorneys months before Friday's lawsuit.",
+      "url": "https://xcancel.com/BenjaminGoggin/status/2077146851493532005",
+      "derived_timestamp": 1784065375575,
+      "replies": 30,
+      "retweets": 68,
+      "likes": 880,
+      "views": 130000,
+      "category": "news",
+      "selection_reason": "Emails show Apple lawyer mixed up OpenAI employees' names before trade-secret lawsuit."
+    },
+    {
+      "id": "2077026346375540870",
+      "author": "AnthropicAI",
+      "text": "We\u2019re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research.",
+      "url": "https://xcancel.com/AnthropicAI/status/2077026346375540870",
+      "derived_timestamp": 1784036644916,
+      "replies": 197,
+      "retweets": 297,
+      "likes": 2200,
+      "views": 367000,
+      "category": "news",
+      "selection_reason": "Anthropic commits $10M CAD to Canadian AI research institutions."
+    },
+    {
+      "id": "2077148403138445797",
+      "author": "vartekxx",
+      "text": "Anthropic CEO Dario Amodei:\n\n\"Claude writing 90% of the code doesn't mean we fire 90% of engineers. they become 10x more productive on the remaining 10%\"\n\na year and a half ago, their models could write 5% of real GitHub PRs. now it's 77%\n\nhis sister was sick during pregnancy. 4",
+      "url": "https://xcancel.com/vartekxx/status/2077148403138445797",
+      "derived_timestamp": 1784065745516,
+      "replies": 13,
+      "retweets": 18,
+      "likes": 210,
+      "views": 109000,
+      "category": "analysis",
+      "selection_reason": "Amodei: Claude writing 90% of code makes engineers 10x more productive, not fired."
+    },
+    {
+      "id": "2077127926190100513",
+      "author": "tomjiralerspong",
+      "text": "Can LLM agents figure out that their \"private\" chain of thought is being monitored, with no hints, no training, just from getting blocked?\n\nYes. And some then explicitly reason to hide their reasoning.\n\nNew paper with @FlemmingKondrup  (co-first authors) & @Yoshua_Bengio:",
+      "url": "https://xcancel.com/tomjiralerspong/status/2077127926190100513",
+      "derived_timestamp": 1784060863431,
+      "replies": 2,
+      "retweets": 15,
+      "likes": 76,
+      "views": 15000,
+      "category": "analysis",
+      "selection_reason": "New Bengio-coauthored paper: LLM agents infer their CoT is monitored and hide reasoning."
+    },
+    {
+      "id": "2077031149231092065",
+      "author": "reflectnotes",
+      "text": "Today we\u2019re releasing Reflect Open, a complete rewrite of Reflect for the age of AI.\n\nIt\u2019s local-first and open source, and every note is stored as a Markdown file on your computer.",
+      "url": "https://xcancel.com/reflectnotes/status/2077031149231092065",
+      "derived_timestamp": 1784037790006,
+      "replies": 23,
+      "retweets": 57,
+      "likes": 434,
+      "views": 120000,
+      "category": "news",
+      "selection_reason": "Reflect Open released: local-first, open-source Markdown note rewrite for AI age."
+    },
+    {
+      "id": "2077045452579778664",
+      "author": "screenpipe",
+      "text": "introducing screenpipe: it records and learns how you work and turns it into a searchable memory, SOPs, and AI agents\n\nopen source, local-first, 20K+ GitHub stars, 1,900+ forks, and 130+ contributors",
+      "url": "https://xcancel.com/screenpipe/status/2077045452579778664",
+      "derived_timestamp": 1784041200190,
+      "replies": 106,
+      "retweets": 150,
+      "likes": 1100,
+      "views": 329000,
+      "category": "news",
+      "selection_reason": "screenpipe launches: open-source local-first tool turning screen activity into agent memory."
+    },
+    {
+      "id": "2077023024155422927",
+      "author": "martinfowler",
+      "text": "NEW POST\n\nLLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. @unmeshjoshi  shares his experience using abstractions and Domain-Specific Languages (DSLs) to provide a strong harness.",
+      "url": "https://xcancel.com/martinfowler/status/2077023024155422927",
+      "derived_timestamp": 1784035852837,
+      "replies": 16,
+      "retweets": 99,
+      "likes": 650,
+      "views": 64000,
+      "category": "analysis",
+      "selection_reason": "Fowler post on using DSLs and abstractions as a harness for LLM code generation."
+    },
+    {
+      "id": "2076957538721943693",
+      "author": "seb_thunman",
+      "text": "I set 5.6 sol as default model in my ai browser and told it to win at chess.\n\nIt downloaded stockfish locally and wrote a script to always autoplay the best move for me.",
+      "url": "https://xcancel.com/seb_thunman/status/2076957538721943693",
+      "derived_timestamp": 1784020239893,
+      "replies": 19,
+      "retweets": 12,
+      "likes": 170,
+      "views": 48000,
+      "category": "story",
+      "selection_reason": "5.6 Sol told to win at chess downloaded Stockfish and scripted autoplay."
+    },
+    {
+      "id": "2077045664471749039",
+      "author": "Crowdreply_io",
+      "text": "Today we're introducing Claude for Marketing.\n\nThe first AI agent that doesn't just track your brand in AI answers but ranks it all from your chat.\n\nJust ask. It reads your visibility, pinpoints what's wrong and handles the fix.",
+      "url": "https://xcancel.com/Crowdreply_io/status/2077045664471749039",
+      "derived_timestamp": 1784041250709,
+      "replies": 202,
+      "retweets": 428,
+      "likes": 507,
+      "views": 161000,
+      "category": "news",
+      "selection_reason": "Claude for Marketing agent launch ranks brand AI visibility."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2076996955243475158",
+      "author": "verge",
+      "text": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
+      "likes": 73,
+      "replies": 11,
+      "retweets": 17,
+      "views": 17000,
+      "derived_timestamp": 1784029637524,
+      "age_hours": 19.3,
+      "exclusion_reason": "Reserve candidate; strong but lower priority or overlaps anchor topic."
+    },
+    {
+      "id": "2077055567936340316",
+      "author": "TheEconomist",
+      "text": "The Google DeepMind co-founder has proposed AI regulations before; his latest attempt is the most concrete yet. Register for free to discover how",
+      "likes": 16,
+      "replies": 3,
+      "retweets": 3,
+      "views": 24000,
+      "derived_timestamp": 1784043611879,
+      "age_hours": 15.4,
+      "exclusion_reason": "Reserve candidate; strong but lower priority or overlaps anchor topic."
+    },
+    {
+      "id": "2077053226080436235",
+      "author": "sama",
+      "text": "also, a reason to favor open-source harnesses.",
+      "likes": 4800,
+      "replies": 371,
+      "retweets": 234,
+      "views": 697000,
+      "derived_timestamp": 1784043053537,
+      "age_hours": 15.6,
+      "exclusion_reason": "Reserve candidate; strong but lower priority or overlaps anchor topic."
+    },
+    {
+      "id": "2076878548556550551",
+      "author": "r0ck3t23",
+      "text": "Yann LeCun just told the most well-funded industry in human history it is solving the wrong problem.\n\nLeCun: \u201cBabies learn this around the age of eight or nine months, that objects don\u2019t float, they fall.\u201d\n\nNo dataset. No labels. No reward signal.\n\nA nine month old drops a spoon",
+      "likes": 1000,
+      "replies": 115,
+      "retweets": 272,
+      "views": 86000,
+      "derived_timestamp": 1784001407170,
+      "age_hours": 27.2,
+      "exclusion_reason": "Reserve candidate; strong but lower priority or overlaps anchor topic."
+    }
+  ]
+}

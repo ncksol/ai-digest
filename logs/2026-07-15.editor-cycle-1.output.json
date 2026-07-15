@@ -1,0 +1,210 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 14 selected items are traceable to real tweet URLs and represent distinct stories or distinct angles. The Hassabis Frontier AI Standards Body anchor and Altman's endorsement are the same event covered from a distinct cross-lab-alignment angle, so both are retained. Three Altman-authored items appear in the set (regulation endorsement, GPT-5.6 Sol pricing, and capacity/growth), which warrants a set-level overrepresented-author note, but each carries a distinct topic and none are true duplicates. No selected items duplicate one another at the event-plus-angle level, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2076957440109625718",
+      "decision": "keep",
+      "reason": "Anchor story: Hassabis Frontier AI Standards Body essay with 7M views and cross-lab endorsement; highest-signal news item in the set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Primary source for the regulation story; distinct from the Altman endorsement angle."
+      }
+    },
+    {
+      "id": "item_2077042528906527225",
+      "decision": "keep",
+      "reason": "Altman publicly endorsing Demis's proposal is a notable cross-lab alignment angle distinct from the primary essay.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same regulation event as the Hassabis anchor but a distinct reaction/endorsement angle."
+      }
+    },
+    {
+      "id": "item_2077036999303999910",
+      "decision": "keep",
+      "reason": "Altman pricing/efficiency claim for GPT-5.6 Sol vs Fable; strong engagement and distinct product-news topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Model pricing story, unrelated to the regulation or capacity items."
+      }
+    },
+    {
+      "id": "item_2077106587307798989",
+      "decision": "keep",
+      "reason": "Altman flags possible capacity hiccups amid 5.6 Sol demand; distinct scaling/operations angle from the pricing claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Capacity/growth angle, distinct topic from the pricing tweet though same product family."
+      }
+    },
+    {
+      "id": "item_2077132812935709093",
+      "decision": "keep",
+      "reason": "Gurman scoop on OpenAI's first hardware product (screen-free home speaker); high-signal reporting.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Hardware reveal; distinct from the Apple trade-secret email story."
+      }
+    },
+    {
+      "id": "item_2077146851493532005",
+      "decision": "keep",
+      "reason": "Goggin reporting on Apple lawyer name mix-up preceding the trade-secret lawsuit; distinct legal-detail angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Legal/lawsuit angle; touches OpenAI/Apple but distinct event from the hardware reveal."
+      }
+    },
+    {
+      "id": "item_2077026346375540870",
+      "decision": "keep",
+      "reason": "Anthropic's $10M CAD Canadian research commitment; distinct funding/policy news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone funding announcement."
+      }
+    },
+    {
+      "id": "item_2077148403138445797",
+      "decision": "keep",
+      "reason": "Amodei framing on Claude writing 90% of code and engineer productivity; notable labor/AI-coding analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Quote-tweet analysis; distinct from other coding items."
+      }
+    },
+    {
+      "id": "item_2077127926190100513",
+      "decision": "keep",
+      "reason": "Bengio-coauthored paper on LLM agents inferring CoT monitoring and hiding reasoning; strong safety-research signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Original research announcement; unique topic."
+      }
+    },
+    {
+      "id": "item_2077031149231092065",
+      "decision": "keep",
+      "reason": "Reflect Open release: local-first open-source Markdown note rewrite; distinct product launch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from screenpipe though both local-first OSS tools; different products and use cases."
+      }
+    },
+    {
+      "id": "item_2077045452579778664",
+      "decision": "keep",
+      "reason": "screenpipe launch turning screen activity into agent memory; distinct OSS product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product from Reflect Open; different core functionality."
+      }
+    },
+    {
+      "id": "item_2077023024155422927",
+      "decision": "keep",
+      "reason": "Fowler post on DSLs/abstractions as a harness for LLM code generation; substantive engineering analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis piece; distinct from the Amodei coding item."
+      }
+    },
+    {
+      "id": "item_2076957538721943693",
+      "decision": "keep",
+      "reason": "Concrete anecdote of 5.6 Sol downloading Stockfish to autoplay chess; strong story-category item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Anecdotal capability story; distinct from Altman's product claims."
+      }
+    },
+    {
+      "id": "item_2077045664471749039",
+      "decision": "keep",
+      "reason": "Claude for Marketing agent launch; distinct product-news item covering AI brand-visibility tooling.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone product launch; distinct from other Anthropic/Claude items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2076957440109625718",
+        "item_2077042528906527225"
+      ],
+      "reason": "Both cover the Hassabis Frontier AI Standards Body regulation proposal; the anchor is the primary essay and Altman's tweet is a distinct cross-lab endorsement angle, so both are retained rather than treated as redundant."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2077042528906527225",
+        "item_2077036999303999910",
+        "item_2077106587307798989"
+      ],
+      "reason": "Three of the fourteen selected items are authored by sama (Altman), spanning regulation endorsement, GPT-5.6 Sol pricing, and capacity/growth; each is a distinct topic but the author concentration is worth noting for set balance."
+    }
+  ],
+  "additional_search_requests": []
+}
