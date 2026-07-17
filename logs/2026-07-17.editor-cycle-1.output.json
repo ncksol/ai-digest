@@ -1,0 +1,183 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 12 selected items are distinct, well-sourced, and clear the bar. The two sama tweets are the same author but cover genuinely different angles (OpenAI trajectory statement vs. new voice-model usage claim), kept as overrepresented_author for awareness but not redundant. The Kimi K3 launch and haider1's Dario-prediction commentary share the Kimi topic but are distinct angles (primary launch vs. reaction). No hard duplicates exist among the selected set, no replacements are required, and no additional Twitter search is needed to fill the 7-12 target.",
+  "decisions": [
+    {
+      "id": "item_2077830229968683203",
+      "decision": "keep",
+      "reason": "Highest-engagement story of the day: Moonshot's 2.8T-param open-weight Kimi K3 launch with concrete architectural and context claims. First-party source, clearly attributable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Primary Kimi K3 launch tweet; other Kimi items are commentary, not the launch itself."
+      }
+    },
+    {
+      "id": "item_2077817060068057493",
+      "decision": "keep",
+      "reason": "High-signal Altman statement on OpenAI's forward trajectory, 1.5M views, first-party author.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from sama's voice-model tweet; this is about company trajectory."
+      }
+    },
+    {
+      "id": "item_2077842579232895286",
+      "decision": "keep",
+      "reason": "Distinct concrete claim from Altman about a new voice model crossing a usage threshold; different angle from his trajectory tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author as item_2077817060068057493 but a separate topic (voice model)."
+      }
+    },
+    {
+      "id": "item_2077785419912188236",
+      "decision": "keep",
+      "reason": "Concrete funding ($45M) and product launch with named investors and customers; first-party announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique funding/product story."
+      }
+    },
+    {
+      "id": "item_2077770348876247502",
+      "decision": "keep",
+      "reason": "Concrete benchmark claims on ARC-AGI-3 with named models; first-party introduction of the harness.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique benchmark/harness story."
+      }
+    },
+    {
+      "id": "item_2077784077604692440",
+      "decision": "keep",
+      "reason": "Useful, concrete on-device fine-tuning recipe with strong engagement; distinct practitioner content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique practitioner recipe."
+      }
+    },
+    {
+      "id": "item_2077873408302367114",
+      "decision": "keep",
+      "reason": "High-engagement commentary/prediction tied to the Kimi launch; distinct angle from the primary launch tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the Kimi K3 topic with item_2077830229968683203 but is reaction/prediction, not the launch."
+      }
+    },
+    {
+      "id": "item_2077792894459793714",
+      "decision": "keep",
+      "reason": "Useful technical resource on deployed self-improving agents; distinct analysis content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique survey/resource story."
+      }
+    },
+    {
+      "id": "item_2077736018292203602",
+      "decision": "keep",
+      "reason": "Concrete free course release with timestamped agenda; distinct educational news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique course-release story."
+      }
+    },
+    {
+      "id": "item_2077811251938553932",
+      "decision": "keep",
+      "reason": "Concrete named-tool internal AI stack breakdown; useful practitioner analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique AI-stack story."
+      }
+    },
+    {
+      "id": "item_2077825138893168640",
+      "decision": "keep",
+      "reason": "Concrete public AGI-timeline statement from Hassabis with defined terms; distinct analysis. Low engagement but adds topic diversity within the 7-12 target.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique AGI-timeline story."
+      }
+    },
+    {
+      "id": "item_2077789574332633290",
+      "decision": "keep",
+      "reason": "Concrete funding ($5.5M) and product for a post-touchscreen AI hardware interface; first-party announcement with strong reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique hardware-interface funding story."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2077830229968683203",
+        "item_2077873408302367114"
+      ],
+      "reason": "Both concern the Kimi K3 launch but from distinct angles: item_2077830229968683203 is the primary first-party launch, while item_2077873408302367114 is reaction/prediction commentary. Kept as complementary, not redundant."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2077817060068057493",
+        "item_2077842579232895286"
+      ],
+      "reason": "Two tweets from sama in one digest. Retained because they cover clearly different topics (OpenAI trajectory vs. new voice model), but flagged for author balance awareness."
+    }
+  ],
+  "additional_search_requests": []
+}
