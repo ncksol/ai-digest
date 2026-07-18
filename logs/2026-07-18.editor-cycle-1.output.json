@@ -1,0 +1,204 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "13 selected items reviewed. One redundant duplicate found: the Polymarket prediction on permanent paid Fable 5 access (59% chance) is superseded by the confirmed Anthropic policy announcement from claudeai in the same set, so it is replaced with the DavidSacks reserve item covering Kimi K3 taking #1 on Frontend Code Arena — a distinct, high-signal angle. The two GPT-5.6 Sol items (OpenAI official cybersecurity claim and thsottiaux insider endorsement) are same topic but distinct angles and both retained. Two third-party quote-paraphrase items (0xMortyx on Amodei, karlmehta on Altman) lack primary-source links and are flagged for source-traceability weakness but kept.",
+  "decisions": [
+    {
+      "id": "item_2078302417100394737",
+      "decision": "keep",
+      "reason": "Confirmed Anthropic policy change resolving the Fable 5 rationing saga; concrete, first-party company action.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the Fable 5 subject with the Polymarket prediction item, but this is the confirmed first-party announcement that supersedes the prediction."
+      }
+    },
+    {
+      "id": "item_2078243667081617826",
+      "decision": "keep",
+      "reason": "OpenAI first-party claim of GPT-5.6 Sol setting cybersecurity SOTA plus Codex Security launch; concrete product/capability release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares GPT-5.6 Sol subject with thsottiaux item but this is the official capability/product claim, a distinct angle from the insider endorsement."
+      }
+    },
+    {
+      "id": "item_2078248560014008594",
+      "decision": "keep",
+      "reason": "Reported White House 'Gold Eagle' program adding government approval over frontier model releases; major policy development.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique policy story; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2078310751878647932",
+      "decision": "keep",
+      "reason": "High-engagement OpenAI-insider endorsement of GPT-5.6 Sol; strong practitioner signal distinct from the official product claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same GPT-5.6 Sol topic as the OpenAI item but a distinct insider-endorsement angle; both add value."
+      }
+    },
+    {
+      "id": "item_2078165665278730490",
+      "decision": "keep",
+      "reason": "Quantified analysis of frontier launch pace and intelligence-index leaderboard; distinct aggregator perspective.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Meta-analysis of the launch wave; distinct from individual model coverage."
+      }
+    },
+    {
+      "id": "item_2078102070482153717",
+      "decision": "keep",
+      "reason": "Distinct practitioner observation on Kimi K3 driven by looser safeguards/copyright handling; different angle from launch/benchmark coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares Kimi K3 subject with the DavidSacks replacement but this is a hands-on usage/safeguards angle, distinct from the benchmark-ranking angle."
+      }
+    },
+    {
+      "id": "item_2078248054377865434",
+      "decision": "keep",
+      "reason": "Widely shared skeptical take on the AI capex trade; distinct analytical/contrarian voice.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique commentary; no overlap."
+      }
+    },
+    {
+      "id": "item_2078180286441955781",
+      "decision": "keep",
+      "reason": "Concrete product launch (Oasis human-agent virtual office) with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique launch; no overlap."
+      }
+    },
+    {
+      "id": "item_2078132394394108381",
+      "decision": "keep",
+      "reason": "Concrete product launch of an embeddable LLM routing stack (Merge Embedded Routing Stack) around model sovereignty.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique launch; no overlap."
+      }
+    },
+    {
+      "id": "item_2078104472123822419",
+      "decision": "keep",
+      "reason": "Summary of Amodei's timeline and job-displacement claims; retained despite being a third-party paraphrase without a primary link, flagged for traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Third-party paraphrase of Amodei quotes with no primary-source link; content is unique but source traceability is weak."
+      }
+    },
+    {
+      "id": "item_2078125107843846356",
+      "decision": "keep",
+      "reason": "Altman's framing of biology as an intelligence bottleneck; useful analysis, retained despite third-party paraphrase without a primary link, flagged for traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Third-party paraphrase of Altman quotes with no primary-source link; low engagement; content unique but source traceability is weak."
+      }
+    },
+    {
+      "id": "item_2078156727048888647",
+      "decision": "keep",
+      "reason": "Concrete GitHub Copilot weekend pricing action discounting GPT-5.5 for Max and Pro+ users; first-party company action.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique company action; no overlap."
+      }
+    },
+    {
+      "id": "item_2078191428388171845",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Prediction-market projection (59% chance of permanent paid Fable 5 access) is redundant now that the confirmed Anthropic policy announcement (claudeai) is already in the set; the prediction is superseded by the resolved outcome.",
+      "superseded_by": "item_2078302417100394737",
+      "replacement_candidate_id": "item_2078092271296143593",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Fable 5 access event as the confirmed claudeai announcement; the prediction-market angle is superseded by the confirmed outcome, making it redundant."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2078191428388171845",
+        "item_2078302417100394737"
+      ],
+      "reason": "Polymarket's 59% prediction of permanent paid Fable 5 access covers the same event as the confirmed claudeai policy announcement and is superseded by it; the prediction is dropped and the confirmed item retained."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2078243667081617826",
+        "item_2078310751878647932"
+      ],
+      "reason": "Both concern GPT-5.6 Sol but from distinct angles: OpenAI's official cybersecurity-SOTA/product claim versus thsottiaux's insider endorsement; both retained as complementary."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2078104472123822419",
+        "item_2078125107843846356"
+      ],
+      "reason": "Both are third-party paraphrases of executive quotes (Amodei, Altman) without primary-source links, so the underlying claims cannot be traced to an original tweet or transcript within the packet."
+    }
+  ],
+  "additional_search_requests": []
+}
