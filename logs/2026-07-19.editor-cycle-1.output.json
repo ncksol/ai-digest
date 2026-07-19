@@ -1,0 +1,192 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Twelve selected items form a coherent digest led by the Kimi K3 storyline (benchmark, CEO philosophy, jailbreak) plus a distinct Moonshot IPO business angle, an autonomous AI attack/defense incident, open-weight policy commentary, Karpathy distillation framing, and OpenAI product signals. The Kimi cluster items cover genuinely distinct angles and are not redundant. One item (Vvikramai/Hassabis origin-of-life) is a low-signal third-party relay with only 158 views and thin traceability; it is replaced with the higher-signal reserve on Kimi K3 self-identification.",
+  "decisions": [
+    {
+      "id": "item_2078657023370232135",
+      "decision": "keep",
+      "reason": "Concrete quantified benchmark result (26.7% vs 14.2%) on autonomous legal work; strong news value and distinct within the Kimi cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Kimi K3 topic but benchmark angle distinct from CEO quote and jailbreak items."
+      }
+    },
+    {
+      "id": "item_2078729593096434114",
+      "decision": "keep",
+      "reason": "Concrete finance/corporate move (Moonshot HK IPO within six months, per Bloomberg); distinct business angle on the Kimi maker.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related to Kimi ecosystem but IPO/finance angle is distinct from model-performance items."
+      }
+    },
+    {
+      "id": "item_2078545384587080105",
+      "decision": "keep",
+      "reason": "High-engagement (439k views) Kimi CEO quote on training philosophy; distinct analysis angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broad Kimi topic, but CEO strategy commentary is a distinct angle from benchmark and safety items."
+      }
+    },
+    {
+      "id": "item_2078510292267311386",
+      "decision": "keep",
+      "reason": "Concrete safety/jailbreak claim on the week's headline model; distinct risk angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Kimi K3 topic but safety-rails angle distinct from benchmark and CEO items."
+      }
+    },
+    {
+      "id": "item_2078529652260303234",
+      "decision": "keep",
+      "reason": "Concrete first-of-its-kind autonomous AI attack/defense incident at HuggingFace; strong standalone news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique event unrelated to the Kimi cluster."
+      }
+    },
+    {
+      "id": "item_2078567941117710645",
+      "decision": "keep",
+      "reason": "Named ML researcher (rsalakhu) commentary on open-weight policy framing; solid analysis with good engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct policy-framing analysis."
+      }
+    },
+    {
+      "id": "item_2078468804276019504",
+      "decision": "keep",
+      "reason": "Widely shared (227k views) framing of Karpathy's distillation-at-scale argument; substantive analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct technical framing; relay but high signal."
+      }
+    },
+    {
+      "id": "item_2078492579511906771",
+      "decision": "keep",
+      "reason": "High-engagement (375k views) practical technique for reducing LLM doc slop via ASD-STE100; useful practitioner content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique practical-technique angle."
+      }
+    },
+    {
+      "id": "item_2078642674572419435",
+      "decision": "keep",
+      "reason": "Concrete OpenAI product signal (ChatGPT Work early-access solicitation) from a staffer; good engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares an OpenAI product-culture theme with item_2078624695520219260 but different product, exec, and event."
+      }
+    },
+    {
+      "id": "item_2078624695520219260",
+      "decision": "keep",
+      "reason": "Practitioner observation on OpenAI product-feedback culture (gdb soliciting Codex-plan feedback); complements but does not duplicate the ChatGPT Work item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares an OpenAI product-culture theme with item_2078642674572419435 (different product, different exec, different event); same-topic distinct-angle rather than redundant."
+      }
+    },
+    {
+      "id": "item_2078676800922964173",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Low-signal third-party relay of a Hassabis remark with only 158 views and thin traceability (no primary link to Hassabis source); weakest item in the set. Replacing with the higher-signal Kimi K3 self-identification reserve strengthens the digest.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2078359305741275445",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate; removed for low signal and weak sourcing rather than redundancy."
+      }
+    },
+    {
+      "id": "item_2078402764565332207",
+      "decision": "keep",
+      "reason": "Substantive Amodei interview relay covering workforce transition, Pentagon standoff and AI in warfare; low views but meaningful named-figure content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct named-figure interview relay."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2078657023370232135",
+        "item_2078545384587080105",
+        "item_2078510292267311386",
+        "item_2078729593096434114"
+      ],
+      "reason": "Four items share the Kimi K3 / Moonshot storyline but cover distinct angles (legal benchmark, CEO training philosophy, jailbreak/safety, and Moonshot IPO finance); retained as complementary rather than redundant."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2078642674572419435",
+        "item_2078624695520219260"
+      ],
+      "reason": "Both concern OpenAI product-feedback culture but involve different products (ChatGPT Work vs Codex), different execs, and different events; distinct angles, not a redundant story."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2078676800922964173"
+      ],
+      "reason": "Vvikramai post is a third-party relay of a Hassabis origin-of-life claim with only 158 views and no primary-source link, making the attribution hard to verify; flagged and replaced."
+    }
+  ],
+  "additional_search_requests": []
+}
