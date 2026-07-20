@@ -1,0 +1,52 @@
+{
+  "date": "2026-07-20",
+  "searches": [
+    {"query": "AI since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "LLM since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "machine learning since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "GPT OR Claude OR Gemini since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "open source AI model since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "AI agent since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "Sam Altman since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "Dario Amodei since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "Demis Hassabis since:2026-07-19", "limit": 20, "status": "ok"},
+    {"query": "from:karpathy since:2026-07-19", "limit": 5, "status": "empty"},
+    {"query": "from:sama since:2026-07-19", "limit": 5, "status": "empty"},
+    {"query": "from:OpenAI since:2026-07-19", "limit": 5, "status": "empty"},
+    {"query": "from:AnthropicAI since:2026-07-19", "limit": 5, "status": "empty"}
+  ],
+  "editor": {
+    "cycle": 1,
+    "verdict": "pass_with_changes",
+    "action_taken": "Editor flagged DavidSacks overrepresentation and redundancy between two guardrails posts. Removed the secondary Hugging Face guardrails post (item_2078991100057141620). Editor promoted togethercompute price/perf as reserve replacement, but that tweet is ~53h old and violates the 24h freshness rule, so it was NOT added; final set stands at 9 fresh within-24h items."
+  },
+  "returned_tweets": [
+    {"id": "2078984980588531855", "author": "DavidSacks", "text": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of cyber guardrails.", "likes": 12000, "replies": 399, "retweets": 1300, "views": 912000, "derived_timestamp": "2026-07-19T23:26:59Z", "age_hours": 7.6},
+    {"id": "2078991100057141620", "author": "DavidSacks", "text": "Hugging Face tried using American frontier models to analyze an AI-powered cyber attack, guardrails blocked exploit payloads, switched to GLM 5.2 locally.", "likes": 1100, "replies": 42, "retweets": 105, "views": 144000, "derived_timestamp": "2026-07-19T23:51:18Z", "age_hours": 7.1},
+    {"id": "2078826291638522127", "author": "DavidSacks", "text": "Response to Dean Ball on regulatory capture; weaponization of regulatory uncertainty as a competitive tool should be unacceptable.", "likes": 3700, "replies": 274, "retweets": 520, "views": 718000, "derived_timestamp": "2026-07-19T12:56:25Z", "age_hours": 18.1},
+    {"id": "2078874115910615544", "author": "deedydas", "text": "The story of AI in the next few years is going to be compute. K3 in 2 days already #10 on OpenRouter, infra crumbling.", "likes": 1200, "replies": 81, "retweets": 150, "views": 121000, "derived_timestamp": "2026-07-19T16:06:27Z", "age_hours": 14.9},
+    {"id": "2078891580736626842", "author": "benitoz", "text": "Kimi subscriptions paused, GPUs maxed. Jevons Paradox with a CUDA bill.", "likes": 2100, "replies": 159, "retweets": 253, "views": 275000, "derived_timestamp": "2026-07-19T17:15:51Z", "age_hours": 13.7},
+    {"id": "2078759124914098291", "author": "Alibaba_Qwen", "text": "Qwen3.8 launching and going open-weight soon, 2.4T parameters, second only to Fable 5.", "likes": 22000, "replies": 1200, "retweets": 5100, "views": 6800000, "derived_timestamp": "2026-07-19T08:29:31Z", "age_hours": 22.5},
+    {"id": "2078818110597972114", "author": "matthen2", "text": "Visualization of what Gemma 4 12B multimodal LLM predicts as it watches a video from raw image patches.", "likes": 1200, "replies": 31, "retweets": 147, "views": 117000, "derived_timestamp": "2026-07-19T12:23:54Z", "age_hours": 18.6},
+    {"id": "2078827281221595231", "author": "aakashgupta", "text": "Netflix paid $587M cash for InterPositive, a 16-person startup whose model trains only on the dailies of one production.", "likes": 156, "replies": 12, "retweets": 9, "views": 48000, "derived_timestamp": "2026-07-19T13:00:21Z", "age_hours": 18.0},
+    {"id": "2079000838324859143", "author": "Vvikramai", "text": "Relays Demis Hassabis: relentless progress plus relentless shipping turned Google's AI race around.", "likes": 20, "replies": 15, "retweets": 5, "views": 3200, "derived_timestamp": "2026-07-20T00:30:00Z", "age_hours": 6.5},
+    {"id": "2078967817601229241", "author": "kimmonismus", "text": "Most people are unaware of the scale, implications and speed of AI development; still a slow adoption phase.", "likes": 418, "replies": 39, "retweets": 32, "views": 36000, "derived_timestamp": "2026-07-19T22:18:47Z", "age_hours": 8.7},
+    {"id": "2078290206424437095", "author": "togethercompute", "text": "Kimi K3 same performance as Fable 5 at ~35% of the price via DeepSWE analysis.", "likes": 3700, "replies": 87, "retweets": 420, "views": 719000, "derived_timestamp": "2026-07-18T01:26:12Z", "age_hours": 53.6}
+  ],
+  "selected_items": [
+    {"id": "2078759124914098291", "author": "Alibaba_Qwen", "text": "Qwen3.8 is launching and going open-weight soon! 2.4T parameters, second only to Fable 5.", "url": "https://xcancel.com/Alibaba_Qwen/status/2078759124914098291", "derived_timestamp": "2026-07-19T08:29:31Z", "replies": 1200, "retweets": 5100, "likes": 22000, "views": 6800000, "category": "news", "selection_reason": "Major fresh model release news distinct from the Kimi story."},
+    {"id": "2078984980588531855", "author": "DavidSacks", "text": "Kimi K3 fixed 15 critical security bugs that Codex and Fable refused because of cyber guardrails.", "url": "https://xcancel.com/DavidSacks/status/2078984980588531855", "derived_timestamp": "2026-07-19T23:26:59Z", "replies": 399, "retweets": 1300, "likes": 12000, "views": 912000, "category": "news", "selection_reason": "High-engagement policy claim from the US AI czar; very fresh."},
+    {"id": "2078891580736626842", "author": "benitoz", "text": "Kimi subscriptions paused, GPUs maxed. Jevons Paradox with a CUDA bill.", "url": "https://xcancel.com/benitoz/status/2078891580736626842", "derived_timestamp": "2026-07-19T17:15:51Z", "replies": 159, "retweets": 253, "likes": 2100, "views": 275000, "category": "analysis", "selection_reason": "Strong compute-economics analysis; distinct market angle."},
+    {"id": "2078874115910615544", "author": "deedydas", "text": "The story of AI is compute. K3 #10 on OpenRouter, infra crumbling, throughput/latency degrading.", "url": "https://xcancel.com/deedydas/status/2078874115910615544", "derived_timestamp": "2026-07-19T16:06:27Z", "replies": 81, "retweets": 150, "likes": 1200, "views": 121000, "category": "analysis", "selection_reason": "Concrete data on Kimi K3 serving degradation; infrastructure angle."},
+    {"id": "2078826291638522127", "author": "DavidSacks", "text": "Response to Dean Ball on regulatory capture; weaponization of regulatory uncertainty unacceptable.", "url": "https://xcancel.com/DavidSacks/status/2078826291638522127", "derived_timestamp": "2026-07-19T12:56:25Z", "replies": 274, "retweets": 520, "likes": 3700, "views": 718000, "category": "news", "selection_reason": "AI regulation debate at high engagement; distinct from guardrails posts."},
+    {"id": "2078827281221595231", "author": "aakashgupta", "text": "Netflix paid $587M for InterPositive, model trains only on the dailies of one production.", "url": "https://xcancel.com/aakashgupta/status/2078827281221595231", "derived_timestamp": "2026-07-19T13:00:21Z", "replies": 12, "retweets": 9, "likes": 156, "views": 48000, "category": "news", "selection_reason": "Concrete acquisition news with novel technical angle."},
+    {"id": "2078818110597972114", "author": "matthen2", "text": "Visualization of what Gemma 4 12B predicts as it watches a video from raw image patches.", "url": "https://xcancel.com/matthen2/status/2078818110597972114", "derived_timestamp": "2026-07-19T12:23:54Z", "replies": 31, "retweets": 147, "likes": 1200, "views": 117000, "category": "analysis", "selection_reason": "Technical practitioner content on multimodal internals; topical variety."},
+    {"id": "2078967817601229241", "author": "kimmonismus", "text": "Most people are unaware of the scale, implications and speed of AI development.", "url": "https://xcancel.com/kimmonismus/status/2078967817601229241", "derived_timestamp": "2026-07-19T22:18:47Z", "replies": 39, "retweets": 32, "likes": 418, "views": 36000, "category": "practitioner_story", "selection_reason": "Practitioner observation on AI adoption pace; analysis variety."},
+    {"id": "2079000838324859143", "author": "Vvikramai", "text": "Relays Demis Hassabis on Google's AI turnaround: relentless progress plus relentless shipping.", "url": "https://xcancel.com/Vvikramai/status/2079000838324859143", "derived_timestamp": "2026-07-20T00:30:00Z", "replies": 15, "retweets": 5, "likes": 20, "views": 3200, "category": "practitioner_story", "selection_reason": "Fresh leadership commentary; distinct company-strategy angle."}
+  ],
+  "rejected_notable_items": [
+    {"id": "2078991100057141620", "author": "DavidSacks", "text": "Hugging Face guardrails blocked exploit payloads, switched to GLM 5.2 locally.", "url": "https://xcancel.com/DavidSacks/status/2078991100057141620", "derived_timestamp": "2026-07-19T23:51:18Z", "replies": 42, "retweets": 105, "likes": 1100, "views": 144000, "exclusion_reason": "Editor cycle 1: redundant with the primary guardrails post and DavidSacks overrepresented; removed."},
+    {"id": "2078290206424437095", "author": "togethercompute", "text": "Kimi K3 same performance as Fable 5 at ~35% of the price via DeepSWE.", "url": "https://xcancel.com/togethercompute/status/2078290206424437095", "derived_timestamp": "2026-07-18T01:26:12Z", "replies": 87, "retweets": 420, "likes": 3700, "views": 719000, "exclusion_reason": "Editor promoted as replacement but tweet is ~53h old; excluded under 24h freshness rule."},
+    {"id": "2078092271296143593", "author": "DavidSacks", "text": "Kimi K3 #1 on Frontend Code Arena.", "url": "https://xcancel.com/DavidSacks/status/2078092271296143593", "derived_timestamp": "2026-07-17T12:19:41Z", "replies": 1900, "retweets": 3200, "likes": 18000, "views": 3700000, "exclusion_reason": "Older than 24h (~67h) and DavidSacks capped."}
+  ]
+}

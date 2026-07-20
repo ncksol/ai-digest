@@ -1,0 +1,158 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Ten selected items form a diverse set spanning model releases, compute economics, policy, and technical practitioner content. Two issues warrant changes: DavidSacks is overrepresented with three selected items, and his two guardrails posts (item_2078984980588531855 and item_2078991100057141620) cover the same story and angle (US frontier-model cyber guardrails blocking defensive use). Recommend dropping the weaker secondary guardrails post and replacing it with the distinct-author togethercompute price/performance benchmark from reserve to reduce author concentration and redundancy. Remaining Kimi-cluster items each carry distinct angles (compute demand, infra strain) and are retained. All searches returned zero fresh items, so reserves are the only replacement source; no additional Twitter search is requested.",
+  "decisions": [
+    {
+      "id": "item_2078759124914098291",
+      "decision": "keep",
+      "reason": "Major fresh open-weight model release (Qwen3.8) with very high engagement; unique story and author.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model-release story; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2078984980588531855",
+      "decision": "keep",
+      "reason": "Strongest, highest-engagement statement of the guardrails-hurt-defense claim from the US AI czar; retained as the primary guardrails item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Shares the guardrails theme and angle with item_2078991100057141620; kept as the stronger of the pair by engagement and framing."
+      }
+    },
+    {
+      "id": "item_2078991100057141620",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Same story and angle as item_2078984980588531855 (US-model guardrails blocking cyber-defense use), and a third DavidSacks selection driving author overrepresentation. Replace with a distinct-author benchmark item to improve diversity.",
+      "superseded_by": "item_2078984980588531855",
+      "replacement_candidate_id": "item_2078290206424437095",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Secondary example of the identical guardrails-block-defense argument already covered by item_2078984980588531855; weaker engagement and redundant author."
+      }
+    },
+    {
+      "id": "item_2078891580736626842",
+      "decision": "keep",
+      "reason": "Distinct compute-economics (Jevons paradox) angle on cheaper intelligence driving demand; distinct author.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Kimi-adjacent but distinct market-economics angle."
+      }
+    },
+    {
+      "id": "item_2078874115910615544",
+      "decision": "keep",
+      "reason": "Concrete infra-strain data on Kimi K3 serving degradation; distinct angle from celebratory coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Infrastructure/throughput angle distinct from the compute-demand and benchmark items."
+      }
+    },
+    {
+      "id": "item_2078826291638522127",
+      "decision": "keep",
+      "reason": "Distinct AI policy/regulatory-capture debate at high engagement; different topic from the guardrails posts despite shared author.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Regulation/regulatory-capture angle, distinct from guardrails items."
+      }
+    },
+    {
+      "id": "item_2078827281221595231",
+      "decision": "keep",
+      "reason": "Concrete acquisition news with a novel per-production-model technical angle; unique story and author.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique Netflix/InterPositive acquisition story."
+      }
+    },
+    {
+      "id": "item_2078818110597972114",
+      "decision": "keep",
+      "reason": "Strong technical practitioner content on multimodal model internals; adds topical variety.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique multimodal-internals visualization content."
+      }
+    },
+    {
+      "id": "item_2078967817601229241",
+      "decision": "keep",
+      "reason": "Widely-followed practitioner observation on AI adoption pace; adds analysis variety.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Adoption-pace commentary; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2079000838324859143",
+      "decision": "keep",
+      "reason": "Fresh leadership commentary relaying Hassabis on Google's AI strategy; distinct company-strategy angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Google/DeepMind strategy angle; unique among selected items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2078984980588531855",
+        "item_2078991100057141620"
+      ],
+      "reason": "Both cover the identical story and angle: US frontier-model cyber guardrails blocking defensive/exploit-analysis use, with the second post a weaker secondary example superseded by the first."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2078984980588531855",
+        "item_2078991100057141620",
+        "item_2078826291638522127"
+      ],
+      "reason": "DavidSacks accounts for three of ten selected items. Removing the redundant secondary guardrails post reduces his footprint to two distinct-topic items."
+    }
+  ],
+  "additional_search_requests": []
+}
