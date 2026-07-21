@@ -1,0 +1,175 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Twelve selected items form a strong, diverse set spanning model training, safety/containment, benchmarks, enterprise moves, open-source releases, AI finance, and an ML application story. One weak item (HighSignal_AI's low-engagement, vague Hassabis 'cure all disease' claim) is replaced with a stronger distinct reserve. The Anthropic rare-disease grants and Hassabis disease-cure items share a broad health-AI topic but cover distinct events/angles and are flagged rather than removed.",
+  "decisions": [
+    {
+      "id": "item_2079446276299465185",
+      "decision": "keep",
+      "reason": "First-party Musk detail on xAI's 2T Grok run using SpaceX engineering data; concrete and high-engagement news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2079253388211183970",
+      "decision": "keep",
+      "reason": "High-engagement AI-safety/containment claim about OpenAI pausing an unreleased model; distinct safety angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Touches math (Erdos) but framing is containment/safety, distinct from IMO benchmark item."
+      }
+    },
+    {
+      "id": "item_2079409461874332066",
+      "decision": "keep",
+      "reason": "Concrete benchmark result: four frontier models scoring 42/42 on IMO 2026.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from Erdos containment item; benchmark angle."
+      }
+    },
+    {
+      "id": "item_2079226246870049223",
+      "decision": "keep",
+      "reason": "Concrete company move: Microsoft testing Kimi K3 for Copilot and bringing it to Azure.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2079256626771665098",
+      "decision": "keep",
+      "reason": "Official Anthropic program launch with concrete grant figures.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares broad health-AI topic with Hassabis item but is a distinct concrete program vs a leadership prediction; kept, flagged at set level."
+      }
+    },
+    {
+      "id": "item_2079299754056614289",
+      "decision": "keep",
+      "reason": "Concrete product change lowering Claude Team plan minimum to 2 seats.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2079335039720952144",
+      "decision": "keep",
+      "reason": "Widely-shared finance analysis on hidden AI infrastructure debt with concrete figures.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2079234800766816633",
+      "decision": "keep",
+      "reason": "Concrete educational release from Andrew Ng on agentic knowledge graphs.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2079247143802687744",
+      "decision": "keep",
+      "reason": "Concrete open-source release: Microsoft's skillopt self-evolving agent skills.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate Microsoft story from the Kimi/Azure item; distinct product."
+      }
+    },
+    {
+      "id": "item_2079164393015886060",
+      "decision": "keep",
+      "reason": "Practitioner framing of context-management tooling (GBrain) from a prominent investor; adds practitioner voice.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2079123144296792262",
+      "decision": "keep",
+      "reason": "Concrete ML application story on reading a carbonised Roman scroll; strong human-interest angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2079227398533636198",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Weakest item in the set: very low engagement (15 likes, 1.6k views), vague secondhand prediction with no concrete detail, and overlaps thematically with the Anthropic rare-disease grants item. Replaced with a stronger distinct reserve to preserve set quality.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2079169545705525510",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares broad disease-cure theme with the Anthropic grants item; low-quality secondhand claim."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2079256626771665098",
+        "item_2079227398533636198"
+      ],
+      "reason": "Both touch AI accelerating disease cures, but Anthropic's item is a concrete grant program launch while the Hassabis item is a secondhand leadership prediction; distinct angles rather than a redundant story."
+    }
+  ],
+  "additional_search_requests": []
+}
