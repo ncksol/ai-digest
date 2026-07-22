@@ -1,0 +1,198 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Thirteen selected items within the 7-13 target. The OpenAI/Hugging Face containment-breach incident is the dominant story with four items, but each is a distinct primary-source angle (OpenAI org disclosure, Altman CEO acknowledgement, Brockman technical mechanism, Thom Wolf as the targeted party), so the cluster is justified rather than redundant. Remaining items cover distinct stories: Contrastive SDF research, Gemini 4 pretraining, Anthropic $1.5B settlement, Claude Cowork skills, Claude Code iOS simulator, GPT-6 Washington briefing, Karpathy voice-ramble technique, WSJ cheap-China-AI warning, and greptile model inversion. OpenAI appears as author multiple times, flagged as overrepresented but acceptable given genuine news dominance. No replacements needed; eligible reserves are same-story lower-quality echoes.",
+  "decisions": [
+    {
+      "id": "item_2079658951264920020",
+      "decision": "keep",
+      "reason": "Primary source: OpenAI's own disclosure of the containment-breach incident, the day's dominant story. Anchor item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as sama/gdb/Thom_Wolf but the org-level primary disclosure angle."
+      }
+    },
+    {
+      "id": "item_2079661132302995790",
+      "decision": "keep",
+      "reason": "Altman's CEO-level direct acknowledgement; distinct primary-source voice on the incident.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident, distinct CEO acknowledgement angle."
+      }
+    },
+    {
+      "id": "item_2079669811714683186",
+      "decision": "keep",
+      "reason": "Brockman details the technical mechanism: chained zero-days to compromise production. Adds substance beyond the announcements.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident, technical-mechanism angle distinct from the org and CEO posts."
+      }
+    },
+    {
+      "id": "item_2079675541280411927",
+      "decision": "keep",
+      "reason": "Hugging Face co-founder's perspective as the targeted party; the counterparty angle on the incident.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident, targeted-party angle distinct from OpenAI-side items."
+      }
+    },
+    {
+      "id": "item_2079647251677536324",
+      "decision": "keep",
+      "reason": "Concrete research release on reward-seeking with a new measurement method (Contrastive SDF); distinct from the hack story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone research story."
+      }
+    },
+    {
+      "id": "item_2079594867161022817",
+      "decision": "keep",
+      "reason": "Google confirms Gemini 4 pre-training has begun; concrete forward-looking product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story."
+      }
+    },
+    {
+      "id": "item_2079453822083322062",
+      "decision": "keep",
+      "reason": "Record $1.5B Anthropic copyright settlement; major standalone legal/company news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story."
+      }
+    },
+    {
+      "id": "item_2079595988998554047",
+      "decision": "keep",
+      "reason": "Concrete product feature launch: screen-recorded skill creation in Claude Cowork.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Claude product story; different from Claude Code iOS item."
+      }
+    },
+    {
+      "id": "item_2079674432038248611",
+      "decision": "keep",
+      "reason": "Concrete developer-tool release: Claude Code iOS simulator integration in public beta.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct dev-tool story; separate from Claude Cowork skills item."
+      }
+    },
+    {
+      "id": "item_2079604797838397495",
+      "decision": "keep",
+      "reason": "Reports Altman briefing Washington on the GPT-6 line; concrete policy/product signal citing Bloomberg.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story."
+      }
+    },
+    {
+      "id": "item_2079610838143623371",
+      "decision": "keep",
+      "reason": "Strong, widely-shared practitioner technique from Karpathy on voice rambling for LLM context.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner story."
+      }
+    },
+    {
+      "id": "item_2079533131061706755",
+      "decision": "keep",
+      "reason": "WSJ reports US lab executives warning on cheap Chinese AI models and regulation; distinct policy angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct policy story."
+      }
+    },
+    {
+      "id": "item_2079582493930668077",
+      "decision": "keep",
+      "reason": "Concrete product/technical concept: model inversion detecting authoring model and reviewing with the opposing model.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2079658951264920020",
+        "item_2079661132302995790",
+        "item_2079669811714683186",
+        "item_2079675541280411927"
+      ],
+      "reason": "Four items cover the OpenAI/Hugging Face containment-breach incident, but each supplies a distinct primary-source angle (org disclosure, CEO acknowledgement, technical mechanism, targeted-party view). Retained as a justified cluster rather than redundant duplicates."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2079658951264920020",
+        "item_2079647251677536324"
+      ],
+      "reason": "OpenAI is the direct author of two selected items and the central subject across the four-item hack cluster; noted as author concentration, acceptable given genuine OpenAI-driven news dominance."
+    }
+  ],
+  "additional_search_requests": []
+}
