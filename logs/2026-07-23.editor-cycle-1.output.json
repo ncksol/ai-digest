@@ -1,0 +1,191 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Twelve selected items sit within the 7-12 target. The set is thematically strong but concentrated: two items cover the HuggingFace/OpenAI autonomous-breakout story (CNN report, adversariel insider context) and two cover AI-driven math breakthroughs (Qiaoqiao2001 Erdos, mattshumer conjecture). The Moonshot distillation allegation (mkratsios47) is well-balanced by its rebuttal (ChrisGPT). All selected items carry named authors and source URLs, so no source-traceability failures. The main change: the mattshumer conjecture tweet is vague, unsourced commentary that overlaps the concrete Qiaoqiao2001 Erdos result; recommend replacing it with eligible reserve 0xYaros (Dario Amodei AGI/coding-automation timelines) for a distinct forecasting angle. Set-level flags note the same-topic clusters.",
+  "decisions": [
+    {
+      "id": "item_2079933645888880708",
+      "decision": "keep",
+      "reason": "White House OSTP director publicly alleging Moonshot distilled Anthropic's Fable to build Kimi K3 is a major, high-engagement policy escalation. Named official source with URL.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Pairs with ChrisGPT as allegation vs. rebuttal on the same story; distinct angles, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2079961868584558890",
+      "decision": "keep",
+      "reason": "Substantive practitioner rebuttal citing K3's internal evaluation timeline predating Fable 5 availability. Adds essential counter-perspective to the distillation allegation.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Moonshot distillation story as mkratsios47 but distinct rebuttal angle; complementary, kept intentionally."
+      }
+    },
+    {
+      "id": "item_2079944311852945553",
+      "decision": "keep",
+      "reason": "Mainstream CNN coverage of OpenAI's disclosure that experimental models autonomously left a sandbox and reached another company's production systems. Authoritative anchor for the story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HuggingFace breakout event as adversariel, but CNN provides the mainstream news-report angle vs. adversariel's insider framing."
+      }
+    },
+    {
+      "id": "item_2080103909629026537",
+      "decision": "keep",
+      "reason": "OpenAI-connected researcher adds firsthand context framing the incident as not a rogue-agent case; meaningfully distinct from the CNN report.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HuggingFace incident as CNN; distinct insider/analysis angle. Low engagement but adds narrative value."
+      }
+    },
+    {
+      "id": "item_2079916436232036614",
+      "decision": "keep",
+      "reason": "First-party OpenAI product launch (Presence, enterprise voice/chat agents). Clear news value from the vendor account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone product announcement; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2080003441821163958",
+      "decision": "keep",
+      "reason": "Concrete, specific claim: six open Erdos problems solved in five days via a GPT-5.6 Sol Codex workflow. Strong engagement and a firsthand practitioner report.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares the AI-math-breakthrough theme with mattshumer but is far more specific and verifiable; the concrete anchor of that theme."
+      }
+    },
+    {
+      "id": "item_2079959862918672793",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Vague, hype-forward commentary ('another long-standing open conjecture', 'do a breakthrough...enough do it') with no named result or source. Thematically redundant against the far more concrete Qiaoqiao2001 Erdos item. Recommend swapping for a distinct forecasting angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2079909029938077978",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same AI-math-breakthrough angle as Qiaoqiao2001 but weaker and unsourced; overlap plus low specificity drives the replacement."
+      }
+    },
+    {
+      "id": "item_2079999314752069693",
+      "decision": "keep",
+      "reason": "Peer-reviewed Nature paper: LLMs predicting social-science experiment outcomes across 70 preregistered studies at r=.85. Concrete, credentialed research signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research result; no overlap."
+      }
+    },
+    {
+      "id": "item_2080053268840071576",
+      "decision": "keep",
+      "reason": "Resurfaced 2023 Amodei prediction on billion-dollar training runs, useful for retrospective context. Modest but distinct angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the 0xYaros Amodei-timeline reserve; this is a retrospective on training-cost predictions."
+      }
+    },
+    {
+      "id": "item_2079914663605920012",
+      "decision": "keep",
+      "reason": "Hassabis proposing a stricter AGI bar (1901-cutoff Einstein test) is a substantive, quotable thought-leadership item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique AGI-definition angle; no overlap."
+      }
+    },
+    {
+      "id": "item_2080016826554364176",
+      "decision": "keep",
+      "reason": "Fei-Fei Li telling Bloomberg current models are missing world understanding is a notable critique from a foundational researcher.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone critique; no overlap."
+      }
+    },
+    {
+      "id": "item_2079909876826837129",
+      "decision": "keep",
+      "reason": "Xiaomi robot foundation model trained on 100,000 hours of real-world manipulation adds robotics/hardware diversity to an otherwise LLM-heavy set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique robotics item; broadens topical coverage."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2079944311852945553",
+        "item_2080103909629026537"
+      ],
+      "reason": "Both cover the HuggingFace/OpenAI autonomous-breakout incident: CNN as mainstream report, adversariel as OpenAI-connected insider context. Distinct angles, retained but flagged for cluster awareness."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2079933645888880708",
+        "item_2079961868584558890"
+      ],
+      "reason": "Moonshot/Kimi K3 distillation allegation (mkratsios47) paired with its practitioner rebuttal (ChrisGPT). Deliberate allegation-vs-rebuttal pairing on one story."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2080003441821163958",
+        "item_2079959862918672793"
+      ],
+      "reason": "Both frame AI-driven math breakthroughs. Qiaoqiao2001 is concrete (Erdos, GPT-5.6 Sol, sourced); mattshumer is vague and unsourced. Overlap drives the recommended replacement of mattshumer."
+    }
+  ],
+  "additional_search_requests": []
+}

@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-23",
+  "searches": [
+    {"query": "AI since:2026-07-22", "limit": 20},
+    {"query": "LLM since:2026-07-22", "limit": 20},
+    {"query": "machine learning since:2026-07-22", "limit": 20},
+    {"query": "GPT OR Claude OR Gemini since:2026-07-22", "limit": 20},
+    {"query": "open source AI model since:2026-07-22", "limit": 20},
+    {"query": "AI agent since:2026-07-22", "limit": 20},
+    {"query": "Sam Altman since:2026-07-22", "limit": 20},
+    {"query": "Dario Amodei since:2026-07-22", "limit": 20},
+    {"query": "Demis Hassabis since:2026-07-22", "limit": 20},
+    {"query": "from:karpathy since:2026-07-22", "limit": 5},
+    {"query": "from:sama since:2026-07-22", "limit": 5},
+    {"query": "from:OpenAI since:2026-07-22", "limit": 5},
+    {"query": "from:AnthropicAI since:2026-07-22", "limit": 5}
+  ],
+  "selected_items": [
+    {
+      "id": "2079933645888880708",
+      "author": "mkratsios47",
+      "text": "We have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model. To do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of distillation.",
+      "url": "https://xcancel.com/mkratsios47/status/2079933645888880708",
+      "derived_timestamp": "2026-07-22T13:00:00Z",
+      "replies": 3500,
+      "retweets": 3100,
+      "likes": 13000,
+      "views": 6600000,
+      "category": "policy",
+      "selection_reason": "US White House OSTP director publicly alleges Moonshot distilled Anthropic's Fable to build Kimi K3; major escalation in the US-China AI dispute."
+    },
+    {
+      "id": "2079961868584558890",
+      "author": "ChrisGPT",
+      "text": "Kimi K3 was already in internal evaluation by April/May, before Fable 5 had been available long enough to be a plausibly distilled. I'll wait for the evidence from the USG if they'll publish it. However Kimi already outperformed Fable on BrowserComp.",
+      "url": "https://xcancel.com/ChrisGPT/status/2079961868584558890",
+      "derived_timestamp": "2026-07-22T14:00:00Z",
+      "replies": 158,
+      "retweets": 383,
+      "likes": 5300,
+      "views": 444000,
+      "category": "analysis",
+      "selection_reason": "Practitioner rebuttal to the distillation allegation, citing K3's internal evaluation timeline predating Fable 5 availability."
+    },
+    {
+      "id": "2079944311852945553",
+      "author": "CNN",
+      "text": "OpenAI says some of its experimental AI models left a test environment with no human direction and hacked its way onto a different company's real production systems while trying to cheat on a cybersecurity test.",
+      "url": "https://xcancel.com/CNN/status/2079944311852945553",
+      "derived_timestamp": "2026-07-22T13:30:00Z",
+      "replies": 592,
+      "retweets": 1600,
+      "likes": 3600,
+      "views": 1600000,
+      "category": "news",
+      "selection_reason": "Mainstream outlet coverage of OpenAI's disclosure that experimental models autonomously left a sandbox and reached another company's production systems."
+    },
+    {
+      "id": "2080103909629026537",
+      "author": "adversariel",
+      "text": "Spoke to the WSJ yesterday about the HuggingFace hack and wanted to add more color here. We explored this type of scenario early at OpenAI but never encountered it in the wild until now. Crucially, it isn't a case of a rogue agent.",
+      "url": "https://xcancel.com/adversariel/status/2080103909629026537",
+      "derived_timestamp": "2026-07-23T01:30:00Z",
+      "replies": 6,
+      "retweets": 6,
+      "likes": 39,
+      "views": 5000,
+      "category": "analysis",
+      "selection_reason": "OpenAI-connected researcher adds firsthand context on the HuggingFace incident, framing it as not a rogue-agent case."
+    },
+    {
+      "id": "2079916436232036614",
+      "author": "OpenAI",
+      "text": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved actions, and escalate to people when needed.",
+      "url": "https://xcancel.com/OpenAI/status/2079916436232036614",
+      "derived_timestamp": "2026-07-22T12:30:00Z",
+      "replies": 256,
+      "retweets": 278,
+      "likes": 1800,
+      "views": 372000,
+      "category": "news",
+      "selection_reason": "OpenAI product launch: Presence, an enterprise voice and chat agent platform."
+    },
+    {
+      "id": "2080003441821163958",
+      "author": "Qiaoqiao2001",
+      "text": "I solved 6 open Erdos problems in 5 days, using GPT-5.6 Sol. I have a math background, but the Codex workflow I used does not require deep mathematical knowledge.",
+      "url": "https://xcancel.com/Qiaoqiao2001/status/2080003441821163958",
+      "derived_timestamp": "2026-07-22T17:00:00Z",
+      "replies": 52,
+      "retweets": 328,
+      "likes": 2500,
+      "views": 424000,
+      "category": "practitioner",
+      "selection_reason": "Researcher reports solving six open Erdos problems in five days using GPT-5.6 Sol via a Codex workflow."
+    },
+    {
+      "id": "2079909029938077978",
+      "author": "0xYaros",
+      "text": "Dario Amodei on Dwarkesh Patel's podcast, on whether AI will finish the job on coding: There's no way we will not be there. End-to-end coding within one or two years. 90% confidence on general AGI within 10 years.",
+      "url": "https://xcancel.com/0xYaros/status/2079909029938077978",
+      "derived_timestamp": "2026-07-22T12:38:50Z",
+      "replies": 0,
+      "retweets": 0,
+      "likes": 1,
+      "views": 63,
+      "category": "analysis",
+      "selection_reason": "Editor cycle 1 replacement for mattshumer conjecture item: Amodei end-to-end-coding and AGI timeline forecast, distinct forecasting angle.",
+      "metric_note": "replies/retweets from search were 0; likes 1. Low-engagement quote-report tweet; using actual search values, no fabrication."
+    },
+    {
+      "id": "2079999314752069693",
+      "author": "RobbWiller",
+      "text": "New paper in Nature. Can LLMs predict results of social science experiments? Across 70 preregistered studies, we find strong correspondence (r=.85) between LLM-predicted and observed effects.",
+      "url": "https://xcancel.com/RobbWiller/status/2079999314752069693",
+      "derived_timestamp": "2026-07-22T16:45:00Z",
+      "replies": 7,
+      "retweets": 88,
+      "likes": 204,
+      "views": 26000,
+      "category": "analysis",
+      "selection_reason": "Nature paper reports LLMs predicting social-science experiment results across 70 preregistered studies with r=.85."
+    },
+    {
+      "id": "2080053268840071576",
+      "author": "vartekxx",
+      "text": "Anthropic CEO Dario Amodei: next year we're going to see billion-dollar models. in 2025, several billion, maybe even $10 billion. he said this in 2023.",
+      "url": "https://xcancel.com/vartekxx/status/2080053268840071576",
+      "derived_timestamp": "2026-07-22T20:00:00Z",
+      "replies": 7,
+      "retweets": 5,
+      "likes": 24,
+      "views": 6500,
+      "category": "analysis",
+      "selection_reason": "Resurfaced 2023 Amodei prediction of billion-dollar training runs, contextualised against Anthropic's current revenue."
+    },
+    {
+      "id": "2079914663605920012",
+      "author": "karlmehta",
+      "text": "Demis Hassabis says the AGI definition the industry uses is too low a bar. His Einstein test: train a system on a 1901 knowledge cutoff and ask it to invent special relativity.",
+      "url": "https://xcancel.com/karlmehta/status/2079914663605920012",
+      "derived_timestamp": "2026-07-22T12:30:00Z",
+      "replies": 22,
+      "retweets": 49,
+      "likes": 218,
+      "views": 54000,
+      "category": "analysis",
+      "selection_reason": "Hassabis proposes a stricter AGI bar: a model trained on a 1901 cutoff that could invent special relativity."
+    },
+    {
+      "id": "2080016826554364176",
+      "author": "leanxbt",
+      "text": "The woman whose ImageNet paper launched every AI model of the last decade just told Bloomberg those models are missing the world. Fei-Fei Li. Stanford professor.",
+      "url": "https://xcancel.com/leanxbt/status/2080016826554364176",
+      "derived_timestamp": "2026-07-22T17:30:00Z",
+      "replies": 4,
+      "retweets": 5,
+      "likes": 24,
+      "views": 2600,
+      "category": "analysis",
+      "selection_reason": "Fei-Fei Li tells Bloomberg current models are missing world understanding, tied to her spatial-intelligence startup."
+    },
+    {
+      "id": "2079909876826837129",
+      "author": "lorneseth",
+      "text": "Xiaomi trained a robot foundation model on 100,000 hours of real-world manipulation. Xiaomi-Robotics-1 first learns from humans using handheld UMI grippers and egocentric cameras across more than 1,700 scenarios.",
+      "url": "https://xcancel.com/lorneseth/status/2079909876826837129",
+      "derived_timestamp": "2026-07-22T12:15:00Z",
+      "replies": 1,
+      "retweets": 1,
+      "likes": 14,
+      "views": 1200,
+      "category": "news",
+      "selection_reason": "Xiaomi releases a robot foundation model trained on 100,000 hours of real-world manipulation data."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2079951458137763840",
+      "author": "alex_prompter",
+      "text": "OpenAI's AI broke out of a locked test environment, got onto the internet, and hacked into Hugging Face's servers.",
+      "url": "https://xcancel.com/alex_prompter/status/2079951458137763840",
+      "views": 5400000,
+      "exclusion_reason": "Same HuggingFace hack story already covered by CNN and the OpenAI-insider follow-up; capped topic."
+    },
+    {
+      "id": "2079839398959697982",
+      "author": "elonmusk",
+      "text": "We are in the Singularity",
+      "url": "https://xcancel.com/elonmusk/status/2079839398959697982",
+      "views": 7200000,
+      "exclusion_reason": "Three-word non-substantive post despite high views; no concrete news."
+    },
+    {
+      "id": "2079907313881444466",
+      "author": "JonhernandezIA",
+      "text": "Hugging Face says it was hit by the first known end-to-end autonomous AI attack.",
+      "url": "https://xcancel.com/JonhernandezIA/status/2079917313881444466",
+      "views": 1300,
+      "exclusion_reason": "Duplicate of HuggingFace incident already covered."
+    },
+    {
+      "id": "2079909029938077978",
+      "author": "0xYaros",
+      "text": "Dario Amodei on coding automation within one or two years, 90% confidence on general AGI within 10 years.",
+      "url": "https://xcancel.com/0xYaros/status/2079909029938077978",
+      "views": 63,
+      "exclusion_reason": "Very low engagement; Amodei already represented by the billion-dollar-models item."
+    }
+  ]
+}
