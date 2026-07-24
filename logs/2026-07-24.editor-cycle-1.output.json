@@ -1,0 +1,221 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "14 selected items reviewed for cycle 1. The set is heavily weighted toward OpenAI (three OpenAI-authored launches plus OpenAI president gdb), creating a voice/product cluster where the Codex-voice launch and gdb's voice observation cover the same theme from distinct angles. Several high-impact claims rest on low-reach single-source or secondhand tweets with weak verifiability (Hassabis 'duct tape' at 67 views, Amodei taxation quote at 532 views, the Anthropic math-classifier claim, and a secondhand Musk quote via coinbureau), flagging source-traceability gaps. No hard duplicates warrant removal; the set passes with author-balance and traceability flags noted. Reserve pool is thin (3 general items) and none are strong topical replacements, so no swaps are made.",
+  "decisions": [
+    {
+      "id": "item_2080339982288568709",
+      "decision": "keep",
+      "reason": "Concrete, high-reach OpenAI product launch (Health in ChatGPT to US users); strong engagement and verifiable via official OpenAI account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product story; not overlapping with other OpenAI items."
+      }
+    },
+    {
+      "id": "item_2080378182469857576",
+      "decision": "keep",
+      "reason": "Global launch of GPT-Live-powered Presence app; very high reach (2.2M views) from official account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate product from Health and Codex voice; part of OpenAI author cluster but distinct event."
+      }
+    },
+    {
+      "id": "item_2080392280549253392",
+      "decision": "keep",
+      "reason": "Codex gains ChatGPT Voice via iOS remote access; concrete official launch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares the broader voice-interface theme with gdb's voice observation but is a distinct product announcement, not a duplicate event."
+      }
+    },
+    {
+      "id": "item_2080343858022354975",
+      "decision": "keep",
+      "reason": "HuggingFace co-founder's distinct framing of the first autonomous AI attack (closed-weight attacker vs open-weight defender); credible source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique angle on a security incident; no overlap in set."
+      }
+    },
+    {
+      "id": "item_2080296884187652381",
+      "decision": "keep",
+      "reason": "Technical paper coverage (self-improving agent harnesses) with practitioner value from a reputable curator.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis item."
+      }
+    },
+    {
+      "id": "item_2080250814833299933",
+      "decision": "keep",
+      "reason": "High-engagement claim that Claude blocks math-research prompts; strong reach but the underlying claim is single-source and unverified in-packet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Kept for engagement; traceability flagged at set level given unverified classifier claim."
+      }
+    },
+    {
+      "id": "item_2080227601495298092",
+      "decision": "keep",
+      "reason": "Distinct Hassabis technical framing on AI memory limitations; adds analytical variety, though extremely low reach (67 views) weakens source traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Quote-relay from a tiny account; traceability flagged at set level."
+      }
+    },
+    {
+      "id": "item_2080356520047649190",
+      "decision": "keep",
+      "reason": "Notable Amodei policy quote on taxing AI firms; substantive topic, but low-reach relay (532 views) limits verifiability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Secondhand quote; traceability flagged at set level."
+      }
+    },
+    {
+      "id": "item_2080450664526745900",
+      "decision": "keep",
+      "reason": "Mainstream outlet (CNN) framing regulatory gap on AI-agent containment; credible source and solid reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct policy-framing item."
+      }
+    },
+    {
+      "id": "item_2080407606728826891",
+      "decision": "keep",
+      "reason": "Musk interview quote on Anthropic's founding; newsworthy, but relayed via coinbureau as a secondhand quote reducing traceability.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Secondhand quote relay; traceability flagged at set level."
+      }
+    },
+    {
+      "id": "item_2080332282028507234",
+      "decision": "keep",
+      "reason": "UK appoints dedicated AI Minister; DeepMind CEO reacts from verified official account with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone policy/company item."
+      }
+    },
+    {
+      "id": "item_2080344615992123448",
+      "decision": "keep",
+      "reason": "Cognition acquires Poke; concrete company move with distinct value despite low reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique acquisition story."
+      }
+    },
+    {
+      "id": "item_2080457590899642505",
+      "decision": "keep",
+      "reason": "Quantitative accounting of AI-solved math problems; useful original analysis with good engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis item."
+      }
+    },
+    {
+      "id": "item_2080414383352529085",
+      "decision": "keep",
+      "reason": "OpenAI president's voice-interface observation; ties to Presence/Codex voice launches and adds practitioner perspective.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same voice theme as Codex-voice launch but distinct commentary angle; kept, flagged as same_topic_distinct_angle at set level."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2080339982288568709",
+        "item_2080378182469857576",
+        "item_2080392280549253392",
+        "item_2080414383352529085"
+      ],
+      "reason": "OpenAI is overrepresented: three OpenAI-authored launches plus OpenAI president gdb, concentrating four of fourteen slots on one organization and its leadership."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2080392280549253392",
+        "item_2080414383352529085"
+      ],
+      "reason": "The Codex ChatGPT Voice launch and gdb's 'unnatural to type' voice observation cover the same voice-interface theme from distinct angles (product announcement vs personal commentary)."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2080227601495298092",
+        "item_2080356520047649190",
+        "item_2080407606728826891",
+        "item_2080250814833299933"
+      ],
+      "reason": "Several impactful claims rest on low-reach or secondhand relays without primary sourcing in-packet: Hassabis 'duct tape' (67 views), Amodei taxation quote (532 views), Musk-on-Anthropic via coinbureau, and the Anthropic math-classifier claim; each is a paraphrased or relayed assertion lacking a traceable primary source."
+    }
+  ],
+  "additional_search_requests": []
+}
