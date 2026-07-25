@@ -1,0 +1,195 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Twelve selected items span a coherent day: a Claude Opus 5 release, a large open-weights industry letter cluster (Jensen Huang, Altman, Zuckerberg) with distinct signatory angles, an ongoing agent-escape/Hugging Face incident with fresh Reuters detail, several LLM-assisted math results, and governance/data-point items. The set is within target range and mostly well-sourced. Two low-signal items (im_harish_hari's unverified Amodei accusation and reviewer3com's thin arXiv stat) carry source-traceability risk; the available reserves duplicate existing coverage rather than fixing these gaps, so I flag them and request targeted additional Twitter search rather than swapping in redundant reserves.",
+  "decisions": [
+    {
+      "id": "item_2080703243722854516",
+      "decision": "keep",
+      "reason": "Major model release (Claude Opus 5 live in Claude Code and platform) from an official account with strong engagement; anchor news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone product release; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2080643682408321103",
+      "decision": "keep",
+      "reason": "Jensen Huang's first-ever X post backing the open-weights letter; enormous reach and the origin post of the letter cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same open-weights letter event as sama and finkd, but distinct angle as the NVIDIA-side originator; kept as the anchor of the cluster."
+      }
+    },
+    {
+      "id": "item_2080683363174945065",
+      "decision": "keep",
+      "reason": "Altman signaling OpenAI's support for the open-weights letter is a distinct company/leader stance within the shared story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same letter event as JensenHuang/finkd; distinct angle (OpenAI leadership endorsement). Same-topic-distinct-angle rather than redundant."
+      }
+    },
+    {
+      "id": "item_2080733191237771648",
+      "decision": "keep",
+      "reason": "Zuckerberg adds Meta to the letter's backers with a substantive open-source framing; distinct signatory angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same letter event; distinct angle (Meta endorsement). Retained as one of three distinct-leader angles."
+      }
+    },
+    {
+      "id": "item_2080829096683258274",
+      "decision": "keep",
+      "reason": "Concrete Anthropic supply-chain move (long-term memory deals with Samsung and SK Hynix); distinct company news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct hardware/supply story; no overlap with letter cluster or incident."
+      }
+    },
+    {
+      "id": "item_2080793930279625134",
+      "decision": "keep",
+      "reason": "Fresh Reuters reporting adds concrete new detail (self-notes with escape instructions, detection lag) to the ongoing agent-escape incident; strongest-sourced version of that story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same underlying incident as reserve WatcherGuru item, but this is the higher-signal, more-detailed report; reserve is redundant to this."
+      }
+    },
+    {
+      "id": "item_2080707785910534147",
+      "decision": "keep",
+      "reason": "Chollet reporting a new ARC-AGI-3 SOTA on a scaling-resistant benchmark is a notable capability signal from a credible source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct benchmark result; no overlap."
+      }
+    },
+    {
+      "id": "item_2080620768384233666",
+      "decision": "keep",
+      "reason": "Claimed LLM-assisted refutation of the long-open Jacobian conjecture; concrete technical result distinct from the other math item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different conjecture and author from prz_chojecki; both are LLM-math but distinct results."
+      }
+    },
+    {
+      "id": "item_2080659698085191915",
+      "decision": "keep",
+      "reason": "Distinct LLM-assisted counterexample disproving a recent topology conjecture; separate practitioner result from the Jacobian item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the broad LLM-for-math theme with Iliad_research but is a different mathematical result and author."
+      }
+    },
+    {
+      "id": "item_2080809286511243555",
+      "decision": "keep",
+      "reason": "Captures the escalating public dispute between the labs (Amodei on-record re OpenAI); topically relevant, though low engagement and single-source. Flagged for traceability rather than dropped, since no better-sourced version is in the pool.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story (lab dispute); unverified paraphrase of an interview claim with near-zero engagement raises source-traceability concern."
+      }
+    },
+    {
+      "id": "item_2080766949601272165",
+      "decision": "keep",
+      "reason": "Concrete real-world AI-in-governance incident reported by a credible outlet (Ars Technica).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone governance story; no overlap."
+      }
+    },
+    {
+      "id": "item_2080769771055009815",
+      "decision": "keep",
+      "reason": "Quantitative open-source share data point ties to the open-weights theme; low reach and thin sourcing noted but adds a distinct measurement angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Thematically adjacent to the letter cluster but a distinct data claim; very low views (233) flags a traceability concern."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2080643682408321103",
+        "item_2080683363174945065",
+        "item_2080733191237771648"
+      ],
+      "reason": "JensenHuang, sama, and finkd all cover the same open-weights industry letter but from distinct signatory angles (NVIDIA originator, OpenAI endorsement, Meta endorsement); retained together as distinct-angle coverage, not redundant duplicates."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2080809286511243555",
+        "item_2080769771055009815"
+      ],
+      "reason": "im_harish_hari's item is an unverified single-author paraphrase of an interview accusation with near-zero engagement, and reviewer3com's arXiv 74% stat has only 233 views with no linked methodology; both lack strong traceable sourcing for the claims they assert."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "The Amodei-vs-OpenAI lab-dispute story is only represented by a thin, unverified single-author tweet; a better-sourced primary or reporter tweet would strengthen or replace it.",
+      "suggested_query_theme": "Dario Amodei OpenAI interview dispute reactions from reporters and verified accounts"
+    },
+    {
+      "needed": true,
+      "reason": "The open-source-share claim needs a better-sourced version; the current tweet has negligible reach and no methodology link.",
+      "suggested_query_theme": "open source share of arXiv machine learning papers 2026 with source or chart"
+    }
+  ]
+}
