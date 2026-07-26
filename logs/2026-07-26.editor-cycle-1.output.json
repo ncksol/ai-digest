@@ -1,0 +1,137 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 9 selected items are within target and pass. Three items (demishassabis, sundarpichai, DavidSacks) cluster around the open-weights letter story but each contributes a distinct angle (DeepMind endorsement, Google endorsement, White House policy rebuttal), so they are retained and flagged same_topic_distinct_angle. The Altman singularity story appears in one selected item (Polymarket); the near-duplicate kimmonismus version stays in reserve. firesidealpha and alvinfoo are secondary-account paraphrases with weaker engagement but concrete distinct claims; retained with source traceability noted.",
+  "decisions": [
+    {
+      "id": "item_2081039623422177765",
+      "decision": "keep",
+      "reason": "DeepMind CEO's first-person endorsement of the open-weights ecosystem with a concrete 300M+ Gemma download figure; strong engagement and a distinct angle within the open-weights cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the open-weights letter topic with sundarpichai and DavidSacks but offers the DeepMind/CEO endorsement angle with unique data."
+      }
+    },
+    {
+      "id": "item_2081026488158040181",
+      "decision": "keep",
+      "reason": "Google CEO's formal endorsement on behalf of Google; very high engagement (2.7M views) and extends the company-moves angle distinct from the DeepMind post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same open-weights letter topic as demishassabis but Google-corporate endorsement angle from a different named principal."
+      }
+    },
+    {
+      "id": "item_2081033408273395858",
+      "decision": "keep",
+      "reason": "White House AI adviser's pointed policy rebuttal adds a distinct conflict/policy angle to the open-weights debate; high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Open-weights topic but a policy-argument/rebuttal angle rather than an endorsement, first-person from a government principal."
+      }
+    },
+    {
+      "id": "item_2081101771636613218",
+      "decision": "keep",
+      "reason": "Widely circulated report of Altman's singularity declaration; very high engagement and a distinct standalone story from the open-weights cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "The reserve kimmonismus item covers the same singularity quote but is not selected; this Polymarket version is the higher-reach primary carrier of the story in the set."
+      }
+    },
+    {
+      "id": "item_2081117183002705988",
+      "decision": "keep",
+      "reason": "Respected engineering writer's first-person practitioner observation about code review fading as tooling improves; distinct topic and credible source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone practitioner-workflow item, no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2081195664479068350",
+      "decision": "keep",
+      "reason": "Karpathy's first-person response to viral employment speculation; notable figure, primary source, distinct story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "First-person from the subject; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2081117624675791313",
+      "decision": "keep",
+      "reason": "Concrete named Altman quotes on Codex vs Claude Code product strategy; distinct product-strategy angle. Source is a secondary aggregator account, so traceability is weaker but the claim is specific and standalone.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Secondary-account paraphrase of Altman remarks; distinct Codex topic, no overlap with the singularity item."
+      }
+    },
+    {
+      "id": "item_2081088155793465783",
+      "decision": "keep",
+      "reason": "Concrete analysis of Jack Dorsey's shared-compute concept tied to open models; strong engagement and distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis item; only tangential thematic link to open models, distinct subject."
+      }
+    },
+    {
+      "id": "item_2080965353870680145",
+      "decision": "keep",
+      "reason": "Concrete Hassabis framing of a higher AGI bar via the Einstein test; useful conceptual detail and distinct angle. Engagement is low and it is a secondary paraphrase, but content is substantive and not duplicated elsewhere.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Secondary-account paraphrase of Hassabis on AGI definitions; distinct from his open-weights post, no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2081039623422177765",
+        "item_2081026488158040181",
+        "item_2081033408273395858"
+      ],
+      "reason": "Three items cover the open-weights letter story from distinct angles (DeepMind endorsement, Google endorsement, White House policy rebuttal). Retained as complementary, but flagged to signal the topic cluster occupies a third of the set."
+    }
+  ],
+  "additional_search_requests": []
+}
