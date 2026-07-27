@@ -1,0 +1,178 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 11 selected items fall within the 6-11 target and each carries a distinct angle. Two topical clusters exist (the open-weights/open-source letter, and OpenAI internal momentum), but items within them are complementary rather than duplicative. sama appears twice with genuinely distinct software vs. hardware angles. No replacements needed; this cycle's searches returned no fresh pool material.",
+  "decisions": [
+    {
+      "id": "item_2081565339532533940",
+      "decision": "keep",
+      "reason": "Concrete new signatory (SpaceXAI) to the open-weights letter; factual news beat distinct from broader industry framing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the open-weights-letter topic with DavidSacks but reports a specific new signatory rather than industry-wide framing."
+      }
+    },
+    {
+      "id": "item_2081470576653406328",
+      "decision": "keep",
+      "reason": "High-engagement policy framing on the open-source split from an administration figure; distinct analytical angle from the signatory news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same open-weights topic as AndrewCurran but frames the industry-wide split rather than a single signatory. Supersedes reserve thomasunise item on the same theme."
+      }
+    },
+    {
+      "id": "item_2081396796174282900",
+      "decision": "keep",
+      "reason": "Altman demoing ChatGPT building a full-stack app; very high engagement, concrete product signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Software/product angle from sama; distinct from his hardware post."
+      }
+    },
+    {
+      "id": "item_2081513071135346814",
+      "decision": "keep",
+      "reason": "Altman signals hardware ambition ('a new kind of computer'); distinct angle from the software demo.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Hardware angle from sama; distinct topic from his full-stack demo despite same author."
+      }
+    },
+    {
+      "id": "item_2081534792903147881",
+      "decision": "keep",
+      "reason": "Senior OpenAI figure on internal momentum; practitioner signal distinct from Altman's product posts.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Internal-culture signal; loosely related to OpenAI cluster but a separate observation."
+      }
+    },
+    {
+      "id": "item_2081560813266182628",
+      "decision": "keep",
+      "reason": "Robert Martin's concrete stance on reviewing AI-generated code; strong practitioner viewpoint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone practitioner topic; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2081363991872573796",
+      "decision": "keep",
+      "reason": "Amodei quote on recursive self-improvement being continuous; distinct analytical thread.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone Amodei analysis; no overlap."
+      }
+    },
+    {
+      "id": "item_2081413967725928934",
+      "decision": "keep",
+      "reason": "Hassabis disease-cure timeline quote; distinct forward-looking claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone Hassabis item; no overlap."
+      }
+    },
+    {
+      "id": "item_2081497943790788913",
+      "decision": "keep",
+      "reason": "New whistleblower-style claim about Anthropic safeguard trade-offs; notable and distinct.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Anthropic safeguards angle; separate from the open-weights-letter Anthropic mentions. Single-source claim resting on one account's characterization."
+      }
+    },
+    {
+      "id": "item_2081459960916181449",
+      "decision": "keep",
+      "reason": "Sharp technical observation on reasoning-vs-agent tradeoffs; distinct analysis despite low engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone technical take; low reach but substantively distinct."
+      }
+    },
+    {
+      "id": "item_2081485024872796427",
+      "decision": "keep",
+      "reason": "Musk characterising Grok 4.5; product signal with very high reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone product signal; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2081565339532533940",
+        "item_2081470576653406328"
+      ],
+      "reason": "Both cover the open-weights/open-source letter but with distinct angles (specific new signatory vs. industry-wide split framing); kept as complementary rather than duplicative."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2081396796174282900",
+        "item_2081513071135346814"
+      ],
+      "reason": "Two sama posts on the OpenAI momentum theme but distinct angles (full-stack software demo vs. new-hardware ambition); retained as separate signals."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2081396796174282900",
+        "item_2081513071135346814"
+      ],
+      "reason": "sama appears in two selected items; angles are distinct (software vs. hardware) but the set leans on a single author twice, worth monitoring if further sama items surface."
+    }
+  ],
+  "additional_search_requests": []
+}
