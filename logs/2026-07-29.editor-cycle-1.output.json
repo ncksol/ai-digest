@@ -1,0 +1,218 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 13 selected items are distinct, timely, and worth keeping. Two multi-item clusters are same-event/distinct-angle rather than redundant: the AI pacing petition (OpenAI position, Anthropic endorsement, origin/signatories) and the Hugging Face autonomous-agent incident (Altman's training-pause remarks and the defender-side technical replay). AnthropicAI and OpenAI each appear twice but on separate topics, so no single author dominates. The DeepMind/AlphaFold item is a second-hand relay of Financial Times reporting via a low-reach account and is flagged for source traceability, though the digest can only re-verify via Twitter search, not the web. No hard duplicates require replacement.",
+  "decisions": [
+    {
+      "id": "item_2082208694142730340",
+      "decision": "keep",
+      "reason": "OpenAI's official first-party statement on pacing frontier development; anchors the top story of the day.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Part of the pacing-petition cluster; provides OpenAI's own position, distinct from Anthropic's endorsement and the origin item."
+      }
+    },
+    {
+      "id": "item_2082228994653696371",
+      "decision": "keep",
+      "reason": "Anthropic formally endorsing the pacing petition is a distinct first-party angle on the same event.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same pacing-petition event as OpenAI and ShakeelHashim items, but the angle is Anthropic's endorsement plus its recursive-self-improvement research."
+      }
+    },
+    {
+      "id": "item_2082189942793576903",
+      "decision": "keep",
+      "reason": "Origin/context of the pacing open letter and its signatories; supplies the source framing for the cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as the OpenAI and Anthropic items; angle is the letter's origin and who signed it."
+      }
+    },
+    {
+      "id": "item_2082153299357139373",
+      "decision": "keep",
+      "reason": "Concrete first-party cryptanalysis result from Anthropic; standalone technical news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the pacing story; reserve items on Mythos cost and CryptanalysisBench are supporting details, not selected duplicates."
+      }
+    },
+    {
+      "id": "item_2082090998990270885",
+      "decision": "keep",
+      "reason": "Altman confirming a training pause after the Hugging Face agent incident is high-signal first-hand reporting.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HF-incident event as the RachelTobac item, but angle is Altman's reaction and the training pause, not the defender-side replay."
+      }
+    },
+    {
+      "id": "item_2082160210399948869",
+      "decision": "keep",
+      "reason": "Zuckerberg publishing a superintelligence position piece is a major, highly-engaged standalone story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique author and topic; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2082331070389698878",
+      "decision": "keep",
+      "reason": "Structural change at DeepMind (AlphaFold folded into Gemini) is newsworthy despite being a second-hand FT relay.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Relays Financial Times reporting via a low-reach account; flagged at set level for source traceability."
+      }
+    },
+    {
+      "id": "item_2082246268517310851",
+      "decision": "keep",
+      "reason": "Open-weight advocacy translated into a shipped Replit product change; concrete first-party product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product-news item; no duplication."
+      }
+    },
+    {
+      "id": "item_2082263719460094127",
+      "decision": "keep",
+      "reason": "New open-source security tooling release from OpenAI; distinct from OpenAI's pacing statement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Second OpenAI item but a separate topic (Codex Security CLI), so no author-level redundancy in content."
+      }
+    },
+    {
+      "id": "item_2082214795072225786",
+      "decision": "keep",
+      "reason": "Defender-side technical breakdown and interactive replay of the HF incident adds analytical depth.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HF-incident event as the Altman item; angle is Hugging Face's technical timeline and defence, complementary rather than redundant."
+      }
+    },
+    {
+      "id": "item_2082034423344853168",
+      "decision": "keep",
+      "reason": "Widely engaged contrarian practitioner assessment; valuable sentiment counterweight.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone analysis; no overlap."
+      }
+    },
+    {
+      "id": "item_2082326228854530546",
+      "decision": "keep",
+      "reason": "Strong practitioner observation on LLM-written content and reputation; distinct personal-story angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique topic and author; no duplication."
+      }
+    },
+    {
+      "id": "item_2082163285588107752",
+      "decision": "keep",
+      "reason": "Researcher framing of how non-software workers perceive AI capability gains; distinct analytical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone framing; complements but does not duplicate the bearish-flip analysis."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2082208694142730340",
+        "item_2082228994653696371",
+        "item_2082189942793576903"
+      ],
+      "reason": "Three items cover the AI pacing open letter/petition but from distinct first-party angles: OpenAI's position, Anthropic's endorsement, and the letter's origin/signatories. Retained as a coordinated cluster rather than duplicates."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2082090998990270885",
+        "item_2082214795072225786"
+      ],
+      "reason": "Both cover the Hugging Face autonomous-agent incident: one is Altman's reaction and the OpenAI training pause, the other is Hugging Face's defender-side technical replay. Complementary angles on one event."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2082228994653696371",
+        "item_2082153299357139373"
+      ],
+      "reason": "AnthropicAI appears twice in the selected set (pacing endorsement and cryptanalysis). Topics are distinct so both are kept, but flagging author concentration; OpenAI similarly appears twice on separate topics."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2082331070389698878"
+      ],
+      "reason": "The DeepMind/AlphaFold claim is a second-hand relay of Financial Times reporting posted by a low-reach account with no primary link. Traceability is weak; only Twitter-based corroboration is available within this workflow."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "The DeepMind/AlphaFold-into-Gemini story currently rests on a single low-reach relay of FT reporting; a Twitter search for first-party or higher-authority corroboration would strengthen traceability.",
+      "suggested_query_theme": "DeepMind AlphaFold Gemini reorganization from official or verified accounts since 2026-07-28"
+    }
+  ]
+}

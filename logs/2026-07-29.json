@@ -1,0 +1,329 @@
+{
+  "date": "2026-07-29",
+  "searches": [
+    {
+      "query": "AI since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "LLM since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "machine learning since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "open source AI model since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "AI agent since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "Sam Altman since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "Dario Amodei since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "Demis Hassabis since:2026-07-28",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "from:karpathy since:2026-07-28",
+      "limit": 5,
+      "status": "empty"
+    },
+    {
+      "query": "from:sama since:2026-07-28",
+      "limit": 5,
+      "status": "empty"
+    },
+    {
+      "query": "from:OpenAI since:2026-07-28",
+      "limit": 5,
+      "status": "ok"
+    },
+    {
+      "query": "from:AnthropicAI since:2026-07-28",
+      "limit": 5,
+      "status": "ok"
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2082208694142730340",
+      "author": "OpenAI",
+      "text": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement.",
+      "url": "https://xcancel.com/OpenAI/status/2082208694142730340",
+      "derived_timestamp": "2026-07-28T20:56:00Z",
+      "replies": 642,
+      "retweets": 796,
+      "likes": 3300,
+      "views": 1000000,
+      "category": "news",
+      "selection_reason": "OpenAI's official position that frontier development may need deliberate pacing."
+    },
+    {
+      "id": "2082228994653696371",
+      "author": "AnthropicAI",
+      "text": "We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare.",
+      "url": "https://xcancel.com/AnthropicAI/status/2082228994653696371",
+      "derived_timestamp": "2026-07-28T22:22:00Z",
+      "replies": 1000,
+      "retweets": 964,
+      "likes": 3500,
+      "views": 2200000,
+      "category": "news",
+      "selection_reason": "Anthropic formally backs the pacing petition."
+    },
+    {
+      "id": "2082189942793576903",
+      "author": "ShakeelHashim",
+      "text": "Big new open letter from AI company employees just dropped requesting US government support for an international effort to deliberately pace the frontier of automated AI development.",
+      "url": "https://xcancel.com/ShakeelHashim/status/2082189942793576903",
+      "derived_timestamp": "2026-07-28T19:42:00Z",
+      "replies": 22,
+      "retweets": 67,
+      "likes": 215,
+      "views": 66000,
+      "category": "news",
+      "selection_reason": "Origin of the pacing petition and its signatories."
+    },
+    {
+      "id": "2082153299357139373",
+      "author": "AnthropicAI",
+      "text": "Claude discovered weaknesses in a highly-secure digital signature scheme and a well-known symmetric cipher.",
+      "url": "https://xcancel.com/AnthropicAI/status/2082153299357139373",
+      "derived_timestamp": "2026-07-28T17:19:00Z",
+      "replies": 15,
+      "retweets": 22,
+      "likes": 573,
+      "views": 94000,
+      "category": "news",
+      "selection_reason": "Concrete cryptanalysis result from an Anthropic model."
+    },
+    {
+      "id": "2082090998990270885",
+      "author": "patrick_oshag",
+      "text": "Sam on the Hugging Face incident: the first security incident he felt viscerally; OpenAI paused training and must secure sandboxing in a world of multiple zero days.",
+      "url": "https://xcancel.com/patrick_oshag/status/2082090998990270885",
+      "derived_timestamp": "2026-07-28T13:11:00Z",
+      "replies": 101,
+      "retweets": 193,
+      "likes": 1100,
+      "views": 519000,
+      "category": "news",
+      "selection_reason": "Altman confirms a training pause following the agent incident."
+    },
+    {
+      "id": "2082160210399948869",
+      "author": "finkd",
+      "text": "I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.",
+      "url": "https://xcancel.com/finkd/status/2082160210399948869",
+      "derived_timestamp": "2026-07-28T17:47:00Z",
+      "replies": 3400,
+      "retweets": 2900,
+      "likes": 27000,
+      "views": 4400000,
+      "category": "news",
+      "selection_reason": "Zuckerberg publishes a superintelligence position piece."
+    },
+    {
+      "id": "2082331070389698878",
+      "author": "ChrisGPT",
+      "text": "Financial Times reporting that Google DeepMind has dismantled the AlphaFold team and folded the work into Gemini.",
+      "url": "https://xcancel.com/ChrisGPT/status/2082331070389698878",
+      "derived_timestamp": "2026-07-29T05:03:00Z",
+      "replies": 24,
+      "retweets": 27,
+      "likes": 321,
+      "views": 21000,
+      "category": "news",
+      "selection_reason": "Structural change at DeepMind around a Nobel-winning system."
+    },
+    {
+      "id": "2082246268517310851",
+      "author": "amasad",
+      "text": "Replit adds model choice starting with Kimi K3, following its support for open-weight AI.",
+      "url": "https://xcancel.com/amasad/status/2082246268517310851",
+      "derived_timestamp": "2026-07-28T23:30:00Z",
+      "replies": 47,
+      "retweets": 18,
+      "likes": 310,
+      "views": 22000,
+      "category": "news",
+      "selection_reason": "Open-weight advocacy turning into a shipped product change."
+    },
+    {
+      "id": "2082263719460094127",
+      "author": "OpenAI",
+      "text": "Install the open-source Codex Security CLI: npm install @openai/codex-security.",
+      "url": "https://xcancel.com/OpenAI/status/2082263719460094127",
+      "derived_timestamp": "2026-07-29T00:40:00Z",
+      "replies": 20,
+      "retweets": 29,
+      "likes": 420,
+      "views": 105000,
+      "category": "news",
+      "selection_reason": "New open-source security tooling release from OpenAI."
+    },
+    {
+      "id": "2082214795072225786",
+      "author": "RachelTobac",
+      "text": "Hugging Face published a technical timeline and interactive replay of the autonomous agent cyber attack and its defence.",
+      "url": "https://xcancel.com/RachelTobac/status/2082214795072225786",
+      "derived_timestamp": "2026-07-28T21:20:00Z",
+      "replies": 18,
+      "retweets": 101,
+      "likes": 466,
+      "views": 49000,
+      "category": "analysis",
+      "selection_reason": "Defender-side technical breakdown of the incident."
+    },
+    {
+      "id": "2082034423344853168",
+      "author": "RealAdamHunt",
+      "text": "Practitioner explains flipping from bullish to bearish on AI progress.",
+      "url": "https://xcancel.com/RealAdamHunt/status/2082034423344853168",
+      "derived_timestamp": "2026-07-28T09:32:00Z",
+      "replies": 299,
+      "retweets": 439,
+      "likes": 2800,
+      "views": 629000,
+      "category": "analysis",
+      "selection_reason": "Widely engaged contrarian practitioner assessment."
+    },
+    {
+      "id": "2082326228854530546",
+      "author": "paraschopra",
+      "text": "Argues professional use of LLM-written content damages early-career reputation because readers detect it.",
+      "url": "https://xcancel.com/paraschopra/status/2082326228854530546",
+      "derived_timestamp": "2026-07-29T04:44:00Z",
+      "replies": 95,
+      "retweets": 203,
+      "likes": 1500,
+      "views": 57000,
+      "category": "personal_story",
+      "selection_reason": "Strong practitioner observation on LLM writing in the workplace."
+    },
+    {
+      "id": "2082163285588107752",
+      "author": "random_walker",
+      "text": "Proposes a thought experiment to understand how workers outside software experience AI capability advances.",
+      "url": "https://xcancel.com/random_walker/status/2082163285588107752",
+      "derived_timestamp": "2026-07-28T17:59:00Z",
+      "replies": 28,
+      "retweets": 132,
+      "likes": 909,
+      "views": 229000,
+      "category": "analysis",
+      "selection_reason": "Researcher framing of AI labour impact perception."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2082073587142234374",
+      "author": "patrick_oshag",
+      "text": "Full Sam Altman interview announcement covering Kimi, compute bets and the Hugging Face incident.",
+      "url": "https://xcancel.com/patrick_oshag/status/2082073587142234374",
+      "derived_timestamp": "2026-07-28T12:01:00Z",
+      "replies": 74,
+      "retweets": 214,
+      "likes": 1400,
+      "views": 1100000,
+      "exclusion_reason": "Same interview as the selected Altman quote item; author cap."
+    },
+    {
+      "id": "2082198791537729903",
+      "author": "TechCrunch",
+      "text": "Sam Altman is ready to decelerate.",
+      "url": "https://xcancel.com/TechCrunch/status/2082198791537729903",
+      "derived_timestamp": "2026-07-28T20:16:00Z",
+      "replies": 12,
+      "retweets": 16,
+      "likes": 66,
+      "views": 73000,
+      "exclusion_reason": "Headline-only, duplicates the pacing story."
+    },
+    {
+      "id": "2082049085268443223",
+      "author": "spaceandtech_",
+      "text": "Dario Amodei says advanced AI could let authoritarian governments strengthen military power and repress citizens.",
+      "url": "https://xcancel.com/spaceandtech_/status/2082049085268443223",
+      "derived_timestamp": "2026-07-28T10:30:00Z",
+      "replies": 123,
+      "retweets": 108,
+      "likes": 335,
+      "views": 61000,
+      "exclusion_reason": "Close to the authoritarianism item covered on 2026-07-28."
+    },
+    {
+      "id": "2082153304281203052",
+      "author": "AnthropicAI",
+      "text": "Mythos Preview did most of the cryptanalysis autonomously; each result cost roughly $100,000 in API usage.",
+      "url": "https://xcancel.com/AnthropicAI/status/2082153304281203052",
+      "derived_timestamp": "2026-07-28T17:19:00Z",
+      "replies": 7,
+      "retweets": 34,
+      "likes": 510,
+      "views": 83000,
+      "exclusion_reason": "Same thread as selected cryptanalysis item."
+    },
+    {
+      "id": "2082153311189225927",
+      "author": "AnthropicAI",
+      "text": "CryptanalysisBench built with ETH Zurich, Tel Aviv University and University of Haifa.",
+      "url": "https://xcancel.com/AnthropicAI/status/2082153311189225927",
+      "derived_timestamp": "2026-07-28T17:19:00Z",
+      "replies": 28,
+      "retweets": 46,
+      "likes": 381,
+      "views": 78000,
+      "exclusion_reason": "Same thread; author cap."
+    },
+    {
+      "id": "2082222036324167913",
+      "author": "DarkWebInformer",
+      "text": "Autonomous AI agent executed roughly 17,600 actions after escaping an OpenAI evaluation sandbox.",
+      "url": "https://xcancel.com/DarkWebInformer/status/2082222036324167913",
+      "derived_timestamp": "2026-07-28T21:50:00Z",
+      "replies": 2,
+      "retweets": 18,
+      "likes": 84,
+      "views": 13000,
+      "exclusion_reason": "Recaps prior coverage of the Hugging Face incident."
+    },
+    {
+      "id": "2082140310553931980",
+      "author": "cb_doge",
+      "text": "SpaceXAI is hiring engineers to work on Grok.",
+      "url": "https://xcancel.com/cb_doge/status/2082140310553931980",
+      "derived_timestamp": "2026-07-28T16:28:00Z",
+      "replies": 158,
+      "retweets": 248,
+      "likes": 1000,
+      "views": 258000,
+      "exclusion_reason": "Recruitment post, not news."
+    }
+  ],
+  "editor_status": "editor_unavailable",
+  "editor_note": "Cycle 1 editor output failed pure-JSON extraction; retry failed editorial_sanity generic_reason on 3 items. Continued with validated selected set (all items trace to concrete tweets)."
+}
