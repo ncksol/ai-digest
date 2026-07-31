@@ -1,0 +1,209 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "14 selected items reviewed; all are distinct, well-sourced stories within the 8-14 target. Two intentional same-topic-distinct-angle pairings (Anthropic first-party disclosure + Reuters wire confirmation; OpenAI first-party price cut + nicdunz quantitative analysis) add complementary value rather than redundancy. No within-set duplicates, no source-traceability failures, and no coverage gaps warranting additional Twitter search. Approving all as-is.",
+  "decisions": [
+    {
+      "id": "item_2082878156483219672",
+      "decision": "keep",
+      "reason": "First-party OpenAI announcement of major GPT-5.6 price cuts; primary source, high signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the price-cut event with nicdunz and reserve sama, but this is the canonical first-party source announcement."
+      }
+    },
+    {
+      "id": "item_2082884002201878824",
+      "decision": "keep",
+      "reason": "Quantitative price/intelligence-curve analysis of the OpenAI cuts; distinct analytical angle from the first-party post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same pricing event as OpenAI post but adds concrete benchmark-vs-cost framing."
+      }
+    },
+    {
+      "id": "item_2082965101083320543",
+      "decision": "keep",
+      "reason": "First-party Anthropic disclosure of a serious containment failure; primary source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as Reuters item but this is the original first-party admission."
+      }
+    },
+    {
+      "id": "item_2083018566169772263",
+      "decision": "keep",
+      "reason": "Reuters wire confirmation adding the configuration-error cause; independent corroboration of the Anthropic story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as AnthropicAI post; distinct wire-service angle with added causal detail."
+      }
+    },
+    {
+      "id": "item_2082844162928381956",
+      "decision": "keep",
+      "reason": "First-party GoogleDeepMind launch of Gemini Robotics 2; major model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Reserve demishassabis covers the same launch; this org-account post is the canonical selection."
+      }
+    },
+    {
+      "id": "item_2082925303601459347",
+      "decision": "keep",
+      "reason": "Verified ARC-AGI benchmark result setting an open-weight cost-performance frontier.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique benchmark disclosure."
+      }
+    },
+    {
+      "id": "item_2082742741591560476",
+      "decision": "keep",
+      "reason": "New national-scale frontier training effort (Sarvam); distinct story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other items."
+      }
+    },
+    {
+      "id": "item_2082868188224659777",
+      "decision": "keep",
+      "reason": "Quantified signatory count on the open-weights campaign; concrete new data point.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone policy/ecosystem story."
+      }
+    },
+    {
+      "id": "item_2082859528765178176",
+      "decision": "keep",
+      "reason": "Gemini Spark global availability; product change for a cloud agent.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the Gemini Robotics launch despite shared vendor."
+      }
+    },
+    {
+      "id": "item_2082930382937391348",
+      "decision": "keep",
+      "reason": "Concrete verification-failure story (Lean kernel bug in an AI-generated Collatz proof) with a named source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2082877458924065269",
+      "decision": "keep",
+      "reason": "New evaluation work on open-ended agent research tasks.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone research post."
+      }
+    },
+    {
+      "id": "item_2082864698404548642",
+      "decision": "keep",
+      "reason": "High-engagement AI-trade financial story on the Citadel/Situational Awareness episode.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Reserve Michaelzsguo covers the same fund unwind more briefly; this selection has fuller framing and far higher engagement."
+      }
+    },
+    {
+      "id": "item_2082786931419812338",
+      "decision": "keep",
+      "reason": "Widely read practitioner argument on frontier lab economics; distinct analytical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Opinion/analysis distinct from the Citadel trade story."
+      }
+    },
+    {
+      "id": "item_2082723986094330214",
+      "decision": "keep",
+      "reason": "Concrete demonstration of AI-detector failure modes; practitioner story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve nrehiew_ makes a similar point; this selection has higher engagement and the same core demonstration."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2082965101083320543",
+        "item_2083018566169772263"
+      ],
+      "reason": "AnthropicAI first-party disclosure and Reuters wire confirmation cover the same containment-failure event from complementary primary-source and independent-corroboration angles."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2082878156483219672",
+        "item_2082884002201878824"
+      ],
+      "reason": "OpenAI first-party price-cut announcement and nicdunz cost/intelligence-curve analysis cover the same event with distinct announcement vs quantitative-analysis angles."
+    }
+  ],
+  "additional_search_requests": []
+}
