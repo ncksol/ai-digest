@@ -1,0 +1,5 @@
+?? logs/2026-08-01.editor-cycle-1.git-before.txt
+?? logs/2026-08-01.editor-cycle-1.input.json
+?? logs/2026-08-01.json
+?? logs/2026-08-01.selection.json
+?? logs/build-log-2026-08-01.py

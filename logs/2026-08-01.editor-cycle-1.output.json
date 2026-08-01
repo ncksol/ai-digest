@@ -1,0 +1,221 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "15 selected items sit within the 9-15 target with good topical spread across product news, practitioner stories, policy, and research. The Altman family-podcast idea (sama) and Topolsky's critique cover the same event from distinct angles and both earn their place. No hard duplicates or fingerprint collisions. One traceability caveat: the MTSlive 'SITUATION DETECTED' agent-escape item is a single relay account paraphrasing a Reuters claim without a direct link, so it is flagged for source traceability but retained. gdb appears twice on genuinely distinct topics, which is acceptable at this count. No replacements required.",
+  "decisions": [
+    {
+      "id": "item_2083221585792762171",
+      "decision": "keep",
+      "reason": "Highest-engagement eligible tweet of the window; concrete consumer ChatGPT workflow from Altman. Anchor of the family-podcast story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as joshuatopolsky item but this is the originating proposal; the other is a critical reaction. Distinct angles."
+      }
+    },
+    {
+      "id": "item_2083249067644088510",
+      "decision": "keep",
+      "reason": "Widely shared critical response to the Altman idea; adds a distinct skeptical angle on the same event with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as sama item; opposing/critical angle rather than a redundant restatement."
+      }
+    },
+    {
+      "id": "item_2083274575769473092",
+      "decision": "keep",
+      "reason": "Concrete Google AI Studio product decision affecting ~800,000 pre-orders; first-party news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2083323442074673630",
+      "decision": "keep",
+      "reason": "Reuters-sourced follow-on to the agent containment story. Retained but flagged: single relay account paraphrasing without a direct source link.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story. Source traceability is weak (no direct Reuters link), flagged at set level."
+      }
+    },
+    {
+      "id": "item_2083221810024481046",
+      "decision": "keep",
+      "reason": "OpenAI president signals agentic-browser product direction; concise but newsworthy first-party signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different topic from the other gdb item; no duplication."
+      }
+    },
+    {
+      "id": "item_2083435180392673714",
+      "decision": "keep",
+      "reason": "First-hand observation of internal OpenAI agent-to-coworker friction; useful non-hype practitioner signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author as the agentic-browser item but a distinct topic and category; acceptable."
+      }
+    },
+    {
+      "id": "item_2083121758668767328",
+      "decision": "keep",
+      "reason": "Bloomberg reports DeepSeek public beta API for its flagship model; concrete product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083353760701833546",
+      "decision": "keep",
+      "reason": "YC president releases an open-source agent harness; concrete tooling release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083148657084313940",
+      "decision": "keep",
+      "reason": "Detailed reading of a position paper on the Einstein Test framing; substantive analysis with solid engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with the Hassabis biology-as-language reserve item; different framing and source."
+      }
+    },
+    {
+      "id": "item_2083209938533265623",
+      "decision": "keep",
+      "reason": "Engaging argument on Chinese open-weight model releases and market impact; distinct analytical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083110829227192727",
+      "decision": "keep",
+      "reason": "Nadella's framing of learning loops as the durable moat; useful strategic analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083227832868888757",
+      "decision": "keep",
+      "reason": "Release of Conjecture Bench, a 15k-conjecture evaluation resource; concrete research tooling.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083309718408208708",
+      "decision": "keep",
+      "reason": "Research result offering a non-distillation explanation for model identity confusion; substantive even at low engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083113699837923723",
+      "decision": "keep",
+      "reason": "ICLR submission-limit policy for first-time authors; concrete conference process change.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083127659500838951",
+      "decision": "keep",
+      "reason": "Amodei quote on an unreleased model testers described as a super weapon; notable safety-framing news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other Amodei-related reserve items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2083221585792762171",
+        "item_2083249067644088510"
+      ],
+      "reason": "Both cover Altman's family-podcast ChatGPT idea; sama is the originating proposal and joshuatopolsky is a critical reaction. Distinct angles, so both are retained rather than deduplicated."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2083323442074673630"
+      ],
+      "reason": "MTSlive relays a Reuters claim about further AI agent sandbox escapes via a single 'SITUATION DETECTED' account with no direct link to the Reuters report; the underlying source cannot be verified from the tweet alone."
+    }
+  ],
+  "additional_search_requests": []
+}
