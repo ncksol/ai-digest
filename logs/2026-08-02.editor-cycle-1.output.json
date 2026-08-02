@@ -1,0 +1,219 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "14 selected items span a strong day. Items 1-5 form a large Astra open-problems cluster: two primary announcements (polynoamial, wjmzbmr1) plus three distinct reaction/analysis angles (difficulty, mathematician alarm, ML extrapolation) — same topic, distinct angles, not redundant. The remaining items cover finance, safety, revenue, releases and infra with good diversity. Two soft concerns: the vartekxx Anthropic-revenue tweet rests on a single low-reach secondhand quote with no primary source in the packet (traceability gap), and the AnatoliKopadze Altman-security item is a thin paraphrase overlapping the higher-signal AnthropicAI incident disclosure held in reserve. Recommend replacing vartekxx and AnatoliKopadze; all other selections pass.",
+  "decisions": [
+    {
+      "id": "item_2083467194663571701",
+      "decision": "keep",
+      "reason": "Primary, highest-reach announcement of the Astra open-problems results from an OpenAI researcher. Anchor story of the day.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Astra event as wjmzbmr1 but this is the top-line claim; wjmzbmr1 adds distinct technical detail."
+      }
+    },
+    {
+      "id": "item_2083465844735226099",
+      "decision": "keep",
+      "reason": "Second researcher adds concrete technical specifics (circuit lower bounds for the permanent) — distinct angle worth retaining alongside the top-line announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Astra proofs event as polynoamial; distinct technical angle, not redundant."
+      }
+    },
+    {
+      "id": "item_2083543826057048373",
+      "decision": "keep",
+      "reason": "Independent difficulty assessment (Fields Medal framing) of the Astra results; distinct analytical angle on the same topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reaction/analysis on the Astra topic; different event (a follow-up query), distinct angle."
+      }
+    },
+    {
+      "id": "item_2083665986356445553",
+      "decision": "keep",
+      "reason": "Broader mathematician-community reaction framing to the wave of AI proofs; distinct angle and high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same topic cluster, but community-alarm framing distinct from the announcement and difficulty-assessment angles."
+      }
+    },
+    {
+      "id": "item_2083575278928867680",
+      "decision": "keep",
+      "reason": "OpenAI researcher extrapolating from math results to open ML problems; forward-looking distinct angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same topic cluster; extrapolation angle distinct from announcement and difficulty framing."
+      }
+    },
+    {
+      "id": "item_2083749667410727319",
+      "decision": "keep",
+      "reason": "Karpathy proposing a successor to the pelican benchmark; high-signal practitioner content, unique topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone benchmark idea; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2083606266388029691",
+      "decision": "keep",
+      "reason": "Detailed post-mortem of the Aschenbrenner/Situational Awareness fund drawdown; unique finance angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2083663651060465903",
+      "decision": "keep",
+      "reason": "Musk criticism of Anthropic's Mythos messaging; distinct industry-commentary angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the Anthropic revenue item; different subject (Mythos messaging vs revenue)."
+      }
+    },
+    {
+      "id": "item_2083702234915783163",
+      "decision": "replace",
+      "reason": "Concrete revenue claim but sourced from a single very-low-reach secondhand paraphrase (4200 views, 4 likes) with no primary Amodei source in the packet; traceability is weak. Prefer a higher-signal reserve item.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2083623268896903171",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate; replaced due to sourcing/traceability weakness. Hassabis-on-agents reserve item adds a distinct lab-leader perspective."
+      }
+    },
+    {
+      "id": "item_2083616457901138275",
+      "decision": "replace",
+      "reason": "Thin paraphrase of Altman on the security incident with low reach (20k views); the reserve AnthropicAI disclosure is the primary, far higher-signal source for the same underlying incident.",
+      "superseded_by": "item_2082965101083320543",
+      "replacement_candidate_id": "item_2082965101083320543",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Overlaps the AnthropicAI cybersecurity-incident disclosure; the primary first-party statement is stronger and eligible in reserve."
+      }
+    },
+    {
+      "id": "item_2083500486750060851",
+      "decision": "keep",
+      "reason": "Valuable counterpoint: AI agents' research output failing expert review. Balances the optimistic cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique skeptical angle; no overlap."
+      }
+    },
+    {
+      "id": "item_2083610805069611230",
+      "decision": "keep",
+      "reason": "Concrete open-source release of an agent-native CRM; solid practitioner/news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083537650502217772",
+      "decision": "keep",
+      "reason": "Concrete free educational release from Google on agent context engineering; useful practitioner resource.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083560884820164946",
+      "decision": "keep",
+      "reason": "Local infrastructure/eminent-domain conflict from AI data-center buildout; distinct real-world-impact angle with high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2083467194663571701",
+        "item_2083465844735226099",
+        "item_2083543826057048373",
+        "item_2083665986356445553",
+        "item_2083575278928867680"
+      ],
+      "reason": "Five items share the Astra open-problems topic but each carries a distinct angle (primary announcement, technical detail, difficulty assessment, mathematician alarm, ML extrapolation). Retained as a cluster, not treated as redundant, though set weight toward this topic is high."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2083702234915783163"
+      ],
+      "reason": "Anthropic revenue figure rests on a single very-low-reach secondhand paraphrase with no primary Amodei source present in the packet; sourcing cannot be traced within the provided material."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2083616457901138275",
+        "item_2082965101083320543"
+      ],
+      "reason": "Altman security-incident paraphrase overlaps the primary AnthropicAI cybersecurity-incident disclosure covering the same underlying event; the first-party disclosure supersedes the thin paraphrase."
+    }
+  ],
+  "additional_search_requests": []
+}
