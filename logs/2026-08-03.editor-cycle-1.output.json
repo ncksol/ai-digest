@@ -1,0 +1,196 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 13 selected items are distinct events with no true duplicates or fingerprint collisions. Two same-topic-distinct-angle clusters (RSI: chamath vs. mark_k; LLM-in-science: HowToPrompt__ vs. baltabaev) are complementary and retained. Author distribution is balanced (no overrepresented author), source traceability is intact, and the set spans model releases, research, analysis, and industry news. No replacements required.",
+  "decisions": [
+    {
+      "id": "item_2084100707423289643",
+      "decision": "keep",
+      "reason": "Major open-weights model launch (Qwen3.8-Max), highest engagement of the cycle; unique story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model-release event; no other item covers Qwen3.8-Max."
+      }
+    },
+    {
+      "id": "item_2084161451728441838",
+      "decision": "keep",
+      "reason": "High-signal investor framing of recursive self-improvement; distinct analytical angle within the RSI theme.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares broad RSI theme with mark_k and reserve reaction threads, but distinct conceptual argument, not the same event."
+      }
+    },
+    {
+      "id": "item_2084051253278208138",
+      "decision": "keep",
+      "reason": "Semianalysis lead's antitrust framing of lab pacing pledges; unique angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2083951213171925221",
+      "decision": "keep",
+      "reason": "Google DeepMind SkillSmith research; distinct research story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct research; not the same as the RSI agent release."
+      }
+    },
+    {
+      "id": "item_2083854295393251758",
+      "decision": "keep",
+      "reason": "Open release of Frontis-MA1 RSI ML-engineering agent; concrete release distinct from chamath's conceptual RSI argument.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same RSI theme as chamath, but this is a concrete model/tooling release (distinct event and angle)."
+      }
+    },
+    {
+      "id": "item_2084007956073333142",
+      "decision": "keep",
+      "reason": "Reported GPT-6 naming leak; distinct news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other items."
+      }
+    },
+    {
+      "id": "item_2084004473408753833",
+      "decision": "keep",
+      "reason": "Practitioner analysis of degrading frontier-model conversational quality; unique.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083926395403821427",
+      "decision": "keep",
+      "reason": "Replit CEO's LLM chess engine on LiChess; unique personal-story build.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083934330146197989",
+      "decision": "keep",
+      "reason": "OpenAI president on ChatGPT for interactive educational tools; distinct product angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083728898173386842",
+      "decision": "keep",
+      "reason": "YouTube removing 130k channels over AI slop; high-engagement distinct news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2083778565817127295",
+      "decision": "keep",
+      "reason": "MIT/Harvard paper evaluating LLMs on scientific discovery; skeptical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Thematically adjacent to the math-breakthrough discourse (baltabaev) but a distinct paper and claim; not the same event."
+      }
+    },
+    {
+      "id": "item_2083738966516207656",
+      "decision": "keep",
+      "reason": "Mathematician on inability to verify claimed proofs; distinct first-person angle on the OAI math discourse.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Adjacent to HowToPrompt__ scientific-discovery skepticism but distinct event/angle (proof verifiability, not a paper)."
+      }
+    },
+    {
+      "id": "item_2083945170551046363",
+      "decision": "keep",
+      "reason": "Amodei/Hassabis WEF 2026 remarks; notable-people news despite low engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap; unique event."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2084161451728441838",
+        "item_2083854295393251758"
+      ],
+      "reason": "Both address recursive self-improvement but from distinct angles: chamath's conceptual singularity argument vs. mark_k's concrete Frontis-MA1 agent release. Retained as complementary."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2083778565817127295",
+        "item_2083738966516207656"
+      ],
+      "reason": "Both touch the 'can LLMs do real math/science' discourse from distinct angles: a formal MIT/Harvard evaluation vs. a mathematician's first-person proof-verification struggle. Retained as complementary."
+    }
+  ],
+  "additional_search_requests": []
+}
