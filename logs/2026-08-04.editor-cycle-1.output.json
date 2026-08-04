@@ -1,0 +1,252 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 16 selected items against the pool and 5 eligible reserve items. All 16 pass. The set holds together with strong same-day coverage: an open-weights cluster (MiniMax H3 + Youssofal_ practitioner summary), a three-angle Hugging Face rogue-agent regulatory cluster (15 AGs, House Homeland Security briefing request, UK regulator), and an Anthropic hiring/mission cluster (Amodei concern + insider scrubbed-history anecdote). These are same-topic distinct-angle groupings rather than redundant duplicates, so no replacements are needed. No true duplicates were found among selected items; the closest redundancy (peterwildeford reserve) simply restates the AndrewCurran_ 15-AGs story and correctly remains in reserve.",
+  "decisions": [
+    {
+      "id": "item_2084106804032872591",
+      "decision": "keep",
+      "reason": "MiniMax-H3 open-weights release is a concrete, high-signal news drop and the anchor of the open-weights cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the open-weights week topic with Youssofal_ but is the primary-source release announcement; distinct angle from the practitioner roundup."
+      }
+    },
+    {
+      "id": "item_2084117691749785717",
+      "decision": "keep",
+      "reason": "Practitioner roundup framing the week's open-weights releases adds analytical context the raw release tweets lack.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Mentions MiniMax H3 among others but as commentary on the broader week, not a duplicate of the release announcement."
+      }
+    },
+    {
+      "id": "item_2084378415818579975",
+      "decision": "keep",
+      "reason": "OpenAI GPT-Live voice stack rebuild is a distinct product/architecture story from a primary source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084420761033564657",
+      "decision": "keep",
+      "reason": "15 attorneys general demanding record preservation is the lead regulatory angle of the Hugging Face rogue-agent story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same event as peterwildeford reserve item (15 AGs letter); that item stays in reserve, so no duplication in the selected set. Distinct angle from the House briefing and UK regulator items."
+      }
+    },
+    {
+      "id": "item_2084426564759105780",
+      "decision": "keep",
+      "reason": "House Homeland Security briefing request is a distinct legislative angle within the Hugging Face incident cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broader story as the AGs and UK regulator items but a different institutional actor and action; distinct angle."
+      }
+    },
+    {
+      "id": "item_2084469403446383058",
+      "decision": "keep",
+      "reason": "UK regulator monitoring adds an international regulatory angle to the rogue-agent story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broader incident but a separate jurisdiction and regulator; distinct angle from the US AG and House items."
+      }
+    },
+    {
+      "id": "item_2084304083851034949",
+      "decision": "keep",
+      "reason": "High-reach Musk take on source code becoming assembly is a notable analysis point on AI-generated software.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084266107242951141",
+      "decision": "keep",
+      "reason": "Paul Graham on why LLMs excel at math over writing is a distinct, widely engaged analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084483765158719542",
+      "decision": "keep",
+      "reason": "OpenAI engineer's take that harnesses will outgrow the laptop is a distinct forward-looking practitioner view.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084335315788103828",
+      "decision": "keep",
+      "reason": "Amodei's mission-versus-money hiring concern is the sourced anchor of the Anthropic hiring cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Anthropic hiring/culture topic with championswimmer but is an official-statement angle, distinct from the insider anecdote."
+      }
+    },
+    {
+      "id": "item_2084262578675449880",
+      "decision": "keep",
+      "reason": "First-person anecdote about scrubbing pro-open-source history before an Anthropic interview adds vivid ground-level color to the hiring-culture story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same topic as the Amodei item but a distinct personal-anecdote angle."
+      }
+    },
+    {
+      "id": "item_2084321018546704624",
+      "decision": "keep",
+      "reason": "Exa claiming one of the world's largest web indexes is a distinct infrastructure/search story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084285621011689918",
+      "decision": "keep",
+      "reason": "NVIDIA open-sourcing the NOOA agent framework is a concrete tooling release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084388481866821785",
+      "decision": "keep",
+      "reason": "Working paper quantifying agentic loops beating prompt engineering is substantive research signal despite low engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084432743858160097",
+      "decision": "keep",
+      "reason": "Numerai recruiting for a self-improving hedge fund is a distinct AI-in-finance story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2084371255092768817",
+      "decision": "keep",
+      "reason": "Eight-hour Opus 5 Max Star Wars LEGO reconstruction is a striking capability demonstration.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2084420761033564657",
+        "item_2084426564759105780",
+        "item_2084469403446383058"
+      ],
+      "notes": "Hugging Face rogue-agent regulatory response covered from three distinct angles: 15 state AGs preservation demand, House Homeland Security briefing request, and UK regulator monitoring. Distinct actors/jurisdictions justify keeping all three."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2084106804032872591",
+        "item_2084117691749785717"
+      ],
+      "notes": "Open-weights week: MiniMax-H3 primary release announcement plus a practitioner roundup that contextualizes the week. Distinct angles (source announcement vs. commentary)."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2084335315788103828",
+        "item_2084262578675449880"
+      ],
+      "notes": "Anthropic hiring/mission-versus-money: Amodei's sourced concern paired with a first-person insider anecdote. Distinct angles."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2084420761033564657",
+        "item_2084339427766350139"
+      ],
+      "notes": "peterwildeford reserve item restates the same 15-AGs letter as the selected AndrewCurran_ item. It is correctly held in reserve and not selected, so the selected set carries no duplication; noted for awareness only."
+    }
+  ],
+  "additional_search_requests": []
+}
