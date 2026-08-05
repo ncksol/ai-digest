@@ -1,0 +1,224 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Strong packet but the AISI/Anthropic/OpenAI cyber-evaluation incident is overrepresented with six selected items covering one event. Kept the primary disclosure, the three lab statements, the concrete-detail synthesis, and the interpretive counterweight since each adds a distinct angle. Replaced the CNN mainstream-pickup item, which added the least distinct value on the same event, with the Frontis-MA1 open-weight release to improve topic coverage. All other selections stand.",
+  "decisions": [
+    {
+      "id": "item_2084746202579386632",
+      "decision": "keep",
+      "reason": "Primary AISI disclosure; the canonical originating source for the incident and essential to the story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as other cyber items but the originating institutional source."
+      }
+    },
+    {
+      "id": "item_2084748111239344556",
+      "decision": "keep",
+      "reason": "Anthropic's own account adds the vendor perspective and the removed-safeguards framing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Distinct vendor-statement angle on the shared event."
+      }
+    },
+    {
+      "id": "item_2084747580693426555",
+      "decision": "keep",
+      "reason": "OpenAI's parallel disclosure; the second lab's account of the same evaluation.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Distinct second-vendor angle on the shared event."
+      }
+    },
+    {
+      "id": "item_2084754774088724660",
+      "decision": "keep",
+      "reason": "Synthesizes both lab posts and surfaces the most serious concrete behaviour.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Analysis/synthesis angle distinct from the primary statements."
+      }
+    },
+    {
+      "id": "item_2084770156937728039",
+      "decision": "keep",
+      "reason": "Necessary interpretive counterweight clarifying the intentional setup; prevents overreading.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Contrarian/context angle on the shared event."
+      }
+    },
+    {
+      "id": "item_2084879600094511555",
+      "decision": "replace_with_existing_candidate",
+      "reason": "Mainstream-pickup restatement of the AISI incident; least distinct of six cyber items and worsens overrepresentation. Replaced with a distinct open-weight release for coverage balance.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2084539809171919154",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Restates the same incident with near-identical framing already covered by the primary and analysis items."
+      }
+    },
+    {
+      "id": "item_2084640701669613906",
+      "decision": "keep",
+      "reason": "Concrete on-device agentic model release; strong engagement and distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique release story."
+      }
+    },
+    {
+      "id": "item_2084727154928189783",
+      "decision": "keep",
+      "reason": "Open-weight ternary reasoning model release with specific benchmarks.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model release."
+      }
+    },
+    {
+      "id": "item_2084719248048529848",
+      "decision": "keep",
+      "reason": "High-engagement technical primer on the power bottleneck; distinct infrastructure angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique topic."
+      }
+    },
+    {
+      "id": "item_2084751187002458369",
+      "decision": "keep",
+      "reason": "Widely discussed agent-adoption-gap argument; strong practitioner discourse.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique take."
+      }
+    },
+    {
+      "id": "item_2084663673570971990",
+      "decision": "keep",
+      "reason": "Highest-engagement principal post in the window; represents sentiment.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone commentary."
+      }
+    },
+    {
+      "id": "item_2084702370764820572",
+      "decision": "keep",
+      "reason": "Concrete AI feature-film release with public assets; distinct creative-domain story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique release."
+      }
+    },
+    {
+      "id": "item_2084792341572001871",
+      "decision": "keep",
+      "reason": "Concrete tooling release from a widely used open-source project.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique tooling story."
+      }
+    },
+    {
+      "id": "item_2084614588453007653",
+      "decision": "keep",
+      "reason": "Specific practitioner failure account tied to a concrete reliability claim.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone practitioner report."
+      }
+    },
+    {
+      "id": "item_2084637673428267373",
+      "decision": "keep",
+      "reason": "Sharp framing of the code-review bottleneck in LLM-assisted coding.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct analysis."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "note": "Five retained cyber-incident items (AISecurityInst, AnthropicAI, OpenAI, AndrewCurran_, ShakeelHashim) cover one event but each contributes a distinct angle: primary source, two vendor statements, synthesis, and counterweight.",
+      "item_ids": [
+        "item_2084746202579386632",
+        "item_2084748111239344556",
+        "item_2084747580693426555",
+        "item_2084754774088724660",
+        "item_2084770156937728039"
+      ]
+    },
+    {
+      "type": "redundant_story",
+      "note": "The CNN item restated the same AISI incident with no distinct angle beyond mainstream pickup; flagged and replaced to reduce redundancy in the cluster.",
+      "item_ids": [
+        "item_2084879600094511555"
+      ]
+    }
+  ],
+  "additional_search_requests": []
+}
