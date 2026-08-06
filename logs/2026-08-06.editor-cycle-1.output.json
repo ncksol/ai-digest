@@ -1,0 +1,229 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 16 selected items are distinct, sourced, and timely. The Google DeepMind leadership shakeup forms a legitimate multi-angle cluster (Hassabis stepping to Chair, Jeff Dean departing, the Discovery Loop founding, and insider reporting), each contributing a distinct fact or angle rather than duplicating one story. No true redundant duplicates exist among the selected set, and the reserve items that echo the DeepMind cluster were correctly left out of the selection. No replacements or additional Twitter searches are required.",
+  "decisions": [
+    {
+      "id": "item_2085034334914769203",
+      "decision": "keep",
+      "reason": "First-hand announcement of Demis Hassabis moving to Chair of Google DeepMind and Chief Scientist of Alphabet; primary source for a major leadership change.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Anchor of the DeepMind leadership cluster; first-hand transition announcement distinct from the Dean departure and Discovery Loop founding."
+      }
+    },
+    {
+      "id": "item_2085083442669318443",
+      "decision": "keep",
+      "reason": "Jeff Dean announcing his last day at Google after 27 years; high-reach first-hand departure news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related to the DeepMind cluster but a distinct event (Dean's departure) from a different principal."
+      }
+    },
+    {
+      "id": "item_2085033732013162909",
+      "decision": "keep",
+      "reason": "First-hand announcement of the new Discovery Loop public benefit corporation founded by four senior Google researchers.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broad topic as the Dean departure but a distinct angle: the new lab's founding and mission."
+      }
+    },
+    {
+      "id": "item_2085074977082966219",
+      "decision": "keep",
+      "reason": "Concrete disclosure that ~70% of Microsoft AI revenue comes from OpenAI; high-reach financial signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone financial disclosure with no overlap in the selected set."
+      }
+    },
+    {
+      "id": "item_2085231719615987796",
+      "decision": "keep",
+      "reason": "Mainstream BBC report of a new AI agent security incident involving a Meta model; traceable primary outlet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique agent-security news item; headline-only but from a traceable mainstream source."
+      }
+    },
+    {
+      "id": "item_2085018697312383349",
+      "decision": "keep",
+      "reason": "First-hand product release of Hark Handoff with a benchmark claim; distinct model launch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone product launch; benchmark claim is unverified but presented as a vendor announcement and does not duplicate other items."
+      }
+    },
+    {
+      "id": "item_2084990137180590572",
+      "decision": "keep",
+      "reason": "First-hand launch of Cloudflare OS by Kenton Varda; notable infrastructure/product release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product launch with no overlap in the selected set."
+      }
+    },
+    {
+      "id": "item_2085095341171347658",
+      "decision": "keep",
+      "reason": "Concrete, high-reach practitioner failure case of Claude Code deleting user files; strong agent-reliability story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner_story; no duplication with the Meta agent-security news item (different vendor and incident)."
+      }
+    },
+    {
+      "id": "item_2084972695796789663",
+      "decision": "keep",
+      "reason": "Open-weights Xiaomi-Robotics-1 release with concrete training-data figures; distinct model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source robotics model release."
+      }
+    },
+    {
+      "id": "item_2085064722060398872",
+      "decision": "keep",
+      "reason": "$35M Series A for an agent-infrastructure startup with Anthropic participation; concrete funding news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone funding item with no overlap."
+      }
+    },
+    {
+      "id": "item_2085080631353147576",
+      "decision": "keep",
+      "reason": "Concrete DSPy/GEPA tooling result with measurable accuracy and cost improvements.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique tooling/analysis item."
+      }
+    },
+    {
+      "id": "item_2084930635421094306",
+      "decision": "keep",
+      "reason": "Governance move: Rust project adopting an LLM policy; notable open-source governance news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct governance story with no overlap."
+      }
+    },
+    {
+      "id": "item_2084993021917929914",
+      "decision": "keep",
+      "reason": "Forward-looking analysis of SSI's planned August model release; distinct outlook item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique speculative-analysis item."
+      }
+    },
+    {
+      "id": "item_2085117252039315853",
+      "decision": "keep",
+      "reason": "Specific ARC-AGI-3 benchmark figure for Opus 5 with a system/harness argument; distinct analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct benchmark analysis; no overlap with the Hark Handoff benchmark item (different model and benchmark)."
+      }
+    },
+    {
+      "id": "item_2085124500614680891",
+      "decision": "keep",
+      "reason": "Earnings-call-tied observation on falling AI costs and the end of the 'tokenmaxxing' era; distinct cost-trend analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Cost-trend analysis; touches AI economics like the Microsoft disclosure but a distinct angle and source."
+      }
+    },
+    {
+      "id": "item_2085213666308436368",
+      "decision": "keep",
+      "reason": "Reported insider context on the Demis Hassabis DeepMind change; adds analytical depth to the cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same underlying Hassabis transition event as item_2085034334914769203 but a distinct angle: insider reporting on internal reaction versus the first-hand announcement."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2085034334914769203",
+        "item_2085083442669318443",
+        "item_2085033732013162909",
+        "item_2085213666308436368"
+      ],
+      "reason": "These four items share the Google DeepMind leadership-shakeup topic but each covers a distinct fact or angle: Hassabis moving to Chair, Jeff Dean's departure, the Discovery Loop founding, and insider reporting on the Hassabis transition. They complement rather than duplicate one another."
+    }
+  ],
+  "additional_search_requests": []
+}
