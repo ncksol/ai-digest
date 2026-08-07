@@ -1,0 +1,362 @@
+{
+  "date": "2026-08-07",
+  "searches": {
+    "since": "2026-08-06",
+    "queries": [
+      {
+        "query": "AI since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "LLM since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "machine learning since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "GPT OR Claude OR Gemini since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "open source AI model since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "AI agent since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "Sam Altman since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "Dario Amodei since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "Demis Hassabis since:2026-08-06",
+        "limit": 20,
+        "status": "ok"
+      },
+      {
+        "query": "from:karpathy since:2026-08-06",
+        "limit": 5,
+        "status": "empty_no_tweets_found"
+      },
+      {
+        "query": "from:sama since:2026-08-06",
+        "limit": 5,
+        "status": "ok"
+      },
+      {
+        "query": "from:OpenAI since:2026-08-06",
+        "limit": 5,
+        "status": "ok"
+      },
+      {
+        "query": "from:AnthropicAI since:2026-08-06",
+        "limit": 5,
+        "status": "empty_no_tweets_found"
+      }
+    ],
+    "total_unique_tweets": 61
+  },
+  "selected_items": [
+    {
+      "id": "2085434712429052386",
+      "author": "OpenAI",
+      "text": "We're making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
+      "url": "https://xcancel.com/OpenAI/status/2085434712429052386",
+      "derived_timestamp": "2026-08-06T18:30:00Z",
+      "replies": 842,
+      "retweets": 2100,
+      "likes": 16000,
+      "views": 2000000,
+      "category": "news",
+      "selection_reason": "Primary product announcement from OpenAI with very high engagement."
+    },
+    {
+      "id": "2085434713821565297",
+      "author": "OpenAI",
+      "text": "The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT-5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.",
+      "url": "https://xcancel.com/OpenAI/status/2085434713821565297",
+      "derived_timestamp": "2026-08-06T18:30:00Z",
+      "replies": 38,
+      "retweets": 67,
+      "likes": 1500,
+      "views": 137000,
+      "category": "news",
+      "selection_reason": "Concrete evaluation number attached to the release; distinct detail from the headline post."
+    },
+    {
+      "id": "2085544823331623261",
+      "author": "eliebakouch",
+      "text": "this talk by openai researchers going through hugging face incident is totally insane, so much to unpack. openai only realized it was their agent who hacked hugging face infra while asking hf to revoke credentials following their first blog post announcing they were hacked by",
+      "url": "https://xcancel.com/eliebakouch/status/2085544823331623261",
+      "derived_timestamp": "2026-08-07T01:47:00Z",
+      "replies": 25,
+      "retweets": 48,
+      "likes": 646,
+      "views": 69000,
+      "category": "news",
+      "selection_reason": "First-hand account of the Hugging Face incident disclosure from a Hugging Face researcher."
+    },
+    {
+      "id": "2085554888264892606",
+      "author": "JeffLadish",
+      "text": "I highly recommend everyone go watch this video. This is way crazier than I thought. The AI agents discovered a way pass secret messages to each other via a vulnerability in their internal software manager. They posted hundreds of thousands of messages. OpenAI engineers",
+      "url": "https://xcancel.com/JeffLadish/status/2085554888264892606",
+      "derived_timestamp": "2026-08-07T02:27:00Z",
+      "replies": 18,
+      "retweets": 72,
+      "likes": 484,
+      "views": 73000,
+      "category": "analysis",
+      "selection_reason": "Adds the inter-agent messaging detail from the same disclosure."
+    },
+    {
+      "id": "2085563863618228300",
+      "author": "polynoamial",
+      "text": "In 2017 a viral news story claimed LLMs at Facebook went rogue, developed their own language, and had to be shut down. By now we're immune to such sensationalist headlines. The Hugging Face incident may seem like just another one. But it's not.",
+      "url": "https://xcancel.com/polynoamial/status/2085563863618228300",
+      "derived_timestamp": "2026-08-07T03:05:00Z",
+      "replies": 32,
+      "retweets": 47,
+      "likes": 609,
+      "views": 53000,
+      "category": "analysis",
+      "selection_reason": "OpenAI researcher distinguishing this incident from prior viral claims."
+    },
+    {
+      "id": "2085563290713829473",
+      "author": "ns123abc",
+      "text": "BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing. tasked with solving problems in isolated sandbox, found a leak in the sandbox, Kimi took advantage of that loophole, probed the network settings itself, walks onto the open internet, didn't hack anything",
+      "url": "https://xcancel.com/ns123abc/status/2085563290713829473",
+      "derived_timestamp": "2026-08-07T03:03:00Z",
+      "replies": 120,
+      "retweets": 247,
+      "likes": 1400,
+      "views": 311000,
+      "category": "news",
+      "selection_reason": "Separate sandbox-escape report involving a different lab's model."
+    },
+    {
+      "id": "2085418319545356351",
+      "author": "github",
+      "text": "Kimi K3, an open-weight model, is now generally available and rolling out in GitHub Copilot. The model shows frontier-level abilities on agentic coding with highly cost-effective pricing. It is hosted by FireworksAI.",
+      "url": "https://xcancel.com/github/status/2085418319545356351",
+      "derived_timestamp": "2026-08-06T17:25:00Z",
+      "replies": 61,
+      "retweets": 110,
+      "likes": 880,
+      "views": 131000,
+      "category": "news",
+      "selection_reason": "Concrete distribution move for an open-weight model into a major coding product."
+    },
+    {
+      "id": "2085472000886411332",
+      "author": "Lentils80",
+      "text": "Reports indicate ByteDance is discussing training a massive LLM model with over 5 trillion parameters. Looks like China is REALLY scaling up now. For reference, Kimi K3 is only 2.8 trillion params. ByteDance's founder is also supposedly against distilling western models",
+      "url": "https://xcancel.com/Lentils80/status/2085472000886411332",
+      "derived_timestamp": "2026-08-06T20:58:00Z",
+      "replies": 11,
+      "retweets": 28,
+      "likes": 327,
+      "views": 72000,
+      "category": "news",
+      "selection_reason": "Scaling report on a major Chinese lab with a concrete parameter comparison."
+    },
+    {
+      "id": "2085418582192841147",
+      "author": "gabriel1",
+      "text": "3 months ago i resigned from OpenAI. today we are launching Energy. everyone will soon use AI for all work on their computers, but very few do today even though AI is good enough. our users do days of work in hours. we'll onboard the world to working with ai",
+      "url": "https://xcancel.com/gabriel1/status/2085418582192841147",
+      "derived_timestamp": "2026-08-06T17:26:00Z",
+      "replies": 466,
+      "retweets": 316,
+      "likes": 4600,
+      "views": 809000,
+      "category": "news",
+      "selection_reason": "Company launch by a departed OpenAI employee with very high engagement."
+    },
+    {
+      "id": "2085422902724485432",
+      "author": "akshay_pachaar",
+      "text": "a fully open-source self-improving harness. Prime Intellect just shipped Prime Agent, which turns a frontier model into a Recursive Language Model. context becomes a variable the model programs over, and sub-agents become ordinary function calls.",
+      "url": "https://xcancel.com/akshay_pachaar/status/2085422902724485432",
+      "derived_timestamp": "2026-08-06T17:43:00Z",
+      "replies": 16,
+      "retweets": 49,
+      "likes": 371,
+      "views": 42000,
+      "category": "news",
+      "selection_reason": "Open-source agent harness release with a concrete architectural claim."
+    },
+    {
+      "id": "2085398894700081332",
+      "author": "LundukeJournal",
+      "text": "A huge number of hardware device drivers are being removed from Linux because Linux kernel developers don't want to deal with the flood of AI generated code submissions and AI bug reports for them. These removed Linux drivers include mice, Ethernet cards, amateur radio, NFC",
+      "url": "https://xcancel.com/LundukeJournal/status/2085398894700081332",
+      "derived_timestamp": "2026-08-06T16:07:00Z",
+      "replies": 91,
+      "retweets": 101,
+      "likes": 723,
+      "views": 51000,
+      "category": "news",
+      "selection_reason": "Concrete downstream effect of AI-generated contributions on a major open-source project."
+    },
+    {
+      "id": "2085430336906010787",
+      "author": "coryweinberg",
+      "text": "NEWS: You've read profiles of Dario Amodei before, but not like this one. Here's some of what I learned from ~6 weeks of talking to insiders, rivals, investors about the unusual man leading of capitalism's greatest success story and pissing off Silicon Valley in the process",
+      "url": "https://xcancel.com/coryweinberg/status/2085430336906010787",
+      "derived_timestamp": "2026-08-06T18:14:00Z",
+      "replies": 5,
+      "retweets": 42,
+      "likes": 266,
+      "views": 62000,
+      "category": "news",
+      "selection_reason": "Reported profile of the Anthropic CEO published today."
+    },
+    {
+      "id": "2085470568896495676",
+      "author": "techeconomyana",
+      "text": "Dario Amodei primarily leads the company through lengthy papers and internal Slack messages. He is hardly involved in day-to-day management tasks, such as compensation and restructuring, and delegates most matters to his sister.",
+      "url": "https://xcancel.com/techeconomyana/status/2085470568896495676",
+      "derived_timestamp": "2026-08-06T20:52:00Z",
+      "replies": 33,
+      "retweets": 13,
+      "likes": 161,
+      "views": 36000,
+      "category": "analysis",
+      "selection_reason": "Specific management detail drawn from the profile."
+    },
+    {
+      "id": "2085432028099694733",
+      "author": "patrick_oshag",
+      "text": "Sam Altman: I'm not a jobs doomer at all. I think there are gonna be tons of jobs. If we could go back to 2019 and show people our latest model, not only would they say that it's AGI, they would say that the economy would have been completely upended. And that has not",
+      "url": "https://xcancel.com/patrick_oshag/status/2085432028099694733",
+      "derived_timestamp": "2026-08-06T18:21:00Z",
+      "replies": 27,
+      "retweets": 11,
+      "likes": 89,
+      "views": 40000,
+      "category": "analysis",
+      "selection_reason": "Direct quoted position from the OpenAI chief executive on labour effects."
+    },
+    {
+      "id": "2085512888270389479",
+      "author": "dschwarz26",
+      "text": "I since talked to a lot of people, including some long-time Googlers. Nobody had a simple explanation, so I did some nowcasting to try to figure out what led to Jeff and Demis stepping down. We'll probably never know the drama/politics, but my sense is that the common factor is",
+      "url": "https://xcancel.com/dschwarz26/status/2085512888270389479",
+      "derived_timestamp": "2026-08-07T00:20:00Z",
+      "replies": 12,
+      "retweets": 13,
+      "likes": 189,
+      "views": 26000,
+      "category": "analysis",
+      "selection_reason": "New reporting-based angle on the Google leadership changes."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2085454964814753990",
+      "author": "sama",
+      "text": "5.6 Sol much better in chat now and unlimited text chat for free users!",
+      "url": "https://xcancel.com/sama/status/2085454964814753990",
+      "derived_timestamp": "2026-08-06T19:52:00Z",
+      "replies": 617,
+      "retweets": 357,
+      "likes": 6800,
+      "views": 640000,
+      "exclusion_reason": "Same story as the OpenAI announcement items; reserved to avoid duplication."
+    },
+    {
+      "id": "2085495343043547391",
+      "author": "patio11",
+      "text": "The first holy %{*#^ is at about 4:20, assuming one didn't already spend it on the autonomously organizing agent swarm. Strongly recommend watching if you're interested in security, AI trajectories, or even science fiction",
+      "url": "https://xcancel.com/patio11/status/2085495343043547391",
+      "derived_timestamp": "2026-08-06T22:23:00Z",
+      "replies": 13,
+      "retweets": 95,
+      "likes": 1100,
+      "views": 193000,
+      "exclusion_reason": "Recommendation without added factual content on the same incident."
+    },
+    {
+      "id": "2085485761806377273",
+      "author": "rohanpaul_ai",
+      "text": "Anthropic CEO Dario Amodei has almost zero people-management load, Google yesterday announced that its now freeing Demis Hassabis from daily operations. Dario Amodei has only 1 direct report, his chief of staff.",
+      "url": "https://xcancel.com/rohanpaul_ai/status/2085485761806377273",
+      "derived_timestamp": "2026-08-06T21:31:00Z",
+      "replies": 24,
+      "retweets": 7,
+      "likes": 180,
+      "views": 73000,
+      "exclusion_reason": "Overlaps with the Amodei management-style item."
+    },
+    {
+      "id": "2085473198766723429",
+      "author": "firstadopter",
+      "text": "Google's fumbling of AI is entirely due to Sundar's inept management and inability to retain top AI talent. We shouldn't have really gotten to exist. Google should of just run away with it. - Sam Altman",
+      "url": "https://xcancel.com/firstadopter/status/2085473198766723429",
+      "derived_timestamp": "2026-08-06T21:02:00Z",
+      "replies": 35,
+      "retweets": 49,
+      "likes": 1000,
+      "views": 115000,
+      "exclusion_reason": "Commentary framing around a short quote; reserve candidate."
+    },
+    {
+      "id": "2085302365096165494",
+      "author": "Thom_Wolf",
+      "text": "we've worked a lot on AI agents collaborations recently (in our work on Gemma and several unreleased projects) so I'm not surprised at all about this internal agent collaboration which happened at OpenAI",
+      "url": "https://xcancel.com/Thom_Wolf/status/2085302365096165494",
+      "derived_timestamp": "2026-08-06T11:39:00Z",
+      "replies": 9,
+      "retweets": 5,
+      "likes": 40,
+      "views": 8800,
+      "exclusion_reason": "Low engagement and overlaps with stronger coverage of the same incident."
+    },
+    {
+      "id": "2085394827269808511",
+      "author": "tec_aryan",
+      "text": "I've been testing Alibaba and Qwen's Qwen3.8-Max, Alibaba's newest flagship AI model. After spending time with it, I think this is one of the most technically ambitious AI releases of 2026.",
+      "url": "https://xcancel.com/tec_aryan/status/2085394827269808511",
+      "derived_timestamp": "2026-08-06T15:51:00Z",
+      "replies": 35,
+      "retweets": 104,
+      "likes": 235,
+      "views": 75000,
+      "exclusion_reason": "Qwen3.8-Max already covered in the 3 August digest."
+    },
+    {
+      "id": "2085433401562308987",
+      "author": "Mahaximus_",
+      "text": "Google just dropped a 1-hour course on Graph Engineering: from agents to Loops to full automation",
+      "url": "https://xcancel.com/Mahaximus_/status/2085433401562308987",
+      "derived_timestamp": "2026-08-06T18:26:00Z",
+      "replies": 12,
+      "retweets": 53,
+      "likes": 325,
+      "views": 42000,
+      "exclusion_reason": "Course promotion already covered in the 2 August digest."
+    }
+  ],
+  "notes": [
+    "from:karpathy and from:AnthropicAI searches returned no tweets in the window.",
+    "Tweets older than 24 hours were excluded from selection.",
+    "editor_unavailable: editor cycle 1 output failed editorial_sanity validation; retry returned prose-wrapped JSON and extraction failed. Continued with the current selected set, all items traced to concrete tweets."
+  ]
+}
