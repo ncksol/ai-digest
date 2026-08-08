@@ -1,0 +1,230 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Strong set anchored by the OpenAI/Astra 'critical' cybersecurity classification and the autonomous Hugging Face exploit story, both carried by primary or first-hand sources with distinct angles. Two paired items (OpenAI+sama on Astra; deedydas+mattturck on the HF exploit) are same-event/distinct-angle and are kept. sama is overrepresented across selected items (Astra release policy + Oklo criticality). The Karpathy microGPT item is sourced only through a third-party hype account (0xMortyx) with no primary tweet located, a source-traceability weakness; it is kept but flagged, with a primary-source search suggested. Remainder are concrete, well-sourced releases and research results.",
+  "decisions": [
+    {
+      "id": "item_2085801349866729975",
+      "decision": "keep",
+      "reason": "Primary-source OpenAI post announcing first 'critical' cybersecurity classification under the Preparedness Framework; highest engagement of the day.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Astra event as the sama post but distinct angle (company classification vs CEO release policy). Both retained."
+      }
+    },
+    {
+      "id": "item_2085862292311396515",
+      "decision": "keep",
+      "reason": "CEO (Altman) statement on release strategy for the restricted Astra model; adds a distinct policy angle to the OpenAI classification post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Astra event as the OpenAI post; distinct release-policy angle. Kept alongside."
+      }
+    },
+    {
+      "id": "item_2085816921971150963",
+      "decision": "keep",
+      "reason": "Leadership/reorg news on Sergey Brin taking direct Gemini oversight; strong engagement and distinct company story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story with no overlap in the set."
+      }
+    },
+    {
+      "id": "item_2085703409160650985",
+      "decision": "keep",
+      "reason": "Concrete autonomous vulnerability discovery with an assigned CVE from the discovering account; distinct from the HF exploit thread.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate autonomous-security event (WordPress CVE) from the Hugging Face incident."
+      }
+    },
+    {
+      "id": "item_2085642431723446579",
+      "decision": "keep",
+      "reason": "Step-by-step technical breakdown of the OpenAI/Hugging Face exploit chain; adds explanatory depth.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HF exploit event as the mattturck item; distinct angle (technical explainer vs co-founder first-hand account). Both retained."
+      }
+    },
+    {
+      "id": "item_2085803900045590626",
+      "decision": "keep",
+      "reason": "Hugging Face co-founder/CSO first-hand account of the incident via podcast; primary-adjacent source despite low standalone engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HF exploit event as deedydas; distinct first-hand-account angle. Both retained."
+      }
+    },
+    {
+      "id": "item_2085632663902412985",
+      "decision": "keep",
+      "reason": "Concrete NVIDIA research result with quantified 2.7-25x speedup on KV-cache transfer; solid infrastructure story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research item."
+      }
+    },
+    {
+      "id": "item_2085737107486642385",
+      "decision": "keep",
+      "reason": "Concrete open-source milestone (100k stars) announced by the repository author; primary source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique personal milestone."
+      }
+    },
+    {
+      "id": "item_2085644428698325200",
+      "decision": "keep",
+      "reason": "Practical inventory of small on-device open models with parameter counts; useful reference item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique roundup item."
+      }
+    },
+    {
+      "id": "item_2085765236876046500",
+      "decision": "keep",
+      "reason": "AI-adjacent energy/compute milestone (Oklo criticality) from Altman; relevant to compute power supply. Retained but contributes to sama overrepresentation.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story from the Astra sama post but same author; flagged at set level for overrepresentation."
+      }
+    },
+    {
+      "id": "item_2085731209397637233",
+      "decision": "keep",
+      "reason": "Named practitioner (Boris Cherny) claim on the shift to graph/loop agent construction; concrete attributed viewpoint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique analysis item."
+      }
+    },
+    {
+      "id": "item_2085718142441980234",
+      "decision": "keep",
+      "reason": "Concrete open-source release (Karpathy microGPT) with specifics, but sourced only via a third-party hype account; kept with a source-traceability flag and a suggested primary-source search.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a duplicate. Concern is traceability: no primary Karpathy tweet located; report account (0xMortyx) is low-engagement and second-hand. See set-level source_traceability_failure flag."
+      }
+    },
+    {
+      "id": "item_2085821875322823075",
+      "decision": "keep",
+      "reason": "Open-source agent observability tool (Perplexity Numbat) release, topical given the week's agent-security incidents.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique release; third-party account but describes a concrete, verifiable release."
+      }
+    },
+    {
+      "id": "item_2085873718233100524",
+      "decision": "keep",
+      "reason": "Policy analysis on informal government leverage over AI labs; complements the day's safety/regulation thread.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique policy-analysis item."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2085801349866729975",
+        "item_2085862292311396515"
+      ],
+      "reason": "Both cover the OpenAI Astra 'critical' cybersecurity event; OpenAI post is the company classification, sama post is the CEO release-policy angle. Distinct angles, both retained."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2085642431723446579",
+        "item_2085803900045590626"
+      ],
+      "reason": "Both cover the OpenAI/Hugging Face autonomous-exploit incident; deedydas is a technical explainer, mattturck carries the co-founder first-hand account. Distinct angles, both retained."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2085862292311396515",
+        "item_2085765236876046500"
+      ],
+      "reason": "sama appears twice among selected items (Astra release policy and Oklo criticality). Acceptable given both are newsworthy and distinct, but flagged for author concentration."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2085718142441980234"
+      ],
+      "reason": "Karpathy microGPT release is carried only by a low-engagement third-party account (0xMortyx) with no primary Karpathy tweet located; the claim cannot be traced to the primary source within the packet."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "No primary-source tweet for the Karpathy microGPT release was found; a direct Karpathy post would resolve the source-traceability flag on item_2085718142441980234.",
+      "suggested_query_theme": "Andrej Karpathy microGPT open-source release announcement from his own account"
+    }
+  ]
+}
