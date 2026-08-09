@@ -1,0 +1,229 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 15 selected items are within the 9-15 target and cover distinct AI stories across news, analysis, and personal-story angles. No hard duplicates require replacement. Two authors (rohanpaul_ai, kimmonismus) each appear twice, but their paired items address distinct events, so this is flagged for awareness rather than corrected. The AISI-related items (JeffLadish selected correction vs YourAnonOne reserve original claim) share the same underlying topic but present distinct angles; the correction is retained. Source traceability is acceptable given each item links to a specific tweet, though several are second-hand paraphrases of quotes/reports.",
+  "decisions": [
+    {
+      "id": "item_2086302856064414012",
+      "decision": "keep",
+      "reason": "Direct Sam Altman quote framing current AI progress; distinct news angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Singularity framing quote; distinct from the agent-automation Altman item."
+      }
+    },
+    {
+      "id": "item_2086153216249520393",
+      "decision": "keep",
+      "reason": "Concrete Altman claim on agent-run company structure; distinct from singularity quote.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same speaker as another item but different substantive claim."
+      }
+    },
+    {
+      "id": "item_2086124664192168318",
+      "decision": "keep",
+      "reason": "Anthropic governance/IPO reporting; unique story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other items."
+      }
+    },
+    {
+      "id": "item_2086077586430427642",
+      "decision": "keep",
+      "reason": "New claim extending Google leadership story; high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from Sergey-Brin-command reserve item; different leadership sub-story."
+      }
+    },
+    {
+      "id": "item_2086196589261898141",
+      "decision": "keep",
+      "reason": "Public rivalry between OpenAI and Anthropic coding-agent teams.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique competitive-exchange story."
+      }
+    },
+    {
+      "id": "item_2086092396023120286",
+      "decision": "keep",
+      "reason": "Dated GPT-4 training milestone from OpenAI president; very high reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone milestone note."
+      }
+    },
+    {
+      "id": "item_2086193754449313961",
+      "decision": "keep",
+      "reason": "Market-structure analysis on Gemini pricing/open-source strategy.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Analysis angle on Google strategy; distinct from Gemini leak and leadership items."
+      }
+    },
+    {
+      "id": "item_2086210366804046106",
+      "decision": "keep",
+      "reason": "Concrete data-leak allegation against Gemini.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Gemini-related but a distinct privacy/leak incident, not the pricing or leadership story."
+      }
+    },
+    {
+      "id": "item_2086302768567091265",
+      "decision": "keep",
+      "reason": "Direct correction to AISI evaluation reporting; adds accountability angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same AISI topic as reserve item YourAnonOne, but this is a correction/rebuttal angle rather than the original claim."
+      }
+    },
+    {
+      "id": "item_2086172287863005358",
+      "decision": "keep",
+      "reason": "Technical clarification of an alignment-failure account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Agent-behavior clarification; distinct from AISI cybersecurity-testing item."
+      }
+    },
+    {
+      "id": "item_2086071178045821113",
+      "decision": "keep",
+      "reason": "Widely discussed practitioner workflow claim on AI-generated code.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Personal-story workflow stance; distinct from other code-quality items."
+      }
+    },
+    {
+      "id": "item_2086158165914308837",
+      "decision": "keep",
+      "reason": "Technical framing of LLM code-review limitations.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broad AI-coding theme as svpino/jherr but a distinct analytical point about auditing."
+      }
+    },
+    {
+      "id": "item_2086217567899877850",
+      "decision": "keep",
+      "reason": "Challenges widely repeated LLM token-spend claims.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Cost-claim skepticism; unique angle."
+      }
+    },
+    {
+      "id": "item_2086095963392020921",
+      "decision": "keep",
+      "reason": "Authorship/ownership question from a working developer.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Authorship framing; distinct from svpino's workflow stance despite shared AI-coding theme."
+      }
+    },
+    {
+      "id": "item_2086120414586003650",
+      "decision": "keep",
+      "reason": "High-reach argument about LLM-written prose supplanting human writing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Writing-quality argument; unrelated to code items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2086302856064414012",
+        "item_2086124664192168318"
+      ],
+      "reason": "rohanpaul_ai appears twice in the selected set; both items are distinct claims so retained, but flagged for author-balance awareness."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2086077586430427642",
+        "item_2086196589261898141"
+      ],
+      "reason": "kimmonismus appears twice in the selected set; both items are distinct events so retained, but flagged for author-balance awareness."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2086302768567091265"
+      ],
+      "reason": "JeffLadish item covers the same UK AISI evaluation story as reserve item YourAnonOne (item_2086093825106149645) but as a correction/rebuttal angle; both kept distinct, none replaced."
+    }
+  ],
+  "additional_search_requests": []
+}
