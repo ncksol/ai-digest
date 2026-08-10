@@ -1,0 +1,92 @@
+[
+  {
+    "author": "LeisenCrypto",
+    "id": "2086629029545742665",
+    "likes": 103,
+    "replies": 0,
+    "retweets": 0,
+    "text": "",
+    "url": "https://x.com/LeisenCrypto/status/2086629029545742665",
+    "views": 3200
+  },
+  {
+    "author": "graninas",
+    "id": "2086541092984701221",
+    "likes": 406,
+    "replies": 26,
+    "retweets": 17,
+    "text": "I've decompiled a Java app (a game) to explore its internals.\n\nThe code I got is fully obfuscated. Nothing is readable, everything is $$1, $$2 etc.\n\nBut I have an LLM. And, oh boy, it sees through the obfuscated code as no human can.\n\nFinally, a task perfectly suited for AI.",
+    "url": "https://x.com/graninas/status/2086541092984701221",
+    "views": 30000
+  },
+  {
+    "author": "Karl_Lauterbach",
+    "id": "2086564048078798866",
+    "likes": 180,
+    "replies": 15,
+    "retweets": 15,
+    "text": "Worth seeing, a good historical overview of the emergence of LLMs from the perspective of a pioneer, explaining key technical breakthroughs.",
+    "url": "https://x.com/Karl_Lauterbach/status/2086564048078798866",
+    "views": 42000
+  },
+  {
+    "author": "0xGeeGee",
+    "id": "2086700130737246565",
+    "likes": 7,
+    "replies": 5,
+    "retweets": 0,
+    "text": "Hallucinations on frontier models are a very minor issue nowadays, but stuff like this is the new \"hallucinations\" ceiling.\nIt's still far too easy to get an LLM to sway your way by just phrasing the prompt in a certain way, insisting, changing naming, saying your (wrong) take is",
+    "url": "https://x.com/0xGeeGee/status/2086700130737246565",
+    "views": 854
+  },
+  {
+    "author": "LundukeJournal",
+    "id": "2086577879580619082",
+    "likes": 86,
+    "replies": 15,
+    "retweets": 8,
+    "text": "I have deep respect for @DHH, and I see his point here.\n\nAI/LLM has, indeed, proven to be a fascinating kind of technology.  One with noteworthy potential applications.\n\nThat said, AI/LLM has also proven to be borderline catastrophic for Linux Kernel development — resulting in",
+    "url": "https://x.com/LundukeJournal/status/2086577879580619082",
+    "views": 4400
+  },
+  {
+    "author": "scaling01",
+    "id": "2086285359428534397",
+    "likes": 2700,
+    "replies": 76,
+    "retweets": 91,
+    "text": "i genuinely don't know who would ever hire me again after the LLM brainrot has gotten me\n\nlike i probably forgot how to write a for loop",
+    "url": "https://x.com/scaling01/status/2086285359428534397",
+    "views": 136000
+  },
+  {
+    "author": "patio11",
+    "id": "2086625517076140263",
+    "likes": 403,
+    "replies": 24,
+    "retweets": 2,
+    "text": "One of my accountants, in response to me hitting them with the usual packet of documents, sent back a very obviously LLM drafted list of 10 questions.\n\nFirst thought: What am I paying you for.\nSecond thought: Actually no, my LLM digests your LLM's output into the context window.",
+    "url": "https://x.com/patio11/status/2086625517076140263",
+    "views": 71000
+  },
+  {
+    "author": "yulmu_coffee",
+    "id": "2086325409067749756",
+    "likes": 33,
+    "replies": 3,
+    "retweets": 13,
+    "text": "\"12 Angry Researchers\"\n\nA list of 12 frontier AI researchers selected by Grok.\n\nI've ranked the list in order of highest value to follow.\n@grok, you agree?\n\nI've already followed all of them, so check them out and hit follow!\n\n1. @karpathy — Andrej Karpathy\nOne of the biggest",
+    "url": "https://x.com/yulmu_coffee/status/2086325409067749756",
+    "views": 5400
+  },
+  {
+    "author": "yacineMTB",
+    "id": "2086316361949553038",
+    "likes": 893,
+    "replies": 35,
+    "retweets": 13,
+    "text": "Every LLM is like this, including fable \n\nThis isn't because they don't know what your intent is",
+    "url": "https://x.com/yacineMTB/status/2086316361949553038",
+    "views": 144000
+  }
+]

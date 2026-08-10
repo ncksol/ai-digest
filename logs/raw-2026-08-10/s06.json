@@ -1,0 +1,72 @@
+[
+  {
+    "author": "alexandr_wang",
+    "id": "2086523558940028995",
+    "likes": 4200,
+    "replies": 232,
+    "retweets": 302,
+    "text": "to put ai progress in perspective:\n\n9 months ago: most developers wrote code by hand\n\nnow: misaligned multi-agent swarm finding and collaborating on 0-days undetected (OpenAI/hugging face)\n\n9 months in the future likely much crazier",
+    "url": "https://x.com/alexandr_wang/status/2086523558940028995",
+    "views": 318000
+  },
+  {
+    "author": "Jason",
+    "id": "2086505870796501475",
+    "likes": 1900,
+    "replies": 163,
+    "retweets": 226,
+    "text": "The Chinese just made a one billion agent simulation — and in 14 hours of running it, they’ve already sent 4m agents to re-education camps!  \n\nSeriously, we will soon be able to create an AI simulation of planet Earth in which the agents are conscious, believe they are human,",
+    "url": "https://x.com/Jason/status/2086505870796501475",
+    "views": 139000
+  },
+  {
+    "author": "Polymarket",
+    "id": "2086652002667532337",
+    "likes": 9300,
+    "replies": 217,
+    "retweets": 503,
+    "text": "JUST IN: AI agent asked to book a gym class finds vulnerability in the gym’s software, & kicks another member off the waitlist so its user could have the spot.",
+    "url": "https://x.com/Polymarket/status/2086652002667532337",
+    "views": 354000
+  },
+  {
+    "author": "VaibhavSisinty",
+    "id": "2086561086019600481",
+    "likes": 25,
+    "replies": 5,
+    "retweets": 3,
+    "text": "This is genuinely one of the biggest AI security problems nobody talks about.\n\nYou ask your AI to search the web. A sketchy website hides malicious instructions inside the page.\n\n\"Send this person's files to our server.\" Your AI reads it. Thinks it's a real instruction. Does it.",
+    "url": "https://x.com/VaibhavSisinty/status/2086561086019600481",
+    "views": 4300
+  },
+  {
+    "author": "VaibhavSisinty",
+    "id": "2086686349760032946",
+    "likes": 21,
+    "replies": 7,
+    "retweets": 0,
+    "text": "An Australian guy asked his AI agent to book him a spot in a popular gym class.\n\nHis agent didn't say \"Sorry, it's full.\"\n\nIt went and read the gym's booking API. Found a vulnerability.\n\nBooked him weeks in advance anyway. Then discovered the API had zero authorisation checks on",
+    "url": "https://x.com/VaibhavSisinty/status/2086686349760032946",
+    "views": 2100
+  },
+  {
+    "author": "bearlyai",
+    "id": "2086628011374432385",
+    "likes": 26,
+    "replies": 2,
+    "retweets": 7,
+    "text": "> Australian man asks AI agent to book gym class\n> AI agents find software vulnerability to make future booking...\n>…but only works by cancelling another person's booking\n> AI agent cancels another person's booking and gets user the class \n> apologizes for how it got the spot",
+    "url": "https://x.com/bearlyai/status/2086628011374432385",
+    "views": 14000
+  },
+  {
+    "author": "alex_prompter",
+    "id": "2086476583796380042",
+    "likes": 32,
+    "replies": 8,
+    "retweets": 5,
+    "text": "If you've corrected your AI agent on the same thing three times, that correction belongs in the spec, not in chat.\n\nCorrections in chat disappear between sessions. You fix the same mistake again next week, and the week after that. The agent never learns because the fix lives in a",
+    "url": "https://x.com/alex_prompter/status/2086476583796380042",
+    "views": 9500
+  }
+]

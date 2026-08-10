@@ -1,0 +1,5 @@
+?? logs/2026-08-10.editor-cycle-1.git-before.txt
+?? logs/2026-08-10.editor-cycle-1.input.json
+?? logs/2026-08-10.json
+?? logs/raw-2026-08-10/
+?? logs/run-searches.sh
