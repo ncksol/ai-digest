@@ -1,0 +1,274 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Reviewed 17 selected items. Two same-event/same-angle duplicates removed: alexandr_wang's Muse Glimmer/Spark post duplicates finkd's open-weights announcement, and sama's one-line cyber-defense echo duplicates OpenAI's GPT-5.6-Cyber announcement. Both replaced with eligible reserves. Watermarking and defensive-cyber items are retained as same-topic-distinct-angle. Remaining set is well within the 10-17 target.",
+  "decisions": [
+    {
+      "id": "item_2086867246073401655",
+      "decision": "keep",
+      "reason": "Concrete, high-signal sourced news: Claude research improved a lower bound related to the Riemann hypothesis. Unique story with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other item covers this AI-math result."
+      }
+    },
+    {
+      "id": "item_2086922991921664307",
+      "decision": "keep",
+      "reason": "Breaks the invisible text-watermarking story with the highest engagement in that cluster; anchor item for the topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same watermarking event as AndrewCurran (2087040578630606884) and paulg (2086924675163345285), but this is the anchor announcement; the others add distinct sourcing and a commentary angle."
+      }
+    },
+    {
+      "id": "item_2086755195535413696",
+      "decision": "keep",
+      "reason": "Meta opening Muse Glimmer 30B weights; highest-engagement anchor for the open-weights release story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same event and angle as alexandr_wang (2086756152034066792); this item is the stronger anchor by engagement and authority."
+      }
+    },
+    {
+      "id": "item_2086756152034066792",
+      "decision": "reject",
+      "reason": "Redundant with finkd's Muse Glimmer/Spark open-weights announcement: same event, same angle, materially lower engagement.",
+      "superseded_by": "item_2086755195535413696",
+      "replacement_candidate_id": "item_2086811214542414100",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Duplicate of finkd (2086755195535413696) announcing the identical Muse Glimmer/Muse Spark 1.2 open-weights release."
+      }
+    },
+    {
+      "id": "item_2086864365379010729",
+      "decision": "keep",
+      "reason": "OpenAI GPT-5.6-Cyber / Daybreak cybersecurity announcement; concrete product news and anchor of the defensive-cyber cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Related to sama (2086881528282587524) and bitcoinpolicy (2086872430639771675) on defensive cyber, but this is the distinct primary product announcement."
+      }
+    },
+    {
+      "id": "item_2086881528282587524",
+      "decision": "reject",
+      "reason": "One-line echo of OpenAI's own GPT-5.6-Cyber cyber-defense announcement; same event, negligible standalone information.",
+      "superseded_by": "item_2086864365379010729",
+      "replacement_candidate_id": "item_2086837223148962283",
+      "duplicate_assessment": {
+        "is_duplicate": true,
+        "same_event": true,
+        "same_angle": true,
+        "notes": "Same event/angle as OpenAI's Daybreak/GPT-5.6-Cyber post (2086864365379010729); adds no new substance."
+      }
+    },
+    {
+      "id": "item_2086849354942595427",
+      "decision": "keep",
+      "reason": "Distinct regulation/policy story: Bernie Sanders letter urging labs to pause AI development. Separate topic from the cyber and watermarking clusters.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique policy/regulation angle not covered elsewhere."
+      }
+    },
+    {
+      "id": "item_2086861887611019623",
+      "decision": "keep",
+      "reason": "Concrete product launch (Lindy Teammate 'AI employee'); distinct agentic-product news with high reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone product announcement."
+      }
+    },
+    {
+      "id": "item_2086831158361264157",
+      "decision": "keep",
+      "reason": "Open-source TwiL-LM3 formal-reasoning model claim with benchmark specifics; distinct release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate open-source model from the Muse release."
+      }
+    },
+    {
+      "id": "item_2086865960669983035",
+      "decision": "keep",
+      "reason": "Needle 2 14MB on-device agentic LLM release; distinct concrete technical launch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique tiny-on-device model story."
+      }
+    },
+    {
+      "id": "item_2086806377247207675",
+      "decision": "keep",
+      "reason": "Primus autonomous ML-researcher tool launch; distinct product/research announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone launch not duplicated elsewhere."
+      }
+    },
+    {
+      "id": "item_2086814253101744557",
+      "decision": "keep",
+      "reason": "Corma $60M seed for defensive-cyber foundation models; distinct company/funding news despite thematic overlap with the cyber cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different actor and funding event; not a duplicate of OpenAI's announcement."
+      }
+    },
+    {
+      "id": "item_2086872430639771675",
+      "decision": "keep",
+      "reason": "Bitcoin Policy Institute coalition open letter asking labs to give defenders access to frontier models; distinct actor and policy angle within the cyber theme.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related theme to OpenAI cyber post but a distinct coalition-letter angle."
+      }
+    },
+    {
+      "id": "item_2086924675163345285",
+      "decision": "keep",
+      "reason": "paulg commentary offering a distinct startup/reaction angle on the watermarking story from a notable practitioner.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same watermarking topic as ns123abc/AndrewCurran but a distinct commentary angle."
+      }
+    },
+    {
+      "id": "item_2087040578630606884",
+      "decision": "keep",
+      "reason": "AndrewCurran adds distinct sourcing to the watermarking story: EU Code of Practice details and which labs signed. Complements rather than duplicates the anchor.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same watermarking event as ns123abc (2086922991921664307) but distinct explanatory/sourcing angle."
+      }
+    },
+    {
+      "id": "item_2086848998204473743",
+      "decision": "keep",
+      "reason": "karpathy notable-practitioner observation; distinct standalone commentary.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique observation, no overlap."
+      }
+    },
+    {
+      "id": "item_2086872958765768738",
+      "decision": "keep",
+      "reason": "Dario Amodei labor-disruption claim; distinct high-reach commentary/forecast item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone forecast, not duplicated."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2086755195535413696",
+        "item_2086756152034066792"
+      ],
+      "reason": "finkd and alexandr_wang announce the same Muse Glimmer/Muse Spark open-weights release; alexandr_wang rejected as redundant to the higher-engagement finkd anchor."
+    },
+    {
+      "type": "redundant_story",
+      "item_ids": [
+        "item_2086864365379010729",
+        "item_2086881528282587524"
+      ],
+      "reason": "sama's post is a same-event one-line echo of OpenAI's GPT-5.6-Cyber announcement; rejected as redundant."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2086922991921664307",
+        "item_2087040578630606884",
+        "item_2086924675163345285"
+      ],
+      "reason": "Three watermarking items retained as distinct angles: anchor announcement, EU Code of Practice sourcing, and startup commentary."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2086864365379010729",
+        "item_2086814253101744557",
+        "item_2086872430639771675"
+      ],
+      "reason": "Defensive-cyber theme covered from distinct actors and angles: OpenAI product launch, Corma funding, and coalition open letter."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2086849354942595427",
+        "item_2087040578630606884"
+      ],
+      "reason": "AndrewCurran_ appears twice but on two distinct stories (Bernie Sanders pause letter and watermarking sourcing); both retained."
+    }
+  ],
+  "additional_search_requests": []
+}
