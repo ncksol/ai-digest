@@ -1,0 +1,214 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 15 selected items against 5 eligible reserves. The set is topically diverse and well-sourced. The only overlap is the OpenAI COO departure, covered by two complementary angles (Lightcap's own announcement and Altman's reply); the Altman reply carries a successful thread context summary, so it is retained as a distinct angle. No redundancies, fingerprint collisions, or traceability failures within the selected set warrant replacement.",
+  "decisions": [
+    {
+      "id": "item_2087211567012032862",
+      "decision": "keep",
+      "reason": "Highest-reach company news of the window: OpenAI COO Brad Lightcap announces departure after eight years. Self-contained and clearly sourced.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the Lightcap-departure event with the sama item, but this is the primary announcement; the sama item is a distinct reply angle."
+      }
+    },
+    {
+      "id": "item_2087243765765509185",
+      "decision": "keep",
+      "reason": "Special-account reply with a successful autocli thread context summary establishing it as Altman's response to Lightcap's departure announcement. Judged on the combined conversation, it adds the CEO-response angle, so it is retained rather than marked needs_more_search.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as the Lightcap announcement but a distinct angle (Altman thanking Lightcap and noting future collaboration). Context summary present and successful."
+      }
+    },
+    {
+      "id": "item_2087231350134980830",
+      "decision": "keep",
+      "reason": "Special-account self-contained product release: ChatGPT desktop app preview for Linux. High reach and clearly sourced from the official OpenAI account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2087222656819241292",
+      "decision": "keep",
+      "reason": "Concrete adoption milestone from Google's CEO: Gemini app passes 1B monthly users. Distinct company-news angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2087147042888114428",
+      "decision": "keep",
+      "reason": "Highest-engagement research claim of the window: cross-provider API vulnerability enabling extraction of hidden reasoning traces, with a stated verification method.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the watermarking and interpretability items."
+      }
+    },
+    {
+      "id": "item_2087078010524406137",
+      "decision": "keep",
+      "reason": "Technical watermarking explainer from a detection-company CTO; the strongest new analytical angle on the text-watermarking story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related to the watermarking topic covered by the aakashgupta reserve, but this is an analysis angle and no other selected item covers watermarking, so no in-set duplication."
+      }
+    },
+    {
+      "id": "item_2087177146662072546",
+      "decision": "keep",
+      "reason": "Concrete open-source tooling release (Unsloth Desktop) for local model training and inference across platforms.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2087284684103537011",
+      "decision": "keep",
+      "reason": "Practitioner observation from Claude Code's creator on how model-produced defects have shifted from off-by-ones to system-design issues.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner angle; does not overlap the martinfowler or GergelyOrosz items."
+      }
+    },
+    {
+      "id": "item_2087219043405033793",
+      "decision": "keep",
+      "reason": "Substantive debate on recursive self-improvement timelines with a named guest; distinct analysis angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2087219995466224120",
+      "decision": "keep",
+      "reason": "Widely circulated Altman remark on always-on personal context within six months; distinct forward-looking news angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Concerns a product-vision statement, unrelated to the Lightcap-departure Altman reply."
+      }
+    },
+    {
+      "id": "item_2087318391992537214",
+      "decision": "keep",
+      "reason": "Distinct policy development: congressional oversight letter to Altman on the Hugging Face incident. Adds regulatory coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2087172419358212131",
+      "decision": "keep",
+      "reason": "Concrete architectural change in open speech pipelines (direct audio to multimodal LLM, no STT). Distinct technical item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2087173563144912985",
+      "decision": "keep",
+      "reason": "Empirical work on whether TDD helps coding agents; distinct analysis angle from the bcherny practitioner note.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Coding-agents theme overlaps loosely with bcherny/GergelyOrosz but with a distinct empirical-experiment angle; not a duplicate."
+      }
+    },
+    {
+      "id": "item_2087234787379761474",
+      "decision": "keep",
+      "reason": "Model release with a specific cost-efficiency claim against a frontier model; distinct product item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2087121081098224122",
+      "decision": "keep",
+      "reason": "Industry-pattern observation on internal agent-platform build-out; distinct practitioner angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Themes of agent tooling overlap loosely with bcherny/martinfowler but this is a market-pattern observation, not a duplicate."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2087211567012032862",
+        "item_2087243765765509185"
+      ],
+      "reason": "Both items concern Brad Lightcap's departure from OpenAI. item_2087211567012032862 is Lightcap's own announcement; item_2087243765765509185 is Altman's reply thanking him. Retained as complementary angles on one event, not as redundant coverage."
+    }
+  ],
+  "additional_search_requests": []
+}
