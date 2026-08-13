@@ -1,0 +1,248 @@
+{
+ "schema_version": "twitter_ai_digest_editor_output.v1",
+ "cycle_number": 1,
+ "overall_verdict": "pass",
+ "summary": "16 selected items form a coherent AI digest anchored by the Grok 4.6 release cluster (announcement, independent benchmark, NVIDIA infrastructure, and an RSI-focused practitioner read), plus an Anthropic trust/model-card thread, the Codex migration prompt, GPT-5.6 math result, Claude Constitution critique, the false-death incident, and several research and analysis pieces. No redundant duplicates within the selected set; related items carry distinct angles. No replacements required.",
+ "decisions": [
+  {
+   "id": "item_2087562800982077492",
+   "decision": "keep",
+   "reason": "Primary-source xAI announcement of Grok 4.6 as a same-price successor to Grok 4.5; the day's biggest release at 28k likes, 5.5k RTs and 20M views.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": true,
+    "same_angle": false,
+    "notes": "Anchor of the Grok 4.6 cluster; announcement angle distinct from benchmark/infra/analysis items."
+   }
+  },
+  {
+   "id": "item_2087564648325530099",
+   "decision": "keep",
+   "reason": "Independent Artificial Analysis benchmark scoring Grok 4.6 at 61 on the Intelligence Index (up 5 points over 4.5), a third-party verification angle at 8.3M views.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": true,
+    "same_angle": false,
+    "notes": "Same Grok 4.6 story but third-party benchmark angle, not the vendor announcement."
+   }
+  },
+  {
+   "id": "item_2087576824159297605",
+   "decision": "keep",
+   "reason": "NVIDIA primary-source confirmation that Grok 4.6 trained/ran on GB300 NVL72 with NVLink; unique hardware-supply-chain angle at 7.3k likes.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": true,
+    "same_angle": false,
+    "notes": "Infrastructure angle on the Grok 4.6 release; distinct from announcement and benchmark."
+   }
+  },
+  {
+   "id": "item_2087653574188941785",
+   "decision": "keep",
+   "reason": "Practitioner reads recursive-self-improvement benchmarking in the Grok 4.6 model card; interpretive depth on the release despite low engagement (41 likes).",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": true,
+    "same_angle": false,
+    "notes": "Model-card RSI analysis angle within the Grok 4.6 cluster; distinct substance from the other three."
+   }
+  },
+  {
+   "id": "item_2087635262390026525",
+   "decision": "keep",
+   "reason": "Primary-source Anthropic product update on Claude in Chrome sessions syncing across desktop/web/mobile, rolling to Max/Team then Pro; concrete shipping feature at 8.5k likes.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Standalone Anthropic product news."
+   }
+  },
+  {
+   "id": "item_2087461999768916376",
+   "decision": "keep",
+   "reason": "Widely shared allegation (675 RTs, 2.4k likes, 183k views) that Anthropic silently downgraded paying users and retained prompts 30 days; notable trust controversy.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Accusation side of the Anthropic silent-downgrade discourse; paired with eliebakouch's rebuttal as distinct angle."
+   }
+  },
+  {
+   "id": "item_2087653125305807024",
+   "decision": "keep",
+   "reason": "Researcher quotes the model-card pledge to 'never silently downgrade intelligence,' a direct primary-source counterpoint to the downgrade allegation.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Rebuttal/context angle to the silent-downgrade claim; complementary rather than duplicative."
+   }
+  },
+  {
+   "id": "item_2087438544323420273",
+   "decision": "keep",
+   "reason": "OpenAI engineering leader (thsottiaux) soliciting Codex migration feedback; 9.1k replies and 8.6k likes signal strong developer-tooling interest.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Distinct OpenAI/Codex tooling topic."
+   }
+  },
+  {
+   "id": "item_2087474852814880960",
+   "decision": "keep",
+   "reason": "Strogatz reports a neurosurgery resident using GPT-5.6 to make progress on the Crouzeix conjecture, a concrete AI-for-math result (449 RTs, 297k views) with a linked essay.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Unique AI-for-math story."
+   }
+  },
+  {
+   "id": "item_2087586004572221767",
+   "decision": "keep",
+   "reason": "Dwarkesh Patel's substantive critique of the Claude Constitution priority ordering (AI's highest duty to Anthropic's definition of human good); distinctive alignment analysis at 214k views.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Distinct AI-governance/alignment analysis."
+   }
+  },
+  {
+   "id": "item_2087616545346216079",
+   "decision": "keep",
+   "reason": "Most complete account of the false Sam Altman death-date incident, including Google's statement that it ingested a vandalised Wikipedia edit; best-sourced version of the event.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": true,
+    "same_angle": false,
+    "notes": "Best-sourced version of the Altman false-death event; reserves thedailyblock and Chesschick01 cover it more thinly."
+   }
+  },
+  {
+   "id": "item_2087638825589961152",
+   "decision": "keep",
+   "reason": "a16z clip of Garry Tan arguing a single markdown file can act like an employee via large-context agents (Hermes/OpenClaw, 800k-1M tokens); concrete framing on agent tooling.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Standalone agent-tooling commentary."
+   }
+  },
+  {
+   "id": "item_2087574374706761892",
+   "decision": "keep",
+   "reason": "Vercel CEO rauchg on balancing autonomy and quality for self-maintaining software in the widely-used AI SDK; concrete engineering perspective on a major OSS library.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Distinct self-maintaining-software engineering topic."
+   }
+  },
+  {
+   "id": "item_2087528000489247167",
+   "decision": "keep",
+   "reason": "David Liu announces OptiPrime, a mechanism-based ML model for predicting prime-editing efficiencies, peer-reviewed in Nature Biotechnology; strong applied-AI research with primary-source authorship.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Unique ML-for-biology research."
+   }
+  },
+  {
+   "id": "item_2087574841893474556",
+   "decision": "keep",
+   "reason": "Summary of new Anthropic research evolving 'mind viruses' that spread through multi-agent systems and measuring what governs propagation; distinctive multi-agent study.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Distinct multi-agent research topic."
+   }
+  },
+  {
+   "id": "item_2087646143908135008",
+   "decision": "keep",
+   "reason": "Arena launches AutoEval, a reward model trained on tens of millions of historical Arena battles to estimate human preferences as a live benchmark; concrete evaluation-tooling release.",
+   "superseded_by": null,
+   "replacement_candidate_id": null,
+   "duplicate_assessment": {
+    "is_duplicate": false,
+    "same_event": false,
+    "same_angle": false,
+    "notes": "Distinct evaluation/benchmark launch; different subject from the Grok benchmark item."
+   }
+  }
+ ],
+ "set_level_flags": [
+  {
+   "type": "same_topic_distinct_angle",
+   "item_ids": [
+    "item_2087562800982077492",
+    "item_2087564648325530099",
+    "item_2087576824159297605",
+    "item_2087653574188941785"
+   ],
+   "reason": "Four-item Grok 4.6 cluster covering vendor announcement, independent Artificial Analysis benchmark, NVIDIA infrastructure, and model-card RSI analysis. Same release event, complementary distinct angles; acceptable but topically concentrated."
+  },
+  {
+   "type": "same_topic_distinct_angle",
+   "item_ids": [
+    "item_2087461999768916376",
+    "item_2087653125305807024"
+   ],
+   "reason": "Anthropic silent-downgrade discourse: JafarNajafov's allegation versus eliebakouch's model-card commitment against downgrades. Opposing angles on the same topic, not a redundant duplicate."
+  },
+  {
+   "type": "overrepresented_author",
+   "item_ids": [
+    "item_2087635262390026525",
+    "item_2087461999768916376",
+    "item_2087653125305807024",
+    "item_2087586004572221767",
+    "item_2087574841893474556"
+   ],
+   "reason": "Anthropic/Claude appears five times across product, controversy, alignment critique, and research; topically distinct but concentrated enough to monitor for balance."
+  }
+ ],
+ "additional_search_requests": []
+}
