@@ -1,0 +1,389 @@
+{
+  "date": "2026-08-14",
+  "searches": [
+    {
+      "query": "AI since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "LLM since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "machine learning since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "open source AI model since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "AI agent since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "Sam Altman since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "Dario Amodei since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "Demis Hassabis since:2026-08-13",
+      "limit": 20,
+      "status": "ok"
+    },
+    {
+      "query": "from:karpathy since:2026-08-13",
+      "limit": 5,
+      "status": "empty_no_tweets_found"
+    },
+    {
+      "query": "from:sama since:2026-08-13",
+      "limit": 5,
+      "status": "ok"
+    },
+    {
+      "query": "from:OpenAI since:2026-08-13",
+      "limit": 5,
+      "status": "ok"
+    },
+    {
+      "query": "from:AnthropicAI since:2026-08-13",
+      "limit": 5,
+      "status": "empty_no_tweets_found"
+    }
+  ],
+  "cutoff_snowflake": 2087797801743286272,
+  "selected_items": [
+    {
+      "id": "2087947721936359705",
+      "author": "OpenAI",
+      "text": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.",
+      "url": "https://xcancel.com/OpenAI/status/2087947721936359705",
+      "derived_timestamp": "2026-08-13T17:00:00Z",
+      "replies": 615,
+      "retweets": 1400,
+      "likes": 12000,
+      "views": 2200000,
+      "category": "news",
+      "selection_reason": "Self-contained product announcement from a special account. Highest-engagement model release of the window.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_tweet_ids": [],
+      "context_summary": null,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087996496088297746",
+      "author": "OpenAI",
+      "text": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.",
+      "url": "https://xcancel.com/OpenAI/status/2087996496088297746",
+      "derived_timestamp": "2026-08-13T20:15:32Z",
+      "replies": 471,
+      "retweets": 1100,
+      "likes": 8800,
+      "views": 1400000,
+      "category": "news",
+      "selection_reason": "Distinct product feature launch, separate story from Ultrafast.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_tweet_ids": [],
+      "context_summary": null,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2088101491802243121",
+      "author": "sama",
+      "text": "/ultrafast",
+      "url": "https://xcancel.com/sama/status/2088101491802243121",
+      "derived_timestamp": "2026-08-14T03:12:45Z",
+      "replies": 211,
+      "retweets": 84,
+      "likes": 1700,
+      "views": 220000,
+      "category": "news",
+      "selection_reason": "Only eligible sama post in the window; special-account inclusion rule applies. Thread retrieval confirms it is a two-word slash-command post referencing OpenAI's Ultrafast mode preview of GPT-5.6 Sol at up to 14x speed, announced hours earlier; replies discuss API speed and usage limits.",
+      "is_self_contained": false,
+      "is_reply": false,
+      "context_tweet_ids": [
+        "2087947721936359705"
+      ],
+      "context_summary": "Refers to the Ultrafast mode preview announced by OpenAI, a Cerebras-backed serving path for GPT-5.6 Sol reaching up to 750 tokens per second.",
+      "context_retrieval_status": "ok"
+    },
+    {
+      "id": "2087864585504305397",
+      "author": "deepseek_ai",
+      "text": "We're launching DeepSeek-V4-Pro today! Major Agent upgrades with strong production gains! Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. Native OpenAI Responses API support.",
+      "url": "https://xcancel.com/deepseek_ai/status/2087864585504305397",
+      "derived_timestamp": "2026-08-13T11:31:22Z",
+      "replies": 521,
+      "retweets": 2000,
+      "likes": 13000,
+      "views": 1400000,
+      "category": "news",
+      "selection_reason": "Major model release with concrete capability details.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2088147355891827189",
+      "author": "RoundtableSpace",
+      "text": "DEEPSEEK JUST OPEN-SOURCED ITS FULLY MODULAR AI AGENT HARNESS.",
+      "url": "https://xcancel.com/RoundtableSpace/status/2088147355891827189",
+      "derived_timestamp": "2026-08-14T06:07:00Z",
+      "replies": 7,
+      "retweets": 2,
+      "likes": 22,
+      "views": 25000,
+      "category": "news",
+      "selection_reason": "Concrete open-source release accompanying the V4-Pro launch.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087950102455271765",
+      "author": "demishassabis",
+      "text": "Gemini 3.7 Flash brings major upgrades for software engineering, web dev & knowledge work. And introductory price is half the original 3.6 Flash cost.",
+      "url": "https://xcancel.com/demishassabis/status/2087950102455271765",
+      "derived_timestamp": "2026-08-13T17:11:11Z",
+      "replies": 118,
+      "retweets": 157,
+      "likes": 2600,
+      "views": 221000,
+      "category": "news",
+      "selection_reason": "Google model release with pricing detail.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087831715645366741",
+      "author": "kimmonismus",
+      "text": "Before stepping down as DeepMind CEO, Demis Hassabis reportedly pitched an independent body to set safety standards for advanced AI. The WSJ says he discussed the plan with other AI-lab leaders and Trump officials, including Treasury Secretary Scott Bessent.",
+      "url": "https://xcancel.com/kimmonismus/status/2087831715645366741",
+      "derived_timestamp": "2026-08-13T10:00:00Z",
+      "replies": 25,
+      "retweets": 15,
+      "likes": 245,
+      "views": 22000,
+      "category": "news",
+      "selection_reason": "Policy/company move sourced to WSJ reporting.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087926502096502790",
+      "author": "moo9000",
+      "text": "Mistral, the only company in the EU who managed to build a general purpose LLMs, gives up and announces they will host Chinese LLM models instead. Earlier Mistral announced they will focus on a smaller model, Shieldtral, geared towards online censorship.",
+      "url": "https://xcancel.com/moo9000/status/2087926502096502790",
+      "derived_timestamp": "2026-08-13T15:35:00Z",
+      "replies": 59,
+      "retweets": 153,
+      "likes": 914,
+      "views": 81000,
+      "category": "news",
+      "selection_reason": "European frontier-lab strategy shift.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2088014489438621990",
+      "author": "bcherny",
+      "text": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. The setup is straightforward: we have a Slack channel called proj-claude-maintains-apps.",
+      "url": "https://xcancel.com/bcherny/status/2088014489438621990",
+      "derived_timestamp": "2026-08-13T21:26:00Z",
+      "replies": 258,
+      "retweets": 201,
+      "likes": 2900,
+      "views": 244000,
+      "category": "practitioner",
+      "selection_reason": "Concrete practitioner report from the Claude Code creator.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087969513048305668",
+      "author": "random_walker",
+      "text": "Prediction: we will soon enter an era where the latency of agentic work is bottlenecked not by LLM inference speed but by tool use. Shell commands, build pipelines, computer use, web data extraction.",
+      "url": "https://xcancel.com/random_walker/status/2087969513048305668",
+      "derived_timestamp": "2026-08-13T18:30:00Z",
+      "replies": 42,
+      "retweets": 54,
+      "likes": 575,
+      "views": 67000,
+      "category": "analysis",
+      "selection_reason": "Technical analysis of agent performance limits.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087846687494623233",
+      "author": "hakimieiqbal",
+      "text": "Claude Opus 5 spent 24 hours trying to build GTA 6 on its own. After the initial prompt, the agent was left to make the decisions itself, including the city, districts, roads, buildings, cars, NPCs, and weather.",
+      "url": "https://xcancel.com/hakimieiqbal/status/2087846687494623233",
+      "derived_timestamp": "2026-08-13T10:50:00Z",
+      "replies": 57,
+      "retweets": 35,
+      "likes": 685,
+      "views": 177000,
+      "category": "practitioner",
+      "selection_reason": "Long-horizon autonomous agent experiment.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2088069718519251424",
+      "author": "keachhagey",
+      "text": "The internet has been so scrubbed of references to Dario Amodei's wife, Cami Clark, that if you Google her, you get a picture of his sister instead. But she has been an influential force in his career, introducing him to Eric Schmidt.",
+      "url": "https://xcancel.com/keachhagey/status/2088069718519251424",
+      "derived_timestamp": "2026-08-14T01:00:00Z",
+      "replies": 112,
+      "retweets": 419,
+      "likes": 2500,
+      "views": 373000,
+      "category": "news",
+      "selection_reason": "WSJ reporting on Anthropic leadership.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2088041287387603317",
+      "author": "alexocheema",
+      "text": "20,000 Hugging Face accounts connected to local.ai in the last 24 hours. The open-source AI community is showing up.",
+      "url": "https://xcancel.com/alexocheema/status/2088041287387603317",
+      "derived_timestamp": "2026-08-13T23:10:00Z",
+      "replies": 15,
+      "retweets": 12,
+      "likes": 118,
+      "views": 11000,
+      "category": "news",
+      "selection_reason": "Concrete adoption metric for local inference.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087990560363806782",
+      "author": "rohanpaul_ai",
+      "text": "Fortune published a piece on the unusual management system OpenAI has built to preserve startup-like speed. OpenAI uses a friction@ inbox as an internal escalation path that can override planned work.",
+      "url": "https://xcancel.com/rohanpaul_ai/status/2087990560363806782",
+      "derived_timestamp": "2026-08-13T20:00:00Z",
+      "replies": 5,
+      "retweets": 5,
+      "likes": 55,
+      "views": 7600,
+      "category": "analysis",
+      "selection_reason": "Company operations detail sourced to Fortune.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2087948255263068229",
+      "author": "alxshp",
+      "text": "Just launched today https://pgbot.dev - Postgres intelligence for agents & apps. Free. Open source. Written in Go.",
+      "url": "https://xcancel.com/alxshp/status/2087948255263068229",
+      "derived_timestamp": "2026-08-13T17:05:00Z",
+      "replies": 15,
+      "retweets": 47,
+      "likes": 487,
+      "views": 44000,
+      "category": "news",
+      "selection_reason": "Concrete open-source tooling release for agents.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_retrieval_status": "not_needed"
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2087947724725665908",
+      "author": "OpenAI",
+      "text": "Powered by Cerebras, Ultrafast generates up to 750 tokens per second, bringing our most intelligent model to products and workflows where every second counts.",
+      "url": "https://xcancel.com/OpenAI/status/2087947724725665908",
+      "derived_timestamp": "2026-08-13T17:00:00Z",
+      "replies": 18,
+      "retweets": 103,
+      "likes": 1600,
+      "views": 176000,
+      "category": "news",
+      "exclusion_reason": "Same story as the Ultrafast headline post; author cap."
+    },
+    {
+      "id": "2087912623883051300",
+      "author": "OpenAI",
+      "text": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms.",
+      "url": "https://xcancel.com/OpenAI/status/2087912623883051300",
+      "derived_timestamp": "2026-08-13T14:50:00Z",
+      "replies": 148,
+      "retweets": 218,
+      "likes": 3200,
+      "views": 336000,
+      "category": "analysis",
+      "exclusion_reason": "Author cap of two items already met by stronger releases."
+    },
+    {
+      "id": "2087917340952551731",
+      "author": "daleverett",
+      "text": "Today we're launching polygres. Why are we trying to fit an entire company inside a context window?",
+      "url": "https://xcancel.com/daleverett/status/2087917340952551731",
+      "derived_timestamp": "2026-08-13T15:10:00Z",
+      "replies": 14,
+      "retweets": 23,
+      "likes": 107,
+      "views": 11000,
+      "category": "news",
+      "exclusion_reason": "Reserve candidate; overlapping tooling-launch category."
+    },
+    {
+      "id": "2087894392514437205",
+      "author": "dee_hw",
+      "text": "Lamp is now talking to his new friend, Reachy! They both run on Autonomous OS, our open source Android for robots.",
+      "url": "https://xcancel.com/dee_hw/status/2087894392514437205",
+      "derived_timestamp": "2026-08-13T13:50:00Z",
+      "replies": 26,
+      "retweets": 69,
+      "likes": 487,
+      "views": 29000,
+      "category": "news",
+      "exclusion_reason": "Reserve candidate; robotics demo rather than concrete AI/ML news."
+    },
+    {
+      "id": "2088003910833172482",
+      "author": "RoundtableSpace",
+      "text": "LlamaCoder generates small applications you can preview directly in your browser. MIT licensed with 7K GitHub stars.",
+      "url": "https://xcancel.com/RoundtableSpace/status/2088003910833172482",
+      "derived_timestamp": "2026-08-13T20:45:00Z",
+      "replies": 4,
+      "retweets": 4,
+      "likes": 57,
+      "views": 35000,
+      "category": "news",
+      "exclusion_reason": "Reserve candidate; author cap and weaker novelty."
+    }
+  ],
+  "editor_status": "editor_output_sanity_failed_reason_wording; verdict=pass, all 15 items kept; selected set unchanged; continuing with valid source data"
+}

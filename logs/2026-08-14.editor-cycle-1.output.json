@@ -1,0 +1,214 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 15 selected items are distinct, well-sourced AI stories within the window. The OpenAI Ultrafast announcement and sama's /ultrafast post cover the same event from distinct angles (official product post vs. founder echo) and are both retained. No redundant duplicates, no traceability failures. The sama reply carries a successful context summary confirming what the thread references, so it stands as valid material.",
+  "decisions": [
+    {
+      "id": "item_2087947721936359705",
+      "decision": "keep",
+      "reason": "Self-contained, highest-engagement model-release announcement from a special account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same Ultrafast event as sama post but distinct angle (official OpenAI announcement)."
+      }
+    },
+    {
+      "id": "item_2087996496088297746",
+      "decision": "keep",
+      "reason": "Distinct ChatGPT Computer History feature launch, separate story from Ultrafast.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Independent product feature."
+      }
+    },
+    {
+      "id": "item_2088101491802243121",
+      "decision": "keep",
+      "reason": "Only eligible sama post in window; special-account rule applies. Selection_reason includes a successful thread-context summary confirming it references OpenAI's Ultrafast GPT-5.6 Sol preview, so the combined conversation is understood.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Ultrafast event as OpenAI announcement but distinct founder-echo angle; context summary present, so kept rather than needs_more_search."
+      }
+    },
+    {
+      "id": "item_2087864585504305397",
+      "decision": "keep",
+      "reason": "Major DeepSeek-V4-Pro model release with concrete capability details.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct release story."
+      }
+    },
+    {
+      "id": "item_2088147355891827189",
+      "decision": "keep",
+      "reason": "Concrete open-source agent-harness release; related to but distinct from the V4-Pro model launch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "DeepSeek open-source harness; separate artifact from V4-Pro model announcement."
+      }
+    },
+    {
+      "id": "item_2087950102455271765",
+      "decision": "keep",
+      "reason": "Google Gemini 3.7 Flash release with pricing detail.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct vendor release."
+      }
+    },
+    {
+      "id": "item_2087831715645366741",
+      "decision": "keep",
+      "reason": "WSJ-sourced policy/company move on Hassabis pitching an AI safety standards body.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Policy story, unrelated to Gemini release despite shared subject."
+      }
+    },
+    {
+      "id": "item_2087926502096502790",
+      "decision": "keep",
+      "reason": "European frontier-lab strategy shift on Mistral.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct story."
+      }
+    },
+    {
+      "id": "item_2088014489438621990",
+      "decision": "keep",
+      "reason": "Concrete practitioner report from the Claude Code creator on autonomous app maintenance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner story."
+      }
+    },
+    {
+      "id": "item_2087969513048305668",
+      "decision": "keep",
+      "reason": "Technical analysis of agentic latency bottlenecks.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct analysis."
+      }
+    },
+    {
+      "id": "item_2087846687494623233",
+      "decision": "keep",
+      "reason": "Long-horizon autonomous agent experiment (Claude Opus 5 building GTA 6).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct experiment; different subject from bcherny report."
+      }
+    },
+    {
+      "id": "item_2088069718519251424",
+      "decision": "keep",
+      "reason": "WSJ reporting on Anthropic leadership context.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct profile story."
+      }
+    },
+    {
+      "id": "item_2088041287387603317",
+      "decision": "keep",
+      "reason": "Concrete adoption metric for local inference (local.ai / Hugging Face).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct adoption datapoint."
+      }
+    },
+    {
+      "id": "item_2087990560363806782",
+      "decision": "keep",
+      "reason": "Fortune-sourced detail on OpenAI's internal management system.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct company-operations story."
+      }
+    },
+    {
+      "id": "item_2087948255263068229",
+      "decision": "keep",
+      "reason": "Concrete open-source tooling release (pgbot.dev) for agents.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct tooling launch."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2087947721936359705",
+        "item_2088101491802243121"
+      ],
+      "reason": "OpenAI's official Ultrafast (GPT-5.6 Sol) preview and sama's /ultrafast post reference the same launch event but from distinct angles (official product announcement vs. founder echo); both retained as complementary, not redundant."
+    }
+  ],
+  "additional_search_requests": []
+}
