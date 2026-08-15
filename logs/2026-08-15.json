@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-15",
+  "searches": [
+    {"query": "AI since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "LLM since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "machine learning since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "GPT OR Claude OR Gemini since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "open source AI model since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "AI agent since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "Sam Altman since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "Dario Amodei since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "Demis Hassabis since:2026-08-14", "limit": 20, "status": "ok"},
+    {"query": "from:karpathy since:2026-08-14", "limit": 5, "status": "empty", "note": "No tweets found - treated as empty, not failure"},
+    {"query": "from:sama since:2026-08-14", "limit": 5, "status": "ok", "note": "Only /ultrafast 2088101491802243121, outside 24h window and already covered 2026-08-14"},
+    {"query": "from:OpenAI since:2026-08-14", "limit": 5, "status": "empty", "note": "No tweets found after retry - treated as empty"},
+    {"query": "from:AnthropicAI since:2026-08-14", "limit": 5, "status": "ok"}
+  ],
+  "special_accounts": {
+    "karpathy": {"eligible_posts": 0, "note": "search returned no tweets in window"},
+    "sama": {"eligible_posts": 0, "note": "only tweet returned (2088101491802243121, /ultrafast) derives to 2026-08-14T05:20Z equivalent, older than 24h window and already published in 2026-08-14 digest"},
+    "OpenAI": {"eligible_posts": 0, "note": "search returned no tweets in window"},
+    "AnthropicAI": {"eligible_posts": 2, "note": "both self-contained; both selected as distinct stories"}
+  },
+  "selected_items": [
+    {
+      "id": "2088343978873966687",
+      "author": "AnthropicAI",
+      "text": "We've written an FAQ to answer some of the questions we've received about watermarking. In summary: We're implementing watermarking to comply with the EU AI Act. Other major model developers have signed the same Code of Practice and will also be implementing watermarking;",
+      "url": "https://xcancel.com/AnthropicAI/status/2088343978873966687",
+      "derived_timestamp": "2026-08-14T19:16:18Z",
+      "replies": 924, "retweets": 717, "likes": 2300, "views": 2300000,
+      "category": "policy",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Anthropic formally responds to the watermarking backlash covered on 11 and 12 August, attributing the change to EU AI Act compliance. Highest engagement item in the window."
+    },
+    {
+      "id": "2088324824863236248",
+      "author": "AnthropicAI",
+      "text": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them. Our second Risk Report is now available.",
+      "url": "https://xcancel.com/AnthropicAI/status/2088324824863236248",
+      "derived_timestamp": "2026-08-14T18:00:12Z",
+      "replies": 252, "retweets": 295, "likes": 1800, "views": 595000,
+      "category": "policy",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Second Responsible Scaling Policy risk report published; distinct story from the watermarking FAQ."
+    },
+    {
+      "id": "2088290834823135323",
+      "author": "TechCrunch",
+      "text": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware - a contrast to Muse Spark, the company's more powerful model that stays locked behind its own APIs.",
+      "url": "https://xcancel.com/TechCrunch/status/2088290834823135323",
+      "derived_timestamp": "2026-08-14T15:45:08Z",
+      "replies": 5, "retweets": 9, "likes": 40, "views": 41000,
+      "category": "news",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Trade press framing of Meta's split open-weight and closed model strategy."
+    },
+    {
+      "id": "2088364912485765489",
+      "author": "bearlyai",
+      "text": "Satya Nadella gave a talk on Microsoft's new AI strategy of building hill-climbing machines. Says if you're only a consumer of foundation models, how can you create enterprise value?",
+      "url": "https://xcancel.com/bearlyai/status/2088364912485765489",
+      "derived_timestamp": "2026-08-14T20:39:29Z",
+      "replies": 5, "retweets": 8, "likes": 35, "views": 137000,
+      "category": "news",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Microsoft strategy statement with wide reach."
+    },
+    {
+      "id": "2088309745740591429",
+      "author": "omarsar0",
+      "text": "A 27B agent just beat Claude Opus 4.8 and GPT-5.5 on held-out research replication. Replica turns paper replication into a scalable RL task space.",
+      "url": "https://xcancel.com/omarsar0/status/2088309745740591429",
+      "derived_timestamp": "2026-08-14T17:00:16Z",
+      "replies": 13, "retweets": 30, "likes": 155, "views": 9800,
+      "category": "research",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Concrete benchmark result for a small model against frontier systems."
+    },
+    {
+      "id": "2088339706752983230",
+      "author": "NVIDIAAI",
+      "text": "Meet NVIDIA NeMo Switchyard, a new open-source library for model routing. Use frontier models for complex reasoning and planning, and NVIDIA Nemotron Lightning for high-volume, specialized execution.",
+      "url": "https://xcancel.com/NVIDIAAI/status/2088339706752983230",
+      "derived_timestamp": "2026-08-14T18:59:20Z",
+      "replies": 8, "retweets": 18, "likes": 112, "views": 8900,
+      "category": "release",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Concrete open-source tooling release from NVIDIA."
+    },
+    {
+      "id": "2088268968742285378",
+      "author": "rohanpaul_ai",
+      "text": "New MIT paper introduces a new mathematical framework for representing, manipulating, and compiling deep learning architectures.",
+      "url": "https://xcancel.com/rohanpaul_ai/status/2088268968742285378",
+      "derived_timestamp": "2026-08-14T14:18:14Z",
+      "replies": 5, "retweets": 20, "likes": 81, "views": 4500,
+      "category": "research",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Paper summary with a clear technical claim."
+    },
+    {
+      "id": "2088418140573061495",
+      "author": "rohanpaul_ai",
+      "text": "Meta's new paper: the dangerous failure mode is not just a wrong judge, but a correct judge that can be persuaded into becoming wrong.",
+      "url": "https://xcancel.com/rohanpaul_ai/status/2088418140573061495",
+      "derived_timestamp": "2026-08-15T00:11:00Z",
+      "replies": 7, "retweets": 3, "likes": 22, "views": 2300,
+      "category": "research",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Distinct second item from same author covering LLM-as-judge robustness."
+    },
+    {
+      "id": "2088243704603824311",
+      "author": "fchollet",
+      "text": "Jeremy's excellent work here is a great illustration of a very powerful type of approach: LLM-guided on-the-fly synthesis of a symbolic world model, i.e. making sense of the world by writing executable code that encodes your understanding of the causal mechanics of the world.",
+      "url": "https://xcancel.com/fchollet/status/2088243704603824311",
+      "derived_timestamp": "2026-08-14T12:37:51Z",
+      "replies": 35, "retweets": 57, "likes": 697, "views": 89000,
+      "category": "analysis",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": "Quote-comment on a demonstration by Jeremy Howard; Chollet's own text names the technique and explains it in full, so the item is intelligible without the referenced work.", "context_retrieval_status": "self_explanatory",
+      "selection_reason": "Named researcher articulating a technical approach; text explains the concept in its own terms."
+    },
+    {
+      "id": "2088362370213216260",
+      "author": "zhengyaojiang",
+      "text": "Had a look at Cordis, the theory behind DeepSeek Harness's plugin architecture. It's basically a theory that, as long as you follow a set of contracts for the components of a harness, there are theoretical guarantees that your harness can safely remove a component.",
+      "url": "https://xcancel.com/zhengyaojiang/status/2088362370213216260",
+      "derived_timestamp": "2026-08-14T20:29:23Z",
+      "replies": 11, "retweets": 13, "likes": 264, "views": 22000,
+      "category": "analysis",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Technical reading of the DeepSeek agent harness open-sourced the previous day."
+    },
+    {
+      "id": "2088351263453065675",
+      "author": "dongxi_nlp",
+      "text": "The SynthID-Text watermarking LLM generation is like: model forward pass -> next-token logits -> temperature / top-k / top-p -> keyed watermark probability update -> sample a token. For every plausible next token, Claude consults a secret, context-specific coin flip.",
+      "url": "https://xcancel.com/dongxi_nlp/status/2088351263453065675",
+      "derived_timestamp": "2026-08-14T19:45:15Z",
+      "replies": 3, "retweets": 1, "likes": 11, "views": 3000,
+      "category": "analysis",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Mechanistic explanation of the watermarking scheme under discussion."
+    },
+    {
+      "id": "2088459656633221314",
+      "author": "SlipperyGem",
+      "text": "Yet another open source video gen model has dropped! 114B6A, so not local until some quants drop.",
+      "url": "https://xcancel.com/SlipperyGem/status/2088459656633221314",
+      "derived_timestamp": "2026-08-15T02:55:58Z",
+      "replies": 4, "retweets": 1, "likes": 32, "views": 2200,
+      "category": "release",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Concrete open-weight video model release with a named Hugging Face repository."
+    },
+    {
+      "id": "2088347685581627412",
+      "author": "WOLF_Financial",
+      "text": "Masayoshi Son said artificial superintelligence is 2 years away. The SoftBank CEO coined the term in a rare 2024 speech, defining ASI as AI 10,000 times smarter than humans. He said then it was 10 years off.",
+      "url": "https://xcancel.com/WOLF_Financial/status/2088347685581627412",
+      "derived_timestamp": "2026-08-14T19:31:02Z",
+      "replies": 5, "retweets": 3, "likes": 23, "views": 13000,
+      "category": "news",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Named executive making a dated, revisable forecast."
+    },
+    {
+      "id": "2088478960447340671",
+      "author": "FT",
+      "text": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+      "url": "https://xcancel.com/FT/status/2088478960447340671",
+      "derived_timestamp": "2026-08-15T04:12:40Z",
+      "replies": 3, "retweets": 9, "likes": 25, "views": 19000,
+      "category": "news",
+      "is_self_contained": true, "is_reply": false, "context_tweet_ids": [], "context_summary": null, "context_retrieval_status": "not_required",
+      "selection_reason": "Newspaper report on OpenAI corporate turmoil ahead of a listing."
+    }
+  ],
+  "rejected_notable_items": [
+    {"id": "2088298144165666936", "author": "gakonst", "text": "Mentat is built on Paradigm's open source Centaur agent platform. This is great because we don't get locked in to any of the AI labs and we can modify it as we see fit, including granular permissions.", "url": "https://xcancel.com/gakonst/status/2088298144165666936", "derived_timestamp": "2026-08-14T16:14:10Z", "replies": 6, "retweets": 3, "likes": 39, "views": 8100, "exclusion_reason": "Quoted testimonial about a vendor platform; promotional framing."},
+    {"id": "2088304635740037128", "author": "WSJ", "text": "Cami Clark, a key adviser to Anthropic CEO Dario Amodei, sought investment from Jeffrey Epstein for a porn company.", "url": "https://xcancel.com/WSJ/status/2088304635740037128", "derived_timestamp": "2026-08-14T16:39:58Z", "replies": 72, "retweets": 179, "likes": 752, "views": 181000, "exclusion_reason": "Same story already covered in the 2026-08-14 digest."},
+    {"id": "2088406175876587935", "author": "MichaelTrazzi", "text": "Day 19 of Occupying OpenAI until Sam Altman Calls for an AI Treaty.", "url": "https://xcancel.com/MichaelTrazzi/status/2088406175876587935", "derived_timestamp": "2026-08-14T23:23:27Z", "replies": 1, "retweets": 4, "likes": 29, "views": 1400, "exclusion_reason": "Ongoing daily protest log rather than a new development."},
+    {"id": "2088135113536094515", "author": "business", "text": "Z.ai is set to upgrade its flagship AI model, adding to a series of Chinese open-weight offerings seeking to outcompete Anthropic and OpenAI.", "url": "https://xcancel.com/business/status/2088135113536094515", "derived_timestamp": "2026-08-14T05:26:21Z", "replies": 2, "retweets": 7, "likes": 25, "views": 65000, "exclusion_reason": "Derived timestamp is 25.6 hours old, outside the 24-hour window."},
+    {"id": "2088306143772946499", "author": "tianyi", "text": "Pi is many DeepSeek researchers and developers favorite daily drive. DSH reused Pi's LLM adaptor package for connecting to non-DeepSeek models.", "url": "https://xcancel.com/tianyi/status/2088306143772946499", "derived_timestamp": "2026-08-14T16:45:58Z", "replies": 40, "retweets": 95, "likes": 1700, "views": 150000, "exclusion_reason": "Reply without retrieved parent context; not selected."},
+    {"id": "2088450620852482445", "author": "elder_plinius", "text": "5.6 Sol absolutely COOKIN - prompt describing automated refusal-rate reduction on an open-weight model.", "url": "https://xcancel.com/elder_plinius/status/2088450620852482445", "derived_timestamp": "2026-08-15T02:20:04Z", "replies": 34, "retweets": 57, "likes": 1100, "views": 69000, "exclusion_reason": "Jailbreak demonstration content; not appropriate digest material."}
+  ]
+}

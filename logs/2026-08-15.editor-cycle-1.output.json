@@ -1,0 +1,201 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 14 selected items are kept. The set is topically diverse across policy, news, research, releases, and analysis, and no forced removals are required. The two AnthropicAI items are distinct stories (watermarking EU AI Act FAQ vs. second Responsible Scaling Policy risk report), and the two rohanpaul_ai items cover different papers (MIT deep-learning framework vs. Meta LLM-as-judge robustness), so same-author repetition is acceptable rather than redundant. The watermarking cluster (Anthropic FAQ plus the dongxi_nlp SynthID-Text mechanism explainer) is same-topic but distinct angle, not a redundant duplicate. No special-account replies with missing context summaries are present. No replacements are needed.",
+  "decisions": [
+    {
+      "id": "item_2088343978873966687",
+      "decision": "keep",
+      "reason": "Primary-source post from AnthropicAI (official account) dated 2026-08-14, within the since_date window. Highest engagement in the pool by far at 2,300,000 views, 2,300 likes, 924 replies, 717 retweets. Official policy statement attributing watermarking to EU AI Act compliance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the watermarking topic with dongxi_nlp item_2088351263453065675, but this is the official policy announcement versus a technical mechanism explainer. Distinct angle, not a duplicate."
+      }
+    },
+    {
+      "id": "item_2088324824863236248",
+      "decision": "keep",
+      "reason": "Primary-source AnthropicAI post dated 2026-08-14 announcing the publication of its second Responsible Scaling Policy Risk Report. Strong engagement (595,000 views, 1,800 likes, 295 retweets). Concrete published-artifact news distinct from the watermarking FAQ.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author as the watermarking FAQ but a separate publication and event (risk report release)."
+      }
+    },
+    {
+      "id": "item_2088290834823135323",
+      "decision": "keep",
+      "reason": "TechCrunch (established trade press) post dated 2026-08-14 reporting Meta's Glimmer open-weight model release versus its closed Muse Spark model. Concrete named-product news with a clear open-vs-closed strategy contrast; 41,000 views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No other selected item covers Meta's model release; unique story."
+      }
+    },
+    {
+      "id": "item_2088364912485765489",
+      "decision": "keep",
+      "reason": "Dated 2026-08-14, reporting a specific Satya Nadella talk on Microsoft's 'hill-climbing machines' enterprise AI strategy with a concrete quoted argument about foundation-model consumers. Wide reach at 137,000 views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique Microsoft strategy topic; no overlap in the set."
+      }
+    },
+    {
+      "id": "item_2088309745740591429",
+      "decision": "keep",
+      "reason": "Dated 2026-08-14 from omarsar0, a known AI-research aggregator. Concrete benchmark claim: a 27B agent beating Claude Opus 4.8 and GPT-5.5 on held-out research replication via the named Replica RL task space. 155 likes, 30 retweets.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct research/benchmark result; no overlap."
+      }
+    },
+    {
+      "id": "item_2088339706752983230",
+      "decision": "keep",
+      "reason": "Primary-source NVIDIAAI post dated 2026-08-14 announcing a concrete open-source release: the NeMo Switchyard model-routing library paired with Nemotron Lightning. Named product with a clear technical purpose; 112 likes, 18 retweets.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique release; no duplicate."
+      }
+    },
+    {
+      "id": "item_2088268968742285378",
+      "decision": "keep",
+      "reason": "Dated 2026-08-14 from rohanpaul_ai. Summarizes a specific MIT paper introducing a mathematical framework for representing, manipulating, and compiling deep learning architectures. Clear technical claim; 81 likes, 20 retweets.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different paper from the author's other selected item; no overlap."
+      }
+    },
+    {
+      "id": "item_2088418140573061495",
+      "decision": "keep",
+      "reason": "Dated 2026-08-15 (freshest research item) from rohanpaul_ai. Summarizes a distinct Meta paper on LLM-as-judge robustness, framing the failure mode of a correct judge persuaded into becoming wrong. Different subject from the MIT framework item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author, different paper and topic; not redundant."
+      }
+    },
+    {
+      "id": "item_2088243704603824311",
+      "decision": "keep",
+      "reason": "Named researcher fchollet (Keras creator) post dated 2026-08-14 articulating a specific technical approach (LLM-guided on-the-fly synthesis of a symbolic world model). Strong engagement at 89,000 views, 697 likes; self-explanatory text.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique analysis; no overlap."
+      }
+    },
+    {
+      "id": "item_2088362370213216260",
+      "decision": "keep",
+      "reason": "Dated 2026-08-14 from zhengyaojiang. Technical reading of Cordis, the theory behind DeepSeek Harness's plugin architecture, describing contract-based guarantees for safely removing harness components. Substantive analysis; 264 likes, 22,000 views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct DeepSeek harness angle; no duplicate in the set."
+      }
+    },
+    {
+      "id": "item_2088351263453065675",
+      "decision": "keep",
+      "reason": "Dated 2026-08-14 from dongxi_nlp. Provides a step-by-step mechanistic explanation of the SynthID-Text watermarking pipeline (logits, sampling, keyed watermark probability update). Concrete technical angle complementing the Anthropic policy item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the watermarking topic with Anthropic FAQ item_2088343978873966687 but supplies the mechanism-level angle rather than the policy announcement. Same topic, distinct angle."
+      }
+    },
+    {
+      "id": "item_2088459656633221314",
+      "decision": "keep",
+      "reason": "Dated 2026-08-15 (fresh) from SlipperyGem. Concrete open-weight video generation model release, noting the 114B6A size and that quants are pending for local use. Specific release detail; a distinct release category from the NVIDIA and Meta items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique video-model release; no overlap with other release items."
+      }
+    },
+    {
+      "id": "item_2088347685581627412",
+      "decision": "keep",
+      "reason": "Dated 2026-08-14 from WOLF_Financial, reporting a specific, dated and revisable forecast: SoftBank CEO Masayoshi Son saying artificial superintelligence (ASI, defined as 10,000x smarter than humans) is 2 years away, revised down from his 10-year estimate in his 2024 speech. Concrete named-executive claim with a quantified prediction shift; 13,000 views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique ASI-forecast story; no other selected item covers Masayoshi Son or SoftBank."
+      }
+    },
+    {
+      "id": "item_2088478960447340671",
+      "decision": "keep",
+      "reason": "FT (major newspaper, high source quality) post dated 2026-08-15 (freshest item in the set) reporting OpenAI corporate upheaval as Sam Altman readies an IPO push. Distinct corporate news; 19,000 views, 9 retweets.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique OpenAI corporate/IPO news; no overlap with other selected items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2088343978873966687",
+        "item_2088351263453065675"
+      ],
+      "reason": "Both concern LLM watermarking: item_2088343978873966687 is Anthropic's official EU AI Act policy FAQ, while item_2088351263453065675 is a mechanism-level explainer of the SynthID-Text scheme. Same topic, complementary distinct angles, not redundant."
+    }
+  ],
+  "additional_search_requests": []
+}
