@@ -1,0 +1,214 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "14 selected items reviewed. Most are concrete, well-sourced product/news/personal-story items with no hard duplicates. Two concerns: thesupermanmx appears twice (overrepresented author, though the two items cover distinct topics), and the equityresearchr Google leadership-shakeup item has effectively zero engagement (0 likes/RT, 8 views) with only a claimed second-post corroboration that is not present in the packet, making it a source-traceability gap. That item is flagged needs_more_search for stronger sourcing; all others kept. No special-account replies requiring context judgment were present.",
+  "decisions": [
+    {
+      "id": "item_2089082893804896524",
+      "decision": "keep",
+      "reason": "OpenAI engineering figure documenting a concrete 1M-token context config for Codex/GPT-5.6 Sol; strong engagement and clear product relevance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product/config story; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2089098372774806014",
+      "decision": "keep",
+      "reason": "Major AI-infrastructure M&A (Stripe acquiring OpenRouter at $7B+); high-signal news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct M&A story."
+      }
+    },
+    {
+      "id": "item_2088977298989129826",
+      "decision": "keep",
+      "reason": "Concrete open-source model release for CUDA kernel generation with a hardware-economics angle; distinct topic from this author's other selected item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author as item_2089025791590125662 but different subject (CUDA model vs. math result); flagged at set level for author overrepresentation, not a content duplicate."
+      }
+    },
+    {
+      "id": "item_2088947629413556239",
+      "decision": "keep",
+      "reason": "Google open-source local prediction model release; open-weight model news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct release; not the same as the DeepMind leadership item."
+      }
+    },
+    {
+      "id": "item_2089028410970665243",
+      "decision": "keep",
+      "reason": "Microsoft open-sourcing data-formulator, an agent-driven data analysis tool; concrete release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source tool story."
+      }
+    },
+    {
+      "id": "item_2088790861152682265",
+      "decision": "keep",
+      "reason": "Widely shared Amodei prediction on AI-accelerated disease cures; high reach, clear source attribution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct forward-looking claim; no overlap."
+      }
+    },
+    {
+      "id": "item_2088971155197567224",
+      "decision": "keep",
+      "reason": "Analysis of Apple research challenging LLM arithmetic/benchmark claims; distinct technical-analysis angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique analysis story."
+      }
+    },
+    {
+      "id": "item_2088206627954405400",
+      "decision": "keep",
+      "reason": "High-engagement practitioner story: DICOM viewer built with Claude Code in two prompts; strong personal-story material.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct build story; different from other Claude/coding personal stories in tooling and outcome."
+      }
+    },
+    {
+      "id": "item_2089100618648404216",
+      "decision": "keep",
+      "reason": "Practitioner story from Ethan Mollick using GPT-5.6 Sol/Codex to export X bookmarks; concrete agentic use case.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different tool/outcome than the other personal stories; not duplicative."
+      }
+    },
+    {
+      "id": "item_2088016749849682120",
+      "decision": "keep",
+      "reason": "Practitioner technique for visualizing codebases as interactive diagrams with Claude; distinct workflow angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from other Claude Code personal stories in method and purpose."
+      }
+    },
+    {
+      "id": "item_2088982514471698685",
+      "decision": "keep",
+      "reason": "Stanford full-stack LLM-from-scratch lecture; useful educational resource with a distinct angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique educational item."
+      }
+    },
+    {
+      "id": "item_2089025791590125662",
+      "decision": "keep",
+      "reason": "Technical/mathematical result on universal function generation via a single operator; distinct subject from this author's CUDA item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author as item_2088977298989129826 but different topic; author overrepresentation handled at set level."
+      }
+    },
+    {
+      "id": "item_2089023182166761880",
+      "decision": "needs_more_search",
+      "reason": "Reports a significant Google DeepMind leadership restructuring but the item itself has effectively zero engagement (0 likes, 0 retweets, 8 views) and the claimed corroborating second post (mabezekdfs) is not present in the packet. Source traceability is insufficient for a high-impact org-change claim; no eligible reserve covers this story, so additional Twitter search is needed to confirm before inclusion.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate among selected or reserves; concern is sourcing/verifiability, not duplication."
+      }
+    },
+    {
+      "id": "item_2089160664241582395",
+      "decision": "keep",
+      "reason": "Financial Times opinion framing open-source AI as the next China shock; credible institutional source and distinct analysis angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Thematically adjacent to Chinese open-source CUDA item but a broad opinion piece, not the same story or angle."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2088977298989129826",
+        "item_2089025791590125662"
+      ],
+      "reason": "thesupermanmx has two selected items in the set (CUDA-generation model and a single-operator math result). Topics are distinct, so both are retained, but the author is overrepresented and should be watched if additional strong candidates emerge."
+    },
+    {
+      "type": "source_traceability_failure",
+      "item_ids": [
+        "item_2089023182166761880"
+      ],
+      "reason": "The Google DeepMind leadership-shakeup claim carries near-zero engagement (8 views) and cites a corroborating post that is not included in the packet, leaving the high-impact org-change claim unverifiable from the provided material."
+    }
+  ],
+  "additional_search_requests": [
+    {
+      "needed": true,
+      "reason": "Confirm the reported Google DeepMind leadership restructuring (Jeff Dean departure, Hassabis to Chairman, Kavukcuoglu leading Gemini) via higher-signal or corroborating posts before including item_2089023182166761880.",
+      "suggested_query_theme": "Jeff Dean Google DeepMind leadership change / Hassabis Chairman / Kavukcuoglu Gemini"
+    }
+  ]
+}

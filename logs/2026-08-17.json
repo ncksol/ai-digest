@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-17",
+  "editor_status": "editor_unavailable",
+  "editor_note": "Editor cycle-1 first response had prose before JSON (extraction failed). Retry response extracted but failed output validation with code web_search_request (invalid additional_search_requests theme). Per Step 3.2 retry path, logged editor_unavailable and continued with validated source set. Telegram alert delivery failed (Invalid Form Body) -> editor_alert_failed. Acted on editor's substantive concern by dropping the near-zero-engagement equityresearchr Google-shakeup item (0/0/0, 8 views, uncorroborated in packet).",
+  "editor_alert_status": "editor_alert_failed",
+  "searches": [
+    {"query": "AI since:2026-08-16", "limit": 20},
+    {"query": "LLM since:2026-08-16", "limit": 20},
+    {"query": "machine learning since:2026-08-16", "limit": 20},
+    {"query": "GPT OR Claude OR Gemini since:2026-08-16", "limit": 20},
+    {"query": "open source AI model since:2026-08-16", "limit": 20},
+    {"query": "AI agent since:2026-08-16", "limit": 20},
+    {"query": "Sam Altman since:2026-08-16", "limit": 20},
+    {"query": "Dario Amodei since:2026-08-16", "limit": 20},
+    {"query": "Demis Hassabis since:2026-08-16", "limit": 20},
+    {"query": "from:karpathy since:2026-08-16", "limit": 5, "result": "no tweets found"},
+    {"query": "from:sama since:2026-08-16", "limit": 5, "result": "no tweets found"},
+    {"query": "from:OpenAI since:2026-08-16", "limit": 5, "result": "no tweets found"},
+    {"query": "from:AnthropicAI since:2026-08-16", "limit": 5, "result": "no tweets found"}
+  ],
+  "special_accounts_note": "Direct from: searches for karpathy, sama, OpenAI, AnthropicAI all returned 'No tweets found' in the 24h window. No eligible special-account posts, so no forced inclusion.",
+  "selected_items": [
+    {
+      "id": "2089082893804896524",
+      "author": "thsottiaux",
+      "text": "Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. Even though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here it is documented. A larger context window lets Codex retain more of the conversation.",
+      "url": "https://xcancel.com/thsottiaux/status/2089082893804896524",
+      "derived_timestamp": "2026-08-16T20:12:29Z",
+      "replies": 828, "retweets": 1300, "likes": 12000, "views": 1800000,
+      "category": "product",
+      "selection_reason": "OpenAI engineering figure documents enabling a 1M-token context window in Codex for GPT-5.6 Sol."
+    },
+    {
+      "id": "2089098372774806014",
+      "author": "ns123abc",
+      "text": "Stripe is buying OpenRouter for $7 BILLION+. founded 2023, raised at $1.3B valuation just months ago, today: $7B+ exit.",
+      "url": "https://xcancel.com/ns123abc/status/2089098372774806014",
+      "derived_timestamp": "2026-08-16T21:14:00Z",
+      "replies": 77, "retweets": 177, "likes": 2500, "views": 181000,
+      "category": "news",
+      "selection_reason": "Reports Stripe acquiring OpenRouter at a $7B+ valuation."
+    },
+    {
+      "id": "2088977298989129826",
+      "author": "thesupermanmx",
+      "text": "Chinese researchers open-sourced a model that writes CUDA better than human experts, rewriting the economics of AI hardware.",
+      "url": "https://xcancel.com/thesupermanmx/status/2088977298989129826",
+      "derived_timestamp": "2026-08-16T13:12:54Z",
+      "replies": 74, "retweets": 332, "likes": 1400, "views": 116000,
+      "category": "news",
+      "selection_reason": "Open-source model release claim for automated CUDA kernel generation."
+    },
+    {
+      "id": "2088947629413556239",
+      "author": "RoundtableSpace",
+      "text": "Google released an AI that reads patterns and predicts what happens next, trained on 100B+ data points, runs locally, free and open source.",
+      "url": "https://xcancel.com/RoundtableSpace/status/2088947629413556239",
+      "derived_timestamp": "2026-08-16T11:15:00Z",
+      "replies": 40, "retweets": 116, "likes": 1100, "views": 136000,
+      "category": "news",
+      "selection_reason": "Google open-source local prediction model release."
+    },
+    {
+      "id": "2089028410970665243",
+      "author": "oliviscusAI",
+      "text": "Microsoft quietly open-sourced data-formulator, an AI data analysis tool. Connect any source, csv, postgres, bigquery, even a live url, then build charts with drag-and-drop and plain english; the AI agent writes the SQL.",
+      "url": "https://xcancel.com/oliviscusAI/status/2089028410970665243",
+      "derived_timestamp": "2026-08-16T16:36:00Z",
+      "replies": 15, "retweets": 133, "likes": 775, "views": 44000,
+      "category": "news",
+      "selection_reason": "Microsoft open-sources data-formulator, an agent-driven data analysis tool."
+    },
+    {
+      "id": "2088790861152682265",
+      "author": "Polymarket",
+      "text": "JUST IN: Anthropic CEO Dario Amodei predicts AI could make it possible to cure most human disease within 5-10 years.",
+      "url": "https://xcancel.com/Polymarket/status/2088790861152682265",
+      "derived_timestamp": "2026-08-16T05:00:00Z",
+      "replies": 458, "retweets": 706, "likes": 5300, "views": 1700000,
+      "category": "news",
+      "selection_reason": "Widely-shared Amodei prediction on AI-accelerated disease cures within 5-10 years."
+    },
+    {
+      "id": "2088971155197567224",
+      "author": "HowToPrompt__",
+      "text": "Apple argues that AI models cannot reliably do math, not even grade school math, testing whether near-perfect GSM8K benchmark scores reflect real logical problem-solving.",
+      "url": "https://xcancel.com/HowToPrompt__/status/2088971155197567224",
+      "derived_timestamp": "2026-08-16T12:48:29Z",
+      "replies": 157, "retweets": 251, "likes": 834, "views": 85000,
+      "category": "analysis",
+      "selection_reason": "Analysis thread on Apple research challenging LLM arithmetic/reasoning benchmark claims."
+    },
+    {
+      "id": "2088206627954405400",
+      "author": "redp314",
+      "text": "Dentist did a 3D X-ray of my jaw as 800 DICOM files and said I couldn't open the raw data without specialized software. Asked Claude Code to make a viewer. Two prompts later this is nicer than what he showed me.",
+      "url": "https://xcancel.com/redp314/status/2088206627954405400",
+      "derived_timestamp": "2026-08-16T08:00:00Z",
+      "replies": 512, "retweets": 947, "likes": 19000, "views": 1000000,
+      "category": "personal_story",
+      "selection_reason": "High-engagement practitioner story: DICOM medical-imaging viewer built with Claude Code in two prompts."
+    },
+    {
+      "id": "2089100618648404216",
+      "author": "emollick",
+      "text": "Asked GPT-5.6 Sol in Codex to export my X bookmarks; it took over my Chrome and pulled all 5,302 back to 2014 with metadata.",
+      "url": "https://xcancel.com/emollick/status/2089100618648404216",
+      "derived_timestamp": "2026-08-16T21:22:55Z",
+      "replies": 81, "retweets": 71, "likes": 1600, "views": 75000,
+      "category": "personal_story",
+      "selection_reason": "Practitioner story: GPT-5.6 Sol in Codex drove Chrome to export 5,302 bookmarks."
+    },
+    {
+      "id": "2088016749849682120",
+      "author": "fleetingbits",
+      "text": "Having Claude turn codebases into visual diagrams to discuss them more easily; moving dots are inspectable data snippets.",
+      "url": "https://xcancel.com/fleetingbits/status/2088016749849682120",
+      "derived_timestamp": "2026-08-16T09:00:00Z",
+      "replies": 173, "retweets": 358, "likes": 6600, "views": 911000,
+      "category": "personal_story",
+      "selection_reason": "Practitioner technique: interactive codebase-to-diagram visualisation with Claude."
+    },
+    {
+      "id": "2088982514471698685",
+      "author": "LunarResearcher",
+      "text": "Stanford released a 104-minute LLM lecture covering the full stack behind modern language models, from raw data to building models from scratch.",
+      "url": "https://xcancel.com/LunarResearcher/status/2088982514471698685",
+      "derived_timestamp": "2026-08-16T13:33:37Z",
+      "replies": 5, "retweets": 27, "likes": 176, "views": 30000,
+      "category": "analysis",
+      "selection_reason": "Educational release: Stanford full-stack LLM-from-scratch lecture."
+    },
+    {
+      "id": "2089025791590125662",
+      "author": "thesupermanmx",
+      "text": "Researchers proved every mathematical function can be generated by a single binary operator combined with the number 1, analogous to how a NAND gate can build all of Boolean logic.",
+      "url": "https://xcancel.com/thesupermanmx/status/2089025791590125662",
+      "derived_timestamp": "2026-08-16T16:25:35Z",
+      "replies": 31, "retweets": 98, "likes": 441, "views": 23000,
+      "category": "analysis",
+      "selection_reason": "Technical/mathematical result on universal function generation via a single operator; distinct topic from author's CUDA item."
+    },
+    {
+      "id": "2089160664241582395",
+      "author": "FT",
+      "text": "The next China shock will come from open-source AI (opinion).",
+      "url": "https://xcancel.com/FT/status/2089160664241582395",
+      "derived_timestamp": "2026-08-17T01:21:31Z",
+      "replies": 10, "retweets": 26, "likes": 96, "views": 35000,
+      "category": "analysis",
+      "selection_reason": "Financial Times opinion framing the next China shock as open-source AI."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2089023182166761880",
+      "author": "equityresearchr",
+      "text": "Major leadership shakeup at Google AI: Jeff Dean leaves after 27 years; Hassabis shifts to Chairman; Kavukcuoglu takes over Gemini.",
+      "url": "https://xcancel.com/equityresearchr/status/2089023182166761880",
+      "replies": 0, "retweets": 0, "likes": 0, "views": 8,
+      "exclusion_reason": "Dropped per editor concern: near-zero engagement (0/0/0, 8 views) and single-source with no corroboration present in packet; traceability too weak to publish."
+    },
+    {
+      "id": "2088900801489928637",
+      "author": "ArchiveExplorer",
+      "text": "deepseek-harness open-source coding-agent release, everything a swappable plugin.",
+      "url": "https://xcancel.com/ArchiveExplorer/status/2088900801489928637",
+      "replies": 44, "retweets": 208, "likes": 1500, "views": 174000,
+      "exclusion_reason": "deepseek-harness covered on 2026-08-14; avoid repeating stale story."
+    },
+    {
+      "id": "2089098385618006119",
+      "author": "asahi",
+      "text": "Fictional AI-drawn model images used without permission, suing for copyright infringement.",
+      "url": "https://xcancel.com/asahi/status/2089098385618006119",
+      "replies": 95, "retweets": 719, "likes": 678, "views": 295000,
+      "exclusion_reason": "Reserve: niche copyright case, lower AI-technical relevance."
+    }
+  ]
+}
