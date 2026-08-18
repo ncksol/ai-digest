@@ -1,0 +1,214 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 15 selected items for cycle 1. All are substantive, well-sourced AI/ML posts with clear provenance and no special-account replies requiring context verification. The Qwen 3.8 27B local-inference story appears via the official Alibaba_Qwen announcement and AlexFinn's independent RTX 5090 benchmark; these are the same topic from distinct angles (official confirmation vs. practitioner benchmark) and both add value, so both are kept and flagged rather than deduped. No redundant stories, fingerprint collisions, or coverage gaps warranting replacement. All reserve-pool items carry pool_role='reserve' and are therefore ineligible as replacement candidates, but no replacements are needed.",
+  "decisions": [
+    {
+      "id": "item_2089587226027905444",
+      "decision": "keep",
+      "reason": "SemiAnalysis on OpenAI's 50% GPT-5.6 Sol price cut exclusive to OpenRouter/Vercel AI Gateway, framed as distribution-targeted strategy. Distinct news with authoritative analyst sourcing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2089500941842342287",
+      "decision": "keep",
+      "reason": "OpenAI applied-engineering leader crowdsourcing missing Codex/API capabilities; high engagement (4,700 replies) and directly from a named OpenAI figure.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique; not a reply requiring context."
+      }
+    },
+    {
+      "id": "item_2089566892117860844",
+      "decision": "keep",
+      "reason": "Official Alibaba Qwen account confirming Qwen3.8-27B frontier-level scores in local deployment. Primary-source news for the Qwen local-inference story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Qwen 3.8 27B story as AlexFinn item_2089455600338116980, but this is the official announcement angle vs. an independent benchmark angle."
+      }
+    },
+    {
+      "id": "item_2089455600338116980",
+      "decision": "keep",
+      "reason": "Independent practitioner benchmark of Qwen 3.8 27B on a single RTX 5090 reportedly beating Opus 4.8 at up to 200 tok/s. Adds concrete performance data beyond the official announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Qwen 3.8 27B topic as item_2089566892117860844, distinct practitioner-benchmark angle; retained for complementary detail."
+      }
+    },
+    {
+      "id": "item_2089421448784023553",
+      "decision": "keep",
+      "reason": "Paper result: DeepSeek V4 Flash self-verification scaling beats Claude Fable 5 on Terminal-Bench 2.1 at 11x lower cost. Distinct analysis item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089391264878002260",
+      "decision": "keep",
+      "reason": "Dylan Patel claim that Anthropic finished training Mythos 2 but won't release it while internal loops continue on Mythos 3/Astra. Notable industry-insider news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089557459400585330",
+      "decision": "keep",
+      "reason": "X begins allowing bots via MCP with free API credits and AI-generated labels. Platform-policy news from a named X figure.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089353435397116280",
+      "decision": "keep",
+      "reason": "ElevenLabs ships an MCP server inside Claude for managing voice/chat agents. Distinct product-launch news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct MCP launch; not duplicative of WeChat MCP item."
+      }
+    },
+    {
+      "id": "item_2089567241180467630",
+      "decision": "keep",
+      "reason": "Enterprise WeChat upgrades CLI and MCP so third-party agents can invoke office modules. Distinct ecosystem-integration news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate product from ElevenLabs MCP; different vendor and use case."
+      }
+    },
+    {
+      "id": "item_2089463862085251372",
+      "decision": "keep",
+      "reason": "Vercel's Jared Palmer migrated the Devin marketing site Astro to Next.js entirely with Devin's cloud agent. Concrete practitioner case study.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089316817810465182",
+      "decision": "keep",
+      "reason": "Open-source Semantica ships a Palantir-style decision-object data model for agents on GitHub. Distinct tooling news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089349095144177690",
+      "decision": "keep",
+      "reason": "Amodei quantifying cost of fixed intelligence falling ~4x/year while spend climbs 10x. Distinct economics analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089523049221542274",
+      "decision": "keep",
+      "reason": "Analysis that agent memory recall benchmarks can pass while retrieving stale/wrong facts. Distinct evaluation-methodology angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089321154838196643",
+      "decision": "keep",
+      "reason": "Observation on LLM-native writing (parallel reader, sequential writer). Distinct conceptual analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    },
+    {
+      "id": "item_2089416088832405899",
+      "decision": "keep",
+      "reason": "Google publishes a free two-hour graph engineering course on wiring self-scaling agent systems. Distinct educational-resource news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2089566892117860844",
+        "item_2089455600338116980"
+      ],
+      "reason": "Both cover Qwen 3.8 27B running at frontier-level performance locally, but item_2089566892117860844 is the official Alibaba_Qwen announcement while item_2089455600338116980 is an independent RTX 5090 benchmark (beats Opus 4.8, ~200 tok/s). Complementary angles, retained together rather than deduped."
+    }
+  ],
+  "additional_search_requests": []
+}
