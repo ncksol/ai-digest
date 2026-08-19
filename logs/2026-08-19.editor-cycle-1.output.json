@@ -1,0 +1,223 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Fifteen selected items form a coherent digest. The dominant thread is OpenAI pausing frontier/RL training on alignment grounds, covered from three distinct angles (CEO Altman, official OpenAI account, and reporter Alex Heath naming the Astra model and misalignment signals). GLM-5.3 is covered by vendor release plus independent benchmark, a valid distinct-angle pair. AIDO virtual-cell has genbioai selected with ericxing held as a same-story reserve. Two Qwen3.8-27B items address different events (local DFlash inference speedup vs Harvey legal benchmark placement). Remaining items (Anthropic protein binder research, DeepMind matmul exponent, Berd open-source agent tool, Economist AI-homework study, xAI agent adoption, llm-jp-4 33B release, Anthropic supervoting/IPO) are self-contained and non-redundant. No context-dependent special-account replies; no replacements needed.",
+  "decisions": [
+    {
+      "id": "item_2089787807611195475",
+      "decision": "keep",
+      "reason": "Self-contained OpenAI CEO statement that frontier RL training was paused on capability/alignment grounds; anchor item for the top story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same RL-pause event as OpenAI and alexeheath items but the CEO first-person angle is distinct."
+      }
+    },
+    {
+      "id": "item_2089777845187031262",
+      "decision": "keep",
+      "reason": "Official company account gives the concrete two-week RL pause detail and internal hardening/red-teaming rationale.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as sama and alexeheath; official-account operational detail is a distinct angle."
+      }
+    },
+    {
+      "id": "item_2089777725385109784",
+      "decision": "keep",
+      "reason": "Reporter attributes the pause to misalignment signals and names the model (Astra), adding reporting value beyond the company statements.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event; journalist-sourced angle naming the model and citing misalignment is distinct."
+      }
+    },
+    {
+      "id": "item_2089842387845804246",
+      "decision": "keep",
+      "reason": "Anthropic protein binder design result with published technical report and open-sourced prompts/data; concrete research contribution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve item ziv_ravid critiques this same result but is a separate commentary angle, not selected."
+      }
+    },
+    {
+      "id": "item_2089816129011098048",
+      "decision": "keep",
+      "reason": "Concrete GLM-5.3 API release with pricing and availability detail.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same GLM-5.3 release as the ArtificialAnlys benchmark item; vendor-announcement angle is distinct."
+      }
+    },
+    {
+      "id": "item_2089830890709135426",
+      "decision": "keep",
+      "reason": "Independent benchmark scoring of GLM-5.3 on the Artificial Analysis Intelligence Index; distinct evaluative angle from the vendor announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same release as Zai_org item; third-party benchmark angle is distinct."
+      }
+    },
+    {
+      "id": "item_2089836737132650504",
+      "decision": "keep",
+      "reason": "Concrete local-inference speedup claim (DFlash 2) with hardware and throughput numbers for Qwen3.8-27B.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Qwen3.8-27B model with Alibaba_Qwen item but reports a different event (inference speedup vs legal benchmark)."
+      }
+    },
+    {
+      "id": "item_2089700423477191168",
+      "decision": "keep",
+      "reason": "Company announcement of AIDO Cell virtual-cell world model preview with concrete scope.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Reserve item ericxing covers the same virtual-cell launch; genbioai company-account angle retained, ericxing held as reserve."
+      }
+    },
+    {
+      "id": "item_2089717134129565763",
+      "decision": "keep",
+      "reason": "DeepMind science lead on the matrix multiplication exponent problem; self-contained research framing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlapping items in the set."
+      }
+    },
+    {
+      "id": "item_2089922175507865795",
+      "decision": "keep",
+      "reason": "Third-party benchmark placement (Harvey Legal Agent) for a small open-weight model; concrete result.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same underlying model as the DFlash item but a different event (legal benchmark placement)."
+      }
+    },
+    {
+      "id": "item_2089816640053719369",
+      "decision": "keep",
+      "reason": "Corporate governance move (supervoting shares) tied to a potential September Anthropic IPO; distinct business-news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlapping items in the set."
+      }
+    },
+    {
+      "id": "item_2089753189985706377",
+      "decision": "keep",
+      "reason": "Internal agent desktop tool (Berd) released as open source; concrete release with shared learnings.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlapping items in the set."
+      }
+    },
+    {
+      "id": "item_2089804551494742114",
+      "decision": "keep",
+      "reason": "Quantified study result on AI use and exam performance (homework score up, exam score down); concrete analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlapping items in the set."
+      }
+    },
+    {
+      "id": "item_2089715168565448761",
+      "decision": "keep",
+      "reason": "Quantified internal agent-adoption figures from an xAI co-founder talk; practitioner data point.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlapping items in the set."
+      }
+    },
+    {
+      "id": "item_2089705430935347409",
+      "decision": "keep",
+      "reason": "Japanese public LLM project ships a 33B dense model (llm-jp-4); concrete open-model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlapping items in the set."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2089787807611195475",
+        "item_2089777845187031262",
+        "item_2089777725385109784"
+      ],
+      "reason": "All three cover the OpenAI frontier/RL training pause on alignment grounds but from distinct, complementary angles (CEO first-person, official company operational detail, and reporter attribution naming the Astra model)."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2089816129011098048",
+        "item_2089830890709135426"
+      ],
+      "reason": "Both cover the GLM-5.3 release: one vendor API announcement, one independent Artificial Analysis benchmark score. Complementary angles, not redundant."
+    }
+  ],
+  "additional_search_requests": []
+}
