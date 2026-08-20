@@ -1,0 +1,186 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Twelve selected items span OpenAI's Private Safety Processing announcement (org announcement plus CEO endorsement as distinct angles), on-device and local AI hardware (HUMAIN/Qualcomm, AMD MI350P), agent and open-source releases (Codex harness, Open Bot, AutoClip), alignment-compute analysis, an AI-in-medicine clinical result, and a research interview. No hard duplicates; the OpenAI and sama posts cover the same event from distinct angles and both are retained. OpenAI-centric subjects are somewhat overrepresented but overall coverage remains varied, so the set passes.",
+  "decisions": [
+    {
+      "id": "item_2090165328290701800",
+      "decision": "keep",
+      "reason": "Special-account primary announcement of Private Safety Processing plus continued Zero Data Retention; high engagement and self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as sama post but this is the org's primary announcement; sama's is CEO endorsement. Distinct angle."
+      }
+    },
+    {
+      "id": "item_2090163991234453611",
+      "decision": "keep",
+      "reason": "sama's CEO endorsement adds a distinct principal-voice angle to the Private Safety Processing story; very high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same event as OpenAI announcement; distinct angle (CEO endorsement vs org announcement). Retained as distinct angle."
+      }
+    },
+    {
+      "id": "item_2090230646497251387",
+      "decision": "keep",
+      "reason": "Concrete adoption news on the open-source Codex harness embedding agents in internal apps.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product/adoption story, no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2090113978533904781",
+      "decision": "keep",
+      "reason": "Notable Altman statement on near-term always-on ChatGPT context; distinct from the privacy announcement, high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different Altman statement (product vision) than the Private Safety Processing announcement; not duplicative."
+      }
+    },
+    {
+      "id": "item_2090002944200470796",
+      "decision": "keep",
+      "reason": "Concrete HUMAIN/Qualcomm on-device AI PC hardware announcement with very high views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct hardware story; thematically related to local-AI items but a separate concrete announcement."
+      }
+    },
+    {
+      "id": "item_2090028410722476204",
+      "decision": "keep",
+      "reason": "Widely discussed practitioner prediction on local AI with very high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Opinion/prediction on local AI; shares theme with HUMAIN item but different angle (forecast vs product)."
+      }
+    },
+    {
+      "id": "item_2090125716767773120",
+      "decision": "keep",
+      "reason": "Concrete open-source, harness-agnostic agent framework release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct open-source release; shares agent-harness theme with Codex item but a separate product."
+      }
+    },
+    {
+      "id": "item_2090085886407155826",
+      "decision": "keep",
+      "reason": "Concrete analysis of OpenAI compute allocation to alignment/chain-of-thought monitoring.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Alignment-compute analysis, distinct from the privacy announcement despite OpenAI subject."
+      }
+    },
+    {
+      "id": "item_2090076609747251644",
+      "decision": "keep",
+      "reason": "Concrete AMD Instinct MI350P hardware product announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct enterprise datacenter hardware announcement; no overlap with on-device HUMAIN item."
+      }
+    },
+    {
+      "id": "item_2090142525835374777",
+      "decision": "keep",
+      "reason": "Concrete AI-in-medicine clinical result (Moderna phase 3 AI-assisted mRNA cancer treatment).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique medicine/biotech story; low engagement but distinct coverage area."
+      }
+    },
+    {
+      "id": "item_2090117264712642858",
+      "decision": "keep",
+      "reason": "Notable research interview release (Rich Sutton, Training Data episode).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct research/personal-story content; no overlap."
+      }
+    },
+    {
+      "id": "item_2090103120399655356",
+      "decision": "keep",
+      "reason": "Concrete open-source tool release (AutoClip) with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct open-source tool; different from agent-harness releases."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2090165328290701800",
+        "item_2090163991234453611"
+      ],
+      "reason": "OpenAI org announcement of Private Safety Processing and sama's CEO endorsement cover the same event from distinct angles; both retained."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2090165328290701800",
+        "item_2090163991234453611",
+        "item_2090230646497251387",
+        "item_2090113978533904781",
+        "item_2090085886407155826"
+      ],
+      "reason": "OpenAI-centric subjects and accounts dominate the set (org, CEO, Devs, Altman statement, and OpenAI-alignment analysis); coverage still varied enough to pass but flagged for balance."
+    }
+  ],
+  "additional_search_requests": []
+}
