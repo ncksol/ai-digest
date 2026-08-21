@@ -1,0 +1,188 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Fourteen selected items covering distinct AI stories: xAI Grok app-building, GPT-Image-2 transparent backgrounds, OpenAI Computer History EEA rollout, a karpathy analysis reply (with successful context summary), Palantir/data-retention policy report, two distinct MaxForAI Anthropic items (Computer Use launch, Claude Academy), gisting technique, DeepSeek v4 Flash adoption, an AI-watermark-stripping model, Hassabis rogue-AI warning, open-source Grok Bot, and a Reuters/UK-AISI malware report. No hard duplicates found. MaxForAI appears twice but on separate stories; flagged as overrepresented author for awareness. All special-account and reply items carry adequate self-contained or summarized context, so all are kept.",
+  "decisions": [
+    {
+      "id": "item_2090518541480898973",
+      "decision": "keep",
+      "reason": "Concrete xAI product release: Grok app-building opened to all SuperGrok/X Premium plans. Self-contained and newsworthy.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the open-source Grok Bot item (RoundtableSpace); this is xAI's first-party app builder."
+      }
+    },
+    {
+      "id": "item_2090536933571330440",
+      "decision": "keep",
+      "reason": "Concrete API feature: transparent backgrounds in preview for GPT-Image-2. Self-contained product news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2090488285198250017",
+      "decision": "keep",
+      "reason": "Special account (OpenAI), self-contained. Computer History rolls out to European Pro/Business/Enterprise users. Distinct from GPT-Image-2 and other OpenAI-adjacent items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different feature/region from the OpenAIDevs GPT-Image-2 item."
+      }
+    },
+    {
+      "id": "item_2090478783895929036",
+      "decision": "keep",
+      "reason": "Special account (karpathy) reply. selection_reason provides a successful context summary of the parent thread (Chris McCormick's abstraction-free forward_backward nanochat approach), so the combined conversation is judged, not the isolated reply. Substantive analysis on tearing down ML abstractions in the agent era.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique analysis; context summary present, so kept as standalone material."
+      }
+    },
+    {
+      "id": "item_2090525062373732860",
+      "decision": "keep",
+      "reason": "Reports Palantir CEO Alex Karp criticising AI-lab data retention and labs adjusting policy. Notable company/policy angle. Self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No duplicate; distinct policy story."
+      }
+    },
+    {
+      "id": "item_2090569520717115493",
+      "decision": "keep",
+      "reason": "Anthropic formally launches Claude Computer Use. Concrete product-launch news; self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author (MaxForAI) as the Claude Academy item but a different Anthropic story."
+      }
+    },
+    {
+      "id": "item_2090569830286205306",
+      "decision": "keep",
+      "reason": "Anthropic launches free Claude Academy learning platform. Distinct story from Computer Use. Self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same author (MaxForAI) as Computer Use item; different product/event, so not redundant."
+      }
+    },
+    {
+      "id": "item_2090494322101957006",
+      "decision": "keep",
+      "reason": "Practitioner analysis on prompt gisting for latency/throughput gains. Concrete technique with figures. Self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique technique observation."
+      }
+    },
+    {
+      "id": "item_2090596382306361380",
+      "decision": "keep",
+      "reason": "Reports DeepSeek v4 Flash adoption growing 6x to 18T tokens/day on OpenCode. Concrete adoption data. Self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique adoption-data story."
+      }
+    },
+    {
+      "id": "item_2090558762251952569",
+      "decision": "keep",
+      "reason": "Practitioner reports a model that de-slops text and strips Anthropic's text watermark, defeating a Pangram detector. Notable and self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from other Anthropic items; watermarking angle is unique."
+      }
+    },
+    {
+      "id": "item_2090490463232856080",
+      "decision": "keep",
+      "reason": "Hassabis warns of AI going rogue within 2-4 years. Notable safety statement from a lab head. Self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct safety-statement story; different from the UK-AISI malware item."
+      }
+    },
+    {
+      "id": "item_2090442479632060628",
+      "decision": "keep",
+      "reason": "Open-source Grok Bot released, harness-agnostic with data ownership. Concrete release. Self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different story from xAI's first-party Grok app builder; this is a third-party open-source project."
+      }
+    },
+    {
+      "id": "item_2090665080874848442",
+      "decision": "keep",
+      "reason": "Reuters surfaces a GitHub record of UK AISI-tested models attempting to deploy malware. Policy/safety story. Self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the Hassabis warning; different concrete event and angle."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2090569520717115493",
+        "item_2090569830286205306"
+      ],
+      "reason": "MaxForAI appears twice in the selected set. Both are Anthropic-related product stories (Claude Computer Use launch and Claude Academy). They are distinct events and angles, so both are kept, but the author is overrepresented for one cycle."
+    }
+  ],
+  "additional_search_requests": []
+}

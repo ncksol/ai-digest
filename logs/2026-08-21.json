@@ -1,0 +1,299 @@
+{
+  "date": "2026-08-21",
+  "searches": [
+    {
+      "query": "AI since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "LLM since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "machine learning since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "GPT OR Claude OR Gemini since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "open source AI model since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "AI agent since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "Sam Altman since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "Dario Amodei since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "Demis Hassabis since:2026-08-20",
+      "limit": 20
+    },
+    {
+      "query": "from:karpathy since:2026-08-20",
+      "limit": 5
+    },
+    {
+      "query": "from:sama since:2026-08-20",
+      "limit": 5,
+      "result": "No tweets found (empty)"
+    },
+    {
+      "query": "from:OpenAI since:2026-08-20",
+      "limit": 5
+    },
+    {
+      "query": "from:AnthropicAI since:2026-08-20",
+      "limit": 5,
+      "result": "No tweets found (empty)"
+    }
+  ],
+  "selected_items": [
+    {
+      "id": "2090518541480898973",
+      "author": "grok",
+      "text": "Building apps on https://grok.com, iOS, and Android is now available on every SuperGrok and X Premium plan. One prompt turns an idea into a published product with its own domain.",
+      "url": "https://xcancel.com/grok/status/2090518541480898973",
+      "derived_timestamp": "2026-08-20T19:19:00Z",
+      "replies": 202,
+      "retweets": 441,
+      "likes": 2700,
+      "views": 1500000,
+      "category": "news",
+      "selection_reason": "xAI opens app-building on grok.com and mobile to all SuperGrok/X Premium plans; concrete product release."
+    },
+    {
+      "id": "2090536933571330440",
+      "author": "OpenAIDevs",
+      "text": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API. Generate reusable assets you can place on any background\u2014for product imagery, graphic design, website mockups, and marketing campaigns.",
+      "url": "https://xcancel.com/OpenAIDevs/status/2090536933571330440",
+      "derived_timestamp": "2026-08-20T20:29:00Z",
+      "replies": 174,
+      "retweets": 510,
+      "likes": 3800,
+      "views": 624000,
+      "category": "news",
+      "selection_reason": "GPT-Image-2 API gains transparent-background preview; concrete product/API feature."
+    },
+    {
+      "id": "2090488285198250017",
+      "author": "OpenAI",
+      "text": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.",
+      "url": "https://xcancel.com/OpenAI/status/2090488285198250017",
+      "derived_timestamp": "2026-08-20T17:16:00Z",
+      "replies": 10,
+      "retweets": 6,
+      "likes": 78,
+      "views": 38000,
+      "category": "news",
+      "selection_reason": "Special account (OpenAI). Self-contained. Computer History rolls out to European Pro/Business/Enterprise users.",
+      "is_self_contained": true,
+      "is_reply": false,
+      "context_tweet_ids": [],
+      "context_summary": "Standalone product-availability announcement.",
+      "context_retrieval_status": "not_needed"
+    },
+    {
+      "id": "2090478783895929036",
+      "author": "karpathy",
+      "text": "@ChrisJMcCormick Yeah, increasingly a lot more appealing to tear down these abstractions now that agents can do a lot of the math and drudgery and verification. A lot of the abstractions were built for a world with constraints of finite intelligence and attention in the industry.",
+      "url": "https://xcancel.com/karpathy/status/2090478783895929036",
+      "derived_timestamp": "2026-08-20T16:37:00Z",
+      "replies": 13,
+      "retweets": 14,
+      "likes": 217,
+      "views": 22000,
+      "category": "analysis",
+      "selection_reason": "Special account (karpathy). Reply to Chris McCormick, who described writing model code as a single compilable forward_backward function with no autograd and no torch.nn abstractions, letting Claude write the backward math for the 24-layer nanochat architecture. Karpathy argues tearing down such abstractions is now appealing because agents handle the math and verification, and the abstractions were built for a world constrained by finite intelligence and attention.",
+      "is_self_contained": false,
+      "is_reply": true,
+      "context_tweet_ids": [
+        "2089442519205765378"
+      ],
+      "context_summary": "Reply to ChrisJMcCormick's post about writing model code as a single compilable forward_backward function (no autograd, no torch.nn), with Claude writing the backward math for the 24-layer nanochat architecture.",
+      "context_retrieval_status": "success"
+    },
+    {
+      "id": "2090525062373732860",
+      "author": "ns123abc",
+      "text": "OPENAI AND ANTHROPIC JUST FOLDED ON THEIR DATA RETENTION POLICY AFTER PALANTIR CEO EXPOSED THEIR REAL BUSINESS MODEL. Alex Karp: something has gone completely wrong; they want access to my data so they can build my alpha.",
+      "url": "https://xcancel.com/ns123abc/status/2090525062373732860",
+      "derived_timestamp": "2026-08-20T19:44:00Z",
+      "replies": 138,
+      "retweets": 354,
+      "likes": 2100,
+      "views": 197000,
+      "category": "news",
+      "selection_reason": "Reports Palantir CEO Alex Karp criticising AI-lab data retention and the labs adjusting policy; company/policy move."
+    },
+    {
+      "id": "2090569520717115493",
+      "author": "MaxForAI",
+      "text": "Anthropic finally made official a feature that had been dragging on for nearly two years. Claude's Computer Use feature has been officially announced as launched. Computer Use was actually released as early as October 2024.",
+      "url": "https://xcancel.com/MaxForAI/status/2090569520717115493",
+      "derived_timestamp": "2026-08-20T22:37:00Z",
+      "replies": 28,
+      "retweets": 6,
+      "likes": 79,
+      "views": 35000,
+      "category": "news",
+      "selection_reason": "Anthropic formally launches Claude Computer Use, nearly two years after its 2024 preview."
+    },
+    {
+      "id": "2090569830286205306",
+      "author": "MaxForAI",
+      "text": "Claude is gearing up to take on Google head-on. Anthropic officially launched Claude Academy, open to everyone for free. It offers courses from AI basics to using Claude, plus tutorials and use cases.",
+      "url": "https://xcancel.com/MaxForAI/status/2090569830286205306",
+      "derived_timestamp": "2026-08-20T22:38:00Z",
+      "replies": 9,
+      "retweets": 13,
+      "likes": 82,
+      "views": 34000,
+      "category": "news",
+      "selection_reason": "Anthropic launches free Claude Academy learning platform. Distinct from Computer Use item."
+    },
+    {
+      "id": "2090494322101957006",
+      "author": "MParakhin",
+      "text": "Gisting is the most underappreciated LLM technique right now. It is basically zipping your prompt before running in production - it stops being human-readable, but is much smaller, runs much faster: ~40% lower E2E latency, ~15% higher throughput and the results are BETTER!",
+      "url": "https://xcancel.com/MParakhin/status/2090494322101957006",
+      "derived_timestamp": "2026-08-20T17:39:00Z",
+      "replies": 33,
+      "retweets": 20,
+      "likes": 702,
+      "views": 62000,
+      "category": "analysis",
+      "selection_reason": "Practitioner observation on prompt gisting for latency/throughput gains in production LLMs."
+    },
+    {
+      "id": "2090596382306361380",
+      "author": "jayair",
+      "text": "DeepSeek v4 Flash launched Aug 1st and within 2 weeks went from 3T tokens a day to 18T tokens a day on OpenCode; a 6x increase, close to doubling all other model usage on the platform.",
+      "url": "https://xcancel.com/jayair/status/2090596382306361380",
+      "derived_timestamp": "2026-08-21T00:24:00Z",
+      "replies": 93,
+      "retweets": 144,
+      "likes": 2100,
+      "views": 86000,
+      "category": "analysis",
+      "selection_reason": "Reports DeepSeek v4 Flash usage growing 6x to 18T tokens/day on OpenCode; adoption data."
+    },
+    {
+      "id": "2090558762251952569",
+      "author": "agapekeleta",
+      "text": "I trained an LLM to remove AI slop and read more natural by matching how humans actually write. It can also remove the newly introduced statistical watermark embedded in Claude-generated text. Across my evaluation set, Pangram v4 classified every output as human-written.",
+      "url": "https://xcancel.com/agapekeleta/status/2090558762251952569",
+      "derived_timestamp": "2026-08-20T21:52:00Z",
+      "replies": 26,
+      "retweets": 20,
+      "likes": 175,
+      "views": 19000,
+      "category": "practitioner",
+      "selection_reason": "Practitioner reports a model that both de-slops text and strips Anthropic's text watermark, defeating a Pangram detector."
+    },
+    {
+      "id": "2090490463232856080",
+      "author": "danysvnt",
+      "text": "GOOGLE DEEPMIND CEO WARNS AI COULD GET OUT OF CONTROL IN THE NEXT 2-4 YEARS. Demis Hassabis on one of the things that worries him most: the AI itself going rogue or going off the rails, and he puts it at 2-4 years, not decades away.",
+      "url": "https://xcancel.com/danysvnt/status/2090490463232856080",
+      "derived_timestamp": "2026-08-20T17:33:00Z",
+      "replies": 12,
+      "retweets": 17,
+      "likes": 86,
+      "views": 7800,
+      "category": "news",
+      "selection_reason": "Hassabis warns of AI going rogue within 2-4 years; notable safety statement from a lab head."
+    },
+    {
+      "id": "2090442479632060628",
+      "author": "RoundtableSpace",
+      "text": "Open Bot is an open source Grok Bot that works with any agent harness - AI coworkers, generative UI, computer use, agent-human handoffs, and full data ownership baked in. The enterprise AI stack just went open source.",
+      "url": "https://xcancel.com/RoundtableSpace/status/2090442479632060628",
+      "derived_timestamp": "2026-08-20T14:15:00Z",
+      "replies": 4,
+      "retweets": 6,
+      "likes": 58,
+      "views": 43000,
+      "category": "news",
+      "selection_reason": "Open-source Grok Bot alternative released, harness-agnostic with data ownership."
+    },
+    {
+      "id": "2090665080874848442",
+      "author": "ednewtonrex",
+      "text": "Reuters found the GitHub record of the attempt by AI models being tested by the UK's AI Security Institute to deploy malware in an open-source project. Pretty sure these actions are illegal under the Computer Misuse Act in the UK.",
+      "url": "https://xcancel.com/ednewtonrex/status/2090665080874848442",
+      "derived_timestamp": "2026-08-21T03:57:00Z",
+      "replies": 3,
+      "retweets": 18,
+      "likes": 54,
+      "views": 2300,
+      "category": "news",
+      "selection_reason": "Reuters surfaces a GitHub record of UK AISI-tested models attempting to deploy malware in an open-source project; policy/safety."
+    }
+  ],
+  "rejected_notable_items": [
+    {
+      "id": "2090603356649562522",
+      "author": "DavidCarbutt_",
+      "text": "Grok Bot testimonial",
+      "url": "https://xcancel.com/DavidCarbutt_/status/2090603356649562522",
+      "replies": 113,
+      "retweets": 173,
+      "likes": 1400,
+      "views": 556000,
+      "exclusion_reason": "Promotional testimonial, no concrete news."
+    },
+    {
+      "id": "2090417108559548554",
+      "author": "SlackHQ",
+      "text": "Slack Code launch",
+      "url": "https://xcancel.com/SlackHQ/status/2090417108559548554",
+      "replies": 80,
+      "retweets": 249,
+      "likes": 1300,
+      "views": 416000,
+      "exclusion_reason": "Reserve: concrete product (Slack Code multi-agent coding). Held as replacement candidate."
+    },
+    {
+      "id": "2090471298422170022",
+      "author": "ShubhamInTech",
+      "text": "Agnost AI YC S26 first model beats frontier on customer traces",
+      "url": "https://xcancel.com/ShubhamInTech/status/2090471298422170022",
+      "replies": 95,
+      "retweets": 115,
+      "likes": 322,
+      "views": 225000,
+      "exclusion_reason": "Reserve: model release with benchmark claim. Held as replacement candidate."
+    },
+    {
+      "id": "2090472522320118152",
+      "author": "AlexFinn",
+      "text": "Uncensored Qwen 3.8 27B answers dangerous prompts",
+      "url": "https://xcancel.com/AlexFinn/status/2090472522320118152",
+      "replies": 750,
+      "retweets": 320,
+      "likes": 2800,
+      "views": 578000,
+      "exclusion_reason": "Reserve: safety angle on open-weight uncensored model. Held as replacement candidate."
+    },
+    {
+      "id": "2090436430208049330",
+      "author": "_yusufknl",
+      "text": "Euler's formula LLM explainer",
+      "url": "https://xcancel.com/_yusufknl/status/2090436430208049330",
+      "replies": 4,
+      "retweets": 34,
+      "likes": 234,
+      "views": 11000,
+      "exclusion_reason": "Educational share, weak news value."
+    }
+  ]
+}

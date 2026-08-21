@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "errors": [
+    {
+      "ok": false,
+      "stage": "editorial_sanity",
+      "code": "generic_reason",
+      "path": "/decisions/item_2090665080874848442/reason",
+      "message": "Decision for item_2090665080874848442 lacks item-specific evidence about source, recency, duplicate status, angle, engagement, primary-source quality, concrete release, benchmark, analysis, or evidence"
+    }
+  ]
+}
