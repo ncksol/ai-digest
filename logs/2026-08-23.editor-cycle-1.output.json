@@ -1,0 +1,201 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "Reviewed 14 selected items against the pool. All items cover distinct stories with traceable sources and no true redundancy. The two robotics clips (Optimus laundry demo, China robot 1-year progress) are the same broad topic but distinct angles/subjects, flagged accordingly rather than deduplicated. Author distribution is diverse with no overrepresentation. Selection count (14) sits at the top of the normal range, so all items pass without replacement.",
+  "decisions": [
+    {
+      "id": "item_2091150619533009361",
+      "decision": "keep",
+      "reason": "Concrete DeepSeek API pricing/policy change effective today from a major open-weight lab; unique story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other pool items."
+      }
+    },
+    {
+      "id": "item_2091308338617393628",
+      "decision": "keep",
+      "reason": "Named executive (Aravind Srinivas) making a specific export-control/open-source-gap claim; distinct analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "China/open-source theme but unique framing versus other items."
+      }
+    },
+    {
+      "id": "item_2091297990845874468",
+      "decision": "keep",
+      "reason": "Randomised controlled study with quantified diagnostic-degradation figures; unique medical-LLM result.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the antibody benchmark item; different study and domain angle."
+      }
+    },
+    {
+      "id": "item_2091184412323188741",
+      "decision": "keep",
+      "reason": "Peer-reviewed blinded antibody benchmark contradicting AI-for-biology claims; distinct study.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate study from the medical-communication RCT; no redundancy."
+      }
+    },
+    {
+      "id": "item_2091108225806454802",
+      "decision": "keep",
+      "reason": "MIT professor documenting a concrete multi-agent engineering-to-manufacture experiment; unique practitioner demo.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other agentic-tool items."
+      }
+    },
+    {
+      "id": "item_2091194172917338520",
+      "decision": "keep",
+      "reason": "High-engagement privacy objection to ChatGPT reading local iMessage caches; unique story with full text.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct topic; no duplicate in pool."
+      }
+    },
+    {
+      "id": "item_2091144777160851859",
+      "decision": "keep",
+      "reason": "Concrete open-source agentic security tool (Strix penetration testing); unique news item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different from the Buehler manufacturing demo; distinct tool/story."
+      }
+    },
+    {
+      "id": "item_2091268049265652122",
+      "decision": "keep",
+      "reason": "Scheduled long-form Sam Altman interview releasing today; unique news event.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other items."
+      }
+    },
+    {
+      "id": "item_2091255231606554861",
+      "decision": "keep",
+      "reason": "Widely circulated Anthropic valuation-vs-Walmart bubble comparison with concrete figures; unique framing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct business/market-sentiment angle."
+      }
+    },
+    {
+      "id": "item_2091082195431833747",
+      "decision": "keep",
+      "reason": "Practical Claude Code context-budget observation with quantified magnitude; distinct practitioner tip.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different from other Claude Code items in the pool; unique angle on token waste."
+      }
+    },
+    {
+      "id": "item_2091127304416096675",
+      "decision": "keep",
+      "reason": "Concrete Optimus laundry-loading robotics demo claim; distinct subject.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Same broad robotics topic as EHuanglu item but different robot (Tesla Optimus) and distinct capability angle; not a duplicate."
+      }
+    },
+    {
+      "id": "item_2091128859404177691",
+      "decision": "keep",
+      "reason": "High-engagement nationality-based account-ban discussion; distinct access-policy story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other pool items."
+      }
+    },
+    {
+      "id": "item_2091329080943861832",
+      "decision": "keep",
+      "reason": "China AI robot 1-year progress clip circulating today; distinct subject from Optimus demo.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Shares the broad humanoid-robotics topic with the Optimus item but covers Chinese robots and year-over-year progress; distinct angle, not the same event."
+      }
+    },
+    {
+      "id": "item_2091201867737145472",
+      "decision": "keep",
+      "reason": "Highest-engagement practitioner build of the window (English<->Claudish translator); unique project.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from other Claude-related items; novel build."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2091127304416096675",
+        "item_2091329080943861832"
+      ],
+      "notes": "Two humanoid-robotics items in the set (Tesla Optimus laundry demo and China robot 1-year progress). Same broad topic, distinct subjects and angles; retained both intentionally."
+    }
+  ],
+  "additional_search_requests": []
+}
