@@ -1,0 +1,219 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "14 selected items reviewed; all within the 8-14 target and individually publishable. Three Sam Altman items (davidsenra interview, ns123abc timeline-admission clip, cgtwts Sora/Atlas clip) share the same interview event but present distinct non-redundant angles. Three open-source items (GavinSBaker token share, rohanpaul_ai Srinivas/China, AndrewYNg Marin) converge on the open-source theme with distinct angles. rohanpaul_ai appears twice on distinct stories. No hard duplicates, fingerprint collisions, or source-traceability failures detected.",
+  "decisions": [
+    {
+      "id": "item_2090885187634905500",
+      "decision": "keep",
+      "reason": "OpenAI official GPT-5.6 Sol pricing cut, self-contained news, major reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique pricing announcement."
+      }
+    },
+    {
+      "id": "item_2090852314319880425",
+      "decision": "keep",
+      "reason": "Anthropic Claude Security scans product launch on Claude Mythos 5, distinct news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product beta."
+      }
+    },
+    {
+      "id": "item_2090933155847143498",
+      "decision": "keep",
+      "reason": "Claude Code Remote Control reliability update, distinct from the security scan item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate Claude Code feature story."
+      }
+    },
+    {
+      "id": "item_2091542026072338623",
+      "decision": "keep",
+      "reason": "Concrete open-source token-share data point; distinct data angle within open-source theme.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares open-source topic but distinct empirical angle."
+      }
+    },
+    {
+      "id": "item_2091308338617393628",
+      "decision": "keep",
+      "reason": "Srinivas argument on China open-source and export controls; distinct policy angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Open-source theme, policy/geopolitics angle."
+      }
+    },
+    {
+      "id": "item_2091635718007464352",
+      "decision": "keep",
+      "reason": "Hugging Face reported $13B+ sale exploration, concrete finance news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique M&A/finance story."
+      }
+    },
+    {
+      "id": "item_2091525869638434945",
+      "decision": "keep",
+      "reason": "Primary Altman interview release; anchor source for the Altman cluster.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Source interview; ns123abc and cgtwts appear to be clips from this event with distinct extracted angles."
+      }
+    },
+    {
+      "id": "item_2091547103709340131",
+      "decision": "keep",
+      "reason": "Altman AGI-timeline admission clip, substantive standalone quote and angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Likely from davidsenra interview; distinct timeline-hype angle."
+      }
+    },
+    {
+      "id": "item_2091612826284834904",
+      "decision": "keep",
+      "reason": "Altman confirming Sora/Atlas killed to reallocate compute to Codex; distinct product-strategy angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Likely from same Altman interview; distinct compute-reallocation angle."
+      }
+    },
+    {
+      "id": "item_2091688153048645650",
+      "decision": "keep",
+      "reason": "Andrew Ng highlighting Marin fully-open training project; distinct practitioner angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Open-source theme, specific-project angle."
+      }
+    },
+    {
+      "id": "item_2091651649785749838",
+      "decision": "keep",
+      "reason": "Technical note on local LLM quantisation quality; unique practitioner content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique technical topic."
+      }
+    },
+    {
+      "id": "item_2091551485586788728",
+      "decision": "keep",
+      "reason": "Security concern on silent AI-agent data access from a credible practitioner.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique security/privacy story."
+      }
+    },
+    {
+      "id": "item_2091564489967558674",
+      "decision": "keep",
+      "reason": "Notable Claude agent-autonomy demo (1f916.ai), high reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique agent-autonomy demo."
+      }
+    },
+    {
+      "id": "item_2091626053118914817",
+      "decision": "keep",
+      "reason": "Gemini 3.7 flash benchmark result; distinct model-performance news.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique benchmark story."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2091525869638434945",
+        "item_2091547103709340131",
+        "item_2091612826284834904"
+      ],
+      "reason": "Three items tied to the Sam Altman interview: davidsenra is the source release; ns123abc (timeline hype admission) and cgtwts (Sora/Atlas killed for Codex compute) are distinct clips/angles from the same event. Kept as distinct angles; consider trimming if space is tight."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2091542026072338623",
+        "item_2091308338617393628",
+        "item_2091688153048645650"
+      ],
+      "reason": "Three open-source-focused items with distinct angles: GavinSBaker token-share data, rohanpaul_ai Srinivas/China export-control argument, AndrewYNg Marin open-training project. Complementary rather than redundant."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2091308338617393628",
+        "item_2091635718007464352"
+      ],
+      "reason": "rohanpaul_ai appears twice (Srinivas/China analysis and Hugging Face sale news). Both are distinct stories; noted only for author-balance awareness."
+    }
+  ],
+  "additional_search_requests": []
+}
