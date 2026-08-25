@@ -1,0 +1,231 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Strong, coherent set of 16 concrete AI stories for 2026-08-25, weighted toward open-source agentic releases, local/distributed AI hardware, and AI policy/labour impacts. Two same-topic-distinct-angle clusters (open-source agentic harnesses; local AI hardware) are acceptable as distinct products. The thsottiaux DevDay tweet is thin promotional hype with no concrete substance and overlaps the same person featured in the Berman interview; replacing it with the theallinpod open-source-AI-ban prediction adds a concrete, higher-engagement policy angle. All other items pass.",
+  "decisions": [
+    {
+      "id": "item_2091827310160908400",
+      "decision": "keep",
+      "reason": "Concrete China local-AI hardware prototype with detailed specs; strong news value and high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares local-AI-hardware theme with alex_verem but is a specific product release, not a distributed-inference concept."
+      }
+    },
+    {
+      "id": "item_2091916791308313018",
+      "decision": "keep",
+      "reason": "Open-source agentic model family release with open weights and harness; concrete and notable.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Part of open-source agentic release cluster but a distinct product from Headlong and AgentX."
+      }
+    },
+    {
+      "id": "item_2091990178638496195",
+      "decision": "keep",
+      "reason": "Open-source persistent-agent microharness release; distinct technical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct persistent-agent concept versus Apodex model release and AgentX benchmark."
+      }
+    },
+    {
+      "id": "item_2092040745842774377",
+      "decision": "keep",
+      "reason": "Open-source agentic coding benchmark built from real production traces; distinct and concrete.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Benchmark release, distinct from the Apodex and Headlong harness/model releases."
+      }
+    },
+    {
+      "id": "item_2092012525445677368",
+      "decision": "keep",
+      "reason": "Concrete company-strategy story on Nvidia open-model giveaway tied to compute demand.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct strategic angle from the open-source model/harness releases."
+      }
+    },
+    {
+      "id": "item_2092076635545801137",
+      "decision": "keep",
+      "reason": "Concrete regulatory/legal action against OpenAI; strong news value.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique legal/regulatory story."
+      }
+    },
+    {
+      "id": "item_2092132127701659736",
+      "decision": "keep",
+      "reason": "Concrete policy move banning AI-generated songs from Australian charts.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique AI-content policy story."
+      }
+    },
+    {
+      "id": "item_2091844930662465876",
+      "decision": "keep",
+      "reason": "High-engagement labour-market data point on AI displacement of graduate roles.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique labour-market angle."
+      }
+    },
+    {
+      "id": "item_2091959711423996249",
+      "decision": "keep",
+      "reason": "Substantive long-form interview covering DeepMind, OpenAI roadmap, model merging and OpenAI vs Anthropic; high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Features Tibo Sottiaux; the thsottiaux DevDay tweet involves the same person but a different, thinner angle. This interview is the substantive item and is retained."
+      }
+    },
+    {
+      "id": "item_2092117461646856505",
+      "decision": "replace",
+      "reason": "Thin promotional hype with no concrete information; overlaps the same person (Sottiaux) already covered substantively by the Berman interview. Replaced with a concrete, higher-value open-source-AI-policy prediction.",
+      "superseded_by": null,
+      "replacement_candidate_id": "item_2091923804725362902",
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Not a strict duplicate, but same-person overlap with the Berman interview plus low substantive content makes it the weakest selected item."
+      }
+    },
+    {
+      "id": "item_2092045870422495404",
+      "decision": "keep",
+      "reason": "Substantive analysis on automating pure math versus deep-learning research.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique analytical angle."
+      }
+    },
+    {
+      "id": "item_2091931594328293663",
+      "decision": "keep",
+      "reason": "Practitioner analysis on distributed local model inference as a cloud-GPU alternative.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares local-AI theme with Xiaomi item but is a distinct distributed-inference concept, not a product release."
+      }
+    },
+    {
+      "id": "item_2091919592150995285",
+      "decision": "keep",
+      "reason": "Concrete practitioner agentic-workflow loop pattern; good engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner workflow angle from the agentic release cluster."
+      }
+    },
+    {
+      "id": "item_2091771064032399387",
+      "decision": "keep",
+      "reason": "Concrete ICLR 2026 paper explaining optimiser behaviour in LLM training.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research analysis."
+      }
+    },
+    {
+      "id": "item_2091985814213280213",
+      "decision": "keep",
+      "reason": "Market-share data point on Perplexity's decline among LLM assistants.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique market-share angle."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2091916791308313018",
+        "item_2091990178638496195",
+        "item_2092040745842774377"
+      ],
+      "reason": "Three open-source agentic releases (Apodex model, Headlong harness, AgentX benchmark) cluster on the same theme but are distinct products with different angles; acceptable together."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2091827310160908400",
+        "item_2091931594328293663"
+      ],
+      "reason": "Both cover local/on-owned-hardware AI but from distinct angles: a specific Xiaomi hardware prototype versus a distributed-inference concept across owned machines."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2091959711423996249",
+        "item_2092117461646856505"
+      ],
+      "reason": "Tibo Sottiaux features in both the Berman interview and his own DevDay tweet; retaining only the substantive interview and replacing the thin DevDay tweet resolves the overlap."
+    }
+  ],
+  "additional_search_requests": []
+}
