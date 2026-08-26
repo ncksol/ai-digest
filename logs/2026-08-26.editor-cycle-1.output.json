@@ -1,0 +1,224 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Reviewed 15 selected items. Core set is strong and well-diversified across company, product, business, robotics, open-source, benchmark, and analysis. Two editorial concerns: (1) the sama chip teaser overlaps the same Jalapeno event as the fuller OpenAI news post — same event, distinct CEO-reaction angle, retained under the special-account rule but flagged; (2) OpenAI is overrepresented across the set (official Jalapeno + Business Premium + the sama post as OpenAI CEO + the ShanuMathew93 OpenAI-departures item). All items retained; no replacements pulled. Set passes with these flags noted for downstream trimming if needed.",
+  "decisions": [
+    {
+      "id": "item_2092339694210040187",
+      "decision": "keep",
+      "reason": "sama special-account self-contained post; strongest sama post in window. Content is a thin teaser referring to the same Jalapeno chip results as the OpenAI news item, but it carries a distinct CEO-reaction angle and outsized engagement (33k likes, 3.2M views). Retained under the special-account rule.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same underlying event as item_2092300846675505602 (OpenAI Jalapeno chip). Distinct angle: CEO teaser vs official technical announcement. Kept per special-account rule."
+      }
+    },
+    {
+      "id": "item_2092300846675505602",
+      "decision": "keep",
+      "reason": "Primary hardware news of the window: OpenAI's official Jalapeno inference-chip results. Concrete claims on throughput/latency/efficiency. Special-account self-contained post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the Jalapeno event with the sama teaser (item_2092339694210040187) and the reserve deployment post (item_2092300851482108064), but is the canonical official news item with the fullest detail."
+      }
+    },
+    {
+      "id": "item_2092335305366069305",
+      "decision": "keep",
+      "reason": "Concrete pricing/product move ($100 ChatGPT Business Premium seat), distinct from the chip story. Strong reach (1.2M views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct OpenAI product story; unrelated to the Jalapeno chip event."
+      }
+    },
+    {
+      "id": "item_2092299704864284888",
+      "decision": "keep",
+      "reason": "Anthropic product change with a clear user-visible behaviour shift (unified memory across chat and Cowork). Solid engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Anthropic product story."
+      }
+    },
+    {
+      "id": "item_2092287131859267788",
+      "decision": "keep",
+      "reason": "High-engagement reported financial claim citing WSJ on Anthropic's potential revenue. Newsworthy business angle, distinct from the Claude product item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Anthropic business/finance angle; distinct event from the Claude memory product post."
+      }
+    },
+    {
+      "id": "item_2092276970226671789",
+      "decision": "keep",
+      "reason": "Concrete tooling change from a Cursor lead (increased Grok model usage limits). Practitioner-relevant product update.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Cursor/Grok tooling story."
+      }
+    },
+    {
+      "id": "item_2092268362386780270",
+      "decision": "keep",
+      "reason": "Local-inference product launch on named hardware (Perplexity Portable Computer on NVIDIA DGX Spark). Concrete, differentiated.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Perplexity local-runtime launch."
+      }
+    },
+    {
+      "id": "item_2092303621392376314",
+      "decision": "keep",
+      "reason": "Concrete robotics dataset release with numbers (Figure Index, 264k downloads, 16M videos). Only robotics item; good category coverage.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct robotics story."
+      }
+    },
+    {
+      "id": "item_2092315079576555806",
+      "decision": "keep",
+      "reason": "Open-source agent release with a specific use-case shift toward security workflows (OpenWorker). Credible source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct open-source agent story."
+      }
+    },
+    {
+      "id": "item_2092301580091711491",
+      "decision": "keep",
+      "reason": "Concrete benchmark result with pricing (Qwen3.8-27B #1 open in Image-to-WebDev Arena). Distinct benchmark angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct benchmark item; only tangential Qwen overlap with reserve Mac Mini post which merely mentions running Qwen."
+      }
+    },
+    {
+      "id": "item_2092275555408269796",
+      "decision": "keep",
+      "reason": "Company shutdown plus open-sourcing of an AI finance product suite (OpenBB). Notable business+open-source story despite lower raw engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct company/open-source story."
+      }
+    },
+    {
+      "id": "item_2092265673041084505",
+      "decision": "keep",
+      "reason": "New company launch addressing retrieval depth (KeenableAI). Distinct company-launch angle with decent reach (373k views).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct company launch."
+      }
+    },
+    {
+      "id": "item_2092288650386309143",
+      "decision": "keep",
+      "reason": "Named enterprise dispute over agent config standards (Shopify CEO pressuring Anthropic over AGENTS.md/skills support). Distinct industry angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct industry story."
+      }
+    },
+    {
+      "id": "item_2092244864352076044",
+      "decision": "keep",
+      "reason": "Practitioner analysis of the build-versus-buy shift with named companies (Ramp, Spotify, Thomson Reuters). Adds an analysis-category perspective.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct analysis piece."
+      }
+    },
+    {
+      "id": "item_2092363831347437639",
+      "decision": "keep",
+      "reason": "Reported OpenAI executive departures (Head of Data Centers, plus CRO and COO) ahead of a 2027 IPO. Newsworthy despite low raw engagement (49 likes); adds a distinct OpenAI business/personnel angle. Contributes to OpenAI overrepresentation, flagged at set level.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct OpenAI personnel/business story; unrelated to the Jalapeno or Business Premium items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2092339694210040187",
+        "item_2092300846675505602"
+      ],
+      "reason": "sama chip teaser and the official OpenAI Jalapeno news cover the same event with distinct angles (CEO reaction vs official technical announcement). Both retained under the special-account rule; downstream may pair or trim if space is tight."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2092300846675505602",
+        "item_2092335305366069305",
+        "item_2092339694210040187",
+        "item_2092363831347437639"
+      ],
+      "reason": "OpenAI is heavily represented: official Jalapeno news, Business Premium product, the sama post (OpenAI CEO), and the ShanuMathew93 departures item are all OpenAI-centric. Consider trimming toward the max-selection end if diversity is preferred."
+    }
+  ],
+  "additional_search_requests": []
+}
