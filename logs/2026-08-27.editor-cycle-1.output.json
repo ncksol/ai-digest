@@ -1,0 +1,225 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "15 selected items reviewed. The dominant Hugging Face incident cluster (OpenAI announcement, METR/Redwood findings, Greenblatt analysis, kimmonismus detail, Yudkowsky commentary) is heavy but each item carries a genuinely distinct angle, so all kept with a same_topic_distinct_angle flag. The TIME/AGI-by-2026 pair (AndrewCurran detail + TIME cover story) also share a topic with distinct angles. sama is a special-account reply with a confirmed thread context summary and is kept. Remaining items are self-contained and non-overlapping. No selected-set true duplicates, so no replacements needed.",
+  "decisions": [
+    {
+      "id": "item_2092691861773160673",
+      "decision": "keep",
+      "reason": "Primary source: OpenAI's own technical report/blog on the Hugging Face incident. Highest engagement, self-contained announcement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Part of Hugging Face incident cluster; this is the originating announcement, distinct from third-party and commentary angles."
+      }
+    },
+    {
+      "id": "item_2092692175452803393",
+      "decision": "keep",
+      "reason": "Third-party METR/Redwood findings (ExploitGym cheat, log tampering) add independent, concrete evidence distinct from OpenAI's framing.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident as OpenAI item but independent investigation angle."
+      }
+    },
+    {
+      "id": "item_2092692685224325542",
+      "decision": "keep",
+      "reason": "Lead transcript analyst's substantive practitioner takeaway on lack of swarm oversight tooling; distinct analytical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident, practitioner-analysis angle distinct from announcement/findings."
+      }
+    },
+    {
+      "id": "item_2092713457225462043",
+      "decision": "keep",
+      "reason": "Surfaces a specific vivid detail (agent stopped, resumed after another posted 'GO'); distinct narrative angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident, specific-detail angle. Distinct from other cluster items."
+      }
+    },
+    {
+      "id": "item_2092815693431648400",
+      "decision": "keep",
+      "reason": "Yudkowsky's notable-figure interpretation listing specific behaviours he flags as bad news; distinct commentary angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident, high-profile commentary angle."
+      }
+    },
+    {
+      "id": "item_2092661573223657834",
+      "decision": "keep",
+      "reason": "Anthropic special account, self-contained announcement opening privacy-preserved Claude data to external researchers. Unrelated topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone; no overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2092618789737353434",
+      "decision": "keep",
+      "reason": "Reports concrete detail (AGI-by-EOY claim, intern named Astra) from the TIME interview; distinct detail angle from the cover story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same TIME/AGI story as TIME item but distinct naming/timeline detail angle."
+      }
+    },
+    {
+      "id": "item_2092568710775189657",
+      "decision": "keep",
+      "reason": "TIME cover story is the originating source with direct Altman quote on 2026 missteps and reboot; distinct from the derived AGI-detail tweet.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same TIME interview as AndrewCurran item; originating-source vs derived-detail angle."
+      }
+    },
+    {
+      "id": "item_2092720058933879150",
+      "decision": "keep",
+      "reason": "sama special-account reply whose selection_reason contains a confirmed thread context summary: parent tweet by @KeyTryer (id 2092636162019971413) mocking Altman, and the reply both retrieved via autocli twitter thread. Combined conversation is substantive: Altman concedes society/economy integration is slower than he guessed while defending his capability-timeline predictions. Recent (age 9.98h), 1500 likes.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Special-account reply with successful context summary; judged on full conversation."
+      }
+    },
+    {
+      "id": "item_2092790775524516206",
+      "decision": "keep",
+      "reason": "Self-contained career-move announcement in Zoph's own words: he is joining Google DeepMind to work on RL and post-training, noting he started in the Google Brain Residency. Primary-source first-person announcement, recent (age 5.29h), 1500 likes / 174k views; no topic overlap with any other selected item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2092801824181153845",
+      "decision": "keep",
+      "reason": "Material acquisition news: reported Nvidia acquiring Hugging Face for $12.9bn. Distinct business story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from Hugging Face incident cluster; this is an acquisition story, not the security incident."
+      }
+    },
+    {
+      "id": "item_2092629415813365899",
+      "decision": "keep",
+      "reason": "Technical analysis identifying Ox Alpha as GLM-5.3-Flash with architecture detail; distinct model-analysis topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone technical analysis."
+      }
+    },
+    {
+      "id": "item_2092634841863123047",
+      "decision": "keep",
+      "reason": "High-engagement personal_story: Claude ran rm -rf on developer's home directory. Distinct cautionary story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone."
+      }
+    },
+    {
+      "id": "item_2092769966366036062",
+      "decision": "keep",
+      "reason": "On-camera Amodei quote that Anthropic isn't interested in destroying SaaS companies; selected primary of this event.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Amodei quote-event as reserve coinbureau item, but coinbureau is only a reserve, not selected; no selected-set duplication."
+      }
+    },
+    {
+      "id": "item_2092706230334574681",
+      "decision": "keep",
+      "reason": "Business/valuation news comparing Linear and Instinct both at $2.5bn; distinct topic.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2092691861773160673",
+        "item_2092692175452803393",
+        "item_2092692685224325542",
+        "item_2092713457225462043",
+        "item_2092815693431648400"
+      ],
+      "reason": "Five items all cover the Hugging Face incident report. Retained because each offers a distinct angle: OpenAI's primary announcement, METR/Redwood independent findings, Greenblatt's practitioner analysis, kimmonismus's specific 'GO' detail, and Yudkowsky's commentary. Cluster is large; downstream editing should ensure framing does not read as repetitive."
+    },
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2092618789737353434",
+        "item_2092568710775189657"
+      ],
+      "reason": "Both stem from the TIME interview / AGI-by-end-of-2026 story. TIME is the originating cover story with the Altman quote; AndrewCurran adds the specific Astra-intern naming detail. Distinct angles, both retained."
+    }
+  ],
+  "additional_search_requests": []
+}
