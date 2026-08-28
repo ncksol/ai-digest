@@ -1,0 +1,175 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 12 selected items are self-contained root posts or third-party reports of self-contained claims; none are special-account replies lacking context. The OpenAI and sama posts cover the same cyber-defense coalition story from distinct angles (official lab account vs CEO), so they are flagged as same_topic_distinct_angle but both retained. No redundant duplicates, no traceability failures, and no replacements required.",
+  "decisions": [
+    {
+      "id": "item_2093074192636018977",
+      "decision": "keep",
+      "reason": "OpenAI special-account self-contained root post announcing the multi-lab cyber-defense coalition; clear, verifiable, high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the cyber-defense coalition event with sama's post but from the official OpenAI account angle."
+      }
+    },
+    {
+      "id": "item_2093060670472241368",
+      "decision": "keep",
+      "reason": "sama special-account self-contained post giving the CEO's personal framing of the same coalition call; distinct voice and emphasis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same coalition event as the OpenAI post but personal-CEO angle urging urgent collective response."
+      }
+    },
+    {
+      "id": "item_2093038426140651791",
+      "decision": "keep",
+      "reason": "AnthropicAI special-account self-contained root tweet announcing the Model Hardware Standard research preview.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct standalone announcement."
+      }
+    },
+    {
+      "id": "item_2092931447644442635",
+      "decision": "keep",
+      "reason": "Hugging Face CEO self-contained announcement of a $399 open-source RL robot; strong engagement and clear news value.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product announcement."
+      }
+    },
+    {
+      "id": "item_2092951571978219883",
+      "decision": "keep",
+      "reason": "TIME official account releasing the 2026 TIME100 AI list; self-contained and high-visibility.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct editorial release."
+      }
+    },
+    {
+      "id": "item_2093171563671511295",
+      "decision": "keep",
+      "reason": "Reports a concrete court ruling vacating the Pentagon blacklist of Anthropic; self-contained claim with specific legal details.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct legal news; unrelated to the coalition or MHS stories."
+      }
+    },
+    {
+      "id": "item_2093014818647339026",
+      "decision": "keep",
+      "reason": "Self-contained release announcement of PhoneLLM, an open model for low-latency voice agents with concrete performance claims.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model release."
+      }
+    },
+    {
+      "id": "item_2093091434064670861",
+      "decision": "keep",
+      "reason": "Self-contained analysis of Thomson Reuters building its own model on Qwen; concrete cost figures and open-weight angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct enterprise-model story."
+      }
+    },
+    {
+      "id": "item_2093188402787262585",
+      "decision": "keep",
+      "reason": "Reports Altman's stated plan for OpenAI to build humanoid robots; self-contained sourced claim (per Alex Heath).",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct robotics story; separate from the coalition cyber post."
+      }
+    },
+    {
+      "id": "item_2092883820877926851",
+      "decision": "keep",
+      "reason": "Self-contained practitioner item on University of Michigan open-sourcing its robotics curriculum on GitHub.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct education/open-resource story."
+      }
+    },
+    {
+      "id": "item_2092853228560138448",
+      "decision": "keep",
+      "reason": "Self-contained release announcement of GLM-5.3-Flash, an MIT-licensed 320B multimodal model on Chinese chips.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model release; separate from PhoneLLM."
+      }
+    },
+    {
+      "id": "item_2092769966366036062",
+      "decision": "keep",
+      "reason": "Self-contained quote from Amodei on not destroying SaaS companies; clear standalone analysis point.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct executive-commentary item."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2093074192636018977",
+        "item_2093060670472241368"
+      ],
+      "reason": "Both cover the same multi-lab cyber-defense coalition call, but from distinct angles: the official OpenAI account announcement versus sama's personal CEO framing urging urgent collective action. Retained as complementary rather than redundant."
+    }
+  ],
+  "additional_search_requests": []
+}
