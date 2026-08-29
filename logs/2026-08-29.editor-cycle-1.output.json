@@ -1,0 +1,188 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass_with_changes",
+  "summary": "Thirteen selected items covering a broad AI news day. The two Cursor/SpaceX items (OpenAI announcement and Anthropic's Thariq response) cover the same event from distinct angles and are flagged as such; both are retained as complementary. Anthropic appears across multiple items (Fellows alignment research, Sony/Warner lawsuit) but each is a distinct story. Remaining selections are distinct events with adequate source traceability. No duplicates warrant replacement; kept all thirteen.",
+  "decisions": [
+    {
+      "id": "item_2093515564786540695",
+      "decision": "keep",
+      "reason": "OpenAI special-account announcement ending Cursor model access after SpaceX acquisition; highest engagement of the day, self-contained, primary source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Shares the Cursor/SpaceX event with item_2093541555068182781 but is the originating announcement, a distinct angle from the Anthropic response."
+      }
+    },
+    {
+      "id": "item_2093541555068182781",
+      "decision": "keep",
+      "reason": "Anthropic's Thariq responds to the Cursor split signalling continued partnership; adds distinct competitive-reaction angle to the same story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same Cursor/SpaceX event as item_2093515564786540695 but a competitor's reaction rather than the announcement; complementary distinct angle."
+      }
+    },
+    {
+      "id": "item_2093386528668172373",
+      "decision": "keep",
+      "reason": "Anthropic Fellows research on Claude autonomously aligning smaller models; special-account thread root, strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve item_2093386533638389907 is a related sub-tweet of the same research thread but is not a selected item; no selected duplicate."
+      }
+    },
+    {
+      "id": "item_2093427938968666138",
+      "decision": "keep",
+      "reason": "Perplexity Search debuts atop the Artificial Analysis Search Index; distinct product/leaderboard story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "No overlap with other selected items."
+      }
+    },
+    {
+      "id": "item_2093388974194872781",
+      "decision": "keep",
+      "reason": "Andrew Ng publishes an AI Engineering skills map for the agentic coding era; high-quality analysis with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct topic; no overlap."
+      }
+    },
+    {
+      "id": "item_2093441019832648045",
+      "decision": "keep",
+      "reason": "Cerebras co-founder Sean Lie on Hot Chips and hardware tapeout compression; distinct hardware perspective.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Reserve item_2093381919287529490 is a separate Cerebras explainer but not selected; no selected duplicate."
+      }
+    },
+    {
+      "id": "item_2093277255438860358",
+      "decision": "keep",
+      "reason": "Simon Willison expands his LLM cliche highlighter to 38 patterns; practitioner tooling with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner item; no overlap."
+      }
+    },
+    {
+      "id": "item_2093539044244570592",
+      "decision": "keep",
+      "reason": "Sony Music and Warner Chappell sue Anthropic and its founders over training data; notable legal story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Anthropic-related but a distinct legal event unrelated to other Anthropic items."
+      }
+    },
+    {
+      "id": "item_2093266604662661535",
+      "decision": "keep",
+      "reason": "Tencent open-sources Hy4 preview coding model with competitive benchmark claims; distinct model-release story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model release; no overlap."
+      }
+    },
+    {
+      "id": "item_2093233303109112231",
+      "decision": "keep",
+      "reason": "Google and Microsoft propose the WebMCP standard for agent tool declaration; substantive standards story despite low engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct standards topic; no overlap."
+      }
+    },
+    {
+      "id": "item_2093471976652480845",
+      "decision": "keep",
+      "reason": "Dwarkesh Patel on Ryan Greenblatt's METR report sprint and AI takeover arguments; distinct analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct alignment-analysis topic; no overlap."
+      }
+    },
+    {
+      "id": "item_2093427632775770534",
+      "decision": "keep",
+      "reason": "Nabeel Qureshi argues the Hugging Face incident supports MIRI-style alignment-difficulty claims; distinct analytical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Alignment analysis but a different incident/thesis than the Dwarkesh item; not a duplicate."
+      }
+    },
+    {
+      "id": "item_2093341582741127610",
+      "decision": "keep",
+      "reason": "Auto Company open-source project runs a fully autonomous 14-agent AI company; distinct tooling/project story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct project; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2093515564786540695",
+        "item_2093541555068182781"
+      ],
+      "notes": "Both cover the OpenAI/Cursor/SpaceX split: OpenAI's originating announcement and Anthropic's Thariq's reaction. Distinct complementary angles, retained together."
+    }
+  ],
+  "additional_search_requests": []
+}
