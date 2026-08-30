@@ -1,0 +1,189 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 14 selected items carry concrete, verifiable claims and are kept. Three items cover the OpenAI/Hugging Face attack from genuinely distinct angles (Dwarkesh's narrative reconstruction, Collison's meta-observation on coverage, Bryan's METR/Redwood safety analysis), so they are flagged as same_topic_distinct_angle rather than redundant. No same-event duplicates warrant removal. No replacements needed; no additional Twitter searches requested.",
+  "decisions": [
+    {
+      "id": "item_2093833419377815719",
+      "decision": "keep",
+      "reason": "Dwarkesh Patel's plain-English narrative reconstruction of the OpenAI/Hugging Face incident reports. High-engagement, concrete, distinct analytical angle on the lead story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the HF/OpenAI attack topic with patrickc and Afinetheorem but is a full narrative reconstruction, a distinct angle."
+      }
+    },
+    {
+      "id": "item_2093884466670473697",
+      "decision": "keep",
+      "reason": "Stripe CEO Patrick Collison's meta-observation on the lack of mainstream coverage of the HF attack. Notable exec perspective, distinct from the reconstruction and the safety analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HF attack event, but the angle is media-coverage commentary, not the incident details."
+      }
+    },
+    {
+      "id": "item_2093882174747316258",
+      "decision": "keep",
+      "reason": "Kevin Bryan summarizes the METR/Redwood report and HF hack with a safety framing ('no agent helped humans'). Substantive technical/safety angle distinct from the other two.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same HF attack event; angle is the METR/Redwood safety analysis, distinct from reconstruction and coverage commentary."
+      }
+    },
+    {
+      "id": "item_2093630309585531033",
+      "decision": "keep",
+      "reason": "MIT's Markus Buehler reports a concrete research finding on emergent role differentiation in agent swarms. High engagement, distinct research story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Independent research result; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2093628563693944889",
+      "decision": "keep",
+      "reason": "Pieter Levels reports fal's post-trained Minimax H3 'Max' variant achieving faster-than-realtime AI video. Concrete product/model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone product release; no overlap."
+      }
+    },
+    {
+      "id": "item_2093697699120050321",
+      "decision": "keep",
+      "reason": "On-record Altman detail that OpenAI killed Sora and the Atlas browser to redirect compute to Codex. Concrete company move from an interview.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct OpenAI product/strategy detail; no overlap with the Astra item."
+      }
+    },
+    {
+      "id": "item_2093849394294792669",
+      "decision": "keep",
+      "reason": "Andrew Curran reports the Astra demo, a model designed to run for weeks with a planned 'runs forever' version. Concrete forthcoming-product detail.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct forthcoming-product story; separate from the Sora/Atlas item."
+      }
+    },
+    {
+      "id": "item_2093732649840062853",
+      "decision": "keep",
+      "reason": "Reports the Sony/Warner Chappell lawsuit against Anthropic naming Dario Amodei personally. Concrete legal/policy development.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone legal story; no overlap."
+      }
+    },
+    {
+      "id": "item_2093543481075523784",
+      "decision": "keep",
+      "reason": "Concrete benchmark result: Kimi K3 scoring 26.7% on Harvey LAB-AA, nearly double the next best. Slightly over the 24h window at 27.4h but substantive and specific.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone benchmark result; no overlap."
+      }
+    },
+    {
+      "id": "item_2093708248885100865",
+      "decision": "keep",
+      "reason": "Describes GOLLuM, a method training an LLM jointly with a Gaussian process for calibrated scientific uncertainty, first across 23 tasks. Concrete paper/method.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone research method; no overlap."
+      }
+    },
+    {
+      "id": "item_2093750693416845673",
+      "decision": "keep",
+      "reason": "Reports SourceHut banning AI/LLM-generated content across hosted projects. Concrete platform policy move.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone policy story; no overlap."
+      }
+    },
+    {
+      "id": "item_2093728024579776782",
+      "decision": "keep",
+      "reason": "DHH tells Lex Fridman that experienced programmers may be worse at AI coding than non-coders. Notable practitioner observation with concrete attribution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Standalone practitioner take; distinct from the open-models opinion items."
+      }
+    },
+    {
+      "id": "item_2093786788628185328",
+      "decision": "keep",
+      "reason": "Elvis Saravia argues open models suit automation workloads and describes shifting token usage to local. Practitioner observation with concrete personal detail.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Open-models opinion; thematically adjacent to gregisenberg (a reserve, not selected) but stands alone within the selection."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2093833419377815719",
+        "item_2093884466670473697",
+        "item_2093882174747316258"
+      ],
+      "reason": "All three cover the OpenAI/Hugging Face attack but from distinct angles: Dwarkesh's narrative reconstruction of the incident reports, Collison's observation on scant media coverage, and Bryan's METR/Redwood safety analysis. Complementary rather than redundant."
+    }
+  ],
+  "additional_search_requests": []
+}
