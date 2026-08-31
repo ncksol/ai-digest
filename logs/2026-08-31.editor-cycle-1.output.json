@@ -1,0 +1,189 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "All 13 selected items are substantive, on-topic, and sufficiently distinct. A cluster of three items touches the Hugging Face security incident (Altman's viscerally-felt account and training pause, amasad's RL-with-verifiable-rewards lesson, and Altman's public call to slow down), but each covers a distinct angle rather than duplicating the same story. No redundant duplicates, fingerprint collisions, or source-traceability failures found. No replacements required.",
+  "decisions": [
+    {
+      "id": "item_2094216570511700231",
+      "decision": "keep",
+      "reason": "High-signal report of Altman publicly calling for a slowdown in model development; distinct angle from the incident-account and analysis items.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Shares the broader post-incident safety context with InvestLikeBest and amasad items but the angle (public slowdown call) is distinct."
+      }
+    },
+    {
+      "id": "item_2094047551125123403",
+      "decision": "keep",
+      "reason": "Direct Altman quote on the Hugging Face incident confirming training pause and sandboxing concerns.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident as amasad and Polymarket items but this is the first-person account angle; not redundant."
+      }
+    },
+    {
+      "id": "item_2094234545142780134",
+      "decision": "keep",
+      "reason": "Concrete detail on Thomson Reuters' Thomson LLM built on Qwen weights with proprietary data at $40M cost.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2094119709222519134",
+      "decision": "keep",
+      "reason": "OpenAI engineer reporting concrete ChatGPT desktop performance improvement with high engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2094252087941157348",
+      "decision": "keep",
+      "reason": "Concrete open-source release: FreeToken local inference engine with specific model/memory claims.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2094173025881272408",
+      "decision": "keep",
+      "reason": "Nvidia CEO's widely-viewed statement tying AI demand to US reindustrialisation and energy investment.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct infrastructure/energy angle from the GavinSBaker data-center item."
+      }
+    },
+    {
+      "id": "item_2094081116164460995",
+      "decision": "keep",
+      "reason": "High-engagement investor walk-back on AI data-center concerns; substantive on the infrastructure debate.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Related infrastructure theme to JensenHuang but distinct event and angle."
+      }
+    },
+    {
+      "id": "item_2094047570461131034",
+      "decision": "keep",
+      "reason": "Amodei quote that Anthropic delayed its first Claude release six months, ceding the ChatGPT first-mover moment.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2094215744842248418",
+      "decision": "keep",
+      "reason": "Replit CEO's substantive take on the RL-with-verifiable-rewards lesson from the incident.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Same incident as the two Altman items but distinct analytical angle on RL and monitoring."
+      }
+    },
+    {
+      "id": "item_2094204471345827923",
+      "decision": "keep",
+      "reason": "Concrete open-source tooling: ChatGPT Web models integrated into Codex's model picker, 2.7k stars.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2094123213735305359",
+      "decision": "keep",
+      "reason": "Product launch: URL-to-launch-video generator with strong reach.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2093962020962083139",
+      "decision": "keep",
+      "reason": "Widely-shared technical explainer on KV cache and why Q is not stored; strong practitioner interest.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique story."
+      }
+    },
+    {
+      "id": "item_2094038584680665367",
+      "decision": "keep",
+      "reason": "Concrete roundup of the week's confirmed events including Claude in Chrome GA and the Pentagon ruling.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Roundup references the Hugging Face incident among other events but is a distinct weekly-summary format, not a duplicate."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2094216570511700231",
+        "item_2094047551125123403",
+        "item_2094215744842248418"
+      ],
+      "notes": "Three items orbit the Hugging Face security incident: Altman's public slowdown call, Altman's first-person incident account with training pause, and amasad's RL-with-verifiable-rewards analysis. Each is a distinct angle and worth keeping, but the set concentrates coverage on one event."
+    }
+  ],
+  "additional_search_requests": []
+}
