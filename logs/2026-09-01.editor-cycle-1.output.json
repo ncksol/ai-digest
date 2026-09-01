@@ -1,0 +1,192 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "14 selected items span research, model releases, business, policy, analysis, and practitioner takes with no duplicate stories or fingerprint collisions. Each item is a self-contained root tweet or standalone post; no special-account replies requiring context reconstruction were found. Selection count (14) sits at the top of the 8-14 target, so no replacements are required. All rejected_notable_items are pool reserves and thus ineligible as replacement candidates, but none are needed.",
+  "decisions": [
+    {
+      "id": "item_2094577944056430865",
+      "decision": "keep",
+      "reason": "Anthropic research thread on training a reward-hacking model is a high-signal, self-contained root tweet from a primary lab source.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique alignment/reward-hacking research story."
+      }
+    },
+    {
+      "id": "item_2094483372718580066",
+      "decision": "keep",
+      "reason": "Google Research TimesFM-3 time series foundation model release from primary source with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct model release; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2094515104670715940",
+      "decision": "keep",
+      "reason": "Nous Research Hermes Agent v0.21.0 release from primary source; distinct model_release story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate release from TimesFM-3; different vendor and product."
+      }
+    },
+    {
+      "id": "item_2094548787129700762",
+      "decision": "keep",
+      "reason": "Report of OpenAI outcome-based enterprise agent pricing is a distinct business/strategy story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique pricing-model report; different angle from Salesforce earnings."
+      }
+    },
+    {
+      "id": "item_2094589076083249455",
+      "decision": "keep",
+      "reason": "Alex Heath interview excerpt with Sam Altman on the YOLO CEO caricature; standalone quoted exchange, not a reply needing context reconstruction.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Self-contained interview quote; distinct interview content."
+      }
+    },
+    {
+      "id": "item_2094618697520615868",
+      "decision": "keep",
+      "reason": "Salesforce Q2 results with Agentforce ARR figures from Benioff; primary-source earnings data.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Earnings story distinct from OpenAI pricing business item."
+      }
+    },
+    {
+      "id": "item_2094414735408050687",
+      "decision": "keep",
+      "reason": "Attention-mechanism paper result (sliding-window + sinks beats linear attention) is a distinct technical research contribution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different research topic from Anthropic alignment work."
+      }
+    },
+    {
+      "id": "item_2094456614426407161",
+      "decision": "keep",
+      "reason": "GPU World story competition from Matt Huang, Neal Stephenson and Gwern; notable community/culture item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique community event; no overlap."
+      }
+    },
+    {
+      "id": "item_2094418089588801868",
+      "decision": "keep",
+      "reason": "ChatGPT Search EU adoption framed against regulation is a distinct policy story with concrete figures.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Policy angle distinct from other items."
+      }
+    },
+    {
+      "id": "item_2094501606528254378",
+      "decision": "keep",
+      "reason": "Gavin Baker on a16z podcast comparing Grok Bot to a ChatGPT moment; distinct analysis with high views.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Analysis piece distinct from Levie's data-owner analysis."
+      }
+    },
+    {
+      "id": "item_2094396262053556304",
+      "decision": "keep",
+      "reason": "Chinese 'The End of Software Engineering' paper thread is a distinct, widely-shared research/discussion item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different research topic from attention and alignment items."
+      }
+    },
+    {
+      "id": "item_2094455265957699793",
+      "decision": "keep",
+      "reason": "Reflexio self-improvement platform for AI agents is a distinct product launch.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product launch; no duplicate coverage."
+      }
+    },
+    {
+      "id": "item_2094428818026991837",
+      "decision": "keep",
+      "reason": "levelsio practitioner take on Claude refusals and guardrail backfire; distinct practitioner commentary and the only levelsio item in the selected set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different topic from the reserve levelsio email item; single levelsio item in selected set."
+      }
+    },
+    {
+      "id": "item_2094650992818274514",
+      "decision": "keep",
+      "reason": "Aaron Levie analysis on open weights enabling proprietary data owners to train their own models; distinct forward-looking analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Analysis angle distinct from Gavin Baker's Grok commentary."
+      }
+    }
+  ],
+  "set_level_flags": [],
+  "additional_search_requests": []
+}
