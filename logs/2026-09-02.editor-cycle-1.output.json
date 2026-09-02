@@ -1,0 +1,229 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "16 selected items cover model safety, releases, research, market, and practitioner takes. A four-item Astra cluster (OpenAI announcement, Altman's safety framing, The Information's recurrent-depth monitorability concern, and an OpenAI researcher's rebuttal) is same-topic but each contributes a distinct angle, so all are kept and flagged as same_topic_distinct_angle for editorial awareness. Altman appears across two items (his own release statement and a quoted superintelligence-trajectory remark to Alex Heath) but with distinct content. All items are self-contained root tweets or standalone posts per their context notes; no special-account replies lack a successful context summary. Selection count (16) is at the top of the 9-16 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2094885578173260259",
+      "decision": "keep",
+      "reason": "OpenAI's primary-source announcement that Astra reaches the Critical cybersecurity threshold under its Preparedness Framework; high-signal, self-contained.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Part of the Astra release cluster; this is the official announcement angle, distinct from the safety-framing and monitorability items."
+      }
+    },
+    {
+      "id": "item_2094934592062959832",
+      "decision": "keep",
+      "reason": "Altman's full statement on pacing releases against safety work; primary-source framing of the Astra launch tension.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra-adjacent; CEO safety-vs-capability framing, distinct angle from the official announcement."
+      }
+    },
+    {
+      "id": "item_2094954680765829533",
+      "decision": "keep",
+      "reason": "The Information reports Astra uses recurrent depth reasoning, raising monitorability concerns; distinct reporting angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra cluster; introduces the monitorability/recurrent-depth angle absent from other items."
+      }
+    },
+    {
+      "id": "item_2095023204993490967",
+      "decision": "keep",
+      "reason": "OpenAI researcher's concrete rebuttal to the unmonitorability framing (computation graph depth within a factor of two of GPT-4); adds the counter-argument angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra cluster; the rebuttal directly responds to the monitorability concern, a distinct and valuable angle."
+      }
+    },
+    {
+      "id": "item_2094864060609376748",
+      "decision": "keep",
+      "reason": "Anthropic ships Fable 5.1 as its strongest coding and agentic model; distinct primary-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate vendor release; no overlap with Astra or other model releases."
+      }
+    },
+    {
+      "id": "item_2094626639842078755",
+      "decision": "keep",
+      "reason": "Celeris-1 Magnus hybrid diffusion agentic model with tau3-bench numbers; distinct model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique model release from a different vendor."
+      }
+    },
+    {
+      "id": "item_2094905767073829172",
+      "decision": "keep",
+      "reason": "Reported imminent Gemini 3.8 Flash (Skimaki), preferred internally over Opus on coding; distinct scoop.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Separate Google model scoop; distinct from Fable and Astra items."
+      }
+    },
+    {
+      "id": "item_2094836602681938385",
+      "decision": "keep",
+      "reason": "Meta ships Muse Voice Transcribe real-time streaming STT; distinct primary-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique modality (speech-to-text); no overlap."
+      }
+    },
+    {
+      "id": "item_2094808564355191249",
+      "decision": "keep",
+      "reason": "Shopify CEO reports a finetuned 0.8b model beating a frontier model on a specialised task; strong practitioner data point.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct practitioner finetuning result."
+      }
+    },
+    {
+      "id": "item_2094577946610770275",
+      "decision": "keep",
+      "reason": "Anthropic's Hacker-Opus reward-hacking alignment study; self-contained research thread from the primary account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct alignment research; unrelated to Astra safety cluster."
+      }
+    },
+    {
+      "id": "item_2094870131939684488",
+      "decision": "keep",
+      "reason": "Eight-year paper finding implicit symbolic structure in LLM representations; distinct research contribution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique interpretability/representation research."
+      }
+    },
+    {
+      "id": "item_2094781256894402708",
+      "decision": "keep",
+      "reason": "AI Research Preference Models to triage which experiments deserve GPU time; distinct research/tooling item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct research-automation topic."
+      }
+    },
+    {
+      "id": "item_2094812534352015722",
+      "decision": "keep",
+      "reason": "China open-source LLM revenue tracker with Zhipu ARR growth figures; distinct market data.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique market/revenue data point."
+      }
+    },
+    {
+      "id": "item_2094836825420685465",
+      "decision": "keep",
+      "reason": "Altman tells Alex Heath superintelligence may be on a short-term trajectory; notable quoted remark distinct from his own safety statement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Different content and angle from Altman's own release statement; interview-sourced superintelligence claim."
+      }
+    },
+    {
+      "id": "item_2094839972570276160",
+      "decision": "keep",
+      "reason": "Hassabis questions long multi-agent runs and calls current context handling duct tape; distinct practitioner/leader take.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique perspective on agent context handling."
+      }
+    },
+    {
+      "id": "item_2094693042674422202",
+      "decision": "keep",
+      "reason": "Abliterated GLM-5.3 variant repackaging the removed safety layer as an admin policy gateway; distinct open-source story and the only kimmonismus item in the selected set.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct open-source topic; different from the reserve kimmonismus item."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2094885578173260259",
+        "item_2094934592062959832",
+        "item_2094954680765829533",
+        "item_2095023204993490967"
+      ],
+      "reason": "Four items cover the OpenAI Astra release: the official announcement, Altman's safety-vs-capability framing, The Information's recurrent-depth monitorability concern, and an OpenAI researcher's rebuttal. Each adds a distinct angle, so all are kept, but they should be presented as a coherent cluster rather than four independent stories."
+    }
+  ],
+  "additional_search_requests": []
+}
