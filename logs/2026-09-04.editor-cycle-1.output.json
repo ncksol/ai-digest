@@ -1,0 +1,240 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "16 selected items center on the GPT-6 Astra launch and its reception. The core launch is covered from distinct angles (OpenAI product announcement, OpenAI benchmarks, Altman's framing, and Artificial Analysis independent cost/efficiency analysis), supported by practitioner stories, architecture-rumor analysis, policy remarks, and unrelated items (Nvidia/Hugging Face, Martian routing, IFM open models, Zuckerberg regulator stance). Same-topic clusters are flagged for editorial awareness. mattshumer_ and andrewho03 each contribute two items; andrewho03's two posts are closely related practitioner reflections and are flagged as overrepresented_author. All items are self-contained per their context notes; no special-account reply lacks a successful context summary. Selection count (16) is at the top of the 9-16 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2095723177389232540",
+      "decision": "keep",
+      "reason": "Practitioner documents a Manager Loop technique for long-horizon Astra builds; distinct methods angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent but a technique writeup, distinct from the same author's Unreal-world story."
+      }
+    },
+    {
+      "id": "item_2095717465867395520",
+      "decision": "keep",
+      "reason": "Altman revises his 2023 rapid-displacement prediction citing economic inertia; distinct forward-looking analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Altman commentary on diffusion pace; not part of the launch cluster."
+      }
+    },
+    {
+      "id": "item_2095600005772104059",
+      "decision": "keep",
+      "reason": "Sam Altman's primary framing of Astra around entrepreneurship, science and professional work; strongest self-contained sama post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra launch cluster; CEO framing angle, distinct from the official product and benchmark posts."
+      }
+    },
+    {
+      "id": "item_2095598736265404631",
+      "decision": "keep",
+      "reason": "Former frontier-lab worker reports modest real productivity gains and wasted time from LLM use; grounded counterpoint.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same author and closely related theme to his AGI-timelines post; overlapping practitioner reflection."
+      }
+    },
+    {
+      "id": "item_2095596175705399482",
+      "decision": "keep",
+      "reason": "Practitioner's striking Astra Unreal-world agent story; distinct capability anecdote.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent anecdote, distinct from the same author's Manager Loop technique post."
+      }
+    },
+    {
+      "id": "item_2095595752815030713",
+      "decision": "keep",
+      "reason": "OpenAI reports state-of-the-art benchmark results for Astra across maths, agents, science and health; primary data.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra launch cluster; the benchmarks angle, distinct from the launch announcement and independent analysis."
+      }
+    },
+    {
+      "id": "item_2095595741528125780",
+      "decision": "keep",
+      "reason": "OpenAI's primary launch post for GPT-6 Astra as a fast general computer-use model; strongest self-contained OpenAI post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra launch cluster; the official product-announcement angle."
+      }
+    },
+    {
+      "id": "item_2095595489031000350",
+      "decision": "keep",
+      "reason": "Artificial Analysis supplies independent cost, token-efficiency and pricing detail on Astra; valuable third-party verification.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra launch cluster; independent-analysis angle with pricing, distinct from OpenAI's own posts."
+      }
+    },
+    {
+      "id": "item_2095590088390656262",
+      "decision": "keep",
+      "reason": "Former frontier-lab worker says direct exposure made his AGI timeline more bearish; notable contrarian take.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": true,
+        "notes": "Same author and adjacent theme to his productivity post; overlapping practitioner reflection."
+      }
+    },
+    {
+      "id": "item_2095585213271408978",
+      "decision": "keep",
+      "reason": "Zuckerberg told Trump he opposes a national AI regulator; distinct policy story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique policy item; distinct from Altman's government remarks."
+      }
+    },
+    {
+      "id": "item_2095570359059988584",
+      "decision": "keep",
+      "reason": "Martian reports a model-routing method with 46% fewer errors across 16 benchmarks; distinct research result.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unrelated routing research; no overlap."
+      }
+    },
+    {
+      "id": "item_2095542341956428129",
+      "decision": "keep",
+      "reason": "Researcher connects rumored Astra architecture to published looped-transformer scaling-law work; distinct technical angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra-adjacent architecture analysis; distinct from launch and benchmark posts."
+      }
+    },
+    {
+      "id": "item_2095534784734716405",
+      "decision": "keep",
+      "reason": "SpaceXAI engineer describes a 20-plus-agent GrokBot hierarchy with structured roles; distinct practitioner story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unrelated to Astra; distinct multi-agent anecdote."
+      }
+    },
+    {
+      "id": "item_2095518303422955762",
+      "decision": "keep",
+      "reason": "Analysis of Nvidia's acquisition of Hugging Face as control of model distribution and discovery; distinct company-move story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique M&A analysis; no overlap."
+      }
+    },
+    {
+      "id": "item_2095509618533228685",
+      "decision": "keep",
+      "reason": "Channel 4 quotes Altman predicting children will not be smarter than AI and urging government adoption; distinct policy/interview item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct Altman policy remark from a named event; different from his Astra framing and diffusion-inertia posts."
+      }
+    },
+    {
+      "id": "item_2095497035806113861",
+      "decision": "keep",
+      "reason": "IFM releases six open models from 0.9B to 375B with code, data and training recipes; significant open-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unrelated open-source release; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2095595741528125780",
+        "item_2095595752815030713",
+        "item_2095600005772104059",
+        "item_2095595489031000350",
+        "item_2095542341956428129",
+        "item_2095596175705399482",
+        "item_2095723177389232540"
+      ],
+      "reason": "Multiple items cover the GPT-6 Astra launch from distinct angles: OpenAI's product announcement, OpenAI's benchmark results, Altman's framing, Artificial Analysis's independent cost/efficiency analysis, an architecture-rumor analysis, and two practitioner build stories. Each adds a distinct angle and all are kept, but they should be presented as a coherent Astra cluster rather than independent stories."
+    },
+    {
+      "type": "overrepresented_author",
+      "item_ids": [
+        "item_2095590088390656262",
+        "item_2095598736265404631"
+      ],
+      "reason": "Two closely related andrewho03 practitioner reflections appear in the set (bearish AGI timeline and modest productivity gains). Both are kept for their value, but they overlap in author and theme; editors may consolidate to a single representative post."
+    }
+  ],
+  "additional_search_requests": []
+}

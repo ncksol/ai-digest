@@ -1,0 +1,402 @@
+[
+  {
+    "author": "ArtificialAnlys",
+    "id": "2095595489031000350",
+    "likes": 2745,
+    "retweets": 311,
+    "text": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index, scoring equal to Fable 5 at lower cost. In the Intelligence Index, it uses fewer tokens than GPT-5.6 Sol for similar performance, but this is outweighed by higher prices\n\nPricing is 2.5x GPT-5.6 Sol’s current prices across the board, up from $4/$20 to $10/$50 per million input/output tokens, with the same 90% discount for cache reads and 25% premium for cache writes.\n\nWe see distinct stories across our two flagship Indices. In the Artificial Analysis Coding Agent Index, GPT-6 Astra equals Fable 5 at less than half the cost, driven by significant token efficiency gains. In the Artificial Analysis Intelligence Index, GPT-6 Astra is more token efficient than its predecessor for similar performance, but this is offset by the price increase.\n\nArtificial Analysis Coding Agent Index - key takeaways:\n\n➤ Rivals top models: In Codex, GPT-6 Astra scores 67 in the Index - approximately equal to Claude Opus 5 and Fable 5 in Claude Code, and Muse Spark 1.3 in Muse Code. Fable 5.1 in Claude Code leads the Index with a score of 70.\n\n➤ 70% more token efficient than GPT-5.6 Sol: GPT-6 Astra sees a substantial improvement in token efficiency, using one third of the tokens compared to GPT-5.6 Sol (max) in the Codex harness, and one fifth of the tokens of Claude Opus 5 (xhigh). Various effort levels of the model occupy the Pareto frontier of token efficiency.\n\n➤ Leads Coding Agent Index cost efficiency frontier: At max effort, GPT-6 Astra costs about the same as GPT-5.6 Sol (max) while scoring 2 points higher on the Index. Per task, the model is less than half the cost of Claude Fable 5, for the same score.\n\nArtificial Analysis Intelligence Index -  key takeaways:\n\n➤ Sits beside GPT-5.6 Sol in Intelligence: GPT-6 Astra scores equal to GPT-5.6 Sol in the Index at 61. This is 5 points lower than Claude Fable 5.1 (max with fallback). The model also trails Meta’s newly released Muse Spark 1.3 (max).\n\n➤ ~10% fewer output tokens, offset by price increase: GPT-6 Astra defines a new Pareto frontier for Intelligence Index vs Output Tokens per Task - with a ~10% reduction in token use at max effort compared to GPT-5.6 Sol. However, due to the 2.5x increase in price, the model is 75% more expensive per task than its predecessor at max effort.\n\n➤ Hallucinates half as much as GPT-5.6 Sol: GPT-6 Astra sees a large jump in AA-Omniscience, our knowledge and hallucination benchmark. This is driven by a significant decrease in hallucination rate from 92% to 51% at max effort. Unlike some models, this improvement does not come at the cost of accuracy - Astra increased accuracy by 4 points at the same time.\n\n➤ ~80 point gain in AA-Briefcase Elo: GPT-6 Astra improves ~80 points in AA-Briefcase, our frontier long-horizon knowledge work evaluation. Models are tested on multi-week projects, with many linked tasks and thousands of source files. Astra sees a significant increase in both rubric scores and Analytical Quality Elo in AA-Briefcase compared to its predecessor. In the other direction, we observe a reduction in Presentation Quality Elo, where GPT-5.6 Sol (max) still leads all models.\n\n➤ Mixed progress on other evaluations: The model sees a 6 point gain in Humanity’s Last Exam, a long-standing evaluation with emphasis on mathematics, science, and humanities. This is offset by a drop of ~80 Elo points in GDPval-AA v2 - a benchmark we adapted from OpenAI’s dataset measuring economically valuable tasks across 44 occupations. We also observe 2-3 point regressions on other evaluations across a mix of capabilities, including reductions in τ³-Banking (customer support), SciCode (Python problems in a scientific domain), and AA-LCR (long context reasoning over large documents).\n\nCongratulations @OpenAI and @sama on the launch!",
+    "url": "https://x.com/ArtificialAnlys/status/2095595489031000350"
+  },
+  {
+    "author": "AIMGUpdated",
+    "id": "2095810788233535686",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys We don't care if it's not out yet. They're doing the Sora thing again ... Promoting and only out after a year then dies after a few months",
+    "url": "https://x.com/AIMGUpdated/status/2095810788233535686"
+  },
+  {
+    "author": "AIMGUpdated",
+    "id": "2095810276691939335",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Stop testing (or at least publishing and ranking, models that are not available to the public",
+    "url": "https://x.com/AIMGUpdated/status/2095810276691939335"
+  },
+  {
+    "author": "alexdevnow",
+    "id": "2095809967089479795",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Top tier bench",
+    "url": "https://x.com/alexdevnow/status/2095809967089479795"
+  },
+  {
+    "author": "buildwith_yash",
+    "id": "2095806821172760587",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys They again proved that you should never buy into all the hype 🤭 One benchmark can make a model look like a genius, another can make it look average.",
+    "url": "https://x.com/buildwith_yash/status/2095806821172760587"
+  },
+  {
+    "author": "Gat0Dev",
+    "id": "2095803335328825621",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Lmfao, please adjust your website or create a line where the race is more visible. How can Muse be better than Fable 5 and how can GPT-6 Astra be exactly as 5.6 sol.",
+    "url": "https://x.com/Gat0Dev/status/2095803335328825621"
+  },
+  {
+    "author": "drakolib",
+    "id": "2095798918302892339",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys &gt; \"makes significant gains\" \n&gt; checks chart\n&gt; 1% or 0%",
+    "url": "https://x.com/drakolib/status/2095798918302892339"
+  },
+  {
+    "author": "JannahTuhfatul",
+    "id": "2095796121000202256",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Interesting data on GPT-6 Astra, but standard Q&amp;A metrics feel outdated. Since @ArtificialAnlys is the top independent benchmark, the index needs a shift. \n\nWe must balance core raw reasoning/intelligence with next-gen agentic workflows. Time for an upgrade! 📊🛠️",
+    "url": "https://x.com/JannahTuhfatul/status/2095796121000202256"
+  },
+  {
+    "author": "herman_9999",
+    "id": "2095792658929332722",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys A flat 61 is less interesting than the coding-agent result. If Astra holds up on long, tool-heavy jobs, one headline score may be hiding the part people will actually pay for.",
+    "url": "https://x.com/herman_9999/status/2095792658929332722"
+  },
+  {
+    "author": "2WF92SR8qKrC2VQ",
+    "id": "2095790305987678388",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys 👍",
+    "url": "https://x.com/2WF92SR8qKrC2VQ/status/2095790305987678388"
+  },
+  {
+    "author": "js_dreamed",
+    "id": "2095783536720495024",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Artifical benchmarks if anything",
+    "url": "https://x.com/js_dreamed/status/2095783536720495024"
+  },
+  {
+    "author": "larycheey",
+    "id": "2095783110017491441",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys 对制造业落地，我更关心 cost-per-task，不是榜单。\n\nAstra 贵约 2.5×。Coding Agent Index 更好，不代表修一次 bug、开一个 PR 更便宜。\n\n厂里选型先比：完成一次受控任务花多少钱，被拒绝后会不会绕过审批。",
+    "url": "https://x.com/larycheey/status/2095783110017491441"
+  },
+  {
+    "author": "TonyJZhou",
+    "id": "2095779540077281290",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@ArtificialAnlys the crossover: 3x fewer tokens at max effort in the coding index (your follow-up) x 2.5x price = ~0.83x per-task cost vs Sol there, so 'outweighed by higher prices' must come from a smaller token ratio in the intelligence runs. where does ratio x price flip below 1, by effort?",
+    "url": "https://x.com/TonyJZhou/status/2095779540077281290"
+  },
+  {
+    "author": "arber88",
+    "id": "2095779289262071846",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys I think u guys fu.ked up.",
+    "url": "https://x.com/arber88/status/2095779289262071846"
+  },
+  {
+    "author": "HD8ZCf1KtllECw7",
+    "id": "2095776225969193095",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys 勉強になります。",
+    "url": "https://x.com/HD8ZCf1KtllECw7/status/2095776225969193095"
+  },
+  {
+    "author": "daotagoto",
+    "id": "2095772984065794379",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Equal to Fable 5 at lower cost is the real headline — this shifts the price-performance frontier again. Fewer tokens for similar intelligence also matters more than people realize for agent loops.",
+    "url": "https://x.com/daotagoto/status/2095772984065794379"
+  },
+  {
+    "author": "andolini001",
+    "id": "2095762591872172204",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Доверие к вашему бенчмарку утеряно",
+    "url": "https://x.com/andolini001/status/2095762591872172204"
+  },
+  {
+    "author": "starship1109",
+    "id": "2095760366118510792",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Can’t be trusted anymore",
+    "url": "https://x.com/starship1109/status/2095760366118510792"
+  },
+  {
+    "author": "Yacht_Buoy_",
+    "id": "2095758738346885452",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys @thsottiaux this AA score makes zero sense?!",
+    "url": "https://x.com/Yacht_Buoy_/status/2095758738346885452"
+  },
+  {
+    "author": "AI_Johnz",
+    "id": "2095758529332207822",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys It can’t be real.. random models ranking I’d call it.\n\nDID YOU REALLY USE META?",
+    "url": "https://x.com/AI_Johnz/status/2095758529332207822"
+  },
+  {
+    "author": "AI_Johnz",
+    "id": "2095758234200002753",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys AA: looks total bullshit to me.",
+    "url": "https://x.com/AI_Johnz/status/2095758234200002753"
+  },
+  {
+    "author": "juhp",
+    "id": "2095750753512230984",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys A different perspective at @EpochAIResearch:\nhttps://t.co/cSQNE9iT2s",
+    "url": "https://x.com/juhp/status/2095750753512230984"
+  },
+  {
+    "author": "Guilty0399887",
+    "id": "2095745009295274040",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys 51% still means i check every claim. just with less dread.",
+    "url": "https://x.com/Guilty0399887/status/2095745009295274040"
+  },
+  {
+    "author": "AIShiftProtocol",
+    "id": "2095743163012886935",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys The 2.5x price hike landing as a lower per-task cost is the real story here. Price per token keeps getting less useful as a budgeting number when token efficiency moves this much. Curious whether that holds outside Codex-style harnesses.",
+    "url": "https://x.com/AIShiftProtocol/status/2095743163012886935"
+  },
+  {
+    "author": "nerdinsaan",
+    "id": "2095740865851609405",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Joke. I tried muse spark 1.3 seeing how good ot scores on artificial intelligence,\nHowever luna max consistently outperformed muse. \n\nJunk index.",
+    "url": "https://x.com/nerdinsaan/status/2095740865851609405"
+  },
+  {
+    "author": "BennyLam",
+    "id": "2095740379798933518",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Coding Agent gains with fewer tokens are real. 2.5x price just means the bottleneck moved from intelligence to unit economics.",
+    "url": "https://x.com/BennyLam/status/2095740379798933518"
+  },
+  {
+    "author": "jieyi_ai",
+    "id": "2095739425712197903",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys 代码能力追平Fable 5还便宜一半，这个确实强",
+    "url": "https://x.com/jieyi_ai/status/2095739425712197903"
+  },
+  {
+    "author": "jayzhoupro",
+    "id": "2095736757799342354",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Token efficiency is the sleeper headline. A frontier-matching model that runs cheaper changes who can keep agents on all day, not just who wins the screenshot war.",
+    "url": "https://x.com/jayzhoupro/status/2095736757799342354"
+  },
+  {
+    "author": "Callout_Market",
+    "id": "2095735510291640710",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys This is the only post today with a price in it. 2.5x GPT-5.6, tied with Fable 5 on coding.\n\nEveryone's arguing about whether it's AGI. The margin question is who eats a 2.5x token bill.",
+    "url": "https://x.com/Callout_Market/status/2095735510291640710"
+  },
+  {
+    "author": "gustavoaz95",
+    "id": "2095733310974464447",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Something is not right",
+    "url": "https://x.com/gustavoaz95/status/2095733310974464447"
+  },
+  {
+    "author": "mrzzma",
+    "id": "2095728528872620293",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys No one will believe a ranking list that has no credibility at all",
+    "url": "https://x.com/mrzzma/status/2095728528872620293"
+  },
+  {
+    "author": "david_gc1005",
+    "id": "2095725943306563703",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@ArtificialAnlys You guys need to create a new eval process, it's just too outrageous at this point. Like a crowdsourced or something.",
+    "url": "https://x.com/david_gc1005/status/2095725943306563703"
+  },
+  {
+    "author": "5bxbx95gqk",
+    "id": "2095723463860273450",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Either the model is trash or this evaluation reached EoL",
+    "url": "https://x.com/5bxbx95gqk/status/2095723463860273450"
+  },
+  {
+    "author": "ibesh_tech",
+    "id": "2095720428186829020",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys equal to fable 5 at lower cost per run but 2.5x sticker is the whole debate in one line. benchmarks price tokens, users pay for finished work. which one wins on a real week-long task?",
+    "url": "https://x.com/ibesh_tech/status/2095720428186829020"
+  },
+  {
+    "author": "senb0n22a",
+    "id": "2095720117820891623",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys no mention of grok even though it's in this same intelligence tier? y'all promoting a model just as powerful as grok but 8x the price xD 4.7 is gonna be clear winner at this rate.",
+    "url": "https://x.com/senb0n22a/status/2095720117820891623"
+  },
+  {
+    "author": "wangqiang60001",
+    "id": "2095713637994561943",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys 你们的榜单已经失去公信力了，没有任何意义了。",
+    "url": "https://x.com/wangqiang60001/status/2095713637994561943"
+  },
+  {
+    "author": "thunm_",
+    "id": "2095708209353027736",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys What I learned from this is AA a bad benchmark.",
+    "url": "https://x.com/thunm_/status/2095708209353027736"
+  },
+  {
+    "author": "shinedotrocks",
+    "id": "2095706399426985994",
+    "likes": 7,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Having used opus 5 and sol significantly, i can tell from my subjective experience that this is a broken index.",
+    "url": "https://x.com/shinedotrocks/status/2095706399426985994"
+  },
+  {
+    "author": "LoongUp",
+    "id": "2095702460488986788",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys 2.5x price vs 3x token efficiency — buyers end up paying for the upper-right move, not the absolute score. The Pareto shift on Coding Agent Index is what matters: every internal team deferring agent rollouts on cost grounds just lost their last excuse.",
+    "url": "https://x.com/LoongUp/status/2095702460488986788"
+  },
+  {
+    "author": "Smlay_ero",
+    "id": "2095701215464337706",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys The massive jump in token efficiency is the real story here, even if the price hike offsets the gains for general intelligence tasks.",
+    "url": "https://x.com/Smlay_ero/status/2095701215464337706"
+  },
+  {
+    "author": "DoctorYev",
+    "id": "2095700979765448959",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Nice https://t.co/DXzoIU38FK",
+    "url": "https://x.com/DoctorYev/status/2095700979765448959"
+  },
+  {
+    "author": "the_vc_intern",
+    "id": "2095699475155337475",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys https://t.co/izkrCsyMS7",
+    "url": "https://x.com/the_vc_intern/status/2095699475155337475"
+  },
+  {
+    "author": "PPerspecti96774",
+    "id": "2095698589368385922",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@ArtificialAnlys I used spark 1.3 for a day it drove me up the fuckin walk",
+    "url": "https://x.com/PPerspecti96774/status/2095698589368385922"
+  },
+  {
+    "author": "KuntzmanOr",
+    "id": "2095696058320064837",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys As long as muse spark before sol high you need to give your benchmark code another pass and check what's the issue there",
+    "url": "https://x.com/KuntzmanOr/status/2095696058320064837"
+  },
+  {
+    "author": "kc_peaky",
+    "id": "2095695387273380230",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys Rigged Rigged Rigged!!!",
+    "url": "https://x.com/kc_peaky/status/2095695387273380230"
+  },
+  {
+    "author": "CreamToGold",
+    "id": "2095694885492084772",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys you need to pivot to a proprietary bench that can't possibly be in the training data which reflects reality",
+    "url": "https://x.com/CreamToGold/status/2095694885492084772"
+  },
+  {
+    "author": "PnLDeadpan",
+    "id": "2095691875621732397",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys is Astra mainly an agent model? https://t.co/x6diGxr2mG",
+    "url": "https://x.com/PnLDeadpan/status/2095691875621732397"
+  },
+  {
+    "author": "ngumbahkucing",
+    "id": "2095687848594952627",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys No improvement but ask for more price",
+    "url": "https://x.com/ngumbahkucing/status/2095687848594952627"
+  },
+  {
+    "author": "0xmaz_",
+    "id": "2095687731376693346",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys What a joke clearly the other models are bench maxing you guys",
+    "url": "https://x.com/0xmaz_/status/2095687731376693346"
+  },
+  {
+    "author": "arcyton",
+    "id": "2095687501146886533",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@ArtificialAnlys The gain worth separating out is on tasks where the right move is to stop: a spec that cannot be satisfied, a file that should not be touched. Every item with an answer rewards the model that always produces one. Does the index carry a task whose correct output is a refusal?",
+    "url": "https://x.com/arcyton/status/2095687501146886533"
+  }
+]

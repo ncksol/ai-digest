@@ -1,0 +1,82 @@
+[
+  {
+    "author": "kimmonismus",
+    "id": "2095580759146766415",
+    "likes": 4800,
+    "replies": 199,
+    "retweets": 603,
+    "text": "Full benchmarks. Absolutely insane.\n\nARGI-AGI 3, from 7.8% to 98.6%",
+    "url": "https://x.com/kimmonismus/status/2095580759146766415",
+    "views": 1200000
+  },
+  {
+    "author": "ThePrimeagen",
+    "id": "2095528411741536376",
+    "likes": 7200,
+    "replies": 566,
+    "retweets": 606,
+    "text": "All the AI is down",
+    "url": "https://x.com/ThePrimeagen/status/2095528411741536376",
+    "views": 911000
+  },
+  {
+    "author": "ChrisGPT",
+    "id": "2095594374843232583",
+    "likes": 4800,
+    "replies": 67,
+    "retweets": 290,
+    "text": "GPT‑6 Astra - “models a house in Blender and turns it into a walkable scene in Unreal Engine 5, helping designers and clients explore the layout and experience the space before it’s built.”",
+    "url": "https://x.com/ChrisGPT/status/2095594374843232583",
+    "views": 614000
+  },
+  {
+    "author": "SahilExec",
+    "id": "2095688272269984016",
+    "likes": 1700,
+    "replies": 64,
+    "retweets": 119,
+    "text": "GPT-6 Astra vs Fable 5.1 in Blender…\n\nThe gap in visual quality is actually crazy 👀\n\nAI is getting dangerously good at turning prompts into fully built 3D scenes.\n\nWhich one would you pick?",
+    "url": "https://x.com/SahilExec/status/2095688272269984016",
+    "views": 196000
+  },
+  {
+    "author": "TechWith_Nova",
+    "id": "2095415024483459573",
+    "likes": 1300,
+    "replies": 86,
+    "retweets": 46,
+    "text": "AI slop over...?\n\nREAL PHOTO vs AI PHOTO",
+    "url": "https://x.com/TechWith_Nova/status/2095415024483459573",
+    "views": 2300000
+  },
+  {
+    "author": "mattshumer_",
+    "id": "2095723177389232540",
+    "likes": 1900,
+    "replies": 114,
+    "retweets": 153,
+    "text": "A lot of people are asking how I pulled off these super long-horizon builds with Astra.\n\nAstra is extremely powerful, but by default it struggled with a task this difficult. I tested a bunch of approaches to get past this, and the one I landed on is something I'm calling the",
+    "url": "https://x.com/mattshumer_/status/2095723177389232540",
+    "views": 230000
+  },
+  {
+    "author": "mattshumer_",
+    "id": "2095596175705399482",
+    "likes": 16000,
+    "replies": 688,
+    "retweets": 1400,
+    "text": "My first \"holy shit\" moment with GPT-6 Astra:\n\nI asked it to create a world in Unreal Engine, and fill it with humans (each an Astra-powered agent) who all have to work together to survive.\n\nA day later, I was in my bedroom and heard voices coming from the living room... I",
+    "url": "https://x.com/mattshumer_/status/2095596175705399482",
+    "views": 3700000
+  },
+  {
+    "author": "kimmonismus",
+    "id": "2095585966102614182",
+    "likes": 1500,
+    "replies": 114,
+    "retweets": 160,
+    "text": "Official GPT-6 Astra Benchmarks from OpenAIs website\n\n\"Astra also saturates ARC-AGI-3 with a 99.9% score and ExploitBench with a 100% score\"\n\n\"GPT‑6 Astra is rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus,",
+    "url": "https://x.com/kimmonismus/status/2095585966102614182",
+    "views": 244000
+  }
+]

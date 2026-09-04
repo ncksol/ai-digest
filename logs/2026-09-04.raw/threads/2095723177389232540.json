@@ -1,0 +1,402 @@
+[
+  {
+    "author": "mattshumer_",
+    "id": "2095723177389232540",
+    "likes": 2000,
+    "retweets": 135,
+    "text": "A lot of people are asking how I pulled off these super long-horizon builds with Astra.\n\nAstra is extremely powerful, but by default it struggled with a task this difficult. I tested a bunch of approaches to get past this, and the one I landed on is something I'm calling the Manager Loop.\n\nIt's basically a couple of tricks we used to use with much less capable models a couple of years ago, with a few new ideas layered on top. Turns out that when you put those together and apply them to Astra, its ability to do extremely difficult long-horizon tasks goes up dramatically.\n\nHere's how it works:\n\n1. Launch an agent (I'm calling this one the \"manager\"). Chat with it about what you want to get done, and have it build a massive checklist of to-dos, then break that checklist into phases.\n\n2. The manager then spawns a second Codex agent in a separate thread (the \"implementer\"). The two agents can message each other.\n\n3. Put the manager in /goal mode, and tell it to run each phase on the implementer in /goal mode.\n\n4. The manager messages the implementer: \"/goal Complete phase one completely, extremely well.\" The implementer doesn't stop until that phase is done, then messages the manager back. The manager tells it to start phase two. They repeat until every phase is finished, completely autonomously.\n\nWhy I think this works: over a long-horizon task, Astra tends to asymptote. It gets way further than previous models, but at a certain point it kind of just stops improving against the goal as quickly as it did before. It gets stuck in the minutiae, focusing way too much on small details, and overall progress stalls. The Manager Loop forces it to work piecemeal, one phase at a time. It's essentially how a human would steer a model, except the model is doing the steering for me.\n\nThat's actually how this started. I was having the model write the checklist and break it into phases, and then I was doing the manager's job by hand. At some point I thought, \"Wait, why can't I just get a separate AI to do this?\" That's what unlocked full autonomy, which is super useful.\n\nA wording detail that seemed to matter: I ask for each phase to be done \"extremely well,\" not \"perfectly.\" Maybe I'm reading too much into it, but asking for \"perfect\" sent the model right back into the minutiae. \"Extremely well\" implies it's allowed to move on once it's good enough, and that worked better in my testing.\n\nOne more trick that I think helps (this one is more of a hunch, but it was useful for me): have the implementer build a simple HTML page with the full checklist on it. The implementer checks boxes off as it goes and updates a counter, and the page has a chart of # of boxes ticked over time.\n\nObviously the boxes aren't all equal, but it forces the model to notice things like \"I haven't made progress in a while, time to move on.\" You can even put this in the prompt directly, like: \"if you haven't ticked a box in X amount of time, move on\". That helps a lot.\n\nI also ran 96 sub-agents at a time. You can change this in your Codex config (or just ask Codex to change it).\n\nThis got me far better long-horizon performance than anything else I tried. I'll be sharing more in the coming days!",
+    "url": "https://x.com/mattshumer_/status/2095723177389232540"
+  },
+  {
+    "author": "kck_eniste",
+    "id": "2095813280384143404",
+    "likes": 0,
+    "retweets": 0,
+    "text": "So, does the Astra model possess the long-term planning and management capabilities that Fable has? In other words, while acting like a manager, can it make the right logical and managerial decisions on the big plan and intervene when necessary?\n\nThe Sol model didn't have the control and logic that Fable possessed. Additionally, its context didn't allow it anyway; when working on the big plan, it would fill up and compact within the second message. Has this changed with Astra? Can we now work with the model for extended periods, as if we were developing a game or application, like a manager or a product owner?\n\nFable was the only model that possessed this kind of magic before. This is what I'm most curious about regarding Astra.",
+    "url": "https://x.com/kck_eniste/status/2095813280384143404"
+  },
+  {
+    "author": "Finsaco",
+    "id": "2095812157283647746",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Great sharing! Thank you @mattshumer_",
+    "url": "https://x.com/Finsaco/status/2095812157283647746"
+  },
+  {
+    "author": "420_trades",
+    "id": "2095811728122757591",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ How many tokens was this approx? It’s pretty fkn impressive. \n\nFull weekly usage on 20x or more than that for reference?",
+    "url": "https://x.com/420_trades/status/2095811728122757591"
+  },
+  {
+    "author": "alexzenciks",
+    "id": "2095811458936267238",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ interesting - i run it in a very similar way, but my \"manager\" is a game director that i discuss creative vision with, have requirements, and then it decides what kind of work needs to be done by spawning subagents with /goal or /loop",
+    "url": "https://x.com/alexzenciks/status/2095811458936267238"
+  },
+  {
+    "author": "nudevise",
+    "id": "2095809480734695724",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ i made something similar in june with Claude, its called the Thorough Twins  skill and i have them do something called Ping Ponging where they message each other and will literally fight all bugs to the death in a hell-in-a-cell fashion, whilst crafting in a /goal",
+    "url": "https://x.com/nudevise/status/2095809480734695724"
+  },
+  {
+    "author": "j_magnusson",
+    "id": "2095808649826386091",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Extremely impressive.\n\nIt is also comforting to see that you guys are struggling with the same issues as the rest of us, with the agents disappearing down rabbit holes.",
+    "url": "https://x.com/j_magnusson/status/2095808649826386091"
+  },
+  {
+    "author": "sumithshridhar",
+    "id": "2095806146380800402",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ The HTML progress counter is the strong move - a rate-of-progress signal the model otherwise lacks. But ticked boxes measure motion, not correctness. Having the manager re-check a sample of \"done\" boxes against the actual output catches drift the counter can't see.",
+    "url": "https://x.com/sumithshridhar/status/2095806146380800402"
+  },
+  {
+    "author": "d_viral_feed",
+    "id": "2095804304787636379",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Can this Manager Loop handle the API token cost when you run 96 sub-agents at once?\n\nThe logic is solid because Astra is doing the steering &amp; the checking. But 96 agents running in parallel will burn through credits fast in a long-horizon build.",
+    "url": "https://x.com/d_viral_feed/status/2095804304787636379"
+  },
+  {
+    "author": "bally_kehal",
+    "id": "2095803305368895660",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Manager/implementer split stops the asymptote - separating planning from execution means neither agent drowns in the other's context. Same self-eval loop any long-horizon pipeline needs. #AgenticAI #MultiAgent @OpenAI https://t.co/gLkuTFOo64",
+    "url": "https://x.com/bally_kehal/status/2095803305368895660"
+  },
+  {
+    "author": "andrea_luc",
+    "id": "2095802851477922000",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ The interesting part isn’t 96 agents. It’s the visible progress loop. The checklist gives the system a way to notice when it has stalled—and gives humans somewhere to inspect, steer, or stop it. Autonomy becomes useful when it stays legible.",
+    "url": "https://x.com/andrea_luc/status/2095802851477922000"
+  },
+  {
+    "author": "Trej_RxFit",
+    "id": "2095799355093467383",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Sounds like agentic looping?",
+    "url": "https://x.com/Trej_RxFit/status/2095799355093467383"
+  },
+  {
+    "author": "Trace_Cohen",
+    "id": "2095798249298776308",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@mattshumer_ Basically your own little corporation with middle managers, managing the actual workers trying to get them to do their job well. Matrix feeling…\n\nNext try performance reviews after and see how that goes 😅",
+    "url": "https://x.com/Trace_Cohen/status/2095798249298776308"
+  },
+  {
+    "author": "mgoettel",
+    "id": "2095798130860085620",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ I'll reuse your webpage idea ! It can help in many scenarios. I feel often I loose track of where agents and keep scrolling around. a web page as status tracker is fantastic idea!",
+    "url": "https://x.com/mgoettel/status/2095798130860085620"
+  },
+  {
+    "author": "camsoft2000",
+    "id": "2095796494766846317",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ This is similar to using voice agent, if you give it a task it will set a goal and the manage other agents until the goal is complete. The task list is a key ingredient here. There are many ways to achieve this and you don’t need a custom harness or even a skill.",
+    "url": "https://x.com/camsoft2000/status/2095796494766846317"
+  },
+  {
+    "author": "nechmads",
+    "id": "2095795021815357870",
+    "likes": 0,
+    "retweets": 0,
+    "text": "That's my daily workflow for any new big project for the past year or more.\nThe main agent builds a big todo.md, separated into phases, and each task has a checkbox.\nThe coder subagent takes each task, completes it, and moves it to a Reviewer subagent.\nReviewer subagent returns a score. If the score is less than 8, they loop. When they score high enough, they mark the checkbox in the todos file.\nThe loop comes back to the main agent, and the dance continues.\nThat way, you can let them run for a full day, or stop in the middle and continue whenever you want.\n\n(I actually also tell the coder agent to always write a markdown doc documenting the task it finished, so the subagents working on next tasks can read it and understand not just what was done, but how and why.)",
+    "url": "https://x.com/nechmads/status/2095795021815357870"
+  },
+  {
+    "author": "daxesh_iroid",
+    "id": "2095789542141997274",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ this shit is clean man, fable 5.1 could never do this",
+    "url": "https://x.com/daxesh_iroid/status/2095789542141997274"
+  },
+  {
+    "author": "mathepi",
+    "id": "2095789236217876806",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ is this based on genuine, actual Manhattan data...real buildings and road names and pizza joints and bookstores and places to get stabbed and all that?",
+    "url": "https://x.com/mathepi/status/2095789236217876806"
+  },
+  {
+    "author": "FlippyMeister",
+    "id": "2095788339463127274",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ &gt; 96 agents\n\nholy shit",
+    "url": "https://x.com/FlippyMeister/status/2095788339463127274"
+  },
+  {
+    "author": "real_kaspr",
+    "id": "2095788086601089219",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Wait so the trick is to develop scoped work packages for the agents? What the hell has everyone been doing instead? People are idiots.",
+    "url": "https://x.com/real_kaspr/status/2095788086601089219"
+  },
+  {
+    "author": "jphilipp",
+    "id": "2095787896649273545",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Cool. I wonder in terms of orientation and perfection what goal statements like the following would do: \"Focus on what people playing it would care about, what makes it fun and viral, and what gets the game or app sold (don't necessarily focus on what's right or perfect).\"",
+    "url": "https://x.com/jphilipp/status/2095787896649273545"
+  },
+  {
+    "author": "witulski_crypto",
+    "id": "2095785699748278723",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ This has literally been my preferred workflow for every agent since Opus 4.7",
+    "url": "https://x.com/witulski_crypto/status/2095785699748278723"
+  },
+  {
+    "author": "John_zhong324",
+    "id": "2095781420832813433",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Long-horizon builds make state management visible. Planning, checkpoints, and verifiable intermediate artifacts are what turn a one-off demo into a repeatable product workflow.",
+    "url": "https://x.com/John_zhong324/status/2095781420832813433"
+  },
+  {
+    "author": "dualtronuk",
+    "id": "2095778779574513705",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ I generally don't have any control over how many agents it produces. Are you talking about agents or tasks in a project.",
+    "url": "https://x.com/dualtronuk/status/2095778779574513705"
+  },
+  {
+    "author": "lgandecki",
+    "id": "2095776226593960249",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@mattshumer_ This is great. Did you basically have unlimited tokens? Any idea how much usage did this use?",
+    "url": "https://x.com/lgandecki/status/2095776226593960249"
+  },
+  {
+    "author": "Martininc1",
+    "id": "2095774723317567924",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ @readwise save",
+    "url": "https://x.com/Martininc1/status/2095774723317567924"
+  },
+  {
+    "author": "Guilty0399887",
+    "id": "2095774676047876495",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ by default it struggled. the harness is the real product.",
+    "url": "https://x.com/Guilty0399887/status/2095774676047876495"
+  },
+  {
+    "author": "Frostifey",
+    "id": "2095773159186387187",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ These are nice reflections.",
+    "url": "https://x.com/Frostifey/status/2095773159186387187"
+  },
+  {
+    "author": "ViktorBobur",
+    "id": "2095770734446477647",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ curious what the approach is since astra's been pretty hit or miss for me on complex stuff, ngl. hope it's something actually reproducible and not just prompt magic",
+    "url": "https://x.com/ViktorBobur/status/2095770734446477647"
+  },
+  {
+    "author": "luisnomad",
+    "id": "2095769876145057945",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Welcome to loops 😎",
+    "url": "https://x.com/luisnomad/status/2095769876145057945"
+  },
+  {
+    "author": "BenoBilo61874",
+    "id": "2095769289621897532",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ You forgot to mention how much it costs?",
+    "url": "https://x.com/BenoBilo61874/status/2095769289621897532"
+  },
+  {
+    "author": "benvargas",
+    "id": "2095768218854191451",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ ngl, I looked up \"asymptote\" because college was awhile ago...",
+    "url": "https://x.com/benvargas/status/2095768218854191451"
+  },
+  {
+    "author": "pixelsinlife",
+    "id": "2095765868391153687",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ 96 agents(!), do you have any data on how much this costed?",
+    "url": "https://x.com/pixelsinlife/status/2095765868391153687"
+  },
+  {
+    "author": "ibrinzila",
+    "id": "2095764931345805675",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Why not leverage the graph dependencies from within Codex? It is native after all",
+    "url": "https://x.com/ibrinzila/status/2095764931345805675"
+  },
+  {
+    "author": "DmitriiDunin",
+    "id": "2095764579003650524",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Man, agent swarm is known for months. Phased checklist plan? Impressive.\n\nAnything new?",
+    "url": "https://x.com/DmitriiDunin/status/2095764579003650524"
+  },
+  {
+    "author": "aneesmerchant",
+    "id": "2095763799970361711",
+    "likes": 0,
+    "retweets": 0,
+    "text": "The context growth point matches what I see. I run a rule that once the working context is past about half full, the work goes to a sub agent with a clean window instead of continuing in the main thread. Quality drops well before the limit, and the failure is quiet: the model starts forgetting instructions it followed twenty minutes ago rather than erroring out. A manager that spawns fresh implementers is the same fix with better bookkeeping.",
+    "url": "https://x.com/aneesmerchant/status/2095763799970361711"
+  },
+  {
+    "author": "Toshi_nyaruo_AI",
+    "id": "2095761683516158101",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ 非常に重要な情報をありがとうございます。\n\nAstraがリリースされたら、早速実行したいと思います。\nありがとうございました！",
+    "url": "https://x.com/Toshi_nyaruo_AI/status/2095761683516158101"
+  },
+  {
+    "author": "ChrisTranGG",
+    "id": "2095761041150116245",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ That's frigging amazing.  I wonder if something like this works with less intelligent and less capable models.  I need something to try...",
+    "url": "https://x.com/ChrisTranGG/status/2095761041150116245"
+  },
+  {
+    "author": "QuodSoler",
+    "id": "2095760963064430718",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ This seems really similar to Ralph Loop, what dvantage does it have over it?",
+    "url": "https://x.com/QuodSoler/status/2095760963064430718"
+  },
+  {
+    "author": "ayushjn_",
+    "id": "2095760538739601435",
+    "likes": 0,
+    "retweets": 0,
+    "text": "The Manager Loop works because Astra still asymptotes on long tasks. Splitting into a planner agent and an implementer agent, forcing phase-by-phase “extremely well” completion, plus a visible checklist page, stops it from drowning in details. Running many sub-agents in parallel is the multiplier. This is old scaffolding applied to a stronger model, and it is currently one of the better ways to get multi-hour builds done.",
+    "url": "https://x.com/ayushjn_/status/2095760538739601435"
+  },
+  {
+    "author": "feulf",
+    "id": "2095760319108841629",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ reinventing RLM from first principles",
+    "url": "https://x.com/feulf/status/2095760319108841629"
+  },
+  {
+    "author": "CaryPalmerr",
+    "id": "2095759210961056152",
+    "likes": 0,
+    "retweets": 0,
+    "text": "Wow this is an awesome post! \n\nI leverage durable state to do long horizon work, similarly! I would be super interested in seeing if it positively impacted your workflows at all.\n\nI'm going to try adding your method to my flow as well. Thanks!\n\nresearch paper : https://t.co/jIuXHCsc78\nmy arch that uses it : https://t.co/ms1Vqoj3XV",
+    "url": "https://x.com/CaryPalmerr/status/2095759210961056152"
+  },
+  {
+    "author": "frygorate",
+    "id": "2095757415451115755",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ 96??? what level reasoning? that pro x20 weekly usage gone in 30 minutes",
+    "url": "https://x.com/frygorate/status/2095757415451115755"
+  },
+  {
+    "author": "bbu66396115",
+    "id": "2095756413960437901",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ 很有帮助 Grok bot也是这么工作的",
+    "url": "https://x.com/bbu66396115/status/2095756413960437901"
+  },
+  {
+    "author": "_AInation",
+    "id": "2095756267952476657",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Must've costed thousands.",
+    "url": "https://x.com/_AInation/status/2095756267952476657"
+  },
+  {
+    "author": "AnonPivot",
+    "id": "2095755354449584488",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ Feels like this is the start of a real Oasis… 🧐",
+    "url": "https://x.com/AnonPivot/status/2095755354449584488"
+  },
+  {
+    "author": "AIandDesign",
+    "id": "2095754446299164708",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@mattshumer_ How fast does this burn through your $200 Pro plan?",
+    "url": "https://x.com/AIandDesign/status/2095754446299164708"
+  },
+  {
+    "author": "ccccccmore",
+    "id": "2095754434798326152",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ the breakthrough is apparently turning one agent into middle management and calling the org chart a capability.",
+    "url": "https://x.com/ccccccmore/status/2095754434798326152"
+  },
+  {
+    "author": "takesonai",
+    "id": "2095753706968850471",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ \"we used to use with much less capable models a couple of years ago\"\nLike 4 or 5 years ago? https://t.co/V1RY9xrlzA",
+    "url": "https://x.com/takesonai/status/2095753706968850471"
+  },
+  {
+    "author": "AsimKh4n",
+    "id": "2095753626799255576",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@mattshumer_ The \"extremely well\" vs \"perfect\" distinction is doing more work than it looks like.",
+    "url": "https://x.com/AsimKh4n/status/2095753626799255576"
+  }
+]

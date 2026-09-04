@@ -1,0 +1,102 @@
+[
+  {
+    "author": "swyx",
+    "id": "2095621785953984782",
+    "likes": 863,
+    "replies": 72,
+    "retweets": 48,
+    "text": "sorry for the radio silence folks - got sucked into extreme LLM psychosis. but i can confidently say we have crossed over into a new age of AI Engineering and we are never, ever, looking back. \n\nthis isnt even EVERYTHING i did with Astra but i'll append more reports as I publish",
+    "url": "https://x.com/swyx/status/2095621785953984782",
+    "views": 198000
+  },
+  {
+    "author": "andrewho03",
+    "id": "2095590088390656262",
+    "likes": 1900,
+    "replies": 43,
+    "retweets": 58,
+    "text": "You know, I might be one of the few people in this world who has worked at a frontier lab, observed the nature and pace of research progress, and actually become more bearish on AGI timelines (relative to pre-employment baseline) as a result.",
+    "url": "https://x.com/andrewho03/status/2095590088390656262",
+    "views": 355000
+  },
+  {
+    "author": "AgustinLebron3",
+    "id": "2095593272106246563",
+    "likes": 114,
+    "replies": 3,
+    "retweets": 0,
+    "text": "Can you elaborate? Would be useful, given you're in a fairly unique position.",
+    "url": "https://x.com/AgustinLebron3/status/2095593272106246563",
+    "views": 37000
+  },
+  {
+    "author": "andrewho03",
+    "id": "2095598736265404631",
+    "likes": 1900,
+    "replies": 56,
+    "retweets": 259,
+    "text": "Not really observations that others before me haven’t made, but:\n\n- Despite the seemingly magical nature of LLMs, reflection over a >3 month timescale suggests my total productivity hasn’t increased by over 100%, or perhaps even by over 50%, and a lot of time is actually wasted",
+    "url": "https://x.com/andrewho03/status/2095598736265404631",
+    "views": 172000
+  },
+  {
+    "author": "qinzytech",
+    "id": "2095542341956428129",
+    "likes": 572,
+    "replies": 12,
+    "retweets": 84,
+    "text": "RUMOR: OpenAI Astra model used \"Looped Transformers\"\n\nWe studied the 𝐒𝐜𝐚𝐥𝐢𝐧𝐠 𝐋𝐚𝐰 𝐟𝐨𝐫 𝐋𝐨𝐨𝐩𝐞𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬: arXiv 2506.18233\n\nThe main discovery is shown in the figure:\n\n1. Loop does NOT increase knowledge capacity\n2. Loop is effective in increasing",
+    "url": "https://x.com/qinzytech/status/2095542341956428129",
+    "views": 50000
+  },
+  {
+    "author": "CrazyShyyt",
+    "id": "2095720559091052636",
+    "likes": 57,
+    "replies": 14,
+    "retweets": 30,
+    "text": "Google DeepMind proved LLMs can never make real scientific discoveries.\n\nIt is mathematically impossible.\n\nImagine an AI given access to every single published scientific paper up to 1905, every data point, every equation, every observation Einstein had right before he changed",
+    "url": "https://x.com/CrazyShyyt/status/2095720559091052636",
+    "views": 5000
+  },
+  {
+    "author": "withmartian",
+    "id": "2095570359059988584",
+    "likes": 192,
+    "replies": 54,
+    "retweets": 75,
+    "text": "We got 46% fewer errors than the single best LLM across the 16 most used benchmarks (TerminalBench, LiveCodeBench, etc).\n\nHere's how that's possible and what each model can achieve when used optimally (every benchmarks misses the majority of model capabilities) 👇\n\nInteractive",
+    "url": "https://x.com/withmartian/status/2095570359059988584",
+    "views": 283000
+  },
+  {
+    "author": "janetacarr",
+    "id": "2095549746605629775",
+    "likes": 1600,
+    "replies": 30,
+    "retweets": 34,
+    "text": "BREAKING: LLM one shots clone of popular, mature open-source project!!!\n\ntux cart. it's tux cart.",
+    "url": "https://x.com/janetacarr/status/2095549746605629775",
+    "views": 82000
+  },
+  {
+    "author": "jon_stokes",
+    "id": "2095695394340532385",
+    "likes": 24,
+    "replies": 16,
+    "retweets": 1,
+    "text": "One question I ask myself a lot is, why are we this way about text but the opposite about LLM-generated video & in the middle about AI image gen? This is important but I’ve yet to understand why.",
+    "url": "https://x.com/jon_stokes/status/2095695394340532385",
+    "views": 4400
+  },
+  {
+    "author": "TheZvi",
+    "id": "2095584804720796086",
+    "likes": 67,
+    "replies": 4,
+    "retweets": 9,
+    "text": "",
+    "url": "https://x.com/TheZvi/status/2095584804720796086",
+    "views": 19000
+  }
+]

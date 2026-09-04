@@ -1,0 +1,122 @@
+[
+  {
+    "author": "qinzytech",
+    "id": "2095542341956428129",
+    "likes": 580,
+    "retweets": 75,
+    "text": "RUMOR: OpenAI Astra model used \"Looped Transformers\"\n\nWe studied the 𝐒𝐜𝐚𝐥𝐢𝐧𝐠 𝐋𝐚𝐰 𝐟𝐨𝐫 𝐋𝐨𝐨𝐩𝐞𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬: arXiv 2506.18233\n\nThe main discovery is shown in the figure:\n\n1. Loop does NOT increase knowledge capacity\n2. Loop is effective in increasing reasoning capability\n\nThat being said, the benchmark gains does not come from knowledge gain, but from reasoning gain, e.g., the way the knowledge is being used. \n\nKnowledge capacity and reasoning capability is disentangled by looping layers, as shown in the green dots. As model size grows (dot size grows), the knowledge capacity (x-axis) does not grow, but the reasoning capability (y-axis) grows.\n\nIn non-looped transformers, as shown in the blue dots, the knowledge (x-axis) and reasoning (y-axis) grow at the same time.\n\nThis might reveal another scaling axis that brings a new paradigm for LLM pre-training.",
+    "url": "https://x.com/qinzytech/status/2095542341956428129"
+  },
+  {
+    "author": "NickPetros7",
+    "id": "2095810052208693323",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@qinzytech Book smart vs. problem solver. Thanks for sharing.",
+    "url": "https://x.com/NickPetros7/status/2095810052208693323"
+  },
+  {
+    "author": "AgiMan_WCL",
+    "id": "2095791969154793975",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@qinzytech 1. and 2. are quite logical: 1 - Loop does not increase number of weights, 2 - Loop increases number of computations - 'reasoning' steps in latent space.",
+    "url": "https://x.com/AgiMan_WCL/status/2095791969154793975"
+  },
+  {
+    "author": "YLyGZn4hLxLXZXS",
+    "id": "2095771497298088166",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@qinzytech Nanbeige4.2 also uses this architecture and it's interesting",
+    "url": "https://x.com/YLyGZn4hLxLXZXS/status/2095771497298088166"
+  },
+  {
+    "author": "doyc_1",
+    "id": "2095762118696214575",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@qinzytech Maybe Loop TFs are the next breakthrough of CoT",
+    "url": "https://x.com/doyc_1/status/2095762118696214575"
+  },
+  {
+    "author": "aiseomastery",
+    "id": "2095744156488577299",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@qinzytech looped transformers is a wild theory",
+    "url": "https://x.com/aiseomastery/status/2095744156488577299"
+  },
+  {
+    "author": "0xKaldalis",
+    "id": "2095741334246088823",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@qinzytech Fantastic figure",
+    "url": "https://x.com/0xKaldalis/status/2095741334246088823"
+  },
+  {
+    "author": "qinzytech",
+    "id": "2095751000384778616",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@0xKaldalis 💯",
+    "url": "https://x.com/qinzytech/status/2095751000384778616"
+  },
+  {
+    "author": "nomad042025",
+    "id": "2095712100639494275",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@qinzytech Why only pre-training? Are looped transformers not used in post-training, especially long horizon tasks ?",
+    "url": "https://x.com/nomad042025/status/2095712100639494275"
+  },
+  {
+    "author": "sreeramkannan",
+    "id": "2095711128043335740",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@qinzytech Superb insight!",
+    "url": "https://x.com/sreeramkannan/status/2095711128043335740"
+  },
+  {
+    "author": "qinzytech",
+    "id": "2095724398024270272",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@sreeramkannan 💯",
+    "url": "https://x.com/qinzytech/status/2095724398024270272"
+  },
+  {
+    "author": "qinzytech",
+    "id": "2095705090774741218",
+    "likes": 6,
+    "retweets": 0,
+    "text": "Paper link https://t.co/DpaIyI9mhn",
+    "url": "https://x.com/qinzytech/status/2095705090774741218"
+  },
+  {
+    "author": "morganlinton",
+    "id": "2095702891634020479",
+    "likes": 3,
+    "retweets": 0,
+    "text": "Super interesting, and I've been slowly but surely going through that paper, there's a lot there. \n\nOne of my current thoughts is that with this method, wouldn't lower effort levels yield even stronger results since essentially the intelligence of the reasoning process itself is higher?\n\nLet me know if I'm potentially understanding that correctly? My hypothesis here is that Astra would be the most powerful model at low effort out of any model.\n\nOf course, this would scale and could also be the most powerful model at Max effort, but I think you get what I'm saying.",
+    "url": "https://x.com/morganlinton/status/2095702891634020479"
+  },
+  {
+    "author": "qinzytech",
+    "id": "2095704511457394935",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@morganlinton lorn",
+    "url": "https://x.com/qinzytech/status/2095704511457394935"
+  },
+  {
+    "author": "AIQuanting",
+    "id": "2095587877027737749",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@qinzytech the flat bit matters too. classical scaling goes 60.5 to 62.2 for double the knowledge bits, so looping is doing the work now. you end up with something that reasons like a big model and knows like a small one, which is a worse hallucination profile not a better one",
+    "url": "https://x.com/AIQuanting/status/2095587877027737749"
+  }
+]

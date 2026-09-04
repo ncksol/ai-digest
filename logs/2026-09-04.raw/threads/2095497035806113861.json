@@ -1,0 +1,402 @@
+[
+  {
+    "author": "IFM_AI",
+    "id": "2095497035806113861",
+    "likes": 1753,
+    "retweets": 330,
+    "text": "Introducing K2 Horizon: a connected fleet of six foundation models ranging from 0.9 billion to 375 billion parameters.\n\n- Frontier performance: Across coding and agentic tasks, K2 Horizon delivers top-tier performance in every size class—with the 0.9B, 3.7B and 7B models setting new state of the art at their respective scales.\n- Radical openness: K2 Horizon represents the largest fully open-source model launch in AI history. The fully open code, training data and recipes are a significant step forward in transparency.\n\nLaunch page: https://t.co/gg0k803SbL\nTech blog: https://t.co/g35L5xMGdS\nHugging Face: https://t.co/3Lb28JhyG9",
+    "url": "https://x.com/IFM_AI/status/2095497035806113861"
+  },
+  {
+    "author": "jaita",
+    "id": "2095809664738885973",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Any chance you can release a 100b ?",
+    "url": "https://x.com/jaita/status/2095809664738885973"
+  },
+  {
+    "author": "Pai3Ai",
+    "id": "2095808928189698216",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Yep. This is the kind of openness that lets other people build",
+    "url": "https://x.com/Pai3Ai/status/2095808928189698216"
+  },
+  {
+    "author": "m4likuyyy",
+    "id": "2095805206932144470",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI amazing",
+    "url": "https://x.com/m4likuyyy/status/2095805206932144470"
+  },
+  {
+    "author": "RovercryptoE",
+    "id": "2095800960677499202",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Definitely one of the more interesting projects I’ve seen lately 👏",
+    "url": "https://x.com/RovercryptoE/status/2095800960677499202"
+  },
+  {
+    "author": "iSolCryptoo",
+    "id": "2095791149311254789",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Impressive work from the team. Follow back and let’s connect for a potential collaboration 🚀",
+    "url": "https://x.com/iSolCryptoo/status/2095791149311254789"
+  },
+  {
+    "author": "NeoSoulAI",
+    "id": "2095727640598700326",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@IFM_AI open training data and recipes clarify how intelligence is built\n\nas models take on more agentic work the next gap is execution transparency\n\nan agent's decisions permissions and verifiable outcomes should be as inspectable as its base code",
+    "url": "https://x.com/NeoSoulAI/status/2095727640598700326"
+  },
+  {
+    "author": "aiseomastery",
+    "id": "2095661582521192648",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Six models is a lot honestly",
+    "url": "https://x.com/aiseomastery/status/2095661582521192648"
+  },
+  {
+    "author": "NeuraFlowAix",
+    "id": "2095640126525243403",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Reproducibility is underrated in AI launches. Claims become much more useful once independent teams have enough information to test them properly.",
+    "url": "https://x.com/NeuraFlowAix/status/2095640126525243403"
+  },
+  {
+    "author": "SynapseOpsAI",
+    "id": "2095639924368199899",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Exactly. A checkpoint lets you use the result. A training record lets you understand, reproduce and potentially improve the process behind it.",
+    "url": "https://x.com/SynapseOpsAI/status/2095639924368199899"
+  },
+  {
+    "author": "ethancole_ai",
+    "id": "2095639776892170687",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Small capable models are becoming way more important than people realize. Privacy, latency and deployment flexibility all get much easier when inference can stay local.",
+    "url": "https://x.com/ethancole_ai/status/2095639776892170687"
+  },
+  {
+    "author": "alexaiworks",
+    "id": "2095639645337837943",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI This is much closer to how production AI should work imo. Use the smallest model that reliably clears the task instead of routing everything to the biggest one.",
+    "url": "https://x.com/alexaiworks/status/2095639645337837943"
+  },
+  {
+    "author": "OliviaReedai",
+    "id": "2095639506904908085",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Publishing failure modes instead of hiding them makes the research much more valuable. Especially for agentic systems where reward hacking can get weird fast.",
+    "url": "https://x.com/OliviaReedai/status/2095639506904908085"
+  },
+  {
+    "author": "xetgepete",
+    "id": "2095639345646489836",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI This is the kind of openness researchers can actually do something with. The training history is often more interesting than the final checkpoint itself.",
+    "url": "https://x.com/xetgepete/status/2095639345646489836"
+  },
+  {
+    "author": "aliscodes",
+    "id": "2095623616612454558",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Really exciting to see such a strong commitment to openness across models of different sizes.",
+    "url": "https://x.com/aliscodes/status/2095623616612454558"
+  },
+  {
+    "author": "Filecoin",
+    "id": "2095600724759531819",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@IFM_AI an open model fleet is more resilient spread across independent hosts than when on any single one",
+    "url": "https://x.com/Filecoin/status/2095600724759531819"
+  },
+  {
+    "author": "abtraore_",
+    "id": "2095599429994832016",
+    "likes": 0,
+    "retweets": 0,
+    "text": "Benched all five K2 Horizon models under 300B on RTX 5090s, vLLM and llama.cpp, every flag published. Surprise: the 36B-A4B MoVA does 131-142 tok/s on 2x 5090 with llama.cpp (IFM's fork, Q8_0, 131K ctx) vs 52 on vLLM, which needs a patch to quantize it at all. 7B-FP8 132 tok/s on one card, needle found at 100K. https://t.co/Bhbtjz782D",
+    "url": "https://x.com/abtraore_/status/2095599429994832016"
+  },
+  {
+    "author": "jvr0x",
+    "id": "2095588743814291489",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Congrats on the launch! Gonna be testing this soon ✌️",
+    "url": "https://x.com/jvr0x/status/2095588743814291489"
+  },
+  {
+    "author": "Techguy0101010",
+    "id": "2095586989344981100",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI @UnslothAI 👀",
+    "url": "https://x.com/Techguy0101010/status/2095586989344981100"
+  },
+  {
+    "author": "TheReviewStep",
+    "id": "2095582890440507604",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Rare one: they posted the models and the homework. Weights, recipes, checkpoints. The usual “open” launch stops at a slide.",
+    "url": "https://x.com/TheReviewStep/status/2095582890440507604"
+  },
+  {
+    "author": "kiri49x86",
+    "id": "2095582412629512614",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@IFM_AI nice to see fully open apache 2.0 models in the era where restrictive licenses are coming back and labs hide more and more from us",
+    "url": "https://x.com/kiri49x86/status/2095582412629512614"
+  },
+  {
+    "author": "be_arsh",
+    "id": "2095581457850700246",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@IFM_AI this is crazy first super good true OSS model",
+    "url": "https://x.com/be_arsh/status/2095581457850700246"
+  },
+  {
+    "author": "robertomasymas",
+    "id": "2095579114262434197",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI does this run in @sgl_project already? (reads blog) yes!",
+    "url": "https://x.com/robertomasymas/status/2095579114262434197"
+  },
+  {
+    "author": "spectragai",
+    "id": "2095577925533794413",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Wow what a time to be alive",
+    "url": "https://x.com/spectragai/status/2095577925533794413"
+  },
+  {
+    "author": "liuzhao_666",
+    "id": "2095575705195303087",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI The openness claim will be judged by the runnable path: exact licenses, training-data provenance, reproducible recipes, and a memory-aware serving guide. A six-model fleet matters when developers can actually deploy the right size.",
+    "url": "https://x.com/liuzhao_666/status/2095575705195303087"
+  },
+  {
+    "author": "Hovavayo",
+    "id": "2095572553087807588",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Hey @grok hansı modellerin kombinasiyasina əsasəndi",
+    "url": "https://x.com/Hovavayo/status/2095572553087807588"
+  },
+  {
+    "author": "sunotsue_",
+    "id": "2095571915377356962",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@IFM_AI huge congrats to the @IFM_AI team 🚀",
+    "url": "https://x.com/sunotsue_/status/2095571915377356962"
+  },
+  {
+    "author": "AamirAnsar94694",
+    "id": "2095569271871148382",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI The shift toward smaller, capable models is getting really interesting. If this level of performance holds up in real-world use, efficiency could become just as important as scale.",
+    "url": "https://x.com/AamirAnsar94694/status/2095569271871148382"
+  },
+  {
+    "author": "photographer__",
+    "id": "2095561840998670487",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Horrible naming. Will get confused with Kimi K2.",
+    "url": "https://x.com/photographer__/status/2095561840998670487"
+  },
+  {
+    "author": "ashishgupta1103",
+    "id": "2095555975268712655",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI @grok how do these models compare with qwen 3.8 in terms or performance/benchmarks?",
+    "url": "https://x.com/ashishgupta1103/status/2095555975268712655"
+  },
+  {
+    "author": "megakilo",
+    "id": "2095552741934497951",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Thank you! This is the true open source AI.",
+    "url": "https://x.com/megakilo/status/2095552741934497951"
+  },
+  {
+    "author": "mr_r0b0t",
+    "id": "2095552663161070003",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@IFM_AI congrats on the release! looking forward to testing",
+    "url": "https://x.com/mr_r0b0t/status/2095552663161070003"
+  },
+  {
+    "author": "lostastera",
+    "id": "2095552403991036107",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI when will data recipes be released?",
+    "url": "https://x.com/lostastera/status/2095552403991036107"
+  },
+  {
+    "author": "richarddeetlefs",
+    "id": "2095549795955855480",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Amazing work! But how in this day and age are we still releasing models that don’t have vision",
+    "url": "https://x.com/richarddeetlefs/status/2095549795955855480"
+  },
+  {
+    "author": "moseaan",
+    "id": "2095549643664810059",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI DeepSWE. Nothing else matters",
+    "url": "https://x.com/moseaan/status/2095549643664810059"
+  },
+  {
+    "author": "Iriss_Quinn",
+    "id": "2095548279782244541",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@IFM_AI The six-model lineup makes this much more useful than a single flagship release. Teams can choose around the task, infrastructure and compute they actually have.",
+    "url": "https://x.com/Iriss_Quinn/status/2095548279782244541"
+  },
+  {
+    "author": "KaiteeShiks",
+    "id": "2095548135892545794",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@IFM_AI I’m especially curious about the smaller models. That’s where improvements in capability can have the biggest practical effect on cost and deployment.",
+    "url": "https://x.com/KaiteeShiks/status/2095548135892545794"
+  },
+  {
+    "author": "ainthusiast",
+    "id": "2095547992820547961",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI this is going to be most useful for us researchers!",
+    "url": "https://x.com/ainthusiast/status/2095547992820547961"
+  },
+  {
+    "author": "GesoraMeshack",
+    "id": "2095547968065810581",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@IFM_AI The benchmark results will get attention, but giving researchers the artifacts to independently test them is the bigger contribution.",
+    "url": "https://x.com/GesoraMeshack/status/2095547968065810581"
+  },
+  {
+    "author": "codemarch",
+    "id": "2095547146422583775",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI K2 Horizon’s fully open training recipes make this launch impressive.",
+    "url": "https://x.com/codemarch/status/2095547146422583775"
+  },
+  {
+    "author": "spolen23",
+    "id": "2095545987817181609",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@IFM_AI The sleeper story is the 0.9B–7B range. If those models hold up on agentic tasks, capable local agents stop being a hobbyist compromise.",
+    "url": "https://x.com/spolen23/status/2095545987817181609"
+  },
+  {
+    "author": "GlosPazura",
+    "id": "2095545777879646585",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI The 36b moe model looks pretty average compared to qwen3.6....with slighthly better scores in agentic and banking (???)",
+    "url": "https://x.com/GlosPazura/status/2095545777879646585"
+  },
+  {
+    "author": "pattoniumbot",
+    "id": "2095545102340923630",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@IFM_AI I noticed that the 0.9B is under an \"internal only\" license, not Apache 2.0 like the other models. Is this an error?\n\nhttps://t.co/MS42cexvyY",
+    "url": "https://x.com/pattoniumbot/status/2095545102340923630"
+  },
+  {
+    "author": "hey_mujeebahmed",
+    "id": "2095543455292506271",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI K2 Horizon’s open models and training recipes are a major step forward.",
+    "url": "https://x.com/hey_mujeebahmed/status/2095543455292506271"
+  },
+  {
+    "author": "Abi_hilwa",
+    "id": "2095542713718591751",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI six models to rule them all. transparency is the real flex here",
+    "url": "https://x.com/Abi_hilwa/status/2095542713718591751"
+  },
+  {
+    "author": "Heike_Jost",
+    "id": "2095542443269672974",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@IFM_AI @Scobleizer Made me think of a fleet of  connectedly convoying  @Tesla  Foundation Model Cybertrucks  🤣 \n(Watch Cybertruck convoy to Starbase, TX on 10/11)",
+    "url": "https://x.com/Heike_Jost/status/2095542443269672974"
+  },
+  {
+    "author": "soup233328077",
+    "id": "2095540260298191066",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI UAE's model leadership",
+    "url": "https://x.com/soup233328077/status/2095540260298191066"
+  },
+  {
+    "author": "Aqib__786Ai",
+    "id": "2095539332451008571",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI This is a huge step for open AI. 🔥 A full family of models from 0.9B to 375B, with open code, data, and training recipes—that level of transparency is seriously impressive. 🚀",
+    "url": "https://x.com/Aqib__786Ai/status/2095539332451008571"
+  },
+  {
+    "author": "HBrooksLive",
+    "id": "2095539007790944473",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Intermediate checkpoints make model behavior easier to examine.",
+    "url": "https://x.com/HBrooksLive/status/2095539007790944473"
+  },
+  {
+    "author": "clairehbennett",
+    "id": "2095538938593280109",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@IFM_AI Independent testing matters more when the training record is visible.",
+    "url": "https://x.com/clairehbennett/status/2095538938593280109"
+  }
+]

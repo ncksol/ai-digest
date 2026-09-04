@@ -1,0 +1,72 @@
+[
+  {
+    "author": "tobi",
+    "id": "2094808564355191249",
+    "likes": 8100,
+    "replies": 300,
+    "retweets": 735,
+    "text": "Training tiny models for special purpose use cases works so incredibly well if you  have a great self improving recursive flywheel. Shopify ML team is on fire.\n\nfinetuned 0.8b model beats GPT 5.6-sol xhigh in this very specialized task.",
+    "url": "https://x.com/tobi/status/2094808564355191249",
+    "views": 1300000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2095595741528125780",
+    "likes": 220000,
+    "replies": 5200,
+    "retweets": 38000,
+    "text": "This is GPT-6 Astra.\n\nAnything you can do on a computer, Astra can do for you. Fast.",
+    "url": "https://x.com/OpenAI/status/2095595741528125780",
+    "views": 58000000
+  },
+  {
+    "author": "kimmonismus",
+    "id": "2095585966102614182",
+    "likes": 1500,
+    "replies": 114,
+    "retweets": 160,
+    "text": "Official GPT-6 Astra Benchmarks from OpenAIs website\n\n\"Astra also saturates ARC-AGI-3 with a 99.9% score and ExploitBench with a 100% score\"\n\n\"GPT‑6 Astra is rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus,",
+    "url": "https://x.com/kimmonismus/status/2095585966102614182",
+    "views": 244000
+  },
+  {
+    "author": "DeNA_Startups",
+    "id": "2095717465867395520",
+    "likes": 1200,
+    "replies": 28,
+    "retweets": 228,
+    "text": "Sam Altman Retracts His Own Prediction on the Future of AI.\n\n“When we released GPT-4 in 2023, I thought jobs at various companies would immediately be replaced by AI. I figured existing software companies would be devoured in the blink of an eye.”\n\nBut that didn’t happen.\n\n“It’s",
+    "url": "https://x.com/DeNA_Startups/status/2095717465867395520",
+    "views": 364000
+  },
+  {
+    "author": "DanDr1s",
+    "id": "2095578625688924477",
+    "likes": 3300,
+    "replies": 176,
+    "retweets": 392,
+    "text": "🚨 AGI has arrived\n\nGPT-6 Astra just posted insane scores:\n\n• 98.6% on ARC-AGI-3\n• 97.6% on hard math\n• 95.9% on CAD\n• 100% on ExploitBench\n\nIt beats GPT-5.6 Sol on every test shown.\nThis is not a normal update.",
+    "url": "https://x.com/DanDr1s/status/2095578625688924477",
+    "views": 352000
+  },
+  {
+    "author": "cheatyyyy",
+    "id": "2095597213896610184",
+    "likes": 1900,
+    "replies": 37,
+    "retweets": 113,
+    "text": "GPT-6 Astra is on the pareto-frontier of cost efficiency due to being EXTREMELY token efficient. It is in a whole league of it's own.\n\nIt is cheaper than Gemini 3.8 Flash per task (a model 13x cheaper than Astra).",
+    "url": "https://x.com/cheatyyyy/status/2095597213896610184",
+    "views": 298000
+  },
+  {
+    "author": "droidbuilds",
+    "id": "2094759426054046177",
+    "likes": 12000,
+    "replies": 72,
+    "retweets": 251,
+    "text": "Every Claude and ChatGPT new model benchmarks be like 😭",
+    "url": "https://x.com/droidbuilds/status/2094759426054046177",
+    "views": 324000
+  }
+]

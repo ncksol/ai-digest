@@ -1,0 +1,66 @@
+[
+  {
+    "author": "Prathkum",
+    "id": "2095518303422955762",
+    "likes": 42,
+    "retweets": 5,
+    "text": "NVIDIA bought the front door of the entire open-source AI ecosystem for $12.93B.\n\nThe scale HF operates at:\n\n– 18M+ developers, researchers, and creators\n– 3M+ models\n– 500K+ datasets\n– 1M+ applications\n– 200K+ companies using the platform\n\nA few thoughts on why NVIDIA did this:\n\n• Owning the compute layer isn't enough anymore, distribution and discovery are becoming just as strategic\n\n• NVIDIA is already the largest contributor of open models/data to HF, 500+ models and 250+ datasets released there\n\n• Buying HF locks in relevance at the exact layer where developers decide what to build with, before they even touch hardware\n\n• This echoes Microsoft buying GitHub in 2018, same playbook of acquiring the community hub instead of building one.",
+    "url": "https://x.com/Prathkum/status/2095518303422955762"
+  },
+  {
+    "author": "AmeeStelloAI",
+    "id": "2095569181215457529",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@Prathkum Developer preference is becoming infrastructure in its own right. Owning the place where builders discover and test models gives NVIDIA influence long before compute gets purchased.",
+    "url": "https://x.com/AmeeStelloAI/status/2095569181215457529"
+  },
+  {
+    "author": "devmenboost",
+    "id": "2095567328884724079",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@Prathkum I keep telling every solopreneur I mentor: study this deal. You don't need to own the whole stack - owning the front door is enough. NVIDIA paid $13B to make that point.",
+    "url": "https://x.com/devmenboost/status/2095567328884724079"
+  },
+  {
+    "author": "ajs6888",
+    "id": "2095544730335715495",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@Prathkum 这哪是买平台，像是把开源 AI 的入口直接焊到自己家了",
+    "url": "https://x.com/ajs6888/status/2095544730335715495"
+  },
+  {
+    "author": "dusangran",
+    "id": "2095533702352638285",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@Prathkum open weights don't have a front door, they have mirrors. $13B for the lobby of a house everyone already has a key to 🙂",
+    "url": "https://x.com/dusangran/status/2095533702352638285"
+  },
+  {
+    "author": "apilayer",
+    "id": "2095528380955250797",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@Prathkum This is insane news",
+    "url": "https://x.com/apilayer/status/2095528380955250797"
+  },
+  {
+    "author": "MichaelWaitze",
+    "id": "2095528260541288744",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@Prathkum I think you're nailing it on distribution mattering as much as compute now. NVIDIA expanding from hardware to where developers actually congregate, that changes the calculus for everyone building AI. Think that changes h\nhttps://t.co/XQXqDgVKrl",
+    "url": "https://x.com/MichaelWaitze/status/2095528260541288744"
+  },
+  {
+    "author": "systemdesignone",
+    "id": "2095525849722146877",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@Prathkum is this a good news",
+    "url": "https://x.com/systemdesignone/status/2095525849722146877"
+  }
+]
