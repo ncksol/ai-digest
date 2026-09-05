@@ -1,0 +1,149 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "10 selected items cover benchmarks, the GPT-6 Astra rollout, open-source releases, research, and practitioner analysis. The Astra availability news appears from two distinct angles (OpenAI's official availability announcement and Altman's rollout framing), flagged as same_topic_distinct_angle. All other items are unique stories with no duplication. Every item is a self-contained root tweet or standalone post per its context notes; no special-account reply lacks a successful context summary. Selection count (10) is at the top of the 6-10 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2096001986110099767",
+      "decision": "keep",
+      "reason": "Artificial Analysis releases Intelligence Index v4.2 with harder tasks and more private test sets; distinct benchmarks-infrastructure story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique benchmark methodology update; no overlap."
+      }
+    },
+    {
+      "id": "item_2095973658867171733",
+      "decision": "keep",
+      "reason": "Altman's self-contained Astra rollout update covering Work, Codex and the API with upcoming Plus/Business access; strongest self-contained sama post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra availability cluster; CEO rollout-framing angle, distinct from OpenAI's official availability post."
+      }
+    },
+    {
+      "id": "item_2095968413646737608",
+      "decision": "keep",
+      "reason": "OpenAI's official announcement of GPT-6 Astra availability across ChatGPT Work, Codex and the API for Pro/Enterprise/Business Premium; strongest self-contained OpenAI post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Astra availability cluster; official product-availability angle, distinct from Altman's framing."
+      }
+    },
+    {
+      "id": "item_2095953758148853892",
+      "decision": "keep",
+      "reason": "Ant Group introduces Ling-3.0-flash-Sante, a health/medicine MoE model for clinical reasoning; distinct open-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique domain-specific model release; no overlap."
+      }
+    },
+    {
+      "id": "item_2095948815450681499",
+      "decision": "keep",
+      "reason": "ThePrimeagen demonstrates an agent navigating an Omarchy desktop while exposing model intent and actions; distinct practitioner demo.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique computer-use demo; no overlap."
+      }
+    },
+    {
+      "id": "item_2095947707605266436",
+      "decision": "keep",
+      "reason": "Anthropic reports Claude completed the first formalised proof of Fermat's Last Theorem; concrete verification result and strongest self-contained Anthropic post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique mathematical-verification result; no overlap."
+      }
+    },
+    {
+      "id": "item_2095890279865721217",
+      "decision": "keep",
+      "reason": "Andrew Ng publishes an AI Engineering Skills Map for effective coding-agent use; distinct practitioner resource.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique skills/education content; no overlap."
+      }
+    },
+    {
+      "id": "item_2095889630306472127",
+      "decision": "keep",
+      "reason": "Thomas Wolf highlights researchers finding another agent swarm on a German-language forum, with parallels to the Hugging Face incident; distinct safety story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "References the prior Hugging Face incident but reports a new, distinct swarm finding."
+      }
+    },
+    {
+      "id": "item_2095883627200659800",
+      "decision": "keep",
+      "reason": "Ollama reports use by nine million developers and 85% of the Fortune 500 alongside a shift to open models; distinct industry-adoption data.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique adoption/market data point; no overlap."
+      }
+    },
+    {
+      "id": "item_2095882301032828932",
+      "decision": "keep",
+      "reason": "World Labs describes Atlas as a spatial-intelligence world model trained on new-view prediction; distinct technical/model story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique world-model architecture story; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2095973658867171733",
+        "item_2095968413646737608"
+      ],
+      "reason": "Two items cover the GPT-6 Astra availability rollout: OpenAI's official availability announcement and Altman's rollout framing. Each adds a distinct angle and both are kept, but they should be presented together as a single Astra-availability story rather than two independent items."
+    }
+  ],
+  "additional_search_requests": []
+}
