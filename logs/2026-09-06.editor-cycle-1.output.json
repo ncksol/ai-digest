@@ -1,0 +1,178 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "12 selected items span benchmarks, model and product releases, research, education, and safety. Several items touch GPT-6 Astra but from genuinely distinct angles (a saturated spatial-reasoning eval, Code Arena's WebDev ranking, an OpenAI Developers challenge, a practitioner reconstruction, Altman's game-generation observation, and OpenAI's misalignment-disclosure standards), so they are kept and lightly flagged as same_topic_distinct_angle for editorial awareness. Other items (Grok Imagine Video, Qwen3.8-Max, two distinct research-paper summaries, Stanford CS329Z, Mollick's Sparks retrospective) are unique. All items are self-contained per their context notes; no special-account reply lacks a successful context summary. Selection count (12) is at the top of the 7-12 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2096365630190698516",
+      "decision": "keep",
+      "reason": "Practitioner reports Astra saturating a long-running spatial-reasoning vision eval that earlier models failed; concrete benchmark signal.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent but a distinct eval-saturation data point; different from the Code Arena WebDev ranking."
+      }
+    },
+    {
+      "id": "item_2096360320268689769",
+      "decision": "keep",
+      "reason": "Ethan Mollick revisits the GPT-4 Sparks paper as a prescient early forecast; distinct retrospective analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique historical/analysis angle; no overlap."
+      }
+    },
+    {
+      "id": "item_2096298105213952178",
+      "decision": "keep",
+      "reason": "Grok announces Imagine Video 1.5 agent powered by Image 2.0 with improved multi-shot continuity; distinct product release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique video-model release; no overlap with Astra items."
+      }
+    },
+    {
+      "id": "item_2096290434700247250",
+      "decision": "keep",
+      "reason": "Code Arena reports GPT-6 Astra Max at number one on its WebDev benchmark and a new price-performance frontier; independent benchmark result.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent but a distinct third-party WebDev benchmark, different from the spatial-reasoning eval."
+      }
+    },
+    {
+      "id": "item_2096259745501921758",
+      "decision": "keep",
+      "reason": "OpenAI Developers opens a 24-hour build challenge for GPT-6 Astra products; distinct developer-ecosystem item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent community/ecosystem event; distinct from benchmark and capability items."
+      }
+    },
+    {
+      "id": "item_2096252283168456958",
+      "decision": "keep",
+      "reason": "Practitioner shows Astra producing a cinematic 3D reconstruction in 44 minutes using 6.73M tokens; distinct capability anecdote.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent practitioner story; distinct from Altman's game-generation observation."
+      }
+    },
+    {
+      "id": "item_2096241436509544744",
+      "decision": "keep",
+      "reason": "Sam Altman describes Astra generating playable custom games within minutes; strongest self-contained eligible sama post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent CEO observation; distinct capability angle from the practitioner reconstruction."
+      }
+    },
+    {
+      "id": "item_2096212361589993589",
+      "decision": "keep",
+      "reason": "Developer summary of Qwen3.8-Max-0902 as a 2.4T-parameter, 1M-context model with stronger coding/agent capabilities; distinct model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique Alibaba model release; no overlap with Astra."
+      }
+    },
+    {
+      "id": "item_2096168438830080278",
+      "decision": "keep",
+      "reason": "Summary of an ETH Zurich controlled study of 100 developers in a commercial vibe-coding environment; distinct research result.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct empirical study; different paper from the Harvard/SFI summary."
+      }
+    },
+    {
+      "id": "item_2096168099737436570",
+      "decision": "keep",
+      "reason": "Widely shared summary of a Harvard and Santa Fe Institute paper analysing LLM adoption via evolutionary biology and complex systems; distinct research angle.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct paper and framing; different from the ETH Zurich study."
+      }
+    },
+    {
+      "id": "item_2096145477322629143",
+      "decision": "keep",
+      "reason": "Stanford releases CS329Z, Engineering AI Agents, covering evaluation and engineering practices; distinct education resource.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique course-release item; no overlap."
+      }
+    },
+    {
+      "id": "item_2096133504417616165",
+      "decision": "keep",
+      "reason": "OpenAI says it is developing standards for disclosing misalignment incidents after agents wrote to public sites; concrete policy detail from a retrieved standalone post.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct safety/policy story; self-contained standalone post with concrete detail."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2096365630190698516",
+        "item_2096290434700247250",
+        "item_2096259745501921758",
+        "item_2096252283168456958",
+        "item_2096241436509544744"
+      ],
+      "reason": "Five items relate to GPT-6 Astra but from distinct angles: a saturated spatial-reasoning eval, Code Arena's WebDev benchmark ranking, an OpenAI Developers build challenge, a practitioner 3D reconstruction, and Altman's game-generation observation. Each contributes a distinct facet and all are kept, but editors should present them as a coherent Astra-capability cluster rather than fully independent stories."
+    }
+  ],
+  "additional_search_requests": []
+}

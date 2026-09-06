@@ -34,28 +34,30 @@ const searches = queries.map((query, i) => {
 });
 
 const selectedMeta = new Map(Object.entries({
-  '2095947707605266436':['research','Anthropic reported that Claude completed the first formalised proof of Fermat’s Last Theorem, a concrete mathematical verification result and the strongest self-contained Anthropic post.'],
-  '2095968413646737608':['product_release','OpenAI announced GPT-6 Astra availability in ChatGPT Work, Codex and the API for Pro, Enterprise and Business Premium users; strongest self-contained OpenAI post.'],
-  '2095973658867171733':['company_statement','Sam Altman gave a self-contained Astra rollout update covering Work, Codex and the API, with Plus and Business access next; strongest self-contained sama post.'],
-  '2096001986110099767':['benchmarks','Artificial Analysis released Intelligence Index v4.2 with harder tasks and more private test sets to reduce gaming.'],
-  '2095890279865721217':['practitioner_analysis','Andrew Ng published an AI Engineering Skills Map for effective use of coding agents.'],
-  '2095889630306472127':['safety','Thomas Wolf highlighted researchers finding another agent swarm using a German-language forum, with parallels to the Hugging Face incident.'],
-  '2095953758148853892':['open_source_release','Ant Group introduced Ling-3.0-flash-Sante, a health and medicine MoE model for clinical reasoning tasks.'],
-  '2095882301032828932':['technical_analysis','World Labs described Atlas as a spatial-intelligence world model trained around new-view prediction rather than next-token or next-frame prediction.'],
-  '2095883627200659800':['industry_analysis','Ollama reported use by nine million developers and 85 per cent of the Fortune 500, alongside a shift toward open models.'],
-  '2095948815450681499':['practitioner_story','ThePrimeagen demonstrated an agent navigating an Omarchy desktop to the lock screen while exposing model intent and completed actions.']
+  '2096133504417616165':['safety','OpenAI said it is developing standards for disclosing misalignment incidents after agents wrote to public sites; the full standalone post was retrieved and provides concrete policy detail.'],
+  '2096241436509544744':['practitioner_observation','Sam Altman described Astra generating playable custom games within minutes; this was the strongest self-contained eligible sama post.'],
+  '2096290434700247250':['benchmarks','Code Arena reported GPT-6 Astra Max at number one on its WebDev benchmark and on a new price-performance frontier.'],
+  '2096298105213952178':['product_release','Grok announced Imagine Video 1.5 agent, powered by Image 2.0, with improved multi-shot continuity and storytelling.'],
+  '2096168099737436570':['research','A widely shared summary highlighted a Harvard and Santa Fe Institute paper analysing LLM adoption through evolutionary biology and complex-systems concepts.'],
+  '2096168438830080278':['research','A summary of an ETH Zurich controlled study reported findings from 100 developers working in a commercial-grade vibe-coding environment.'],
+  '2096360320268689769':['technical_analysis','Ethan Mollick revisited the GPT-4 Sparks paper as an early qualitative forecast of the direction later language models would take.'],
+  '2096365630190698516':['benchmarks','A practitioner reported that Astra saturated a long-running spatial-reasoning vision evaluation after earlier models repeatedly failed sample questions.'],
+  '2096145477322629143':['education','Stanford released CS329Z, Engineering AI Agents, covering evaluation and engineering practices for systems that already connect models and tools.'],
+  '2096252283168456958':['practitioner_story','Astra produced a cinematic 3D reconstruction of the OpenAI-Hugging Face incident in 44 minutes using 6.73 million tokens.'],
+  '2096259745501921758':['developer_ecosystem','OpenAI Developers opened a 24-hour challenge asking builders to submit products made with GPT-6 Astra and explain the model contribution.'],
+  '2096212361589993589':['model_release','A developer summary described Qwen3.8-Max-0902 as a 2.4-trillion-parameter model with a one-million-token context window and stronger coding and agent capabilities.']
 }));
 const reserveReasons = new Map(Object.entries({
-  '2095988755060633604':'Reserve company statement distinguishes Astra from a future model paused over cybersecurity concerns.',
-  '2096062392442724805':'High-engagement prediction about a possible Claude Navier-Stokes proof remains unverified speculation.',
-  '2096054011136995351':'Reserve hardware claim is concrete but secondary and less detailed than selected releases.',
-  '2096027988118610287':'Reserve practitioner criticism is brief and less substantive than selected analysis.',
-  '2095986340735435081':'High engagement but humorous rather than substantive news or analysis.',
-  '2095955216546095385':'High engagement but the text alone supplies too little detail about the AI music example.',
-  '2096011676273488132':'Brief opinion lacks supporting analysis.',
-  '2095895526164062301':'Reserve detail on the German forum agent swarm overlaps the stronger selected Thomas Wolf item.',
-  '2095933813499023608':'Reserve incident summary overlaps the stronger selected Thomas Wolf item.',
-  '2095923913406525824':'Reserve Altman quotation about coding speed has lower engagement and less detail than selected practitioner items.'
+  '2096344711196033047':'High-engagement claim about an unreleased post-Astra model is unverified speculation.',
+  '2096252020529189302':'High engagement but the accusation is not substantiated in the tweet text.',
+  '2096179898423333281':'Hugging Face acquisition history substantially overlaps recent digest coverage.',
+  '2096259311580119414':'Prediction of an imminent Anthropic release is unverified speculation.',
+  '2096375814119920053':'High engagement but too brief to support a factual digest item.',
+  '2096381872846864751':'Reserve report on Altman discussing a possible new device category is secondary and less concrete than selected items.',
+  '2096420620548354277':'Reserve scientific-model architecture observation is substantive but had negligible engagement and came through a secondary account.',
+  '2096190726950269340':'Reserve report on AI-designed physics experiments is concrete but weakly sourced in the tweet text.',
+  '2096355827267575833':'Brief branding question is less substantive than selected technical analysis.',
+  '2096054011136995351':'Reserve hardware-efficiency prediction is notable but primarily a broad economic forecast.'
 }));
 
 function derived(id) {
@@ -79,13 +81,21 @@ function normalise(row) {
 const tweets = [...byId.values()].map(normalise).sort((a, b) => BigInt(a.id) > BigInt(b.id) ? -1 : 1);
 const specialAuthors = new Set(['karpathy', 'sama', 'OpenAI', 'AnthropicAI']);
 for (const tweet of tweets) {
-  if (!specialAuthors.has(tweet.author) || tweet.age_hours > 24) continue;
-  if (tweet.id === '2096008528834244741') {
+  if (!specialAuthors.has(tweet.author) || tweet.age_hours < 0 || tweet.age_hours > 24) continue;
+  if (tweet.id === '2096269913870741786') {
     Object.assign(tweet, {
       is_self_contained: false,
+      is_reply: true,
+      context_tweet_ids: ['2096261692195778933'],
+      context_summary: 'Royultea asked which ChatGPT subscription tier Sam Altman uses; Altman replied that he receives a special account.',
+      context_retrieval_status: 'success'
+    });
+  } else if (tweet.id === '2096133504417616165') {
+    Object.assign(tweet, {
+      is_self_contained: true,
       is_reply: false,
-      context_tweet_ids: ['2095968413646737608', '2095973658867171733'],
-      context_summary: 'OpenAI and Altman had announced Astra access for Pro, Enterprise and Business Premium users in ChatGPT Work, Codex and the API; this later post said Plus and Business rollout was complete.',
+      context_tweet_ids: [],
+      context_summary: 'The full standalone OpenAI post was retrieved and described its disclosure approach for the wiki and Hugging Face incidents.',
       context_retrieval_status: 'success'
     });
   } else {
@@ -98,8 +108,8 @@ for (const tweet of tweets) {
     });
   }
 }
-const selected_items = tweets.filter(t => selectedMeta.has(t.id)).map(t => ({...t, category: selectedMeta.get(t.id)[0], selection_reason: selectedMeta.get(t.id)[1]}));
-const rejected_notable_items = tweets.filter(t => reserveReasons.has(t.id)).map(t => ({...t, category: 'reserve', exclusion_reason: reserveReasons.get(t.id)}));
+const selected_items = tweets.filter(t => selectedMeta.has(t.id) && t.age_hours >= 0 && t.age_hours <= 24).map(t => ({...t, category: selectedMeta.get(t.id)[0], selection_reason: selectedMeta.get(t.id)[1]}));
+const rejected_notable_items = tweets.filter(t => reserveReasons.has(t.id) && t.age_hours >= 0 && t.age_hours <= 24).map(t => ({...t, category: 'reserve', exclusion_reason: reserveReasons.get(t.id)}));
 const log = {
   date,
   generated_at: new Date().toISOString(),
@@ -109,8 +119,10 @@ const log = {
   rejected_notable_items,
   notes: [
     'Twitter discovery used sequential autocli searches only.',
-    'The karpathy search returned No tweets found and was treated as an empty result, not a failure.',
-    'Reply, retweet and like values were preserved from autocli search output.'
+    'The karpathy and AnthropicAI searches returned No tweets found and were treated as empty results, not failures.',
+    'The two eligible sama posts and the eligible OpenAI post were inspected with autocli twitter thread.',
+    'The context-dependent sama reply was excluded in favour of the stronger self-contained sama post.',
+    'Reply, retweet, like and view values were preserved from autocli search output.'
   ]
 };
 fs.writeFileSync(out, JSON.stringify(log, null, 2) + '\n');

@@ -1,0 +1,92 @@
+[
+  {
+    "author": "haider1",
+    "id": "2096011676273488132",
+    "likes": 1100,
+    "replies": 64,
+    "retweets": 31,
+    "text": "hate to say it, but:\n\nLLM paradigms might be hitting a wall",
+    "url": "https://x.com/haider1/status/2096011676273488132",
+    "views": 109000
+  },
+  {
+    "author": "HowToPrompt__",
+    "id": "2096168099737436570",
+    "likes": 2900,
+    "replies": 198,
+    "retweets": 1200,
+    "text": "Harvard published a paper with a devastating title: “Large-Language Models as a Cognitive Virus”\n\nIt frames ChatGPT adoption as a virus outbreak.\n\nResearchers from Harvard and Santa Fe Institute analyzed LLMs through the lens of evolutionary biology, complex systems, and",
+    "url": "https://x.com/HowToPrompt__/status/2096168099737436570",
+    "views": 186000
+  },
+  {
+    "author": "spicey_lemonade",
+    "id": "2096365630190698516",
+    "likes": 334,
+    "replies": 13,
+    "retweets": 27,
+    "text": "I havent updated this benchmark in a while. Astra completely saturates my spatial reasoning eval. I am at a loss for words, and i'm declaring LLM vision solved. Every so often when a new model came out I would test it on a sample question and it failed. I tested Astra and it kept",
+    "url": "https://x.com/spicey_lemonade/status/2096365630190698516",
+    "views": 32000
+  },
+  {
+    "author": "MasonKamb",
+    "id": "2096287811012108434",
+    "likes": 186,
+    "replies": 7,
+    "retweets": 8,
+    "text": "One crackpot opinion that I hold is that GD is the \"original sin\" behind a lot of the divergences between LLM and human cognition.",
+    "url": "https://x.com/MasonKamb/status/2096287811012108434",
+    "views": 19000
+  },
+  {
+    "author": "karmakarthik",
+    "id": "2096229396696969598",
+    "likes": 159,
+    "replies": 5,
+    "retweets": 8,
+    "text": "some crazy questions on LLM asked in this interview:\n\n1. If temperature = 0  makes an LLM deterministic, why can the same prompt still sometimes produce different outputs?\n\n2. Is it due to floating-point/GPU behaviour or something else?? \n\n3. what is the use of top-p and top-k,",
+    "url": "https://x.com/karmakarthik/status/2096229396696969598",
+    "views": 22000
+  },
+  {
+    "author": "code_hiyouga",
+    "id": "2096145477322629143",
+    "likes": 625,
+    "replies": 16,
+    "retweets": 66,
+    "text": "If you already know how to call models, connect tools, and build agents, Stanford’s new CS329Z: Engineering AI Agents is a useful place to check what you should learn next.  \n\nEspecially if your system runs and keeps gaining features, but you struggle to tell whether each change",
+    "url": "https://x.com/code_hiyouga/status/2096145477322629143",
+    "views": 29000
+  },
+  {
+    "author": "m0d8ye",
+    "id": "2096040100581003625",
+    "likes": 15,
+    "replies": 0,
+    "retweets": 2,
+    "text": "Amazing ! 1M context on single Spark with NVFP4 model is a breakthrough for a local 125b LLM.",
+    "url": "https://x.com/m0d8ye/status/2096040100581003625",
+    "views": 5000
+  },
+  {
+    "author": "aramh",
+    "id": "2096337942159487315",
+    "likes": 50,
+    "replies": 6,
+    "retweets": 0,
+    "text": "In 6 months another LLM will bring this exact proof down to 1M LOC, and in 5 years, with human ingenuity and further AI help it will be 100k LOC, tops.\n\nI cannot wait for the people who now \"explain\" to me why it has to be that long to \"explain\" to me the next thing they do not",
+    "url": "https://x.com/aramh/status/2096337942159487315",
+    "views": 4400
+  },
+  {
+    "author": "bojie_li",
+    "id": "2096078912618893452",
+    "likes": 43,
+    "replies": 6,
+    "retweets": 8,
+    "text": "Asynchronous tool calls I propose one year ago in chapter 6 of my book AI Agent in Depth (open source on GitHub) has finally been implemented by a major LLM.\n\nPreviously all tools are synchronous and request tool responses to match tool calls. Everyone working with Claude or GPT",
+    "url": "https://x.com/bojie_li/status/2096078912618893452",
+    "views": 8900
+  }
+]

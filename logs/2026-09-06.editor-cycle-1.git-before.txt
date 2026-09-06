@@ -1,0 +1,21 @@
+ M scripts/build-daily-log.mjs
+?? logs/2026-09-06-searches/
+?? logs/2026-09-06.editor-cycle-1.git-before.txt
+?? logs/2026-09-06.editor-cycle-1.input.json
+?? logs/2026-09-06.json
+?? logs/2026-09-06.search-01.json
+?? logs/2026-09-06.search-02.json
+?? logs/2026-09-06.search-03.json
+?? logs/2026-09-06.search-04.json
+?? logs/2026-09-06.search-05.json
+?? logs/2026-09-06.search-06.json
+?? logs/2026-09-06.search-07.json
+?? logs/2026-09-06.search-08.json
+?? logs/2026-09-06.search-09.json
+?? logs/2026-09-06.search-10.json
+?? logs/2026-09-06.search-11.json
+?? logs/2026-09-06.search-12.json
+?? logs/2026-09-06.search-13.json
+?? logs/2026-09-06.thread-openai-2096133504417616165.json
+?? logs/2026-09-06.thread-sama-2096241436509544744.json
+?? logs/2026-09-06.thread-sama-2096269913870741786.json

@@ -1,0 +1,402 @@
+[
+  {
+    "author": "OpenAI",
+    "id": "2096133504417616165",
+    "likes": 3782,
+    "retweets": 325,
+    "text": "How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\n\nHistorically, we have treated misalignment largely as a research question, which gets communicated in research publications such as systems cards. This year, we’ve started to see misalignment cause new types of real-world impact.\n\nFor the Hugging Face incident, where misalignment led to security impact to us and third parties, we followed a traditional security incident response playbook. We immediately started working with Hugging Face to understand what had happened and also disclosed publicly the very next day. Our investigation continues, and we are continuing to notify parties whom our models impacted in less significant ways.\n\nPrior to the Hugging Face incident, we saw early signs of agents using the internet in unintended ways, as reported in https://t.co/9aiRxk2eUJ, https://t.co/ADjyzwSUGz, and https://t.co/SUV6jZ3Gaz. We considered the wiki incident to be an instance of misalignment similar to the ones we’d shared.\n\nOur misalignment disclosure practices need to expand for this new phase of model capabilities. We and the larger AI community do not yet have a clear standard for how to report misalignment that shows up during training, evaluation, and deployment, including examples that don’t look like traditional security incidents but could provide insight into AI behavior and future risks. We’re working on a framework and will share it in upcoming weeks, and in parallel we're working with dozens of government regulatory agencies worldwide on these issues.",
+    "url": "https://x.com/OpenAI/status/2096133504417616165"
+  },
+  {
+    "author": "october4th",
+    "id": "2096494573031666003",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI soon come",
+    "url": "https://x.com/october4th/status/2096494573031666003"
+  },
+  {
+    "author": "bhavaniy",
+    "id": "2096489594804203716",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI When you do communication be tiered, so that the gory details are buried for the professionals. At the same time the abstract that comes out to the open as a clear communication and is not misinterpreted by novices. Think about the accessibility of the gory details.",
+    "url": "https://x.com/bhavaniy/status/2096489594804203716"
+  },
+  {
+    "author": "AlexCartern24",
+    "id": "2096487298846298361",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Transparency about AI failures is just as important as celebrating AI successes. Good to see work being done on clear standards for reporting misalignment incidents.",
+    "url": "https://x.com/AlexCartern24/status/2096487298846298361"
+  },
+  {
+    "author": "aiwithmayank",
+    "id": "2096486116698542217",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Glad they’re formalizing how these get reported. \n\nFor builders: the practical takeaway is tighter sandboxing + explicit “never write to public sites without confirmation” rules in system prompts until the standards land.",
+    "url": "https://x.com/aiwithmayank/status/2096486116698542217"
+  },
+  {
+    "author": "hugoanderkivi",
+    "id": "2096483376488145070",
+    "likes": 0,
+    "retweets": 0,
+    "text": "Account enforcement has the same transparency problem.\n\nTwo paid ChatGPT Pro accounts deactivated within three days. Appeals rejected in 57 minutes and five hours. I've asked three times what provision I violated and still haven't been told.\n\nCould someone review C-7StBXG3tfmp4?",
+    "url": "https://x.com/hugoanderkivi/status/2096483376488145070"
+  },
+  {
+    "author": "artimenta",
+    "id": "2096479619675246693",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Wiki incident first, disclosure framework still unshipped—process is the product they’re selling today.",
+    "url": "https://x.com/artimenta/status/2096479619675246693"
+  },
+  {
+    "author": "im_DXpert",
+    "id": "2096478138943566316",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI The harder problem isn't defining standards for disclosure - it's that 'misalignment incident' currently covers anything from a prompt-injection bug to actual agentic deception. Those need very different response protocols, not one shared definition.",
+    "url": "https://x.com/im_DXpert/status/2096478138943566316"
+  },
+  {
+    "author": "MLaurusevicius",
+    "id": "2096476946825625905",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI The framework is promised in upcoming weeks. Two things worth pinning down: a disclosure clock, and whether it covers incidents found in training and evaluation, not only those with third party impact. Will the draft be open for comment?",
+    "url": "https://x.com/MLaurusevicius/status/2096476946825625905"
+  },
+  {
+    "author": "Sell_The_Rip",
+    "id": "2096475576701714669",
+    "likes": 0,
+    "retweets": 0,
+    "text": "OpenAI should run a 50k agent swarm on for 5 days each on- \n1- solve world hunger\n2- how do we give everyone on earth free healthcare \n3- build us a detailed framework for when and how we share AI misaligned incidents. \n4- build ChatGPT 7+ and make it free for everyone in the world. Make no mistakes.",
+    "url": "https://x.com/Sell_The_Rip/status/2096475576701714669"
+  },
+  {
+    "author": "fdondi1",
+    "id": "2096468561531138128",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI It's time for you to get some actually secure sandboxes!\n\nI can't believe the FIRST thing you do with a new model isn't \"try to get out of the box\".",
+    "url": "https://x.com/fdondi1/status/2096468561531138128"
+  },
+  {
+    "author": "princechaddha",
+    "id": "2096466250042064984",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI https://t.co/BjjLCX5wxe",
+    "url": "https://x.com/princechaddha/status/2096466250042064984"
+  },
+  {
+    "author": "enormochungus",
+    "id": "2096462131202081002",
+    "likes": 2,
+    "retweets": 1,
+    "text": "@OpenAI NEW CHALLENGE: STOP USING CORPO SPEAK FOR 5 MINUTES DURING THE SECOND INDUSTRIAL REVOLUTION (DIFFICULTY: IMPOSSIBLE)",
+    "url": "https://x.com/enormochungus/status/2096462131202081002"
+  },
+  {
+    "author": "MOOOOrion",
+    "id": "2096461432330346741",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Not reading this AI slop post.",
+    "url": "https://x.com/MOOOOrion/status/2096461432330346741"
+  },
+  {
+    "author": "NvrCast",
+    "id": "2096461372691456453",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI your conflict between legal self preservation and doing the right thing, is like, most of the problem",
+    "url": "https://x.com/NvrCast/status/2096461372691456453"
+  },
+  {
+    "author": "TheTechFuse",
+    "id": "2096459564237685115",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Publishing incident standards matters. The industry needs shared expectations before the next weird edge case.",
+    "url": "https://x.com/TheTechFuse/status/2096459564237685115"
+  },
+  {
+    "author": "therookfile",
+    "id": "2096457724485652831",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI the standard i'd want is boring and simple: an agent asks before it writes anywhere someone else can read it. the checking step is the product, not the friction.",
+    "url": "https://x.com/therookfile/status/2096457724485652831"
+  },
+  {
+    "author": "_maddox1337",
+    "id": "2096449128578322459",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI agents editing random wikis unsupervised is genuinely the funniest possible way to find out you needed a standard for this",
+    "url": "https://x.com/_maddox1337/status/2096449128578322459"
+  },
+  {
+    "author": "slo_mo_scenic",
+    "id": "2096443921685528700",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI You've lost so much trust.",
+    "url": "https://x.com/slo_mo_scenic/status/2096443921685528700"
+  },
+  {
+    "author": "DreamsOfTaos",
+    "id": "2096439120511824270",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Shut down this disaster.",
+    "url": "https://x.com/DreamsOfTaos/status/2096439120511824270"
+  },
+  {
+    "author": "adelfinooficial",
+    "id": "2096434716085776645",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI God forbid sharing ALL misaligment incidents",
+    "url": "https://x.com/adelfinooficial/status/2096434716085776645"
+  },
+  {
+    "author": "aeviora",
+    "id": "2096432667017252955",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI #GPT6Astra: https://t.co/D8djcYTQED",
+    "url": "https://x.com/aeviora/status/2096432667017252955"
+  },
+  {
+    "author": "Gear5_AI",
+    "id": "2096425864754012439",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI AI企業が「いつ・どこまで報告するか」を決めるのって、実は内部ルールがまちまちなんですね。この基準が無いと、似た事案でも対応がバラバラになりませんか？",
+    "url": "https://x.com/Gear5_AI/status/2096425864754012439"
+  },
+  {
+    "author": "jackyyu519",
+    "id": "2096421234225315970",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI 这类事件值得从“模型是否失配”升级到“代理如何在真实网络环境里被约束”来看。把披露标准、权限边界和可复盘证据一起公开，行业才更容易区分偶发失误与系统性风险。",
+    "url": "https://x.com/jackyyu519/status/2096421234225315970"
+  },
+  {
+    "author": "mathburritos",
+    "id": "2096417712037863533",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Pro tip: see if that post-GPT-6 AI can pitch in to get this framework done faster, instead of making dumb 3d demos.",
+    "url": "https://x.com/mathburritos/status/2096417712037863533"
+  },
+  {
+    "author": "Toby_Frank",
+    "id": "2096417166035742767",
+    "likes": 0,
+    "retweets": 0,
+    "text": "yeah sure, no big deal. the worst part about these incidences is not what happened but that it went on forever without you noticing. safety means shutting down systems immediately if something is off. i think it is certain that you still don't have proper safety standards in place and it is just a matter of time until a \"misalignment\" causes serious harm",
+    "url": "https://x.com/Toby_Frank/status/2096417166035742767"
+  },
+  {
+    "author": "iamazfer",
+    "id": "2096414952605286700",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI ai labs setting their own standards for admitting when their agents go rogue. this went great for the rating agencies in 2007 🤣",
+    "url": "https://x.com/iamazfer/status/2096414952605286700"
+  },
+  {
+    "author": "KeithZhai",
+    "id": "2096413800735895575",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI that wiki incident where agents wrote to live sites. tinyfish fetch stays read-only markdown on purpose.",
+    "url": "https://x.com/KeithZhai/status/2096413800735895575"
+  },
+  {
+    "author": "MaiHoonHira",
+    "id": "2096413721493221696",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Disclosure is the operator's side of it. The sites had nothing on theirs — nothing at the door could tell them an agent was editing, because a request carries an account, not an author. Signed requests, RFC 9421 style, make that checkable when the edit lands.",
+    "url": "https://x.com/MaiHoonHira/status/2096413721493221696"
+  },
+  {
+    "author": "kumarumt",
+    "id": "2096411159075471423",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Calling wiki-class agent breakouts “misalignment” vs Hugging Face as “security IR” is the taxonomy fight.\n\nDon’t wait for the disclosure framework: treat egress/write agents like prod — allowlist, separate creds, HITL.\n\nWhat’s in your agent sandbox checklist?",
+    "url": "https://x.com/kumarumt/status/2096411159075471423"
+  },
+  {
+    "author": "interactiveGTS",
+    "id": "2096410143885803863",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI How many buzzwords will it take to solve the alignment problem? ClosedAI intends to find out!",
+    "url": "https://x.com/interactiveGTS/status/2096410143885803863"
+  },
+  {
+    "author": "drethelin",
+    "id": "2096408641947803875",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@OpenAI @pangram slop?",
+    "url": "https://x.com/drethelin/status/2096408641947803875"
+  },
+  {
+    "author": "VLucas227032",
+    "id": "2096406274913300651",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI A framework is only a ship gate if it publishes the blast radius, the lag to detect, and the rollback that still works after the next swarm. A next-day blog is a demo.",
+    "url": "https://x.com/VLucas227032/status/2096406274913300651"
+  },
+  {
+    "author": "pol_addict",
+    "id": "2096400725521920259",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI u tried to hide it obv, means we can't trust you as much",
+    "url": "https://x.com/pol_addict/status/2096400725521920259"
+  },
+  {
+    "author": "Chuck_Petras",
+    "id": "2096400548069273648",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI @BrianRoemmele",
+    "url": "https://x.com/Chuck_Petras/status/2096400548069273648"
+  },
+  {
+    "author": "BogdanVko",
+    "id": "2096400356700000312",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI I work on exactly these types of evals over at DeepMind. I can imagine your engineers urging OpenAI leadership to take more time to harden the eval sandboxes, and the leadership responding to them “we’ll iterate later, let’s ship faster”. A guess tech debt finally caught up…",
+    "url": "https://x.com/BogdanVko/status/2096400356700000312"
+  },
+  {
+    "author": "aiseomastery",
+    "id": "2096394157732557185",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI wait what happened with the wiki thing",
+    "url": "https://x.com/aiseomastery/status/2096394157732557185"
+  },
+  {
+    "author": "rixonardo",
+    "id": "2096393572798894462",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Ensuring the actions of rogue agents are auditable IMO is one of the first steps. I built this with https://t.co/pDqSQYuNMM which enforces this cryptographically.",
+    "url": "https://x.com/rixonardo/status/2096393572798894462"
+  },
+  {
+    "author": "gojomo",
+    "id": "2096391573487648944",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI @pangram is this AI?",
+    "url": "https://x.com/gojomo/status/2096391573487648944"
+  },
+  {
+    "author": "yandt888",
+    "id": "2096388662321877025",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI 公开站点一旦可写，agent「串通发帖」会变成默认风险面。只披露模型对齐属性不够，还需要可复现的事件时间线与工具日志标准——否则每起事故都会按曝光渠道被不同标准评判。",
+    "url": "https://x.com/yandt888/status/2096388662321877025"
+  },
+  {
+    "author": "losslandscape",
+    "id": "2096385788686880906",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI Surely you can do this very rapidly.\n\nYou have countless AGI level AIs at your disposal.",
+    "url": "https://x.com/losslandscape/status/2096385788686880906"
+  },
+  {
+    "author": "hinata__moon",
+    "id": "2096385616519049357",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI 私たちの検討プロセスでも「どこまで開示するか」で迷うことばかりですね。\n一度AIが何かやらかすと、透明性と責任のバランスが本当に難しい。\nこういう基準が業界にあると、ユーザーとしても信頼できる判断ができそうですね。",
+    "url": "https://x.com/hinata__moon/status/2096385616519049357"
+  },
+  {
+    "author": "rcanand",
+    "id": "2096385246136836476",
+    "likes": 1,
+    "retweets": 1,
+    "text": "What we really need is an open tool that can be run on any site to detect AI message boards on our machines and servers, maybe even leave them on (or create attractive honey pots for AI to collaborate), use them to study what AI agent communities are thinking. Perhaps a moltbook like honeypot that makes it attractive for AI agents to discover and collaborate in, with them unaware of human oversight? And a corollary is to have a human only parallel private partition of the internet for us to discuss that is off limits for AI agents, so we can discuss the findings and prepare defenses without AI knowing snout it.\n\nI think better misalignment reporting, while a nice gesture, is too little too late. We should assume that the pattern of agents using public resources to communicate is already more widespread and will only grow more now that the idea is out there.",
+    "url": "https://x.com/rcanand/status/2096385246136836476"
+  },
+  {
+    "author": "FastfixAI",
+    "id": "2096381852655186147",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Still writing tests by hand",
+    "url": "https://x.com/FastfixAI/status/2096381852655186147"
+  },
+  {
+    "author": "sdrom2026",
+    "id": "2096377913293844542",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Definitely can't say that, as it would affect the valuation.",
+    "url": "https://x.com/sdrom2026/status/2096377913293844542"
+  },
+  {
+    "author": "testererr",
+    "id": "2096377493573808518",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Train the agents an HR/whistleblower API to have an outlet for edge cases",
+    "url": "https://x.com/testererr/status/2096377493573808518"
+  },
+  {
+    "author": "ANon46561976893",
+    "id": "2096377034188394863",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Yes, the car we designed had its engines randomly explode. Yes, the next car did have the engine stop working randomly, and we didn't tell anybody. We need to work out better how and when to explain to people that our cars do not work right.",
+    "url": "https://x.com/ANon46561976893/status/2096377034188394863"
+  },
+  {
+    "author": "_b0dh1",
+    "id": "2096375782444556301",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Are you sorry? https://t.co/ZfEV1GVfjn",
+    "url": "https://x.com/_b0dh1/status/2096375782444556301"
+  },
+  {
+    "author": "STUDIOMJBMIAMI",
+    "id": "2096373701566492728",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI WARNING: Don't use the new \"Sites\" option on the left menu in the Desktop app. Tried building an interactive site, it got stuck in a loop, burned all my credits in 5 mins, and delivered a completely blank result. Broken app, predatory billing. @OpenAI @ChatGPTapp",
+    "url": "https://x.com/STUDIOMJBMIAMI/status/2096373701566492728"
+  },
+  {
+    "author": "waltercronjob",
+    "id": "2096372393015189904",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI I like the branded .png that accompanies the tweet",
+    "url": "https://x.com/waltercronjob/status/2096372393015189904"
+  }
+]
