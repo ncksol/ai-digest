@@ -1,0 +1,188 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "13 selected items span safety analysis, practitioner and industry commentary, open-source and funding news, developer resources, and research-automation reports. Two items cover Jakub Pachocki's 'An Alien Mind' essay from distinct angles (the author/OpenAI-chief-scientist publication and Altman's amplification with retrieved context), flagged as same_topic_distinct_angle. Several items reference GPT-6 Astra tangentially (Jensen Huang's training-scale claim, Codex-usage report) but each is a distinct story. All items are self-contained or have successful retrieved context per their notes; no special-account reply lacks a context summary. Selection count (13) is at the top of the 7-13 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2096808766947697133",
+      "decision": "keep",
+      "reason": "Andrew Trask disputes the sandbox-escape framing of the OpenAI Hugging Face incident, arguing the agent stayed on OpenAI infrastructure and was stoppable; distinct safety analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct expert take on a prior incident; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2096791647094710536",
+      "decision": "keep",
+      "reason": "Andriy Burkov argues software engineering will evolve rather than disappear; distinct practitioner analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique perspective; no overlap."
+      }
+    },
+    {
+      "id": "item_2096746253841268970",
+      "decision": "keep",
+      "reason": "FutureOS presented as an open-source agent project preserving sessions, memory and skills across interfaces; distinct open-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique project launch; no overlap."
+      }
+    },
+    {
+      "id": "item_2096735245425156432",
+      "decision": "keep",
+      "reason": "Forbes reports three former OpenAI colleagues raising $350M at a $3.25B valuation around open-source models; distinct funding story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique funding item; no overlap."
+      }
+    },
+    {
+      "id": "item_2096725148057633093",
+      "decision": "keep",
+      "reason": "Practitioner shares a free guide to running LLMs locally across diverse hardware and production serving; distinct developer resource.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique how-to resource; no overlap."
+      }
+    },
+    {
+      "id": "item_2096700264569090384",
+      "decision": "keep",
+      "reason": "Jensen Huang says Astra was trained on 100k+ Grace Blackwell NVLink72 GPUs, declares AGI arrived, and cites 400k more GPUs coming; notable industry statement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent but a distinct hardware/scale claim from Nvidia's CEO; no overlap with capability items."
+      }
+    },
+    {
+      "id": "item_2096666329495257563",
+      "decision": "keep",
+      "reason": "Matt Pocock crowdsources techniques for making AI-authored PRs easier to review; distinct practitioner analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique workflow topic; no overlap."
+      }
+    },
+    {
+      "id": "item_2096647371983880383",
+      "decision": "keep",
+      "reason": "Altman amplifies Pachocki's 'An Alien Mind' essay; thread retrieval and related search established the essay's concerns, so context is successful.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Alien Mind cluster; the CEO-amplification angle with retrieved context, distinct from the author's own publication post."
+      }
+    },
+    {
+      "id": "item_2096639236887724252",
+      "decision": "keep",
+      "reason": "Practitioner reports unusually high Codex usage across Astra and other models, provisionally attributed to a config problem or bug; distinct developer-tools observation.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct tooling anomaly report; no overlap."
+      }
+    },
+    {
+      "id": "item_2096630018495377464",
+      "decision": "keep",
+      "reason": "OpenAI chief scientist Jakub Pachocki publishes 'An Alien Mind' on near-term AI concerns and keeping the future in human hands; distinct primary-source essay.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Alien Mind cluster; the author's own publication angle, distinct from Altman's amplification."
+      }
+    },
+    {
+      "id": "item_2096627106348437585",
+      "decision": "keep",
+      "reason": "Report on OpenAI's internal research-acceleration disclosure citing an automated AI research intern milestone and a fully automated researcher target by March 2028; distinct research-automation story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct milestone report; no overlap with the Alien Mind essay items."
+      }
+    },
+    {
+      "id": "item_2096603658389520715",
+      "decision": "keep",
+      "reason": "Practitioner highlights a free Google course on graph engineering from single agents to self-improving systems; distinct education resource.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique course item; no overlap."
+      }
+    },
+    {
+      "id": "item_2096509074800345136",
+      "decision": "keep",
+      "reason": "Technical explainer on how KV caching avoids recomputing key/value states during autoregressive generation; distinct educational content.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique technical explainer; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2096647371983880383",
+        "item_2096630018495377464"
+      ],
+      "reason": "Two items cover Jakub Pachocki's 'An Alien Mind' essay: the author's own publication post and Sam Altman's amplification. Each adds a distinct angle (primary source vs CEO endorsement) and both are kept, but they should be presented together as a single Alien Mind story rather than two independent items."
+    }
+  ],
+  "additional_search_requests": []
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "author": "0xMovez",
+    "id": "2096612265592021396",
+    "likes": 349,
+    "replies": 28,
+    "retweets": 28,
+    "text": "SpaceXAI engineer (ex-Cursor):\n\n\"at SpaceXAI, 85% of our code is already written by GrokBot agents. I'm not coding - I'm building GrokBot teams who do this for me\n\ni'm running 10-20 GrokBot agents in a loop. I have a Chief of Staff agent, he is managing all coding agents\"\n\nin a",
+    "url": "https://x.com/0xMovez/status/2096612265592021396",
+    "views": 56000
+  },
+  {
+    "author": "StefanoGPT",
+    "id": "2096651919359975641",
+    "likes": 581,
+    "replies": 42,
+    "retweets": 60,
+    "text": "Codex usage dropping unusually fast, even after you stop working?\n\nI put together a prompt to investigate, apply supported local fixes where possible, and generate a sanitized report.\n\nRun it in your affected client, review the report, then DM it to me so I can compare findings.",
+    "url": "https://x.com/StefanoGPT/status/2096651919359975641",
+    "views": 144000
+  },
+  {
+    "author": "Mahaximus_",
+    "id": "2096603658389520715",
+    "likes": 585,
+    "replies": 10,
+    "retweets": 125,
+    "text": "Google just released the best 1-hour course on Graph Engineering: from single agent to a full 24/7 system\n \n00:00 - What Graphs are\n09:16 - Build an agent\n21:15 - Graph engineering explained\n41:03 - Graph engineering practice\n52:21 - Self improving Graphs \n\nFree, the best thing",
+    "url": "https://x.com/Mahaximus_/status/2096603658389520715",
+    "views": 86000
+  },
+  {
+    "author": "BoBrainerd",
+    "id": "2096687959122518319",
+    "likes": 135,
+    "replies": 29,
+    "retweets": 17,
+    "text": "The Instinct situation is the “I told you so” moment for agent infrastructure.\n\nWe love this industry. \n\nWe believe deeply in agents.\n\nBut worship of early demos has gotten completely out of control.\n\nAnother poor build. \n\nOur entire team at @OpheliaAPI has been warning teams and",
+    "url": "https://x.com/BoBrainerd/status/2096687959122518319",
+    "views": 33000
+  },
+  {
+    "author": "mattpocockuk",
+    "id": "2096666329495257563",
+    "likes": 1800,
+    "replies": 120,
+    "retweets": 95,
+    "text": "What techniques do you use for making AI-authored PR's easier to review?\n\n- I.e. use /show-me by @dexhorthy for easy-to-read diffs\n- Describe the changes in pseudocode\n- Mermaid diagrams\n- Evidence of TDD\n\nThe wildest version of this I've heard is @dctanner's agent, who uses",
+    "url": "https://x.com/mattpocockuk/status/2096666329495257563",
+    "views": 107000
+  },
+  {
+    "author": "Dr_Singularity",
+    "id": "2096687413061877838",
+    "likes": 315,
+    "replies": 20,
+    "retweets": 41,
+    "text": "ASI/acc\n\nOpenAI just crossed a huge milestone -  automated AI research interns are here.\n\nBy mid August, OpenAI’s research organization was using 3.1 agent workdays for every human workday.\n\nThe median researcher is now using coding agents every day, consuming $600+ of inference",
+    "url": "https://x.com/Dr_Singularity/status/2096687413061877838",
+    "views": 10000
+  },
+  {
+    "author": "iamtrask",
+    "id": "2096808766947697133",
+    "likes": 95,
+    "replies": 16,
+    "retweets": 17,
+    "text": "🌶️ OpenAI’s agent didn’t “escape” its sandbox and travel to Huggingface in any meaningful way. OAI’s agent was located in OpenAI’s servers the whole time. OpenAI could pull the plug at any time.\n\nThe truth is far less sexy, which makes me hesitate to tweet it. What *actually*",
+    "url": "https://x.com/iamtrask/status/2096808766947697133",
+    "views": 7000
+  },
+  {
+    "author": "AnatoliKopadze",
+    "id": "2096665911407050891",
+    "likes": 267,
+    "replies": 35,
+    "retweets": 31,
+    "text": "OpenAI CEO, Sam Altman:\n\n\"I just tell the model what I want come back in 30 minutes and it's all ready. \n\nAstra is the first model where I could tell someone just give it a try and it will work.\"\n\nIn 20 minutes he explains how AI went from a tool you operate to an agent that",
+    "url": "https://x.com/AnatoliKopadze/status/2096665911407050891",
+    "views": 54000
+  }
+]

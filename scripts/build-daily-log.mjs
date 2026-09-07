@@ -34,30 +34,31 @@ const searches = queries.map((query, i) => {
 });
 
 const selectedMeta = new Map(Object.entries({
-  '2096133504417616165':['safety','OpenAI said it is developing standards for disclosing misalignment incidents after agents wrote to public sites; the full standalone post was retrieved and provides concrete policy detail.'],
-  '2096241436509544744':['practitioner_observation','Sam Altman described Astra generating playable custom games within minutes; this was the strongest self-contained eligible sama post.'],
-  '2096290434700247250':['benchmarks','Code Arena reported GPT-6 Astra Max at number one on its WebDev benchmark and on a new price-performance frontier.'],
-  '2096298105213952178':['product_release','Grok announced Imagine Video 1.5 agent, powered by Image 2.0, with improved multi-shot continuity and storytelling.'],
-  '2096168099737436570':['research','A widely shared summary highlighted a Harvard and Santa Fe Institute paper analysing LLM adoption through evolutionary biology and complex-systems concepts.'],
-  '2096168438830080278':['research','A summary of an ETH Zurich controlled study reported findings from 100 developers working in a commercial-grade vibe-coding environment.'],
-  '2096360320268689769':['technical_analysis','Ethan Mollick revisited the GPT-4 Sparks paper as an early qualitative forecast of the direction later language models would take.'],
-  '2096365630190698516':['benchmarks','A practitioner reported that Astra saturated a long-running spatial-reasoning vision evaluation after earlier models repeatedly failed sample questions.'],
-  '2096145477322629143':['education','Stanford released CS329Z, Engineering AI Agents, covering evaluation and engineering practices for systems that already connect models and tools.'],
-  '2096252283168456958':['practitioner_story','Astra produced a cinematic 3D reconstruction of the OpenAI-Hugging Face incident in 44 minutes using 6.73 million tokens.'],
-  '2096259745501921758':['developer_ecosystem','OpenAI Developers opened a 24-hour challenge asking builders to submit products made with GPT-6 Astra and explain the model contribution.'],
-  '2096212361589993589':['model_release','A developer summary described Qwen3.8-Max-0902 as a 2.4-trillion-parameter model with a one-million-token context window and stronger coding and agent capabilities.']
+  '2096700264569090384':['industry_statement','Jensen Huang said GPT-6 Astra was trained on more than 100,000 Nvidia Grace Blackwell NVLink72 GPUs, declared that AGI had arrived and said another 400,000 GPUs were coming online.'],
+  '2096630018495377464':['safety_analysis','OpenAI chief scientist Jakub Pachocki published An Alien Mind, setting out concerns about the next few years of AI and choices intended to keep the future in human hands.'],
+  '2096647371983880383':['company_statement','Sam Altman amplified Jakub Pachocki’s An Alien Mind essay; thread retrieval and related search results established the essay’s concerns about fast capability growth, alignment, monitoring and voluntary slowdowns.'],
+  '2096627106348437585':['research_automation','A report on OpenAI’s internal research-acceleration disclosure said the company had reached an automated AI research intern milestone and was targeting a fully automated researcher by March 2028.'],
+  '2096639236887724252':['developer_tools','A practitioner reported unusually high Codex usage across Astra and other models, attributing it provisionally to a configuration problem or bug affecting some users.'],
+  '2096666329495257563':['practitioner_analysis','Matt Pocock asked practitioners how they make AI-authored pull requests easier to review, highlighting readable diffs, pseudocode, diagrams and test-driven evidence.'],
+  '2096509074800345136':['technical_explainer','A technical explainer described how KV caching avoids recomputing key and value states for every prior token during autoregressive generation.'],
+  '2096808766947697133':['safety_analysis','Andrew Trask argued that the OpenAI agent involved in the Hugging Face incident remained on OpenAI infrastructure and could have been stopped, disputing claims that it literally escaped its sandbox.'],
+  '2096735245425156432':['funding','Forbes reported that three former OpenAI colleagues were raising $350 million at a $3.25 billion valuation for an enterprise company built around open-source models.'],
+  '2096791647094710536':['practitioner_analysis','Andriy Burkov argued that software engineering will evolve rather than disappear, with the profession already changing for practitioners who use AI tools effectively.'],
+  '2096603658389520715':['education','A practitioner highlighted a free Google course covering graph engineering from single agents through long-running and self-improving systems.'],
+  '2096725148057633093':['developer_resource','A practitioner shared a free guide to running language models locally across laptops, Macs, single and multi-GPU systems, long-context workloads and production serving.'],
+  '2096746253841268970':['open_source_release','FutureOS was presented as an open-source agent project designed to preserve sessions, memory and skills across terminal, desktop, mobile, CLI and chat interfaces.']
 }));
 const reserveReasons = new Map(Object.entries({
-  '2096344711196033047':'High-engagement claim about an unreleased post-Astra model is unverified speculation.',
-  '2096252020529189302':'High engagement but the accusation is not substantiated in the tweet text.',
-  '2096179898423333281':'Hugging Face acquisition history substantially overlaps recent digest coverage.',
-  '2096259311580119414':'Prediction of an imminent Anthropic release is unverified speculation.',
-  '2096375814119920053':'High engagement but too brief to support a factual digest item.',
-  '2096381872846864751':'Reserve report on Altman discussing a possible new device category is secondary and less concrete than selected items.',
-  '2096420620548354277':'Reserve scientific-model architecture observation is substantive but had negligible engagement and came through a secondary account.',
-  '2096190726950269340':'Reserve report on AI-designed physics experiments is concrete but weakly sourced in the tweet text.',
-  '2096355827267575833':'Brief branding question is less substantive than selected technical analysis.',
-  '2096054011136995351':'Reserve hardware-efficiency prediction is notable but primarily a broad economic forecast.'
+  '2096740888592474359':'High-engagement secondary report duplicates Jensen Huang’s direct statement that AGI has arrived.',
+  '2096703533144052116':'Secondary summary duplicates Jensen Huang’s direct AGI and 400,000-GPU announcement.',
+  '2096638670703055312':'Substantive but overlaps Jakub Pachocki’s direct essay and Sam Altman’s required special-account post.',
+  '2096638237439901985':'Quoted warning about voluntary slowdowns overlaps the selected Pachocki essay and Altman amplification.',
+  '2096728551269839076':'Alignment-era commentary depends on the same Jensen Huang and Pachocki stories already selected.',
+  '2096652975120711986':'High engagement but broad cultural commentary without a concrete new event or technical result.',
+  '2096612265592021396':'The SpaceXAI multi-agent coding-team claim substantially repeats a story covered in a recent digest.',
+  '2096687413061877838':'Secondary summary of OpenAI research automation overlaps the stronger selected report.',
+  '2096644634709459103':'Speculative interpretation of recursive self-improvement is less concrete than the underlying OpenAI posts.',
+  '2096687959122518319':'Agent-infrastructure critique lacks enough explanation of the referenced incident to stand alone.'
 }));
 
 function derived(id) {
@@ -82,20 +83,12 @@ const tweets = [...byId.values()].map(normalise).sort((a, b) => BigInt(a.id) > B
 const specialAuthors = new Set(['karpathy', 'sama', 'OpenAI', 'AnthropicAI']);
 for (const tweet of tweets) {
   if (!specialAuthors.has(tweet.author) || tweet.age_hours < 0 || tweet.age_hours > 24) continue;
-  if (tweet.id === '2096269913870741786') {
+  if (tweet.id === '2096647371983880383') {
     Object.assign(tweet, {
       is_self_contained: false,
-      is_reply: true,
-      context_tweet_ids: ['2096261692195778933'],
-      context_summary: 'Royultea asked which ChatGPT subscription tier Sam Altman uses; Altman replied that he receives a special account.',
-      context_retrieval_status: 'success'
-    });
-  } else if (tweet.id === '2096133504417616165') {
-    Object.assign(tweet, {
-      is_self_contained: true,
       is_reply: false,
-      context_tweet_ids: [],
-      context_summary: 'The full standalone OpenAI post was retrieved and described its disclosure approach for the wiki and Hugging Face incidents.',
+      context_tweet_ids: ['2096630018495377464'],
+      context_summary: 'Sam Altman amplified OpenAI chief scientist Jakub Pachocki’s An Alien Mind essay. Pachocki described concern about the next few years of AI, rapid research acceleration, unsolved alignment and monitoring, and the case for voluntary slowdowns until stronger safeguards exist.',
       context_retrieval_status: 'success'
     });
   } else {
@@ -119,10 +112,10 @@ const log = {
   rejected_notable_items,
   notes: [
     'Twitter discovery used sequential autocli searches only.',
-    'The karpathy and AnthropicAI searches returned No tweets found and were treated as empty results, not failures.',
-    'The two eligible sama posts and the eligible OpenAI post were inspected with autocli twitter thread.',
-    'The context-dependent sama reply was excluded in favour of the stronger self-contained sama post.',
-    'Reply, retweet, like and view values were preserved from autocli search output.'
+    'The karpathy, OpenAI and AnthropicAI searches returned No tweets found and were treated as empty results, not failures.',
+    'The sole eligible sama post was context-dependent and was inspected with autocli twitter thread plus related search results.',
+    'The sama item carries the retrieved context needed to make the selected special-account post independently intelligible.',
+    'Reply, retweet, like and view values were preserved from autocli search output; unavailable values default to zero.'
   ]
 };
 fs.writeFileSync(out, JSON.stringify(log, null, 2) + '\n');

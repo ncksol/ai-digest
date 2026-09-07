@@ -1,0 +1,82 @@
+[
+  {
+    "author": "burkov",
+    "id": "2096419105850929208",
+    "likes": 409,
+    "replies": 34,
+    "retweets": 21,
+    "text": "Folks still reading the LLM-generated code are outraged 😂\n\nListen to me once again: \"REINFORCEMENT LEARNING IS REWARDED FOR THE CODE DOING THE JOB NOT FOR THE BEAUTY OF IT!!!!!!!!!!!\"",
+    "url": "https://x.com/burkov/status/2096419105850929208",
+    "views": 42000
+  },
+  {
+    "author": "GaryMarcus",
+    "id": "2096437800191336746",
+    "likes": 572,
+    "replies": 23,
+    "retweets": 86,
+    "text": "“The expected value of a fully LLM-generated, non-human-reviewed patch is a net-negative by a considerable margin.”",
+    "url": "https://x.com/GaryMarcus/status/2096437800191336746",
+    "views": 32000
+  },
+  {
+    "author": "__paleologo",
+    "id": "2096455977381830926",
+    "likes": 20,
+    "replies": 3,
+    "retweets": 0,
+    "text": "But how does he know? Does he have an LLM confidante?",
+    "url": "https://x.com/__paleologo/status/2096455977381830926",
+    "views": 9500
+  },
+  {
+    "author": "TheAhmadOsman",
+    "id": "2096725148057633093",
+    "likes": 521,
+    "replies": 21,
+    "retweets": 60,
+    "text": "The bible for running LLMs locally is now available online to read for FREE\n\nCovers what to use on\n\n- Laptop / edge / odd hardware\n- Mac-first workflows\n- Single RTX GPUs\n- 2-4+ NVIDIA / CUDA GPUs\n- General production serving\n- Long-context / MoE / routing\n- NVIDIA max",
+    "url": "https://x.com/TheAhmadOsman/status/2096725148057633093",
+    "views": 43000
+  },
+  {
+    "author": "ma2bd",
+    "id": "2096619621600170271",
+    "likes": 64,
+    "replies": 19,
+    "retweets": 21,
+    "text": "",
+    "url": "https://x.com/ma2bd/status/2096619621600170271",
+    "views": 13000
+  },
+  {
+    "author": "NewBlackMan",
+    "id": "2096436786138325111",
+    "likes": 530,
+    "replies": 6,
+    "retweets": 247,
+    "text": "Kenyans Did College Students’ Homework for Years. Then A.I. Arrived.\n\nThousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+    "url": "https://x.com/NewBlackMan/status/2096436786138325111",
+    "views": 27000
+  },
+  {
+    "author": "atoherbert",
+    "id": "2096612960135180551",
+    "likes": 32,
+    "replies": 0,
+    "retweets": 5,
+    "text": "Only to be used by the AI companied to probably label their own papers fed into a LLM.",
+    "url": "https://x.com/atoherbert/status/2096612960135180551",
+    "views": 1100
+  },
+  {
+    "author": "techNmak",
+    "id": "2096509074800345136",
+    "likes": 1300,
+    "replies": 23,
+    "retweets": 231,
+    "text": "KV cache is one of the most important ideas in LLM inference, but it is often explained too casually.\n\nDuring autoregressive generation, a model produces one token at a time. Without caching, each new decoding step would repeatedly recompute key and value states for tokens the",
+    "url": "https://x.com/techNmak/status/2096509074800345136",
+    "views": 119000
+  }
+]

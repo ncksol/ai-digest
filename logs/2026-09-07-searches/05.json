@@ -1,0 +1,62 @@
+[
+  {
+    "author": "DanKornas",
+    "id": "2096746253841268970",
+    "likes": 11,
+    "replies": 4,
+    "retweets": 4,
+    "text": "An AI agent shouldn’t be trapped in a single interface.\n\nFutureOS is an open-source AI agent project for builders who want one agent across the terminal, desktop, mobile, CLI, and chat apps.\n\nIt helps you keep the same sessions, memory, and skills across surfaces by running them",
+    "url": "https://x.com/DanKornas/status/2096746253841268970",
+    "views": 1600
+  },
+  {
+    "author": "RoundtableSpace",
+    "id": "2096837114931347609",
+    "likes": 35,
+    "replies": 6,
+    "retweets": 3,
+    "text": "CHINA JUST DROPPED A FREE OPEN-SOURCE AI EMPLOYEE THAT WORKS 24/7",
+    "url": "https://x.com/RoundtableSpace/status/2096837114931347609",
+    "views": 43000
+  },
+  {
+    "author": "Forbes",
+    "id": "2096735245425156432",
+    "likes": 98,
+    "replies": 9,
+    "retweets": 16,
+    "text": "Three Stanford friends-turned-OpenAI-colleagues left the AI behemoth to start an enterprise company that relies on open source models. Fifteen months later, the twenty-something founders are raising $350 million at a $3.25 billion valuation. \n\nFull story: https://forbes.com/sites",
+    "url": "https://x.com/Forbes/status/2096735245425156432",
+    "views": 50000
+  },
+  {
+    "author": "SarahPixxie",
+    "id": "2096584625900638491",
+    "likes": 21,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Agentic AI is moving beyond “give me an answer” and toward “go figure it out.”\n\nApodex 1.1 is pushing that shift with an asynchronous agent team that can break down complex work, run multiple agents in parallel, and continuously bring the findings together.\n\nWhat makes this more",
+    "url": "https://x.com/SarahPixxie/status/2096584625900638491",
+    "views": 5400
+  },
+  {
+    "author": "DanKornas",
+    "id": "2096553752236855577",
+    "likes": 14,
+    "replies": 3,
+    "retweets": 5,
+    "text": "Self-hosted deployment doesn’t have to mean operating Kubernetes by hand.\n\nbex is an open-source, AI-native PaaS for deploying applications from Git to HTTPS on infrastructure you own.\n\nIt helps you ship services without building a separate control plane by turning a Render-style",
+    "url": "https://x.com/DanKornas/status/2096553752236855577",
+    "views": 2600
+  },
+  {
+    "author": "DanKornas",
+    "id": "2096644338688168151",
+    "likes": 8,
+    "replies": 1,
+    "retweets": 4,
+    "text": "Your Office files shouldn’t need a cloud round-trip to be editable.\n\nGenOffice is a free, open-source desktop office suite for builders who work with Word, Excel, PowerPoint, PDF, and Markdown files across macOS, Windows, and Linux.\n\nIt helps you keep familiar file formats in one",
+    "url": "https://x.com/DanKornas/status/2096644338688168151",
+    "views": 1800
+  }
+]
