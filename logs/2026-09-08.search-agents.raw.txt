@@ -1,0 +1,82 @@
+[
+  {
+    "author": "iamtrask",
+    "id": "2096808766947697133",
+    "likes": 579,
+    "replies": 69,
+    "retweets": 110,
+    "text": "🌶️ OpenAI’s agent didn’t “escape” its sandbox and travel to Huggingface in any meaningful way. OAI’s agent was located in OpenAI’s servers the whole time. OpenAI could pull the plug at any time.\n\nThe truth is far less sexy, which makes me hesitate to tweet it. What *actually*",
+    "url": "https://x.com/iamtrask/status/2096808766947697133",
+    "views": 133000
+  },
+  {
+    "author": "GearoidReidy",
+    "id": "2097198811013935407",
+    "likes": 144,
+    "replies": 22,
+    "retweets": 34,
+    "text": "JR East has revealed the three potential abominations to replace the beloved Suica penguin as its mascot. \n\nUnimaginable loss of aura.",
+    "url": "https://x.com/GearoidReidy/status/2097198811013935407",
+    "views": 9500
+  },
+  {
+    "author": "wrathofgnon",
+    "id": "2097218240284115196",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Which AI agent was this?",
+    "url": "https://x.com/wrathofgnon/status/2097218240284115196",
+    "views": 17
+  },
+  {
+    "author": "ClementDelangue",
+    "id": "2096981079940911107",
+    "likes": 2000,
+    "replies": 156,
+    "retweets": 159,
+    "text": "Sometimes I wonder what would have happened if we hadn't disclosed the agent cyberattack publicly.\n\nIt reinforced my conviction that we need 100x more transparency in AI. Otherwise we're going to be in big trouble!",
+    "url": "https://x.com/ClementDelangue/status/2096981079940911107",
+    "views": 85000
+  },
+  {
+    "author": "JayAlammar",
+    "id": "2096935042387714521",
+    "likes": 1400,
+    "replies": 41,
+    "retweets": 196,
+    "text": "Over 300 original figures!\n\nAn Illustrated Guide to AI Agents is now OUT on Kindle and other Ebook stores! Presses are rolling, print copies ship in a few weeks.\n\n@MaartenGr and I spent the last year and a half making the agent stack legible: memory, tools, planning, evaluation,",
+    "url": "https://x.com/JayAlammar/status/2096935042387714521",
+    "views": 86000
+  },
+  {
+    "author": "AnatoliKopadze",
+    "id": "2096943449459065202",
+    "likes": 430,
+    "replies": 26,
+    "retweets": 62,
+    "text": "Sam Altman (CEO of OpenAI):\n\n\"You no longer need to write prompts, if you use GPT-6 Astra\"\n\nIn just 10 minutes, he explains how one person now does the work an entire team used to spend a month on.\n\nHe says just keep throwing harder tasks at it, software, science, whole",
+    "url": "https://x.com/AnatoliKopadze/status/2096943449459065202",
+    "views": 104000
+  },
+  {
+    "author": "vicky_grok",
+    "id": "2096949449906114798",
+    "likes": 688,
+    "replies": 33,
+    "retweets": 124,
+    "text": "🚨 GOOGLE JUST MADE ANDROID AUTOMATION LOOK INSANE.\n\nGoogle just released ARTEMIS — an AI-powered system that turns plain English into reliable Android automation.\n\nImagine telling an agent:\n\n“Open the app, create an account, change the settings, and verify the result.”\n\n…and",
+    "url": "https://x.com/vicky_grok/status/2096949449906114798",
+    "views": 43000
+  },
+  {
+    "author": "TencentAI_News",
+    "id": "2096876836898865165",
+    "likes": 877,
+    "replies": 27,
+    "retweets": 120,
+    "text": "We used TeamAI-CLI internally at Tencent since March. Open sourced it.\n\nIt turns team knowledge into one git repo, so every agent works from the same handbook.\n\nwhat it does:\n> git-based: skills, rules and docs live in one repo, changes go through a merge request\n>",
+    "url": "https://x.com/TencentAI_News/status/2096876836898865165",
+    "views": 118000
+  }
+]

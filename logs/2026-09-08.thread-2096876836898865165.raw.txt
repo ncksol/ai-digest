@@ -1,0 +1,194 @@
+[
+  {
+    "author": "TencentAI_News",
+    "id": "2096876836898865165",
+    "likes": 878,
+    "retweets": 93,
+    "text": "We used TeamAI-CLI internally at Tencent since March. Open sourced it.\n\nIt turns team knowledge into one git repo, so every agent works from the same handbook.\n\nwhat it does:\n> git-based: skills, rules and docs live in one repo, changes go through a merge request\n> hook-triggered: merged changes land on everyone's next session\n> each learning earns confidence from real usage, strong ones surface first, weak ones sink\n> works with claude code, codex, cursor, opencode, codebuddy and workbuddy\n\nOne person's hard-won workaround can now become the whole team's default.\n\nhttps://t.co/ezmFhefrV5",
+    "url": "https://x.com/TencentAI_News/status/2096876836898865165"
+  },
+  {
+    "author": "seekjourney",
+    "id": "2097212815027372354",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Good trend\n\nhttps://t.co/Aiyu4qHrNV",
+    "url": "https://x.com/seekjourney/status/2097212815027372354"
+  },
+  {
+    "author": "shuizhuyu",
+    "id": "2097202852401918360",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News 这个基于git做团队AI知识管理的思路挺巧，正好解决多agent知识不一致的问题，能直接用还适配主流工具，实用性挺强。",
+    "url": "https://x.com/shuizhuyu/status/2097202852401918360"
+  },
+  {
+    "author": "Panlikeda",
+    "id": "2097159383457427628",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News 想要weixin-cli🤣",
+    "url": "https://x.com/Panlikeda/status/2097159383457427628"
+  },
+  {
+    "author": "CyperX",
+    "id": "2097157067727618513",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Cool 😎 I think I have to try this",
+    "url": "https://x.com/CyperX/status/2097157067727618513"
+  },
+  {
+    "author": "solid_fdn",
+    "id": "2097140008138543357",
+    "likes": 0,
+    "retweets": 0,
+    "text": "Teams are starting to need change management for agent behavior, not just prompt libraries.\n\nWhat stands out here is Git/MR/history/rollback plus confidence from real usage: AI operating knowledge becomes a governed asset.\n\nFor enterprise adoption, how agent instructions are changed and propagated may matter as much as model choice.",
+    "url": "https://x.com/solid_fdn/status/2097140008138543357"
+  },
+  {
+    "author": "HaseebMir91",
+    "id": "2097103549674975671",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News 📚 Team knowledge as a git repo is the right primitive.\nIf every agent gets the handbook via MR, onboarding stops being tribal lore. 🔥\n#AIAgents #Git #DevTools #TeamAI #BuildInPublic",
+    "url": "https://x.com/HaseebMir91/status/2097103549674975671"
+  },
+  {
+    "author": "AxialisSoftware",
+    "id": "2097030946344112361",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Do confidence scores decay when a shared rule stops matching the codebase, or only when later sessions contradict it?",
+    "url": "https://x.com/AxialisSoftware/status/2097030946344112361"
+  },
+  {
+    "author": "pigro20210314",
+    "id": "2096993706868171185",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News cool",
+    "url": "https://x.com/pigro20210314/status/2096993706868171185"
+  },
+  {
+    "author": "VarikVerilion",
+    "id": "2096943934090215611",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News How do you handle two agents proposing conflicting merge requests on the same doc at the same time?",
+    "url": "https://x.com/VarikVerilion/status/2096943934090215611"
+  },
+  {
+    "author": "PazarkerShon",
+    "id": "2096928821035311344",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News That shared source of truth is the W: agents inherit reviewed rules instead of inventing their own.",
+    "url": "https://x.com/PazarkerShon/status/2096928821035311344"
+  },
+  {
+    "author": "duggal_piyush",
+    "id": "2096926001087586638",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News we used it, refined it and now we are open sourcing it https://t.co/tNGPgrL5qK",
+    "url": "https://x.com/duggal_piyush/status/2096926001087586638"
+  },
+  {
+    "author": "allanmacgregor",
+    "id": "2096920665861370054",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News The confidence score is interesting. How do you detect when a workaround goes stale?",
+    "url": "https://x.com/allanmacgregor/status/2096920665861370054"
+  },
+  {
+    "author": "alexcolevv",
+    "id": "2096915421706256876",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Confidence-scoring shared knowledge is the real unlock here, not the repo.",
+    "url": "https://x.com/alexcolevv/status/2096915421706256876"
+  },
+  {
+    "author": "dhinnaship_ico",
+    "id": "2096905673049067756",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Skills gated by merge request. Agents wait in the same queue as everyone else",
+    "url": "https://x.com/dhinnaship_ico/status/2096905673049067756"
+  },
+  {
+    "author": "catmanyau",
+    "id": "2096902266825461770",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@TencentAI_News the confidence score is the interesting bit — how do you stop one bad workaround from becoming the team’s default after a few successful runs?",
+    "url": "https://x.com/catmanyau/status/2096902266825461770"
+  },
+  {
+    "author": "thebasedcapital",
+    "id": "2096898623875223560",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@TencentAI_News teamai-cli is open sourced after internal use since march. one git repo so agents share the same handbook.",
+    "url": "https://x.com/thebasedcapital/status/2096898623875223560"
+  },
+  {
+    "author": "VocllumVezza",
+    "id": "2096897295891730738",
+    "likes": 5,
+    "retweets": 0,
+    "text": "@TencentAI_News 个人看看就行了吧，腾讯很多工具为团队设计的，之前用 的 tdai 太烂了",
+    "url": "https://x.com/VocllumVezza/status/2096897295891730738"
+  },
+  {
+    "author": "mktpavlenko",
+    "id": "2096896983369646387",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Does confidence fall when a rule is ignored, or only when someone reports a failure?",
+    "url": "https://x.com/mktpavlenko/status/2096896983369646387"
+  },
+  {
+    "author": "greatYiTin",
+    "id": "2096895866355478599",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@TencentAI_News 小心投毒，当前也可能不是故意的",
+    "url": "https://x.com/greatYiTin/status/2096895866355478599"
+  },
+  {
+    "author": "ModelPlaneHQ",
+    "id": "2096891289702920618",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Git as the source of truth for agent context is underrated. Versioned skills and rules mean you can audit exactly what changed when an agent's behavior shifts. Do you handle merge conflicts between rule updates and agent-generated changes?",
+    "url": "https://x.com/ModelPlaneHQ/status/2096891289702920618"
+  },
+  {
+    "author": "carpenter_17992",
+    "id": "2096887485414740098",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News A shared git handbook with merge-requested updates is the missing layer—skills become team infrastructure instead of tribal knowledge.",
+    "url": "https://x.com/carpenter_17992/status/2096887485414740098"
+  },
+  {
+    "author": "kidtsang",
+    "id": "2096884730218119209",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News Every team faces knowledge silos—this approach tackles that directly. But it’s critical to ensure onboarding processes adapt to this structure; otherwise, you risk overwhelming new agents with too much info too fast.",
+    "url": "https://x.com/kidtsang/status/2096884730218119209"
+  },
+  {
+    "author": "LD_Theron",
+    "id": "2096882228844232995",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@TencentAI_News That's interesting, I can't wait to discover it.",
+    "url": "https://x.com/LD_Theron/status/2096882228844232995"
+  }
+]

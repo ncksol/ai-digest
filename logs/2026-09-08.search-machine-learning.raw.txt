@@ -1,0 +1,92 @@
+[
+  {
+    "author": "burningbeard62",
+    "id": "2096825169356706064",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Sobering conversation between someone who understands machine learning and someone who thinks that AI thinks.",
+    "url": "https://x.com/burningbeard62/status/2096825169356706064",
+    "views": 2
+  },
+  {
+    "author": "serglotz",
+    "id": "2096910472863736042",
+    "likes": 2,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Looking at the speed of AI (AGI) development and at the way I am\nWorking with my AI agents this year, I see myself more like a supervisor (looking at supervised machine learning procedures) whos job is to flag (based on taste experience) and review the next iteration.\n\nBasically,",
+    "url": "https://x.com/serglotz/status/2096910472863736042",
+    "views": 436
+  },
+  {
+    "author": "TheBlondeNado",
+    "id": "2096990895136448700",
+    "likes": 1,
+    "replies": 1,
+    "retweets": 1,
+    "text": "Here is Part 6 of series meant to attempt at an AI driven advancement on the works of Sir David MacKay who was a polymath and legend in the fields of Information Theory and Machine Learning. These posts will carryover information from my previous series'.\n\nApplied impact\n\nThe",
+    "url": "https://x.com/TheBlondeNado/status/2096990895136448700",
+    "views": 48
+  },
+  {
+    "author": "WallStreetApes",
+    "id": "2096942811853574538",
+    "likes": 16000,
+    "replies": 1200,
+    "retweets": 8500,
+    "text": "We have a major problem\n\nAll the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not okay to hate Mohammed but it’s okay to hate Jesus\n\nGoogle Gemini even says you’re allowed to hate all Christians but you can’t hate Muslims. Even saying it’s completely normal to",
+    "url": "https://x.com/WallStreetApes/status/2096942811853574538",
+    "views": 218000
+  },
+  {
+    "author": "Diogaicfuslas",
+    "id": "2097000797150093691",
+    "likes": 4,
+    "replies": 3,
+    "retweets": 2,
+    "text": "Train your AI not to be ignorant. If you hit your thumb with the hammer, you do not blame the hammer and you do not blame the make.  I know what you are talking about. In fact, Google has that grease the squeakiest wheel algorithm but don't blame Gemini.",
+    "url": "https://x.com/Diogaicfuslas/status/2097000797150093691",
+    "views": 546
+  },
+  {
+    "author": "Diogaicfuslas",
+    "id": "2097017668243017977",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "text": "The creation of Gemini is the direct result of a collision between massive corporate computational scaling and ethics-bound scientific research. It required a forced merger of two entirely different operational philosophies that fundamentally distrust each other.\nThe Jeff Dean",
+    "url": "https://x.com/Diogaicfuslas/status/2097017668243017977",
+    "views": 60
+  },
+  {
+    "author": "ZentrixHQ",
+    "id": "2097184801035780392",
+    "likes": 7,
+    "replies": 3,
+    "retweets": 0,
+    "text": "The man who invented neural networks in 1943 predicted machine emotions in 1962. His name was Warren McCulloch.\n\nChatGPT, image generators, deep learning - all of it traces back to one paper he co-authored in 1943.\n\nWarren McCulloch co-authored the paper that created the first",
+    "url": "https://x.com/ZentrixHQ/status/2097184801035780392",
+    "views": 692
+  },
+  {
+    "author": "Alexand60095052",
+    "id": "2097199000638095747",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "machine learning algorithms\n\n<think>\nHere's a thinking process:\n\n1.  **Analyze User Input:**\n   - **Topic:** Machine learning algorithms, machine learning models\n   - **Format:** SEO Meta Description\n   - **Length:** 140 to 160 characters max\n   - **Tone:** Professional writer...",
+    "url": "https://x.com/Alexand60095052/status/2097199000638095747",
+    "views": 2
+  },
+  {
+    "author": "DanielPink",
+    "id": "2097031616652824751",
+    "likes": 41,
+    "replies": 1,
+    "retweets": 5,
+    "text": "In 2019, machine-learning researchers at the University of Arizona and Princeton found something that should change how you set goals: systems learn fastest when they succeed about 85% of the time. \n\nNot 100. \n\nNot 50. Eighty-five.",
+    "url": "https://x.com/DanielPink/status/2097031616652824751",
+    "views": 8700
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "author": "xanderai",
+    "id": "2097207931712557354",
+    "likes": 47,
+    "retweets": 3,
+    "text": "Interesting bits from Buckmaster and Alpöge’s work:\n- An AI did not come up with this idea, the approach is from Córdoba and Martínez-Zoroa\n- Working on this for a year \n- Purely personal, tokens paid for by academic grant\n- The paper produced by the AI is considered “slop”\n- “the first LLM generated proof Levent sent me was the most horrendous I have ever read”",
+    "url": "https://x.com/xanderai/status/2097207931712557354"
+  }
+]

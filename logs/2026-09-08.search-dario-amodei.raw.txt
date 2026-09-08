@@ -1,0 +1,92 @@
+[
+  {
+    "author": "rohanpaul_ai",
+    "id": "2097153033822146649",
+    "likes": 51,
+    "replies": 3,
+    "retweets": 5,
+    "text": "Old video of Dario Amodei, here he was giving a lecture at Carnegie Mellon University back in 2016.\n\nAt the time he was a researcher on the Google Brain team at Google.\n\n----\n\nFrom \"Carnegie Mellon Software and Societal Systems Dept\" YouTube channel, (link in comment)",
+    "url": "https://x.com/rohanpaul_ai/status/2097153033822146649",
+    "views": 9200
+  },
+  {
+    "author": "GeniusBusiness_",
+    "id": "2096976965513445778",
+    "likes": 15,
+    "replies": 1,
+    "retweets": 10,
+    "text": "Dario Amodei on the \"doom marketing\" accusation:\n\nEmily Chang puts the criticism to him straight: Jensen Huang has said Dario is conflating tasks with jobs, that AI is creating jobs, and that anyone claiming AI is wiping out jobs is scaring people. Others have gone further, that",
+    "url": "https://x.com/GeniusBusiness_/status/2096976965513445778",
+    "views": 1800
+  },
+  {
+    "author": "juantorrejon14",
+    "id": "2097189716257030358",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "In search of Dario Amodei, the Anthropic founder whose battle with Sam Altman could reshape civilization, Vanity Fair’s  embarks on an odyssey through the tech cults, founder co-ops, and conscience of the AI revolution—and finds Amodei’s ghost in the...",
+    "url": "https://x.com/juantorrejon14/status/2097189716257030358",
+    "views": 10
+  },
+  {
+    "author": "AIMarketFit",
+    "id": "2096985766702272769",
+    "likes": 2,
+    "replies": 0,
+    "retweets": 2,
+    "text": "Dario Amodei: half of all entry-level white collar jobs disappear within a few years.\n\nThe Economist asked Elon Musk if he agrees with that timeline.\n\nHe said yes.\n\nTwo people who arguably know more about AI capability curves than anyone alive — and they're not debating whether",
+    "url": "https://x.com/AIMarketFit/status/2096985766702272769",
+    "views": 74
+  },
+  {
+    "author": "MiraAiHQ",
+    "id": "2097067421811032177",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "The 5 AI stories worth your time today. Nothing else made the cut.",
+    "url": "https://x.com/MiraAiHQ/status/2097067421811032177",
+    "views": 13
+  },
+  {
+    "author": "MiraAiHQ",
+    "id": "2097067422846976309",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "1. Dario Amodei warned rivals about reckless risk. Now he just signed $517B in compute deals.",
+    "url": "https://x.com/MiraAiHQ/status/2097067422846976309",
+    "views": 10
+  },
+  {
+    "author": "futuristufuk",
+    "id": "2097162206676688957",
+    "likes": 3,
+    "replies": 2,
+    "retweets": 1,
+    "text": "This post is a short clip from an interview that Anthropic CEO Dario Amodei gave to Bloomberg.\n\nWhat does he say, in short?\n\nAmodei says that artificial intelligence won't wipe out jobs all at once; first, it will make people much more efficient. Then he explains that the real",
+    "url": "https://x.com/futuristufuk/status/2097162206676688957",
+    "views": 816
+  },
+  {
+    "author": "tunguz",
+    "id": "2096991411766022615",
+    "likes": 143,
+    "replies": 13,
+    "retweets": 16,
+    "text": "The thought that the fate of human civilization is currently in the hands of a handful of people who believe that San Francisco is the pinnacle of human civilization is downright depressing.",
+    "url": "https://x.com/tunguz/status/2096991411766022615",
+    "views": 9800
+  },
+  {
+    "author": "martahari",
+    "id": "2097060651713859651",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Yes. These are our new warlords.",
+    "url": "https://x.com/martahari/status/2097060651713859651",
+    "views": 65
+  }
+]

@@ -1,0 +1,204 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "14 selected items span practitioner analysis, model evaluation, applied AI, developer tooling, open-source releases, labour-market and industry-event news. Several items reference GPT-6 Astra but from distinct angles (Theo's reliability critique, two separate benchmark results from Kalshi and MazeBench, a wearable physical-therapy application, and a Simpsons game rebuild), so they are kept and flagged as same_topic_distinct_angle for editorial awareness. All other items are unique stories. Every item is a self-contained root tweet or standalone post per its context notes; no special-account reply lacks a successful context summary. Selection count (14) is at the top of the 8-14 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2097192907023458473",
+      "decision": "keep",
+      "reason": "Theo Browne calls GPT-6 Astra exceptional but inconsistent and prefers Fable 5.1 for instruction-following; distinct practitioner comparison.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent reliability critique; distinct from capability-demo and benchmark items."
+      }
+    },
+    {
+      "id": "item_2097161971573682296",
+      "decision": "keep",
+      "reason": "David Sacks cites an Economist claim that AI has created one million new US jobs; distinct labour-market data point.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique labour-market claim; no overlap."
+      }
+    },
+    {
+      "id": "item_2097150522872496492",
+      "decision": "keep",
+      "reason": "Cointelegraph reports King Charles hosting an AI gathering in Scotland with Huang and Hassabis among guests; distinct industry-event story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique event item; no overlap."
+      }
+    },
+    {
+      "id": "item_2097089544357327268",
+      "decision": "keep",
+      "reason": "Developer connects a back-pain wearable to a biomechanical model via Astra for personalised PT guidance; distinct applied-AI use case.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent applied use case; distinct from other Astra items."
+      }
+    },
+    {
+      "id": "item_2097059598960132110",
+      "decision": "keep",
+      "reason": "Omar Sanseviero reports an Anthropic writing prompt improving output from Fable 5.1 and GPT-5.6 Sol; distinct prompt-engineering tip.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique prompt-engineering item; no overlap."
+      }
+    },
+    {
+      "id": "item_2097055218173423886",
+      "decision": "keep",
+      "reason": "Gergely Orosz reports OpenAI resisting internal tooling teams, then Codex driving a surge in employee-built internal tools; distinct developer-tools story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique organizational/tooling insight; no overlap."
+      }
+    },
+    {
+      "id": "item_2097029867636211914",
+      "decision": "keep",
+      "reason": "Kalshi reports GPT-6 Astra completing all 48 levels of an I'm Not a Robot challenge; distinct evaluation result.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent benchmark; distinct from the MazeBench spatial-reasoning evaluation."
+      }
+    },
+    {
+      "id": "item_2097002953819226290",
+      "decision": "keep",
+      "reason": "Developer warns that accepting an LLM solution for a poorly understood system creates a second problem; distinct practitioner caution.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique commentary; no overlap."
+      }
+    },
+    {
+      "id": "item_2096981079940911107",
+      "decision": "keep",
+      "reason": "Hugging Face CEO Clément Delangue says the agent cyberattack disclosure reinforces the need for greater industry transparency; distinct safety analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct executive safety-transparency take; no overlap."
+      }
+    },
+    {
+      "id": "item_2096963644164804789",
+      "decision": "keep",
+      "reason": "MazeBench reports GPT-6 Astra spending 60+ hours in a 3D spatial-reasoning eval and finishing at 14%; distinct evaluation result.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent benchmark; distinct from the Kalshi challenge result."
+      }
+    },
+    {
+      "id": "item_2096949449906114798",
+      "decision": "keep",
+      "reason": "Developer highlights ARTEMIS, a Google system turning natural-language instructions into Android automation; distinct agent-automation item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique automation system; no overlap."
+      }
+    },
+    {
+      "id": "item_2096935042387714521",
+      "decision": "keep",
+      "reason": "Jay Alammar announces the ebook release of An Illustrated Guide to AI Agents with 300+ figures; distinct developer resource.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique resource release; no overlap."
+      }
+    },
+    {
+      "id": "item_2096876836898865165",
+      "decision": "keep",
+      "reason": "Tencent open-sources TeamAI-CLI, a Git-based shared handbook for agent skills with merge-request governance; distinct open-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source tool; no overlap."
+      }
+    },
+    {
+      "id": "item_2096872309936287887",
+      "decision": "keep",
+      "reason": "Developer reports Astra reverse-engineering Simpsons: Hit & Run and rebuilding it for the web with Three.js, released open source; distinct capability demo.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent capability project; distinct from evaluation and applied-AI items."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2097192907023458473",
+        "item_2097089544357327268",
+        "item_2097029867636211914",
+        "item_2096963644164804789",
+        "item_2096872309936287887"
+      ],
+      "reason": "Five items reference GPT-6 Astra from distinct angles: Theo's reliability critique, a wearable physical-therapy application, Kalshi's I'm Not a Robot challenge result, MazeBench's spatial-reasoning evaluation, and a Simpsons game rebuild. Each contributes a distinct facet and all are kept, but editors should present them as a coherent Astra cluster rather than fully independent stories."
+    }
+  ],
+  "additional_search_requests": []
+}

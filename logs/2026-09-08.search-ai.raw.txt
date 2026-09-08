@@ -1,0 +1,92 @@
+[
+  {
+    "author": "axultan",
+    "id": "2097101412069175652",
+    "likes": 2100,
+    "replies": 66,
+    "retweets": 174,
+    "text": "Football analytics is solved.\n\nGPT-6 Astra + Higgsfield built us a tool that tracks players, maps passes and follows possession while you watch.\n\nWatching sports is more fun with AI.",
+    "url": "https://x.com/axultan/status/2097101412069175652",
+    "views": 169000
+  },
+  {
+    "author": "josephdelong",
+    "id": "2096988521768555000",
+    "likes": 8200,
+    "replies": 243,
+    "retweets": 471,
+    "text": "The most unemployed person you know with AI psychosis has a dashboard like this",
+    "url": "https://x.com/josephdelong/status/2096988521768555000",
+    "views": 478000
+  },
+  {
+    "author": "GergelyOrosz",
+    "id": "2097055218173423886",
+    "likes": 3500,
+    "replies": 111,
+    "retweets": 124,
+    "text": "Super interesting detail from inside OpenAI:\n\nThe company hired a bunch of ex-Meta people. Some of these people wanted to invest heavily into internal tooling teams (Meta did it, worked great)\n\nOpenAI leadership resisted, saying that in an AGI-first world, there will be no",
+    "url": "https://x.com/GergelyOrosz/status/2097055218173423886",
+    "views": 564000
+  },
+  {
+    "author": "mattshumer_",
+    "id": "2097044196091695212",
+    "likes": 2400,
+    "replies": 289,
+    "retweets": 49,
+    "text": "GPT-6 Pro is a fucking monster\n\nWhy is no one talking about this?",
+    "url": "https://x.com/mattshumer_/status/2097044196091695212",
+    "views": 380000
+  },
+  {
+    "author": "mattshumer_",
+    "id": "2097079239505842645",
+    "likes": 1000,
+    "replies": 59,
+    "retweets": 52,
+    "text": "My GPT-6 Astra 3D builds just passed 15M views on X.\n\nThe most common question, by far: \"how are you getting this level of quality?\"\n\nHere's exactly how. The full guide:",
+    "url": "https://x.com/mattshumer_/status/2097079239505842645",
+    "views": 105000
+  },
+  {
+    "author": "omarsar0",
+    "id": "2097059598960132110",
+    "likes": 2300,
+    "replies": 64,
+    "retweets": 123,
+    "text": "A few days ago, Anthropic shared this brilliant prompt. \n\nI was surprised by how it significantly improved writing with Fable 5.1.\n\nEven more surprising, it also improved writing for GPT-5.6 Sol. \n\nI have it as a rule everywhere I use AI for editing/writing.",
+    "url": "https://x.com/omarsar0/status/2097059598960132110",
+    "views": 149000
+  },
+  {
+    "author": "theo",
+    "id": "2097197111431622888",
+    "likes": 524,
+    "replies": 39,
+    "retweets": 5,
+    "text": "Alternative framing: GPT-6.1 Astra will be, by far, the greatest model ever made.\n\nIf they can do to GPT-6 what they did to GPT-5.5 with the follow-up, it will be world-changing",
+    "url": "https://x.com/theo/status/2097197111431622888",
+    "views": 27000
+  },
+  {
+    "author": "DavidSacks",
+    "id": "2097161971573682296",
+    "likes": 2000,
+    "replies": 88,
+    "retweets": 262,
+    "text": "Narrative violation: According to the Economist, AI has created 1 million new jobs in the U.S.",
+    "url": "https://x.com/DavidSacks/status/2097161971573682296",
+    "views": 109000
+  },
+  {
+    "author": "gdb",
+    "id": "2096794565499883839",
+    "likes": 2700,
+    "replies": 211,
+    "retweets": 224,
+    "text": "an important essay on the state of AI and the choices and challenges ahead: for openai, the field, and the world.\n\nwe're in the AGI era, and need to approach the next few years with seriousness, thoughtful deliberation, and navigating the collective challenges together. we can",
+    "url": "https://x.com/gdb/status/2096794565499883839",
+    "views": 381000
+  }
+]

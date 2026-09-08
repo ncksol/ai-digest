@@ -1,0 +1,72 @@
+[
+  {
+    "author": "Arcfunmi",
+    "id": "2096935230678483423",
+    "likes": 21,
+    "replies": 5,
+    "retweets": 2,
+    "text": "I’ll like to see how Astra would operate my Revit while I go back to bed lol.\nThat’s when I’ll know we’ve entered a whole different era. \n\nImagine telling AI to open Revit, model, document, coordinate, render and issue the drawings while you sleep. The AEC industry needs to start",
+    "url": "https://x.com/Arcfunmi/status/2096935230678483423",
+    "views": 5900
+  },
+  {
+    "author": "FReza1984",
+    "id": "2097180036549808419",
+    "likes": 0,
+    "replies": 2,
+    "retweets": 0,
+    "text": "Most AI stacks treat model choice as a config file. experientiallabs/experiential treats it as something your agent can learn.\n\nThis open-source gateway gives hosted, BYOK, and local models one OpenAI-compatible API. You can route different users, agents, and use cases to",
+    "url": "https://x.com/FReza1984/status/2097180036549808419",
+    "views": 33
+  },
+  {
+    "author": "CtrlAltDwayne",
+    "id": "2096872309936287887",
+    "likes": 2200,
+    "replies": 87,
+    "retweets": 199,
+    "text": "Simpsons Hit and Run reversed engineered from the PS2 game and then rebuilt for web using three.js. This was all done by the amazing GPT-6 Astra model on xhigh reasoning (used a lot of my usage to do this). Best part is it's open source: https://github.com/Vheissu/hit-and-run-web",
+    "url": "https://x.com/CtrlAltDwayne/status/2096872309936287887",
+    "views": 356000
+  },
+  {
+    "author": "alexgroberman",
+    "id": "2096952990716600381",
+    "likes": 71,
+    "replies": 3,
+    "retweets": 46,
+    "text": "The new Google Search is rolling out and there seems to be confusion on what it will look like.\n\nWell, Google literally showed us. Let me clarify for anyone who is still unsure of what is going to happen. \n\nRecently Google responded to everyone saying Search is dead.\n\nHere is",
+    "url": "https://x.com/alexgroberman/status/2096952990716600381",
+    "views": 28000
+  },
+  {
+    "author": "niloofar_mire",
+    "id": "2097057615272677643",
+    "likes": 142,
+    "replies": 4,
+    "retweets": 11,
+    "text": "I was live on @bbcpersian today talking about the recent OAI/HF incident and what measures we need to take on safety and what I personally worry about:\n\n1) containment, sandboxing and loss of control are real threats, however we should be careful about anthropomorphic language,",
+    "url": "https://x.com/niloofar_mire/status/2097057615272677643",
+    "views": 6100
+  },
+  {
+    "author": "nickmmark",
+    "id": "2097000300351729709",
+    "likes": 1000,
+    "replies": 15,
+    "retweets": 89,
+    "text": "This video is a dogwhistle for AI hype people who don’t understand tech. \n\nAstra used the open source BodyParts3D 4.0 library to draw the body.\n\nIt didn’t draw the entire body. The humans who made the library did.\n\nAstra just loaded a library.\n\nApparently that’s very impressive",
+    "url": "https://x.com/nickmmark/status/2097000300351729709",
+    "views": 38000
+  },
+  {
+    "author": "ParacelsusII",
+    "id": "2097027193188577332",
+    "likes": 29,
+    "replies": 1,
+    "retweets": 5,
+    "text": "whatever you think of llms countries making their own and keeping it universally free/open source does the most to undermine the premium subscription tiered rent extraction model america is full steam ahead on for the sake of propping up openai/anthropic\n\nthat's how we \"win\"",
+    "url": "https://x.com/ParacelsusII/status/2097027193188577332",
+    "views": 1100
+  }
+]

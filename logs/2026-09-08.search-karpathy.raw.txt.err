@@ -1,0 +1,1 @@
+⚡ [command] Command error (HTTP 422 Unprocessable Entity): {"error":"Error: No tweets found. X may require login or changed their DOM structure.\n    at <anonymous>:77:11\n    at <anonymous>:81:3\n    at <anonymous>:82:6","id":"52b89753-52bd-46d3-971e-92ffe4b4e110","ok":false}

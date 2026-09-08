@@ -1,0 +1,102 @@
+[
+  {
+    "author": "xanderai",
+    "id": "2097207931712557354",
+    "likes": 33,
+    "replies": 0,
+    "retweets": 3,
+    "text": "Interesting bits from Buckmaster and Alpöge’s work:\n- An AI did not come up with this idea, the approach is from Córdoba and Martínez-Zoroa\n- Working on this for a year \n- Purely personal, tokens paid for by academic grant\n- The paper produced by the AI is considered “slop”\n-",
+    "url": "https://x.com/xanderai/status/2097207931712557354",
+    "views": 2100
+  },
+  {
+    "author": "just_be_dev",
+    "id": "2097002953819226290",
+    "likes": 850,
+    "replies": 23,
+    "retweets": 62,
+    "text": "If you ask an LLM to solve a problem in a system you don't understand and it gives you a solution you think looks reasonable, you now have two problems.",
+    "url": "https://x.com/just_be_dev/status/2097002953819226290",
+    "views": 16000
+  },
+  {
+    "author": "Mazi_Ifenna",
+    "id": "2097017980471124161",
+    "likes": 81,
+    "replies": 2,
+    "retweets": 27,
+    "text": "Harvard Law School has opened applications for LLM, 2027 entry. The portal opened on September 4 and closes December 1. \n\nTell your friends who are interested.",
+    "url": "https://x.com/Mazi_Ifenna/status/2097017980471124161",
+    "views": 9800
+  },
+  {
+    "author": "tautologer",
+    "id": "2097178167358390488",
+    "likes": 572,
+    "replies": 21,
+    "retweets": 14,
+    "text": "ever since someone pointed out that making inanimate objects the subject of verb is one of the most pervasive and telling LLM-isms I can't un-notice it\n\na person would have written \"enter to open, esc to return, ctrl+c twice to quit\"",
+    "url": "https://x.com/tautologer/status/2097178167358390488",
+    "views": 16000
+  },
+  {
+    "author": "charliermarsh",
+    "id": "2097060990705660146",
+    "likes": 478,
+    "replies": 39,
+    "retweets": 16,
+    "text": "I'm entering a new phase of LLM psychosis",
+    "url": "https://x.com/charliermarsh/status/2097060990705660146",
+    "views": 23000
+  },
+  {
+    "author": "forloopcodes",
+    "id": "2096776528277459345",
+    "likes": 512,
+    "replies": 100,
+    "retweets": 65,
+    "text": "Jensen, if you do not know, here are the conditions for which, you can call a model as \"AGI\"\n\n- Artificial \"General\" Intelligence - GPT 6 Astra is domain-tuned, only text output and tool calls, no LLM could ever be AGI\n- it should achieve human-level performance on all fields,",
+    "url": "https://x.com/forloopcodes/status/2096776528277459345",
+    "views": 93000
+  },
+  {
+    "author": "0xEronn",
+    "id": "2097029528971259922",
+    "likes": 52,
+    "replies": 2,
+    "retweets": 10,
+    "text": "Bayes' theorem is why a positive COVID test doesn't mean you have COVID - if the disease is rare enough, most positives are false. Every LLM confidence score, every spam filter, and every medical diagnostic AI fails in exactly this way when the base rate is ignored.\n\nThe theorem",
+    "url": "https://x.com/0xEronn/status/2097029528971259922",
+    "views": 4000
+  },
+  {
+    "author": "Mahaximus_",
+    "id": "2096972211919753678",
+    "likes": 776,
+    "replies": 13,
+    "retweets": 176,
+    "text": "Ex-Google Jeff Dean just released the best 1-hour lecture on AI engineering: from basics to Graphs\n\n1:45 - LLM from scratch\n17:22 - How to use AI models\n30:03 - Prompt engineering\n52:35 - One human coordinating 100 agents\n\n27 years of building AI at Google, compressed into one",
+    "url": "https://x.com/Mahaximus_/status/2096972211919753678",
+    "views": 117000
+  },
+  {
+    "author": "ar0cket1",
+    "id": "2096937024523812880",
+    "likes": 37,
+    "replies": 0,
+    "retweets": 2,
+    "text": "https://www-cdn.anthropic.com/files/4zrzovbb/website/dd5feddcb3b7d20aadda6af4093ac1fb0c9d419e.pdf…\n\nthis is an interesting paper on the direction of training taste with LLM judges",
+    "url": "https://x.com/ar0cket1/status/2096937024523812880",
+    "views": 5200
+  },
+  {
+    "author": "SmartPig_Joe",
+    "id": "2096889734819987739",
+    "likes": 208,
+    "replies": 5,
+    "retweets": 19,
+    "text": "1/5 \nI study LLM pretraining and scaling. Seeing GEN-1.5’s eight-month loss curve made me think about a shared methodology across language, robotics and world models: learning reusable capabilities from data and compute.\n\nNew essay: https://jiaxuanzou0714.github.io/en/blog/2026/p",
+    "url": "https://x.com/SmartPig_Joe/status/2096889734819987739",
+    "views": 11000
+  }
+]

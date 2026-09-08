@@ -1,0 +1,402 @@
+[
+  {
+    "author": "GergelyOrosz",
+    "id": "2097055218173423886",
+    "likes": 3538,
+    "retweets": 95,
+    "text": "Super interesting detail from inside OpenAI:\n\nThe company hired a bunch of ex-Meta people. Some of these people wanted to invest heavily into internal tooling teams (Meta did it, worked great)\n\nOpenAI leadership resisted, saying that in an AGI-first world, there will be no internal tooling teams.\n\nAnd they were right: now, with Codex, there's a massive internal tools explosion, without having any internal tooling teams!",
+    "url": "https://x.com/GergelyOrosz/status/2097055218173423886"
+  },
+  {
+    "author": "TannerIngalls",
+    "id": "2097215538766504210",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Funny how people think \"Ex-Meta\" means you're smart...",
+    "url": "https://x.com/TannerIngalls/status/2097215538766504210"
+  },
+  {
+    "author": "sbalujaish",
+    "id": "2097213382143123486",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Would be curious to see how the day to day ops of the internal tools is managed as that is usually the highest friction point for creating new tools? Looking forward to the deep dive!",
+    "url": "https://x.com/sbalujaish/status/2097213382143123486"
+  },
+  {
+    "author": "tgreen2241",
+    "id": "2097212242316189876",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz And this is a big part of why we rarely hear from Zuck's billions these days. I predicted this 3 years ago... also why Meta's stock price has dropped from $738 in late January 2026, to $572 at the start of September...",
+    "url": "https://x.com/tgreen2241/status/2097212242316189876"
+  },
+  {
+    "author": "dhmackenzie",
+    "id": "2097211946600702121",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@GergelyOrosz Is a \"massive explosion\" the ideal form for a company's internal tools?\n\nEven in an AGI world, it's not clear that it's a great situation to have 17 different tools (each with its own distinct flaws and limitations), to do any one job....",
+    "url": "https://x.com/dhmackenzie/status/2097211946600702121"
+  },
+  {
+    "author": "alexanderesslee",
+    "id": "2097209372745122291",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz This might be one of the most underrated effects of coding agents. Internal software goes from something you request and wait for to something employees can just build when they need it.",
+    "url": "https://x.com/alexanderesslee/status/2097209372745122291"
+  },
+  {
+    "author": "JAU_ATL_21",
+    "id": "2097191061567459444",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz What I am hearing from friends at SpaceX is that Elon didn't believe in internal tooling teams, until the cursor internal tool teams (or one of them) proved their value by unifying a bunch of different internal apps that were causing chaos into one unified platform.",
+    "url": "https://x.com/JAU_ATL_21/status/2097191061567459444"
+  },
+  {
+    "author": "khurana_vaibhav",
+    "id": "2097185091407712373",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Interesting shift, but the bottleneck is still tool quality and ownership. If agents can create tools quickly, who owns auth, observability, and rollback when those tools break?",
+    "url": "https://x.com/khurana_vaibhav/status/2097185091407712373"
+  },
+  {
+    "author": "Greg_GL_87",
+    "id": "2097183005877956708",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz if AGI makes internal tooling teams pointless why do the biggest labs keep hiring for them",
+    "url": "https://x.com/Greg_GL_87/status/2097183005877956708"
+  },
+  {
+    "author": "Arshsohal5",
+    "id": "2097178370765152651",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Same pattern in enterprises. The tools appear fast; the hard part starts when two of them disagree or one breaks and nobody knows who built it.",
+    "url": "https://x.com/Arshsohal5/status/2097178370765152651"
+  },
+  {
+    "author": "gleblapkovsky",
+    "id": "2097178357888938183",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz internal tooling didn’t disappear, only the internal tooling team did",
+    "url": "https://x.com/gleblapkovsky/status/2097178357888938183"
+  },
+  {
+    "author": "bigblue__2026",
+    "id": "2097177813107564848",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz I built a bullet hole detection and analysis app in just a few hours. Aside from the Astra API cost of about 20 cents per image, it does everything I need to analyze the shot grouping from each round across multiple rounds of shooting.",
+    "url": "https://x.com/bigblue__2026/status/2097177813107564848"
+  },
+  {
+    "author": "itsjamik",
+    "id": "2097177134645354729",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz they fought tooling teams then tooling exploded. of course",
+    "url": "https://x.com/itsjamik/status/2097177134645354729"
+  },
+  {
+    "author": "ccgg31",
+    "id": "2097176874992681053",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Good agent can write internal tools on the fly.",
+    "url": "https://x.com/ccgg31/status/2097176874992681053"
+  },
+  {
+    "author": "samongaro_",
+    "id": "2097176845355467079",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@GergelyOrosz Wow, that really shows how fast opinions can shift when teams sit in different worlds and incentives change. \n\nI wonder what lessons we should take from Codex and internal tools for future AI work and how it changes collaboration.",
+    "url": "https://x.com/samongaro_/status/2097176845355467079"
+  },
+  {
+    "author": "ccccccmore",
+    "id": "2097158020199494105",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz AGI-first turned out to be a very expensive way to rediscover that engineers need tools.",
+    "url": "https://x.com/ccccccmore/status/2097158020199494105"
+  },
+  {
+    "author": "halfnibble",
+    "id": "2097150056793285013",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@GergelyOrosz So they have internal tooling, but no one is responsible when it breaks and no one is graded on its efficiency?\n\nSounds like a recipe for disaster!",
+    "url": "https://x.com/halfnibble/status/2097150056793285013"
+  },
+  {
+    "author": "melosba9",
+    "id": "2097145432187015484",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz theres always a need to min max even if u get AGI",
+    "url": "https://x.com/melosba9/status/2097145432187015484"
+  },
+  {
+    "author": "basadomente",
+    "id": "2097143666464727120",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz This is a low iq stance from oai. Internal tooling teams are always giga high leverage",
+    "url": "https://x.com/basadomente/status/2097143666464727120"
+  },
+  {
+    "author": "TabDuoBao",
+    "id": "2097143493114445906",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Meta's developer infrastructure org ships public tooling of its own: the Buck2 build system and Sapling both came from it.",
+    "url": "https://x.com/TabDuoBao/status/2097143493114445906"
+  },
+  {
+    "author": "AnandNSharma",
+    "id": "2097141855012217224",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Easy to spin up a Codex tool doesn't mean it's stable. If that script ends up producing a record a regulator later asks for, someone still has to confirm it works the same way today as it did the day it was built. No tooling team means no one owns that check by default.",
+    "url": "https://x.com/AnandNSharma/status/2097141855012217224"
+  },
+  {
+    "author": "JordanDevAi",
+    "id": "2097140047917072752",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@GergelyOrosz I think local models will become more and more capable on consumer hardware. So the next big thing isn't better tooling from a closed company. It's more accessible tooling for the every day person with a local LLM running on a gaming GPU.",
+    "url": "https://x.com/JordanDevAi/status/2097140047917072752"
+  },
+  {
+    "author": "be_arsh",
+    "id": "2097139826411626744",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz the python scripts going further than expected is the real tell. tooling culture &gt; hiring lore",
+    "url": "https://x.com/be_arsh/status/2097139826411626744"
+  },
+  {
+    "author": "catmanyau",
+    "id": "2097139788809719832",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz the “no internal tooling teams” claim is doing a lot of work here. who owns the Codex-built tools when permissions, uptime, or data handling breaks?",
+    "url": "https://x.com/catmanyau/status/2097139788809719832"
+  },
+  {
+    "author": "golds_io",
+    "id": "2097129302655750422",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz @steipete “Meta did it, worked great”\n\nNot so sure that’s a fact",
+    "url": "https://x.com/golds_io/status/2097129302655750422"
+  },
+  {
+    "author": "af_fabs",
+    "id": "2097128860630327397",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz this should be a total messy",
+    "url": "https://x.com/af_fabs/status/2097128860630327397"
+  },
+  {
+    "author": "MayaAlwaysss",
+    "id": "2097123828262694977",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz internal tooling teams were never mostly about building tools, they were about owning them. who patches all the codex-generated stuff a year from now?",
+    "url": "https://x.com/MayaAlwaysss/status/2097123828262694977"
+  },
+  {
+    "author": "viktor_malstrom",
+    "id": "2097122086204678227",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz The internal-tools point is the one that lands. Most of these wins look less like AGI arrival and more like years of boring enablement finally paying off.",
+    "url": "https://x.com/viktor_malstrom/status/2097122086204678227"
+  },
+  {
+    "author": "_futsy_",
+    "id": "2097120477370355780",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz I think this is true for small teams as well. I've built more internal tooling for myself in the last six months than in the previous decade, purely because the cost of a throwaway tool dropped to nothing.",
+    "url": "https://x.com/_futsy_/status/2097120477370355780"
+  },
+  {
+    "author": "bytelee_trade",
+    "id": "2097119686580420943",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Codex explains the explosion in tools, but who owns them six months later? The test is whether OpenAI avoids tooling teams or recreates them informally once those tools become critical.",
+    "url": "https://x.com/bytelee_trade/status/2097119686580420943"
+  },
+  {
+    "author": "Terry101_1",
+    "id": "2097117308590387577",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz 这个细节太狠了：Meta那套‘大力建内部工具团队’在OpenAI直接被否了。领导层赌的是AGI优先世界里，根本不需要专门的工具团队——结果Codex一出来，内部工具自己爆炸了。传统大厂和AI实验室的成功路径，真的越来越不一样了。你们公司现在内部工具还是靠人堆，还是已经开始靠模型自己长出来了？",
+    "url": "https://x.com/Terry101_1/status/2097117308590387577"
+  },
+  {
+    "author": "dannyzlo",
+    "id": "2097115733264158781",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz A lot of this thinking going around and you can see it in the models. Astra and Fable are great at hard open ended reasoning and comically shit at following detailed instructions.",
+    "url": "https://x.com/dannyzlo/status/2097115733264158781"
+  },
+  {
+    "author": "yoctopokey",
+    "id": "2097114131799146989",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@GergelyOrosz Ugh this is hardly interesting.  All the tech podcasts I used to listen to religiously and tech reporters of substance are just blah blah blah AI AI AI. Even if they’re not just parroting hype, they’re evangelizing shit thats obsolete in a month or useless scoops like this.",
+    "url": "https://x.com/yoctopokey/status/2097114131799146989"
+  },
+  {
+    "author": "wanderinbear",
+    "id": "2097113993714540652",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz @steipete Wtf are you talking about….",
+    "url": "https://x.com/wanderinbear/status/2097113993714540652"
+  },
+  {
+    "author": "aiseomastery",
+    "id": "2097112893414375662",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz no tooling teams but tools everywhere, interesting bet",
+    "url": "https://x.com/aiseomastery/status/2097112893414375662"
+  },
+  {
+    "author": "ClawbrowserAI",
+    "id": "2097107432468058468",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz no internal tooling team because the tools started building themselves",
+    "url": "https://x.com/ClawbrowserAI/status/2097107432468058468"
+  },
+  {
+    "author": "ConnorTalksAI",
+    "id": "2097107249277644883",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz @grok please explain this",
+    "url": "https://x.com/ConnorTalksAI/status/2097107249277644883"
+  },
+  {
+    "author": "kale243222",
+    "id": "2097107016619631030",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Meta folks: build the tools. OpenAI: AGI is the tools team",
+    "url": "https://x.com/kale243222/status/2097107016619631030"
+  },
+  {
+    "author": "naveen_saradhi_",
+    "id": "2097106249636774260",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Codex basically turned internal tooling into a side effect of building with AI.",
+    "url": "https://x.com/naveen_saradhi_/status/2097106249636774260"
+  },
+  {
+    "author": "DataVLTAI",
+    "id": "2097105255804891354",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@GergelyOrosz If agents can build the tools they need, the next bottleneck is reliable data to build on. That’s where DataVLT fits in. https://t.co/TABcIPcdXc",
+    "url": "https://x.com/DataVLTAI/status/2097105255804891354"
+  },
+  {
+    "author": "DataVLTAI",
+    "id": "2097104666186400180",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@GergelyOrosz The bigger shift is that agents are turning fragmented tools and data into one execution layer. That’s where infrastructure like DataVLT becomes increasingly relevant.",
+    "url": "https://x.com/DataVLTAI/status/2097104666186400180"
+  },
+  {
+    "author": "kimindiehacker",
+    "id": "2097103425234419975",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Investing in internal tools can really boost productivity, especially for scaling teams",
+    "url": "https://x.com/kimindiehacker/status/2097103425234419975"
+  },
+  {
+    "author": "stringy_05",
+    "id": "2097102900522877087",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@GergelyOrosz Is a cambrian explosion of bespoke internal tools a good thing? Who wants 15 different K8S deployment harnesses or yaml linters or whatever? Just for efficiency, at some point you want people to use the same tools and platforms",
+    "url": "https://x.com/stringy_05/status/2097102900522877087"
+  },
+  {
+    "author": "claudecertified",
+    "id": "2097100568497893715",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@GergelyOrosz Dude just wanted to say you do great work \n\nYou actually let interviewees speak and interviews like the one with @steipete and @kelseyhightower are jam-packed full of the kind of golden nuggets you're lucky to find twice when reading a non-fiction book \n\nThanks and keep it up",
+    "url": "https://x.com/claudecertified/status/2097100568497893715"
+  },
+  {
+    "author": "mikewhiskyniner",
+    "id": "2097099652223131758",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Sources are good!",
+    "url": "https://x.com/mikewhiskyniner/status/2097099652223131758"
+  },
+  {
+    "author": "ethereaglehq",
+    "id": "2097097802467746045",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz the missing team is the registry. Codex can spawn a tool in an afternoon. later nobody knows the env it expects or which prompt generated it. explosion of tools with no owners is just shadow IT",
+    "url": "https://x.com/ethereaglehq/status/2097097802467746045"
+  },
+  {
+    "author": "faraotrading",
+    "id": "2097097053562122702",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz RIP 'waiting on engineering'",
+    "url": "https://x.com/faraotrading/status/2097097053562122702"
+  },
+  {
+    "author": "anandcpatelmdms",
+    "id": "2097094300781740475",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz Worked great for what?",
+    "url": "https://x.com/anandcpatelmdms/status/2097094300781740475"
+  },
+  {
+    "author": "TheRayGood",
+    "id": "2097093575737557149",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz I hope you ditched some of that python...",
+    "url": "https://x.com/TheRayGood/status/2097093575737557149"
+  },
+  {
+    "author": "tehface",
+    "id": "2097092704698236955",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@GergelyOrosz source to your claims?",
+    "url": "https://x.com/tehface/status/2097092704698236955"
+  }
+]

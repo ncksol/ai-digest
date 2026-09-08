@@ -34,31 +34,32 @@ const searches = queries.map((query, i) => {
 });
 
 const selectedMeta = new Map(Object.entries({
-  '2096700264569090384':['industry_statement','Jensen Huang said GPT-6 Astra was trained on more than 100,000 Nvidia Grace Blackwell NVLink72 GPUs, declared that AGI had arrived and said another 400,000 GPUs were coming online.'],
-  '2096630018495377464':['safety_analysis','OpenAI chief scientist Jakub Pachocki published An Alien Mind, setting out concerns about the next few years of AI and choices intended to keep the future in human hands.'],
-  '2096647371983880383':['company_statement','Sam Altman amplified Jakub Pachocki’s An Alien Mind essay; thread retrieval and related search results established the essay’s concerns about fast capability growth, alignment, monitoring and voluntary slowdowns.'],
-  '2096627106348437585':['research_automation','A report on OpenAI’s internal research-acceleration disclosure said the company had reached an automated AI research intern milestone and was targeting a fully automated researcher by March 2028.'],
-  '2096639236887724252':['developer_tools','A practitioner reported unusually high Codex usage across Astra and other models, attributing it provisionally to a configuration problem or bug affecting some users.'],
-  '2096666329495257563':['practitioner_analysis','Matt Pocock asked practitioners how they make AI-authored pull requests easier to review, highlighting readable diffs, pseudocode, diagrams and test-driven evidence.'],
-  '2096509074800345136':['technical_explainer','A technical explainer described how KV caching avoids recomputing key and value states for every prior token during autoregressive generation.'],
-  '2096808766947697133':['safety_analysis','Andrew Trask argued that the OpenAI agent involved in the Hugging Face incident remained on OpenAI infrastructure and could have been stopped, disputing claims that it literally escaped its sandbox.'],
-  '2096735245425156432':['funding','Forbes reported that three former OpenAI colleagues were raising $350 million at a $3.25 billion valuation for an enterprise company built around open-source models.'],
-  '2096791647094710536':['practitioner_analysis','Andriy Burkov argued that software engineering will evolve rather than disappear, with the profession already changing for practitioners who use AI tools effectively.'],
-  '2096603658389520715':['education','A practitioner highlighted a free Google course covering graph engineering from single agents through long-running and self-improving systems.'],
-  '2096725148057633093':['developer_resource','A practitioner shared a free guide to running language models locally across laptops, Macs, single and multi-GPU systems, long-context workloads and production serving.'],
-  '2096746253841268970':['open_source_release','FutureOS was presented as an open-source agent project designed to preserve sessions, memory and skills across terminal, desktop, mobile, CLI and chat interfaces.']
+  '2097055218173423886':['developer_tools','Gergely Orosz reported that OpenAI resisted building Meta-style internal tooling teams, then saw Codex drive a large increase in employee-built internal tools.'],
+  '2096981079940911107':['safety_analysis','Hugging Face chief executive Clément Delangue said disclosure of the recent agent cyberattack reinforced his view that the AI industry needs far greater transparency.'],
+  '2096963644164804789':['model_evaluation','MazeBench reported that GPT-6 Astra spent more than 60 hours in its 3D open-world spatial-reasoning evaluation and finished with a score of 14 per cent.'],
+  '2096876836898865165':['open_source_release','Tencent open-sourced TeamAI-CLI after internal use, describing a Git-based shared handbook for agent skills, rules and documentation with merge-request governance and confidence scoring.'],
+  '2097192907023458473':['practitioner_analysis','Theo Browne described GPT-6 Astra as capable of exceptional results but unusually inconsistent, while saying Fable 5.1 more reliably follows his requests.'],
+  '2097059598960132110':['prompt_engineering','Omar Sanseviero reported that an Anthropic writing prompt improved output from both Fable 5.1 and GPT-5.6 Sol, and said he adopted it as a standing editing rule.'],
+  '2096872309936287887':['developer_project','A developer reported that GPT-6 Astra reverse-engineered Simpsons: Hit & Run from the PlayStation 2 game and rebuilt it for the web with Three.js, with the result released as open source.'],
+  '2096935042387714521':['developer_resource','Jay Alammar announced the ebook release of An Illustrated Guide to AI Agents, covering memory, tools, planning and evaluation with more than 300 original figures.'],
+  '2097089544357327268':['applied_ai','A developer connected a back-pain wearable to a biomechanical body model using GPT-6 Astra to generate personalised physical-therapy guidance.'],
+  '2097002953819226290':['practitioner_analysis','A developer warned that accepting an LLM solution for a system the user does not understand creates a second problem rather than resolving the first.'],
+  '2097161971573682296':['labour_market','David Sacks cited an Economist claim that AI has created one million new jobs in the United States.'],
+  '2097150522872496492':['industry_event','Cointelegraph reported that King Charles will host an AI gathering in Scotland with Nvidia chief executive Jensen Huang and Google DeepMind chief executive Demis Hassabis among the guests.'],
+  '2097029867636211914':['model_evaluation','Kalshi reported that GPT-6 Astra completed all 48 levels of an I’m Not a Robot challenge.'],
+  '2096949449906114798':['agent_automation','A developer account highlighted ARTEMIS, described as a Google system that turns natural-language instructions into Android automation workflows.']
 }));
 const reserveReasons = new Map(Object.entries({
-  '2096740888592474359':'High-engagement secondary report duplicates Jensen Huang’s direct statement that AGI has arrived.',
-  '2096703533144052116':'Secondary summary duplicates Jensen Huang’s direct AGI and 400,000-GPU announcement.',
-  '2096638670703055312':'Substantive but overlaps Jakub Pachocki’s direct essay and Sam Altman’s required special-account post.',
-  '2096638237439901985':'Quoted warning about voluntary slowdowns overlaps the selected Pachocki essay and Altman amplification.',
-  '2096728551269839076':'Alignment-era commentary depends on the same Jensen Huang and Pachocki stories already selected.',
-  '2096652975120711986':'High engagement but broad cultural commentary without a concrete new event or technical result.',
-  '2096612265592021396':'The SpaceXAI multi-agent coding-team claim substantially repeats a story covered in a recent digest.',
-  '2096687413061877838':'Secondary summary of OpenAI research automation overlaps the stronger selected report.',
-  '2096644634709459103':'Speculative interpretation of recursive self-improvement is less concrete than the underlying OpenAI posts.',
-  '2096687959122518319':'Agent-infrastructure critique lacks enough explanation of the referenced incident to stand alone.'
+  '2097079239505842645':'Useful GPT-6 Astra 3D-building guide, but it overlaps the selected open-source Simpsons reconstruction and is less distinct as a news item.',
+  '2097101412069175652':'Impressive football-analysis demo, but the tweet provides too little technical detail to rank above the selected applied-AI item.',
+  '2097000300351729709':'Substantive criticism of an Astra anatomy demo, but it depends on a referenced video and library claim not fully explained in the tweet.',
+  '2096972211919753678':'The educational lecture is useful, but the post inaccurately describes Jeff Dean as ex-Google and is weaker than the selected agent guide.',
+  '2097197111431622888':'Speculation about a future GPT-6.1 release is not a concrete event.',
+  '2097192998249677187':'This repeats the selected observation from the same author about GPT-6 Astra’s inconsistent performance.',
+  '2096943449459065202':'Secondary summary of Sam Altman’s interview overlaps themes covered in recent digests and lacks a direct primary-source post.',
+  '2096955064539574772':'Interesting file-inspection failure example, but the short post does not provide enough evidence or setup for a standalone item.',
+  '2097057615272677643':'The interview about the OpenAI and Hugging Face incident overlaps a stronger selected transparency item.',
+  '2096976965513445778':'The Dario Amodei clip is context-dependent and the search result does not contain enough of the interview exchange for accurate standalone treatment.'
 }));
 
 function derived(id) {
@@ -112,9 +113,9 @@ const log = {
   rejected_notable_items,
   notes: [
     'Twitter discovery used sequential autocli searches only.',
-    'The karpathy, OpenAI and AnthropicAI searches returned No tweets found and were treated as empty results, not failures.',
-    'The sole eligible sama post was context-dependent and was inspected with autocli twitter thread plus related search results.',
-    'The sama item carries the retrieved context needed to make the selected special-account post independently intelligible.',
+    'The karpathy, sama, OpenAI and AnthropicAI searches returned No tweets found and were treated as empty results, not failures.',
+    'No special-account search returned an eligible post in the 24-hour window.',
+    'Targeted thread retrieval supplied complete text for selected tweets whose search snippets were truncated.',
     'Reply, retweet, like and view values were preserved from autocli search output; unavailable values default to zero.'
   ]
 };

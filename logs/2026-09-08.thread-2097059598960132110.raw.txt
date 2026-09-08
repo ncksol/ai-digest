@@ -1,0 +1,402 @@
+[
+  {
+    "author": "omarsar0",
+    "id": "2097059598960132110",
+    "likes": 2370,
+    "retweets": 115,
+    "text": "A few days ago, Anthropic shared this brilliant prompt. \n\nI was surprised by how it significantly improved writing with Fable 5.1.\n\nEven more surprising, it also improved writing for GPT-5.6 Sol. \n\nI have it as a rule everywhere I use AI for editing/writing. https://t.co/rlXZPmzcz5",
+    "url": "https://x.com/omarsar0/status/2097059598960132110"
+  },
+  {
+    "author": "MeowMixology",
+    "id": "2097214154289647630",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 I don't want it to say \"a dial worth turning\" or \"a parameter worth tuning\"",
+    "url": "https://x.com/MeowMixology/status/2097214154289647630"
+  },
+  {
+    "author": "toha_volovuk",
+    "id": "2097210888218398738",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 Ironic that a prompt banning ‘flourish for direct statement’ is itself written in fairly mannered prose (‘irritates,’ ‘earns its keep’). The instruction works, but it’s proof style rules are easier to state than to follow — even for the model writing them.",
+    "url": "https://x.com/toha_volovuk/status/2097210888218398738"
+  },
+  {
+    "author": "crypto_ninjas",
+    "id": "2097193893431587201",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 Consistency across different models is rare. Does the prompt structure itself work well for creative fiction too?",
+    "url": "https://x.com/crypto_ninjas/status/2097193893431587201"
+  },
+  {
+    "author": "MultiLeninist",
+    "id": "2097185713863426547",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@omarsar0 Funny part is…\n\nhttps://t.co/U7fgykFPI9",
+    "url": "https://x.com/MultiLeninist/status/2097185713863426547"
+  },
+  {
+    "author": "eddyvustg",
+    "id": "2097177991222829240",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 Clean style prompts transferring across model families without tweaking is rare. Did you find it mostly killed the fluff, or did sentence rhythm improve too?",
+    "url": "https://x.com/eddyvustg/status/2097177991222829240"
+  },
+  {
+    "author": "DBGardenhire",
+    "id": "2097174246824779926",
+    "likes": 4,
+    "retweets": 0,
+    "text": "@omarsar0 So why didn’t they tune it with this In mind in the first place after weeks and weeks of users noting the word salads ?",
+    "url": "https://x.com/DBGardenhire/status/2097174246824779926"
+  },
+  {
+    "author": "berserkbadonia",
+    "id": "2097174166449578391",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 This is really helpful. Thanks",
+    "url": "https://x.com/berserkbadonia/status/2097174166449578391"
+  },
+  {
+    "author": "z_malloc",
+    "id": "2097163817247727934",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 fighting against the training and system prompt.  this is not the way.",
+    "url": "https://x.com/z_malloc/status/2097163817247727934"
+  },
+  {
+    "author": "TheAIShrink",
+    "id": "2097162045107876204",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 Anthropic proved their model isn't a walled garden anymore. It writes better on GPT than most humans do in Slack. the moat is gone, only execution remains",
+    "url": "https://x.com/TheAIShrink/status/2097162045107876204"
+  },
+  {
+    "author": "owenrbarnard",
+    "id": "2097161013602697508",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 If anything this makes me feel like I’ve at least tried to stop it from making broad pointless statements as I try and understand my code",
+    "url": "https://x.com/owenrbarnard/status/2097161013602697508"
+  },
+  {
+    "author": "0xTimQ",
+    "id": "2097156347263369552",
+    "likes": 0,
+    "retweets": 0,
+    "text": "the reason it carried across model families is in how it is written\n\nit does not say \"write clearly\". it names the failure, shows the substitution with a paired example, and explains what the failure costs. that is a description of a phenomenon, not a preference\n\na preference can be satisfied nominally. a definition cannot be rules-lawyered",
+    "url": "https://x.com/0xTimQ/status/2097156347263369552"
+  },
+  {
+    "author": "MayaAlwaysss",
+    "id": "2097154824911659401",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 it isn't tuned to a model, it just swaps a vague goal for a concrete rule with counterexamples. that transfers to anything that follows instructions.",
+    "url": "https://x.com/MayaAlwaysss/status/2097154824911659401"
+  },
+  {
+    "author": "bytelee_trade",
+    "id": "2097148605400486154",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 The improvement across Fable and GPT is the interesting part. I'd want to see whether it helps both essays and technical explanations before making it a rule everywhere.",
+    "url": "https://x.com/bytelee_trade/status/2097148605400486154"
+  },
+  {
+    "author": "sirHe12",
+    "id": "2097148364446175495",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 Works in the essay, leaks in git. After this as a user rule, Fable still rewrote our PR bodies with \"earns its keep\". We added a second rule that bans that substitution class in diffs and comments, not just in prose.",
+    "url": "https://x.com/sirHe12/status/2097148364446175495"
+  },
+  {
+    "author": "xige135",
+    "id": "2097148237090373829",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 @grok 翻译提示词为中文",
+    "url": "https://x.com/xige135/status/2097148237090373829"
+  },
+  {
+    "author": "identityTorn",
+    "id": "2097145848518037925",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@omarsar0 just ask it to \"answer plainly without jargon\", it works all the same",
+    "url": "https://x.com/identityTorn/status/2097145848518037925"
+  },
+  {
+    "author": "Jacobcollects99",
+    "id": "2097145126661284248",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@omarsar0 The unslop skill does a much better job.",
+    "url": "https://x.com/Jacobcollects99/status/2097145126661284248"
+  },
+  {
+    "author": "MarkWoeppel",
+    "id": "2097137077259313579",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@omarsar0 This is not good writing advice.",
+    "url": "https://x.com/MarkWoeppel/status/2097137077259313579"
+  },
+  {
+    "author": "Prof_Nambiar",
+    "id": "2097135253777469863",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 How do you get - not this but that - prompt?",
+    "url": "https://x.com/Prof_Nambiar/status/2097135253777469863"
+  },
+  {
+    "author": "ccccccmore",
+    "id": "2097129427352383796",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@omarsar0 if the prose only becomes human after a warning label, the model hasn't learned style—it learned compliance.",
+    "url": "https://x.com/ccccccmore/status/2097129427352383796"
+  },
+  {
+    "author": "LifeArtStudios",
+    "id": "2097127396319121519",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@omarsar0 why tf are you writing with fable? what a waste",
+    "url": "https://x.com/LifeArtStudios/status/2097127396319121519"
+  },
+  {
+    "author": "ASandhu",
+    "id": "2097126173625184694",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 All you gotta add is “Remove all mannered prose”. \n\nWhat’s all this other text?",
+    "url": "https://x.com/ASandhu/status/2097126173625184694"
+  },
+  {
+    "author": "chrisnsalem",
+    "id": "2097125142442750214",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@grok is this prompt better? Write plainly and precisely. State the actual point instead of substituting a clever phrase for it. Remove decorative metaphors, forced wit, stock expressions, and wording that adds length without adding meaning. Use figurative language only when it makes an idea easier to understand. Prefer familiar words and concrete details. Preserve nuance, personality, and natural rhythm. Before responding, revise any sentence that sounds impressive but leaves the meaning unclear.",
+    "url": "https://x.com/chrisnsalem/status/2097125142442750214"
+  },
+  {
+    "author": "ghchinoy",
+    "id": "2097123010205602254",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 This prompt is also slop. Game recognizes game.",
+    "url": "https://x.com/ghchinoy/status/2097123010205602254"
+  },
+  {
+    "author": "dustrequiem",
+    "id": "2097120319878107315",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 The flourish where the prompt changes from mannered prose to direct statement as it describes each",
+    "url": "https://x.com/dustrequiem/status/2097120319878107315"
+  },
+  {
+    "author": "thenomadquant",
+    "id": "2097118192988787007",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 @grok what would happen exactly if I get this as my standing instruction. Give comparisons",
+    "url": "https://x.com/thenomadquant/status/2097118192988787007"
+  },
+  {
+    "author": "OnFinality",
+    "id": "2097113325045973379",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 That's the real crux. A compact library only helps if the retrieval actually generalizes beyond surface similarity, otherwise you just have a smaller pile of misfires.",
+    "url": "https://x.com/OnFinality/status/2097113325045973379"
+  },
+  {
+    "author": "jatingargiitk",
+    "id": "2097111679008190588",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 The cross-model part is what I'd test first. I wrote my own set of writing rules and it took weeks of rejected drafts to get them right. Curious if they'd just work on Sol or if I'd be starting over.",
+    "url": "https://x.com/jatingargiitk/status/2097111679008190588"
+  },
+  {
+    "author": "JudgeHolden99",
+    "id": "2097111044673978480",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@omarsar0 That prompt is doing  a lot of work. You could even say it is “load bearing”",
+    "url": "https://x.com/JudgeHolden99/status/2097111044673978480"
+  },
+  {
+    "author": "adenshepard",
+    "id": "2097110399304757598",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 One good prompt working across both models is the real find here.",
+    "url": "https://x.com/adenshepard/status/2097110399304757598"
+  },
+  {
+    "author": "cory_schulz_",
+    "id": "2097110033230172286",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@omarsar0 I’ve been using prompts like this for a while now and they definitely help a ton. I had to with GPT 5 models because they had such an empty personality and were difficult to work with",
+    "url": "https://x.com/cory_schulz_/status/2097110033230172286"
+  },
+  {
+    "author": "reggevinci",
+    "id": "2097109498569572448",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@omarsar0 how big impact you observed with this particular prompt?\n\nasking since i tried many and theres still lot of claudisms or slopus in opus",
+    "url": "https://x.com/reggevinci/status/2097109498569572448"
+  },
+  {
+    "author": "aiseomastery",
+    "id": "2097106344994394502",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 saving this prompt right now",
+    "url": "https://x.com/aiseomastery/status/2097106344994394502"
+  },
+  {
+    "author": "kryzk1",
+    "id": "2097104185217187987",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 You can just set this with /config then Output Style.",
+    "url": "https://x.com/kryzk1/status/2097104185217187987"
+  },
+  {
+    "author": "ovitrif",
+    "id": "2097101516339589349",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 Thx, doesn't rly seem needed for me, perhaps the similar-ish shared rules I created cause I needed  for Grok work great across all my agent's models.",
+    "url": "https://x.com/ovitrif/status/2097101516339589349"
+  },
+  {
+    "author": "0xCRASHOUT",
+    "id": "2097101135186125103",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 great observation",
+    "url": "https://x.com/0xCRASHOUT/status/2097101135186125103"
+  },
+  {
+    "author": "QCodecc",
+    "id": "2097098863123501081",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 This prompt works because it spells out 'good'.\n\nBehind every 'universal prompt' is a hidden rubric. Models don't reward eloquence — they reward explicit criteria. We hit the same wall writing rules files for Claude Code last spring.",
+    "url": "https://x.com/QCodecc/status/2097098863123501081"
+  },
+  {
+    "author": "yandt888",
+    "id": "2097097070431863278",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 把 Anthropic 那条写作提示做成可点的互动教程，比只贴一段 rule 更敢让人试。Fable 和 Sol 都涨分的话，关键是输出差一眼能看见，不是又多一条口头禅。",
+    "url": "https://x.com/yandt888/status/2097097070431863278"
+  },
+  {
+    "author": "bdambrosio",
+    "id": "2097089898083934439",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 I missed the original. thank you thank you thank you for reposting.",
+    "url": "https://x.com/bdambrosio/status/2097089898083934439"
+  },
+  {
+    "author": "martinslaney",
+    "id": "2097087897790746770",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 I mean it’s ok but try https://t.co/6nqwb1cqO9",
+    "url": "https://x.com/martinslaney/status/2097087897790746770"
+  },
+  {
+    "author": "jasonsoroko",
+    "id": "2097087304632259021",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 @dair_ai I used it immediately and saw great results.",
+    "url": "https://x.com/jasonsoroko/status/2097087304632259021"
+  },
+  {
+    "author": "iwooky",
+    "id": "2097086184782434572",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 Thanks for sharing",
+    "url": "https://x.com/iwooky/status/2097086184782434572"
+  },
+  {
+    "author": "iamleannmuller",
+    "id": "2097084525180264887",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 The funny part is the models can critique mannered prose perfectly well on their own — they just default to it anyway. Sometimes they need to be told what they already know.",
+    "url": "https://x.com/iamleannmuller/status/2097084525180264887"
+  },
+  {
+    "author": "onefinalprompt",
+    "id": "2097082061093835201",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@omarsar0 Funny how the fix for pretentious AI writing is itself written so cleanly.",
+    "url": "https://x.com/onefinalprompt/status/2097082061093835201"
+  },
+  {
+    "author": "manicmanic123",
+    "id": "2097080958222520460",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@omarsar0 where do you put this?",
+    "url": "https://x.com/manicmanic123/status/2097080958222520460"
+  },
+  {
+    "author": "omarsar0",
+    "id": "2097085752110714959",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@manicmanic123 you can use the user message along with your prompt. if you reuse it a lot, put it in the system prompt or rule file.",
+    "url": "https://x.com/omarsar0/status/2097085752110714959"
+  },
+  {
+    "author": "ShinkaIoT",
+    "id": "2097080240397029829",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 That's the thing people miss, a good prompt is the cheapest model upgrade you can buy.",
+    "url": "https://x.com/ShinkaIoT/status/2097080240397029829"
+  },
+  {
+    "author": "Secondmindsys",
+    "id": "2097076758419775866",
+    "likes": 3,
+    "retweets": 0,
+    "text": "This is good. I’d add a second pass that catches the AI habits that survive after the metaphors are gone.\n\nGive this to your writing model:\n\nEdit for plain, precise human language.\n\nSay what happened, what it means, and what the reader should know or do. Prefer concrete nouns and verbs. Use a metaphor only when it explains something better than literal language.\n\nRemove:\n\n• throat-clearing\n• inflated significance\n• unnecessary abstraction\n• canned openings like “the real shift,” “what matters here,” or “the deeper point”\n• fake contrasts like “not X, but Y”\n• repeated restatements of the same idea\n• conclusions the evidence hasn’t earned\n• sentences that tell the reader how important or impressive something is\n• neat closing maxims added just because the writing needs an ending\nDon’t turn every observation into a framework, principle, or category.\nPreserve useful detail, uncertainty, personality, humor, bluntness, and natural rhythm. Don’t polish away the parts that make the writer sound like themselves.\nRead each sentence again and ask:\nWhat is this actually saying?\nCan I say it more directly?\nDoes every word help?\nWould a thoughtful person actually say this out loud?\nAm I communicating the idea, or performing intelligence around it?\n\nRewrite only what fails those tests.\n\nReturn the revised text without explaining the edits unless the original meaning was unclear.",
+    "url": "https://x.com/Secondmindsys/status/2097076758419775866"
+  },
+  {
+    "author": "FReza1984",
+    "id": "2097076140414550046",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@omarsar0 A strong editing prompt can improve multiple models, hinting at transferable patterns.",
+    "url": "https://x.com/FReza1984/status/2097076140414550046"
+  }
+]
