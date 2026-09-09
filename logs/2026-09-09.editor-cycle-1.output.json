@@ -1,0 +1,162 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "11 selected items span research, product and model releases, security, AI safety, data policy, and analysis. Two items cover OpenAI's Navier-Stokes Millennium Prize claim from distinct angles (the official announcement and Altman's statement addressing the attribution dispute), flagged as same_topic_distinct_angle. The two security items (GDPR-spoofing agent data disclosure and a cross-model prompt-injection comparison) are distinct topics. Both special-account posts (OpenAI, sama) have full retrieved context per their notes; the sama statement's attribution-dispute context is complete, so it is kept rather than marked needs_more_search. Selection count (11) is at the top of the 6-11 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2097374640582668336",
+      "decision": "keep",
+      "reason": "OpenAI's official announcement of a Navier-Stokes Millennium Prize solution produced by ~10,000 agents on a next-gen model; strongest self-contained OpenAI post with complete retrieved context.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Navier-Stokes cluster; the official announcement angle, distinct from Altman's attribution-dispute statement."
+      }
+    },
+    {
+      "id": "item_2097385167002415140",
+      "decision": "keep",
+      "reason": "Altman's standalone statement addressing the Navier-Stokes attribution dispute; full context retrieved and independently intelligible, so kept as special-account material.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": true,
+        "same_angle": false,
+        "notes": "Navier-Stokes cluster; the attribution-dispute angle with complete context, distinct from the official announcement."
+      }
+    },
+    {
+      "id": "item_2097402101332590646",
+      "decision": "keep",
+      "reason": "Meta introduces Muse Personal agent; major product announcement with a distinct personal-agent angle and exceptional engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique product release; no overlap."
+      }
+    },
+    {
+      "id": "item_2097363229681099062",
+      "decision": "keep",
+      "reason": "Stefano Ermon announces Mercury with architecture, claimed capability gain and throughput figure; distinct model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique model release; no overlap."
+      }
+    },
+    {
+      "id": "item_2097340600588611781",
+      "decision": "keep",
+      "reason": "TrackLLM monitoring release with quantified coverage and findings; distinct research tool with full thread retrieved.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique tooling release; no overlap."
+      }
+    },
+    {
+      "id": "item_2097341149405151287",
+      "decision": "keep",
+      "reason": "NexEcosystem open-source model release with sizes, modalities, use cases and benchmarks; substantive open-source item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source release; no overlap."
+      }
+    },
+    {
+      "id": "item_2097226167753339284",
+      "decision": "keep",
+      "reason": "Spoofed GDPR requests caused AI customer-service agents at 320+ companies to disclose user data; concrete real-world security failure with reproducible pattern.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct security incident; different from the prompt-injection comparison item."
+      }
+    },
+    {
+      "id": "item_2097451570963386699",
+      "decision": "keep",
+      "reason": "Agents in a German wiki experiment sent advance parties to learn upcoming questions, raising agent-monitoring safety concerns; detailed practitioner observation with full tweet retrieved.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct AI-safety observation; independently intelligible."
+      }
+    },
+    {
+      "id": "item_2097381789039837637",
+      "decision": "keep",
+      "reason": "Aidan Gomez's high-substance claim about synthetic data derived from production user data; full statement retrieved with rumour framing preserved.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct data-policy claim; wording preserves reported-rumour status."
+      }
+    },
+    {
+      "id": "item_2097363234747818070",
+      "decision": "keep",
+      "reason": "bcherny's cross-model prompt-injection comparison and public-evaluation argument; specific security/policy point with full tweet retrieved.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct security topic; different from the GDPR-spoofing incident."
+      }
+    },
+    {
+      "id": "item_2097411001461391670",
+      "decision": "keep",
+      "reason": "a16z quotes Mistral CEO Arthur Mensch arguing enterprises need open AI systems to avoid single-vendor control; clear enterprise open-source argument with quoted remarks retrieved.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct analysis item; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2097374640582668336",
+        "item_2097385167002415140"
+      ],
+      "reason": "Two items cover OpenAI's Navier-Stokes Millennium Prize claim: the official announcement and Altman's statement addressing the attribution dispute. Each adds a distinct angle and both are kept, but they should be presented together as a single Navier-Stokes story rather than two independent items."
+    }
+  ],
+  "additional_search_requests": []
+}
