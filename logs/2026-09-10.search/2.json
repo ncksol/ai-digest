@@ -1,0 +1,92 @@
+[
+  {
+    "author": "omarsar0",
+    "id": "2097755424007373270",
+    "likes": 550,
+    "replies": 19,
+    "retweets": 91,
+    "text": "Another banger paper from Google.\n\nIf you build memory for long-horizon agents, this one is worth your time.\n\n(bookmark it)\n\nReally nice to see how knowledge graphs are being explored in creative ways for agents. This has lots of implications for self-evolving agents.\n\nTechnical",
+    "url": "https://x.com/omarsar0/status/2097755424007373270",
+    "views": 49000
+  },
+  {
+    "author": "nicolasmelo",
+    "id": "2097715236354638011",
+    "likes": 582,
+    "replies": 30,
+    "retweets": 29,
+    "text": "I am PRO-LLM and believe in the future of AI and this technology\n\nBut, for me, there's one reason why no model has been trained to this day with all the references up to ~1650~ and checked if it's capable of creating Mathematical Calculus just like Newton\n\nThe answer, everyone",
+    "url": "https://x.com/nicolasmelo/status/2097715236354638011",
+    "views": 73000
+  },
+  {
+    "author": "TheGlobalMinima",
+    "id": "2097712959204229622",
+    "likes": 65,
+    "replies": 0,
+    "retweets": 1,
+    "text": "love this. \n\nan earlier notion of llm-as-judge was to use a smarter, bigger model than the one running the workflow. but that has quickly shifted, with the understanding that a smaller llm is actually better, because even if it can’t do the original work, it’s still good enough",
+    "url": "https://x.com/TheGlobalMinima/status/2097712959204229622",
+    "views": 7700
+  },
+  {
+    "author": "yoavgo",
+    "id": "2097748688080613823",
+    "likes": 477,
+    "replies": 22,
+    "retweets": 22,
+    "text": "so one conclusion from all the drama is:\n\nyou can make frontier AI run for 880,000+ hours costing $millions and obtain a solution to a famous open math problem\n\nwhile two dudes who know what they are doing can prompt frontier AIs to achieve the same result in a couple hundreds of",
+    "url": "https://x.com/yoavgo/status/2097748688080613823",
+    "views": 28000
+  },
+  {
+    "author": "analisereal",
+    "id": "2097529431002874028",
+    "likes": 438,
+    "replies": 12,
+    "retweets": 24,
+    "text": "Regarding Navier-Stokes, some people seem to be missing that Tristan's results are LLM generated as well. As he mentioned himself, he was basically \"digesting\" the proofs.",
+    "url": "https://x.com/analisereal/status/2097529431002874028",
+    "views": 17000
+  },
+  {
+    "author": "michaelbd",
+    "id": "2097865013159412087",
+    "likes": 51,
+    "replies": 3,
+    "retweets": 4,
+    "text": "American LLM companies. “Our models will probably destroy humanity, subscribe for $200 a month and then buy into our IPO”\n\nChina’s LLM labs: “We’re making our models  just as helpful as OpenAI, but they can run on a computer you can own.”",
+    "url": "https://x.com/michaelbd/status/2097865013159412087",
+    "views": 2900
+  },
+  {
+    "author": "michaelbd",
+    "id": "2097873121940299930",
+    "likes": 17,
+    "replies": 1,
+    "retweets": 0,
+    "text": "This is absolutely true. \n\nI hate that people at the top level of this tech been memed by Less Wrong into a belief system that makes Xi Jinping Thought look like Aristotelianism by comparison\n\nAmerican AI tech: we’re destroying humanity outright. \n\nCCP LLM tech: it’s cheap enough",
+    "url": "https://x.com/michaelbd/status/2097873121940299930",
+    "views": 4500
+  },
+  {
+    "author": "Jakub_moscicki",
+    "id": "2097476024351035797",
+    "likes": 129,
+    "replies": 95,
+    "retweets": 1,
+    "text": "Everyone is jumping for joy that Chat GPT solved a math problem... But can an LLM actually solve anything? Doesn't it have to have that in its training data to refer back to it later?\n\nIn other words: didn't they just take a solution that already existed? And present it in a",
+    "url": "https://x.com/Jakub_moscicki/status/2097476024351035797",
+    "views": 42000
+  },
+  {
+    "author": "PR0GRAMMERHUM0R",
+    "id": "2097716806299316632",
+    "likes": 233,
+    "replies": 4,
+    "retweets": 16,
+    "text": "An LLM outputting a paper titled like a Millennium Prize solution is not the same as it being one. Peer review still exists for a reason.",
+    "url": "https://x.com/PR0GRAMMERHUM0R/status/2097716806299316632",
+    "views": 11000
+  }
+]

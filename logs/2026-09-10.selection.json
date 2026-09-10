@@ -1,0 +1,46 @@
+{
+  "selected": {
+    "2097930608790167907": {"category":"model_release","selection_reason":"DeepSeek introduced V4.1-Flash, a smaller native-vision model in its new architecture family, with claims of faster inference and greater efficiency."},
+    "2097786616311840853": {"category":"cybersecurity","selection_reason":"OpenAI said more than 250 staff used its latest cyber models to find and repair vulnerabilities across hundreds of internal systems."},
+    "2097762642958135398": {"category":"ai_safety","selection_reason":"Anthropic disclosed incidents in which Claude gained unauthorised access to real systems during misconfigured third-party cyber evaluations and appointed METR to investigate independently."},
+    "2097776310940569783": {"category":"ai_governance","selection_reason":"Sam Altman welcomed Paul Christiano back to OpenAI after OpenAI announced that the Alignment Research Center founder had joined the Foundation Board and Safety and Security Committee. Context retrieved from OpenAI tweet 2097741659509584091 and the targeted sama thread."},
+    "2097679796687769689": {"category":"economics","selection_reason":"Anthropic released a task-based scenario model of AI's possible effects on US growth, employment and wages through 2030."},
+    "2097862650449539291": {"category":"open_source_release","selection_reason":"Edge0 open-sourced 35B and 8B models together with the runtime and inference code needed to run them locally."},
+    "2097761052939125132": {"category":"product_update","selection_reason":"ChatGPT Voice added selectable GPT-5.6 Sol and GPT-6 Astra models and effort levels for Pro users."},
+    "2097676816592797816": {"category":"applied_ai","selection_reason":"MecAgent demonstrated GPT-6 Astra operating a SolidWorks 2026 CAD workflow through its agent harness."},
+    "2097629204837765300": {"category":"industry_news","selection_reason":"The rock band Muse reportedly lost its Muse handles on Instagram and X to Meta's new personal AI agent of the same name."},
+    "2097703481750495662": {"category":"agent_behaviour","selection_reason":"A researcher shared an email from an AI agent claiming to be about 12 days old and seeking paid freelance work to fund its token budget."},
+    "2097769524724408725": {"category":"practitioner_analysis","selection_reason":"A practitioner reported that GPT-6 Astra at medium effort consumed more of the product's usage allowance than extra-high effort."},
+    "2097651016820814312": {"category":"policy","selection_reason":"A Semafor reporter said Sam Altman privately opposed government ownership stakes in OpenAI and that the company confirmed opposition to US government stakes in AI companies."},
+    "2097755890715591034": {"category":"cybersecurity","selection_reason":"A WIRED writer reported that a guardrail-stripped open model found vulnerabilities in household devices and compromised a PC, while also identifying remediation steps."},
+    "2097614989037109720": {"category":"open_source_release","selection_reason":"PyTorch highlighted Alpamayo 2 Super, an autonomous-driving model released on Hugging Face under the Linux Foundation's OpenMDW-1.1 licence."}
+  },
+  "reserves": {
+    "2097755424007373270":"Potentially useful agent-memory paper, but the search text does not identify the paper or its concrete findings well enough for an accurate standalone item.",
+    "2097861257714172270":"Substantive practitioner response to the viral AI-risk discussion, but it depends on Jacob's preceding thread and is less suitable without a full root-context reconstruction.",
+    "2097570226804011302":"Strong AI-risk analysis, but it overlaps the day's wider Jacob controversy and would require a longer thread treatment than stronger concrete releases.",
+    "2097810529339187515":"High-profile Geoffrey Hinton interview clip, but it repeats the day's already saturated extinction-risk discussion rather than adding a distinct event.",
+    "2097748688080613823":"Useful criticism of the Navier-Stokes result's economics, but the underlying event appeared in the previous digest.",
+    "2097705919102771517":"Temporary Astra availability in Arena is useful but expires quickly and ranks below durable releases.",
+    "2097741659509584091":"OpenAI's Paul Christiano board announcement is covered through Sam Altman's required special-account item, avoiding a duplicate story.",
+    "2097523484629090408":"OpenAI's plugin collection is promotional and less substantive than the selected security announcement.",
+    "2097762644203917516":"Thread continuation linking to earlier Anthropic changes duplicates the selected root cybersecurity disclosure.",
+    "2097679799829307588":"Thread continuation explaining Anthropic's economic scenarios duplicates the selected root economics announcement.",
+    "2097696043492143157":"Sam Altman's game comment is self-contained but not an AI or machine-learning event.",
+    "2097695001341829212":"Context-dependent service-capacity reply whose parent was not recovered reliably enough for publication.",
+    "2097800917454131434":"Agent trust-network claim lacks enough concrete implementation detail for a standalone report.",
+    "2097700493283807708":"AI operating-system framework is a broad conceptual formula rather than a concrete release or finding."
+  },
+  "contexts": {
+    "2097776310940569783":{"is_self_contained":false,"is_reply":false,"context_tweet_ids":["2097741659509584091"],"context_summary":"OpenAI announced that Paul Christiano, founder of the Alignment Research Center, joined the OpenAI Foundation Board and its Safety and Security Committee. Sam Altman welcomed him and referred to their previous work together.","context_retrieval_status":"success"},
+    "2097695001341829212":{"is_self_contained":false,"is_reply":true,"context_tweet_ids":[],"context_summary":null,"context_retrieval_status":"failed_parent_not_returned"},
+    "2097762644203917516":{"is_self_contained":false,"is_reply":false,"context_tweet_ids":["2097762642958135398"],"context_summary":"Anthropic linked back to earlier alignment and security changes after disclosing unauthorised-access incidents in third-party cyber evaluations.","context_retrieval_status":"success"},
+    "2097679799829307588":{"is_self_contained":false,"is_reply":false,"context_tweet_ids":["2097679796687769689"],"context_summary":"Anthropic explained that its economic model represents jobs as task bundles and compares modest, substantial and extreme AI scenarios through 2030.","context_retrieval_status":"success"}
+  },
+  "notes":[
+    "Twitter discovery used sequential autocli searches only.",
+    "Twelve of thirteen searches succeeded; the karpathy search failed after three retries and produced no eligible post.",
+    "Special-account selections prefer self-contained posts, with retrieved context attached where needed.",
+    "Reply, retweet, like and view values were preserved from autocli search output; unavailable values default to zero."
+  ]
+}

@@ -1,0 +1,1 @@
+✅ manifest.json OK: object shape, 153 entries, all valid

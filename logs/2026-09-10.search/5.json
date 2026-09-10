@@ -1,0 +1,62 @@
+[
+  {
+    "author": "SamuelZengML",
+    "id": "2097862650449539291",
+    "likes": 203,
+    "replies": 12,
+    "retweets": 24,
+    "text": "Edge0 is now open source.\n\nThe first release includes 35B and 8B models.\nIt also includes the runtime and inference code to run them locally.\n\nRuntime + inference code:\nhttps://github.com/Edge0-AI/edge0/\n\nModels:\n⚡️ 8B: https://huggingface.co/Edge0/Edge0-8b-a1b-preview…\n🧠 35B: h",
+    "url": "https://x.com/SamuelZengML/status/2097862650449539291",
+    "views": 14000
+  },
+  {
+    "author": "WIRED",
+    "id": "2097755890715591034",
+    "likes": 98,
+    "replies": 3,
+    "retweets": 13,
+    "text": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+    "url": "https://x.com/WIRED/status/2097755890715591034",
+    "views": 63000
+  },
+  {
+    "author": "de1lymoon",
+    "id": "2097700493283807708",
+    "likes": 96,
+    "replies": 12,
+    "retweets": 14,
+    "text": "Grok Bot + Kimi K3 can be turned into something bigger than an agent: an AI operating system\n\nthe formula: AI OS = Router + Reasoning + Memory + Tools + Loops + Verification\n\nnot one giant assistant. six layers that keep work moving without you\n\nstep 1 -> Grok Bot becomes the",
+    "url": "https://x.com/de1lymoon/status/2097700493283807708",
+    "views": 10000
+  },
+  {
+    "author": "DivyanshT91162",
+    "id": "2097889514157125833",
+    "likes": 5,
+    "replies": 3,
+    "retweets": 2,
+    "text": "What if your AI coding agent could rewrite the code that makes it an AI coding agent?\n\nThat’s basically what Ouroboros is trying to build.\n\nIt’s an open-source AI agent with persistent identity, memory and history that survive across tasks and restarts.\n\nBut the wild part is its",
+    "url": "https://x.com/DivyanshT91162/status/2097889514157125833",
+    "views": 514
+  },
+  {
+    "author": "PyTorch",
+    "id": "2097614989037109720",
+    "likes": 89,
+    "replies": 2,
+    "retweets": 14,
+    "text": "Deep dive today. Alpamayo 2 Super was built on PyTorch and is available on Hugging Face under OpenMDW‑1.1, the Linux Foundation’s permissive license for open AI model distributions.",
+    "url": "https://x.com/PyTorch/status/2097614989037109720",
+    "views": 15000
+  },
+  {
+    "author": "Malay4Product",
+    "id": "2097576781234803082",
+    "likes": 904,
+    "replies": 28,
+    "retweets": 231,
+    "text": "Jacob spent three years doing pretraining research, first at OpenAI and then at Anthropic.\n\nPretraining is the stage where a model gets built from scratch. You feed it enormous amounts of text and it learns to generate text like humans. \n\nIt is the most expensive part of building",
+    "url": "https://x.com/Malay4Product/status/2097576781234803082",
+    "views": 150000
+  }
+]

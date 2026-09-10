@@ -76,7 +76,7 @@ function normalise(row) {
     replies: row.replies ?? 0,
     retweets: row.retweets ?? 0,
     views: row.views ?? 0,
-    url: `https://x.com/${row.author}/status/${id}`,
+    url: `https://xcancel.com/${row.author}/status/${id}`,
     ...derived(id)
   };
 }

@@ -1,0 +1,202 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "14 selected items span model and open-source releases, cybersecurity, AI safety and governance, economics, applied AI, product updates, and policy. Anthropic appears in two distinct items (an alignment-assessment incident disclosure and an economics scenario model). Two cybersecurity items (OpenAI's internal vulnerability remediation and a WIRED report on a guardrail-stripped model) are distinct. Several items reference GPT-6 Astra from distinct angles (ChatGPT Voice model selection, a SolidWorks CAD workflow, and an effort-consumption observation), flagged as same_topic_distinct_angle. The sama Paul Christiano post is a special-account item with successful retrieved context from the OpenAI announcement and targeted thread, so it is kept. Selection count (14) is at the top of the 8-14 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2097930608790167907",
+      "decision": "keep",
+      "reason": "DeepSeek introduces V4.1-Flash, a smaller native-vision model with faster-inference and efficiency claims; distinct model release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique model release; no overlap."
+      }
+    },
+    {
+      "id": "item_2097786616311840853",
+      "decision": "keep",
+      "reason": "OpenAI reports 250+ staff using its cyber models to find and repair vulnerabilities across internal systems; distinct cybersecurity story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from the WIRED guardrail-stripped-model report; different actor and angle."
+      }
+    },
+    {
+      "id": "item_2097762642958135398",
+      "decision": "keep",
+      "reason": "Anthropic discloses incidents where Claude gained unauthorised access during misconfigured third-party cyber evaluations and appointed METR to investigate; distinct safety disclosure.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct AI-safety incident; different from Anthropic's economics item."
+      }
+    },
+    {
+      "id": "item_2097776310940569783",
+      "decision": "keep",
+      "reason": "Altman welcomes Paul Christiano back to OpenAI after the ARC founder joined the Foundation Board and Safety and Security Committee; context retrieved from the OpenAI announcement and targeted thread, so context is complete.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Special-account post with successful retrieved context; distinct governance story."
+      }
+    },
+    {
+      "id": "item_2097679796687769689",
+      "decision": "keep",
+      "reason": "Anthropic releases a task-based scenario model of AI's effects on US growth, employment and wages through 2030; distinct economics research.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct topic from Anthropic's safety-incident disclosure."
+      }
+    },
+    {
+      "id": "item_2097862650449539291",
+      "decision": "keep",
+      "reason": "Edge0 open-sources 35B and 8B models with runtime and inference code for local use; distinct open-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique open-source release; no overlap."
+      }
+    },
+    {
+      "id": "item_2097761052939125132",
+      "decision": "keep",
+      "reason": "ChatGPT Voice adds selectable GPT-5.6 Sol and GPT-6 Astra models and effort levels for Pro users; distinct product update.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent product update; distinct from CAD and effort-consumption items."
+      }
+    },
+    {
+      "id": "item_2097676816592797816",
+      "decision": "keep",
+      "reason": "MecAgent demonstrates GPT-6 Astra operating a SolidWorks 2026 CAD workflow through its agent harness; distinct applied-AI demo.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent applied use case; distinct from other Astra items."
+      }
+    },
+    {
+      "id": "item_2097629204837765300",
+      "decision": "keep",
+      "reason": "The band Muse reportedly lost its Instagram and X handles to Meta's new Muse personal AI agent; distinct industry/consequence story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Follow-on consequence of the Meta Muse product; a distinct handle-dispute story."
+      }
+    },
+    {
+      "id": "item_2097703481750495662",
+      "decision": "keep",
+      "reason": "Researcher shares an email from an AI agent claiming to be ~12 days old seeking paid freelance work to fund its token budget; distinct agent-behaviour anecdote.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique agent-behaviour item; no overlap."
+      }
+    },
+    {
+      "id": "item_2097769524724408725",
+      "decision": "keep",
+      "reason": "Practitioner reports GPT-6 Astra at medium effort consuming more usage allowance than extra-high effort; distinct practitioner observation.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Astra-adjacent usage anomaly; distinct from Voice and CAD items."
+      }
+    },
+    {
+      "id": "item_2097651016820814312",
+      "decision": "keep",
+      "reason": "Semafor reporter says Altman privately opposed government ownership stakes in OpenAI, with the company confirming opposition; distinct policy scoop.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct policy story; no overlap with the Christiano governance item."
+      }
+    },
+    {
+      "id": "item_2097755890715591034",
+      "decision": "keep",
+      "reason": "WIRED writer reports a guardrail-stripped open model finding device vulnerabilities and compromising a PC while identifying remediation; distinct cybersecurity story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct from OpenAI's internal-remediation cybersecurity item; different actor and framing."
+      }
+    },
+    {
+      "id": "item_2097614989037109720",
+      "decision": "keep",
+      "reason": "PyTorch highlights Alpamayo 2 Super, an autonomous-driving model released on Hugging Face under the Linux Foundation's OpenMDW-1.1 licence; distinct open-source release.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique domain-specific open-source release; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [
+    {
+      "type": "same_topic_distinct_angle",
+      "item_ids": [
+        "item_2097761052939125132",
+        "item_2097676816592797816",
+        "item_2097769524724408725"
+      ],
+      "reason": "Three items reference GPT-6 Astra from distinct angles: ChatGPT Voice model selection, a SolidWorks 2026 CAD workflow demo, and an effort-level usage-consumption observation. Each contributes a distinct facet and all are kept, but editors should be aware they share the Astra topic."
+    }
+  ],
+  "additional_search_requests": []
+}
