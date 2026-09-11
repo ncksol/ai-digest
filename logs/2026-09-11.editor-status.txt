@@ -1,0 +1,3 @@
+editor_unavailable: second editor output failed strict editorial_sanity validation (generic_reason for item_2098097512544444447)
+editor_alert_failed: no Telegram conversation target was available for Nick
+continuation_basis: source data and selected tweet links remained valid

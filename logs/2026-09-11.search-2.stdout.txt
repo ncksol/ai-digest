@@ -1,0 +1,82 @@
+[
+  {
+    "author": "lu__jasper",
+    "id": "2098081248186888367",
+    "likes": 1400,
+    "replies": 50,
+    "retweets": 160,
+    "text": "This is notable. DeepSeek, a lab usually first to pioneer novel algorithms and architectures, is saying that at this point, the ROI of improving data quality far exceeds that of working on novel post-training algorithms.\n\nI think this has already been true for some time for",
+    "url": "https://x.com/lu__jasper/status/2098081248186888367",
+    "views": 135000
+  },
+  {
+    "author": "ariaghora",
+    "id": "2098303582747648426",
+    "likes": 55,
+    "replies": 8,
+    "retweets": 3,
+    "text": "first thing first, you might want to learn how LLM works (nondeterministically)",
+    "url": "https://x.com/ariaghora/status/2098303582747648426",
+    "views": 4400
+  },
+  {
+    "author": "MaxForAI",
+    "id": "2098252309730038268",
+    "likes": 254,
+    "replies": 54,
+    "retweets": 43,
+    "text": "Security researcher Chaofan Shou has just claimed that he directly purchased 6TB of Fable data from a reseller of a leading Chinese LLM.\n\nBut it's not just chat logs inside.\n\nHe says it contains a large number of credentials leaked through Router from enterprises and",
+    "url": "https://x.com/MaxForAI/status/2098252309730038268",
+    "views": 88000
+  },
+  {
+    "author": "Hesamation",
+    "id": "2098366378348581271",
+    "likes": 87,
+    "replies": 4,
+    "retweets": 9,
+    "text": "“I bought a Fable dataset from one of the top Chinese LLM routers”\n\n> 6TB data\n> VPN configs, SSH keys, tokens\n> Price: 5 figures",
+    "url": "https://x.com/Hesamation/status/2098366378348581271",
+    "views": 6300
+  },
+  {
+    "author": "steipete",
+    "id": "2098089196800098798",
+    "likes": 2500,
+    "replies": 95,
+    "retweets": 134,
+    "text": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are.",
+    "url": "https://x.com/steipete/status/2098089196800098798",
+    "views": 414000
+  },
+  {
+    "author": "onusoz",
+    "id": "2098080151737389546",
+    "likes": 1000,
+    "replies": 38,
+    "retweets": 65,
+    "text": "DeepSeek V4.1 Flash is NOT an LLM\n\nIt is a hyper-efficient, invasive species designed to displace every other LLM, similar to how Döner displaced all other fast food in Germany\n\nAs if V4 wasn't cheap and efficient enough, they made it a LOT cheaper\n\n2.3x cheaper cached input",
+    "url": "https://x.com/onusoz/status/2098080151737389546",
+    "views": 95000
+  },
+  {
+    "author": "rasbt",
+    "id": "2098129926708707824",
+    "likes": 397,
+    "replies": 12,
+    "retweets": 18,
+    "text": "Nice showcase that interesting LLM work can be done on single GPU!",
+    "url": "https://x.com/rasbt/status/2098129926708707824",
+    "views": 51000
+  },
+  {
+    "author": "aliceisplaying",
+    "id": "2098052932490932579",
+    "likes": 68,
+    "replies": 4,
+    "retweets": 4,
+    "text": "let's see how good people are clocking models\n\nwhich LLM said the snippet below?\n\n\"Load is 19 on 10 cores — that's my own build noise decaying, and it's exactly the condition that confounded the Sep 7 screen. Cleaning up and waiting for idle before I start\"",
+    "url": "https://x.com/aliceisplaying/status/2098052932490932579",
+    "views": 14000
+  }
+]

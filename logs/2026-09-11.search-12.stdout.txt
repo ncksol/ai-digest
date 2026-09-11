@@ -1,0 +1,42 @@
+[
+  {
+    "author": "OpenAI",
+    "id": "2098118191029624911",
+    "likes": 22000,
+    "replies": 561,
+    "retweets": 2900,
+    "text": "Now available: ChatGPT for Financial Services.\n\nThis is a tailored ChatGPT Work experience that combines built-in financial data with GPT-6 Astra’s reasoning.\n\nTeams can develop research, build financial models, and create customized client materials.\n\nhttps://openai.com/index/in",
+    "url": "https://x.com/OpenAI/status/2098118191029624911",
+    "views": 8500000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2098118232133792050",
+    "likes": 810,
+    "replies": 27,
+    "retweets": 43,
+    "text": "Premium financial data is included, with datasets from Daloopa, PitchBook, and LSEG News.",
+    "url": "https://x.com/OpenAI/status/2098118232133792050",
+    "views": 250000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2098118248202215776",
+    "likes": 444,
+    "replies": 11,
+    "retweets": 22,
+    "text": "Check the evidence behind the analysis.\n\nTrace figures and claims to specific paragraphs and tables. \n\nPreview the supporting passage from a citation, so you can review the evidence as you work.",
+    "url": "https://x.com/OpenAI/status/2098118248202215776",
+    "views": 205000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2098118249582035348",
+    "likes": 390,
+    "replies": 15,
+    "retweets": 24,
+    "text": "You can also create editable financial models, research notes, and pitchbooks using your firm's own Excel, Word, and PowerPoint templates.",
+    "url": "https://x.com/OpenAI/status/2098118249582035348",
+    "views": 160000
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "author": "Mahaximus_",
+    "id": "2098121474347336110",
+    "likes": 516,
+    "replies": 10,
+    "retweets": 57,
+    "text": "Andrej Karpathy:\n\n\"Prompting is going away.\n\nDelete everything, keep Graph.\"\n\nIn 1 hour he shows how to build Graphs, and why it's the only thing that will be left standing at the end.\n\nAnyone can build an agent, almost no one builds the Graph that runs them.\n\nWatch it, then read",
+    "url": "https://x.com/Mahaximus_/status/2098121474347336110",
+    "views": 143000
+  },
+  {
+    "author": "tetsuoai",
+    "id": "2098199890237247578",
+    "likes": 1100,
+    "replies": 135,
+    "retweets": 53,
+    "text": "If you've been using Claude Code or any coding agent for a couple of years, wipe it. All of it.\n\nCLAUDE.md at every level. The memory folder. Skills. Slash commands. Hooks. Permission allowlists. MCP configs. Plugins. Subagents. Old indexes and handoff notes.\n\nEvery one of those",
+    "url": "https://x.com/tetsuoai/status/2098199890237247578",
+    "views": 130000
+  },
+  {
+    "author": "alexandr_wang",
+    "id": "2098230340494213121",
+    "likes": 208,
+    "replies": 24,
+    "retweets": 12,
+    "text": "our muse security architecture enables a ton of control over when the agent needs to ask for human-in-the-loop approval\n\nsee more from the goat @bigT_sheesh:",
+    "url": "https://x.com/alexandr_wang/status/2098230340494213121",
+    "views": 29000
+  },
+  {
+    "author": "cryptopunk7213",
+    "id": "2098201158359658590",
+    "likes": 173,
+    "replies": 7,
+    "retweets": 15,
+    "text": "easily the most insane AI threat report i’ve ever read:\n\n- yemen terrorist cell caught using claude to engineer ballistic missiles and offensive rockets \n\n- Iran using it to target U.S. navy bases and hunt down agent identities\n\n- russians used claude to build a swarm of attack",
+    "url": "https://x.com/cryptopunk7213/status/2098201158359658590",
+    "views": 38000
+  },
+  {
+    "author": "adisingh",
+    "id": "2098175791888789942",
+    "likes": 45,
+    "replies": 19,
+    "retweets": 14,
+    "text": "",
+    "url": "https://x.com/adisingh/status/2098175791888789942",
+    "views": 38000
+  },
+  {
+    "author": "benyuls",
+    "id": "2098070125542871202",
+    "likes": 162,
+    "replies": 9,
+    "retweets": 18,
+    "text": "The CEO of OpenAI seeing that any student can now build an agent with open models, $400+ in credits, and zero cost to join",
+    "url": "https://x.com/benyuls/status/2098070125542871202",
+    "views": 23000
+  },
+  {
+    "author": "cursor_ai",
+    "id": "2098162488013455784",
+    "likes": 8400,
+    "replies": 398,
+    "retweets": 828,
+    "text": "Introducing Projects, a new way of working in Cursor.\n\nRather than creating a chat for every task, you work with a coordinator agent in a single, persistent thread.\n\nLike @bot, your agent is always on, proactively manages work with subagents, and improves over time.",
+    "url": "https://x.com/cursor_ai/status/2098162488013455784",
+    "views": 1200000
+  },
+  {
+    "author": "Replit",
+    "id": "2098169655013863740",
+    "likes": 66,
+    "replies": 4,
+    "retweets": 16,
+    "text": "Agents can now automate most repetitive tasks. But running them 24/7 burns countless tokens.\n\nIntroducing Routines: automated recurring work with AI.\n\nChoose an hourly, daily, or weekly schedule. Each run starts with deterministic code and invokes Agent only when reasoning is",
+    "url": "https://x.com/Replit/status/2098169655013863740",
+    "views": 8300
+  }
+]

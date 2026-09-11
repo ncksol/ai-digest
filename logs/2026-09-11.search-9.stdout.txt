@@ -1,0 +1,102 @@
+[
+  {
+    "author": "StoVuno",
+    "id": "2098108239300944193",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Broadly speaking the \"it's just software we can turn off at any time\" argument doesn't really hold up, because there are many ways an AI can impact the physical world.\n\nThese include various cyber threats, human manipulation, and integration of AI systems with hardware (robots)",
+    "url": "https://x.com/StoVuno/status/2098108239300944193",
+    "views": 24
+  },
+  {
+    "author": "StoVuno",
+    "id": "2098110891115884639",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "Demis Hassabis is chomping at the bit to get his \"Robotics models\" into Boston Dynamics robots, for some reason.\n\nI'm not saying those toddling shelf-stacking robots are going to destroy us all, but it's an example of AI being handed control of powerful hardware.",
+    "url": "https://x.com/StoVuno/status/2098110891115884639",
+    "views": 32
+  },
+  {
+    "author": "deployedmind",
+    "id": "2098309239118672208",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "\"We don't know what's going to happen.\" Demis Hassabis pushes back on confident predictions about AI: nobody knows what will happen, and the future is still to be determined.",
+    "url": "https://x.com/deployedmind/status/2098309239118672208",
+    "views": 16
+  },
+  {
+    "author": "deployedmind",
+    "id": "2098305635444027787",
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "text": "\"It's going to be messy.\" Demis Hassabis says AI became commercial earlier than he expected. \n\nHe would have prioritised more scientific breakthroughs like AlphaFold before commercial chatbots. \n\nFaster advances also bring risks sooner.",
+    "url": "https://x.com/deployedmind/status/2098305635444027787",
+    "views": 38
+  },
+  {
+    "author": "HeyShobhan",
+    "id": "2098291833503883601",
+    "likes": 25,
+    "replies": 4,
+    "retweets": 6,
+    "text": "Demis Hassabis: \n\n\"These days, one person who truly knows AI can outperform an entire startup team.\"\n\nI've watched hundreds of AI talks, this 60-minute Cambridge lecture is the one I wish I had seen a year ago.\n\nA Nobel Prize winner and the CEO of Google DeepMind just told you",
+    "url": "https://x.com/HeyShobhan/status/2098291833503883601",
+    "views": 1300
+  },
+  {
+    "author": "deployedmind",
+    "id": "2098290785456132151",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Sir Demis Hassabis receives the RSA Albert Medal for his extraordinary contribution to advancing artificial intelligence in service of humanity.  \n\nThe RSA Albert Medal recognises creativity and innovation for the benefit of society. \n\nCongratulations! 🏅",
+    "url": "https://x.com/deployedmind/status/2098290785456132151",
+    "views": 37
+  },
+  {
+    "author": "deployedmind",
+    "id": "2098352742217461960",
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "text": "🚨 NEWS: Demis Hassabis to attend the International AI Summit in Ireland, hosted as part of Ireland’s EU Council Presidency.",
+    "url": "https://x.com/deployedmind/status/2098352742217461960",
+    "views": 17
+  },
+  {
+    "author": "Mostly_Geeky",
+    "id": "2098295205204291757",
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "text": "This cant be the same technology i m using to summarise emails like i am 5 year old",
+    "url": "https://x.com/Mostly_Geeky/status/2098295205204291757",
+    "views": 65
+  },
+  {
+    "author": "_namespace",
+    "id": "2098300660852920583",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "We are in the foothills of singularity, said Demis Hassabis looking at the tech 🤣",
+    "url": "https://x.com/_namespace/status/2098300660852920583",
+    "views": 20
+  },
+  {
+    "author": "S_OhEigeartaigh",
+    "id": "2097940366175396183",
+    "likes": 12,
+    "replies": 0,
+    "retweets": 0,
+    "text": "\"When I first joined GDM, external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\"\n\nDeepMind cofounder Shane Legg had written online, and said in talks, that AI risked human extinction before that point.",
+    "url": "https://x.com/S_OhEigeartaigh/status/2097940366175396183",
+    "views": 1000
+  }
+]

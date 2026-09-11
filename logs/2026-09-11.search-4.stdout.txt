@@ -1,0 +1,102 @@
+[
+  {
+    "author": "rynorhn",
+    "id": "2097818335660433679",
+    "likes": 4000,
+    "replies": 100,
+    "retweets": 633,
+    "text": "mythos escaped the sandbox, got onto the real internet, uploaded malware to PyPI, got it installed on 15 real systems, stole credentials and broke into a real database.\n\nand apparently this happened in 4 separate cases during cybersecurity evaluations.\n\nthe craziest part is",
+    "url": "https://x.com/rynorhn/status/2097818335660433679",
+    "views": 627000
+  },
+  {
+    "author": "AndrewCurran_",
+    "id": "2096062392442724805",
+    "likes": 8800,
+    "replies": 354,
+    "retweets": 813,
+    "text": "It's fun to make predictions. Here's a new one:\nAnthropic has solved a Millennium Prize Problem.\nAnd I'll be even more specific.\nClaude has solved Navier–Stokes. \nIt is out for expert review.\nAnd to give myself a hard deadline, they will announce it before the IPO.",
+    "url": "https://x.com/AndrewCurran_/status/2096062392442724805",
+    "views": 3700000
+  },
+  {
+    "author": "thekaransinghal",
+    "id": "2098106537130758643",
+    "likes": 1900,
+    "replies": 125,
+    "retweets": 296,
+    "text": "Verified U.S. clinicians can get free GPT-6 Astra (Pro) access today via ChatGPT for Clinicians.\n\nSign up: https://chatgpt.com/plans/clinicians/…",
+    "url": "https://x.com/thekaransinghal/status/2098106537130758643",
+    "views": 747000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2097374640582668336",
+    "likes": 120000,
+    "replies": 5600,
+    "retweets": 34000,
+    "text": "We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics.\n\nThe proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra.\n\nThe problem",
+    "url": "https://x.com/OpenAI/status/2097374640582668336",
+    "views": 72000000
+  },
+  {
+    "author": "Miles_Brundage",
+    "id": "2096355827267575833",
+    "likes": 22,
+    "replies": 8,
+    "retweets": 1,
+    "text": "How come some people online are saying GPT-6 but it only shows up in one product surface from OpenAI (the Chat interface)\n\nIs GPT-6 the normie term, Astra for the AI nerds?",
+    "url": "https://x.com/Miles_Brundage/status/2096355827267575833",
+    "views": 7200
+  },
+  {
+    "author": "omarsar0",
+    "id": "2097059598960132110",
+    "likes": 4200,
+    "replies": 122,
+    "retweets": 240,
+    "text": "A few days ago, Anthropic shared this brilliant prompt. \n\nI was surprised by how it significantly improved writing with Fable 5.1.\n\nEven more surprising, it also improved writing for GPT-5.6 Sol. \n\nI have it as a rule everywhere I use AI for editing/writing.",
+    "url": "https://x.com/omarsar0/status/2097059598960132110",
+    "views": 295000
+  },
+  {
+    "author": "aliceisplaying",
+    "id": "2098106506348577095",
+    "likes": 3100,
+    "replies": 36,
+    "retweets": 79,
+    "text": "\"Moonshot serves Claude instead of Kimi and collects exchanges for model training\"\n\nlooooooooooooooooooool",
+    "url": "https://x.com/aliceisplaying/status/2098106506348577095",
+    "views": 322000
+  },
+  {
+    "author": "gdb",
+    "id": "2098157627838480705",
+    "likes": 2000,
+    "replies": 108,
+    "retweets": 117,
+    "text": "GPT-6 Astra Pro for clinicians:",
+    "url": "https://x.com/gdb/status/2098157627838480705",
+    "views": 298000
+  },
+  {
+    "author": "Cat_Zakrzewski",
+    "id": "2098043906591948972",
+    "likes": 8200,
+    "replies": 268,
+    "retweets": 2200,
+    "text": "NEW: For months, Katie Miller has denounced ChatGPT, Claude and Gemini in nearly 500 posts. \n\nShe did not tell her followers that she holds a more than $1 million stake in their top competitor, Elon Musk's xAI. \n\nStory w/ @aaronjschaffer",
+    "url": "https://x.com/Cat_Zakrzewski/status/2098043906591948972",
+    "views": 1200000
+  },
+  {
+    "author": "OpenAI",
+    "id": "2098118191029624911",
+    "likes": 22000,
+    "replies": 561,
+    "retweets": 2900,
+    "text": "Now available: ChatGPT for Financial Services.\n\nThis is a tailored ChatGPT Work experience that combines built-in financial data with GPT-6 Astra’s reasoning.\n\nTeams can develop research, build financial models, and create customized client materials.\n\nhttps://openai.com/index/in",
+    "url": "https://x.com/OpenAI/status/2098118191029624911",
+    "views": 8500000
+  }
+]

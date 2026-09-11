@@ -1,0 +1,82 @@
+[
+  {
+    "author": "adamemedia1",
+    "id": "2097947034565153199",
+    "likes": 7100,
+    "replies": 299,
+    "retweets": 1500,
+    "text": "This is a psyop. \n\nThey don’t want to stop AI development. \n\nNo that’s not the ask. \n\nThis is what they want; \n\nThey want to KILL open-source AI. \n\nThey want to place super-AI in ONLY the hands of the Epstein class.\n\nThis creates a two tier technofeudal society quicker any method",
+    "url": "https://x.com/adamemedia1/status/2097947034565153199",
+    "views": 185000
+  },
+  {
+    "author": "SamuelZengML",
+    "id": "2097861839287927139",
+    "likes": 9700,
+    "replies": 357,
+    "retweets": 924,
+    "text": "A 35B language model running on an iPhone using only 1–2.5 GB of peak memory.\n\nNo cloud. No remote server. No desktop GPU.\n\nToday, we’re open-sourcing Edge0 — a framework for running large AI models fully on-device.",
+    "url": "https://x.com/SamuelZengML/status/2097861839287927139",
+    "views": 606000
+  },
+  {
+    "author": "pitdesi",
+    "id": "2098178397008781823",
+    "likes": 798,
+    "replies": 82,
+    "retweets": 106,
+    "text": "Instinct looking to raise $1B, potentially at a $10B valuation. \n\nCompute costs are high and Noah doesn’t want to charge users for the product. \n\nInstinct has raised $350M to date, mostly uses open source models and wants to own chips and data centers",
+    "url": "https://x.com/pitdesi/status/2098178397008781823",
+    "views": 388000
+  },
+  {
+    "author": "DivyanshT91162",
+    "id": "2097953387165909215",
+    "likes": 35,
+    "replies": 6,
+    "retweets": 8,
+    "text": "What if your AI agent could actually work inside a 3D building?\n\nNot generate a picture.\n\nNot write some code.\n\nActually understand and modify the space.\n\nThat’s what I found in Pascal.\n\nAn open-source 3D building editor that runs locally and lets AI agents connect through MCP.",
+    "url": "https://x.com/DivyanshT91162/status/2097953387165909215",
+    "views": 8900
+  },
+  {
+    "author": "BashaReport",
+    "id": "2098198313514201130",
+    "likes": 806,
+    "replies": 38,
+    "retweets": 331,
+    "text": "Important: Houthis Used @claudeai @AnthropicAI for Missile Programming \n\nExcerpt from the Detecting and countering misuse of AI: September 2026\n\nGTG-87001: Disrupting a Yemen-based guided weapons engineering cell using Claude to develop guidance software\n\nSummary\nWe identified a",
+    "url": "https://x.com/BashaReport/status/2098198313514201130",
+    "views": 582000
+  },
+  {
+    "author": "adisingh",
+    "id": "2098175791888789942",
+    "likes": 45,
+    "replies": 19,
+    "retweets": 14,
+    "text": "",
+    "url": "https://x.com/adisingh/status/2098175791888789942",
+    "views": 38000
+  },
+  {
+    "author": "Johnsontechword",
+    "id": "2098305327716511948",
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "text": "It was only recently that I came to know that there are open source AI models, that too which will work locally out of a USB drive. Now we have open source NASA-IBM Lunar Foundation model as the first publicly available AI model for the purpose. It is getting more & more exciting",
+    "url": "https://x.com/Johnsontechword/status/2098305327716511948",
+    "views": 240
+  },
+  {
+    "author": "aaravgarg",
+    "id": "2098108313590485057",
+    "likes": 176,
+    "replies": 50,
+    "retweets": 9,
+    "text": "Major life update: I am leaving @omidotme\n\nPast 1.5 years were an absolute blast building Omi into the world's largest open-source AI wearable!\n\nFor those of you who might not know me, quick intro:\n\n- I am 20 years old.\n- I was born in India.\n- At 10, built my first robot with an",
+    "url": "https://x.com/aaravgarg/status/2098108313590485057",
+    "views": 7100
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "author": "kunchenguid",
+    "id": "2098256018836963382",
+    "likes": 619,
+    "replies": 103,
+    "retweets": 71,
+    "text": "ok everyone, i took one for the team\n\nhere's the data we all wanted to see - real token value of each LLM subscription, empirically measured through usage on my real subscriptions\n\n- supergrok heavy has now become the highest value at $12k worth of tokens (40x ROI)\n\n- the $200",
+    "url": "https://x.com/kunchenguid/status/2098256018836963382",
+    "views": 36000
+  },
+  {
+    "author": "steipete",
+    "id": "2098089196800098798",
+    "likes": 2300,
+    "replies": 82,
+    "retweets": 118,
+    "text": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are.",
+    "url": "https://x.com/steipete/status/2098089196800098798",
+    "views": 369000
+  },
+  {
+    "author": "GoogleResearch",
+    "id": "2098183830968705163",
+    "likes": 876,
+    "replies": 13,
+    "retweets": 98,
+    "text": "Introducing ToolGrad: an efficient framework for generating tool-use datasets. By generating ground-truth tool-use chains before prompts, it achieves a nearly 100% pass rate and improved LLM tool-use performance. More: https://goo.gle/4xNKTNH",
+    "url": "https://x.com/GoogleResearch/status/2098183830968705163",
+    "views": 40000
+  },
+  {
+    "author": "onusoz",
+    "id": "2098080151737389546",
+    "likes": 939,
+    "replies": 33,
+    "retweets": 52,
+    "text": "DeepSeek V4.1 Flash is NOT an LLM\n\nIt is a hyper-efficient, invasive species designed to displace every other LLM, similar to how Döner displaced all other fast food in Germany\n\nAs if V4 wasn't cheap and efficient enough, they made it a LOT cheaper\n\n2.3x cheaper cached input",
+    "url": "https://x.com/onusoz/status/2098080151737389546",
+    "views": 82000
+  },
+  {
+    "author": "MaxForAI",
+    "id": "2098252309730038268",
+    "likes": 162,
+    "replies": 32,
+    "retweets": 21,
+    "text": "Security researcher Chaofan Shou has just claimed that he directly purchased 6TB of Fable data from a reseller of a leading Chinese LLM.\n\nBut it's not just chat logs inside.\n\nHe says it contains a large number of credentials leaked through Router from enterprises and",
+    "url": "https://x.com/MaxForAI/status/2098252309730038268",
+    "views": 55000
+  },
+  {
+    "author": "lu__jasper",
+    "id": "2098081248186888367",
+    "likes": 1200,
+    "replies": 46,
+    "retweets": 144,
+    "text": "This is notable. DeepSeek, a lab usually first to pioneer novel algorithms and architectures, is saying that at this point, the ROI of improving data quality far exceeds that of working on novel post-training algorithms.\n\nI think this has already been true for some time for",
+    "url": "https://x.com/lu__jasper/status/2098081248186888367",
+    "views": 118000
+  },
+  {
+    "author": "alexatallah",
+    "id": "2098260188281311570",
+    "likes": 135,
+    "replies": 11,
+    "retweets": 12,
+    "text": "The only companies able to provide true token-based billing are labs, and OpenRouter.\n\nMost providers require provisioned capacity because they need to plan specifically around your traffic. Which means you will be paying a lot more for idle gpus\n\nOpenRouter solves this by",
+    "url": "https://x.com/alexatallah/status/2098260188281311570",
+    "views": 13000
+  },
+  {
+    "author": "nihilunbounded",
+    "id": "2098285848739590419",
+    "likes": 53,
+    "replies": 5,
+    "retweets": 3,
+    "text": "Half a year ago several mathematicians (NDA'd up every pore in the body) in US got an offer where they had to come up with difficult novel problems in their field that some anonymous LLM couldn't solve. Generous pay, and they'd give them a five star hotel room ... 1/2",
+    "url": "https://x.com/nihilunbounded/status/2098285848739590419",
+    "views": 6900
+  }
+]

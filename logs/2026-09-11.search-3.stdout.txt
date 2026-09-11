@@ -1,0 +1,92 @@
+[
+  {
+    "author": "Ric_RTP",
+    "id": "2097997272407544121",
+    "likes": 89,
+    "replies": 8,
+    "retweets": 54,
+    "text": "This Anthropic insider just revealed that the people building AI privately expect it to kill us all.\n\nJacob Coxon is 27. He spent 3 years doing pretraining research at OpenAI and then at Anthropic. \n\nOn September 8 he resigned with this reason:\n\n\"Neither company is acting",
+    "url": "https://x.com/Ric_RTP/status/2097997272407544121",
+    "views": 9900
+  },
+  {
+    "author": "fchollet",
+    "id": "2098072734052086186",
+    "likes": 765,
+    "replies": 40,
+    "retweets": 64,
+    "text": "\"Symbolic learning\" is simply \"machine learning\" (automatically learn function x -> y given examples of (x, y) pairs), but where the substrate is symbolic, i.e. the functions you learn are code-like, not curve-like.\n\nThe term is in opposition to \"parametric learning\" or",
+    "url": "https://x.com/fchollet/status/2098072734052086186",
+    "views": 51000
+  },
+  {
+    "author": "OracleNYSE",
+    "id": "2098114731810738306",
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "text": "$AMZN launches new AI tool \n\nAMAZON $AMZN LAUNCHES NEW AI TOOL ‘QUICK’ — AI AGENT THAT DOES THE WORK FOR YOU ACROSS EMAIL, CALENDAR, CRM AND ENTERPRISE APPS - BLOG",
+    "url": "https://x.com/OracleNYSE/status/2098114731810738306",
+    "views": 3700
+  },
+  {
+    "author": "SparesofWar",
+    "id": "2098134927741256059",
+    "likes": 15,
+    "replies": 0,
+    "retweets": 1,
+    "text": "Concepts of artificial intelligence, neural networks, machine learning, and inference have existed at least since the earliest concepts of computing.\nThe term neural network was coined by Warren McCulloch and Walter Pitts way back in 1943.",
+    "url": "https://x.com/SparesofWar/status/2098134927741256059",
+    "views": 826
+  },
+  {
+    "author": "StatMLPapers",
+    "id": "2097898763561963772",
+    "likes": 208,
+    "replies": 0,
+    "retweets": 32,
+    "text": "A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning",
+    "url": "https://x.com/StatMLPapers/status/2097898763561963772",
+    "views": 13000
+  },
+  {
+    "author": "distributionat",
+    "id": "2097964945174364501",
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "text": "NAIVE STROKES: ON THE COMMERCIALIZATION OF MATHEMATICS—\n\n[summary]\nAI changed knowledge work by introducing winner-take-all effects, increased competition against humans by AIs and the substitution of capital for labor. This is causing the \"commercialization of mathematics\" and",
+    "url": "https://x.com/distributionat/status/2097964945174364501",
+    "views": 969
+  },
+  {
+    "author": "ChrisGPT",
+    "id": "2098194490590674980",
+    "likes": 346,
+    "replies": 21,
+    "retweets": 30,
+    "text": "I have an albeit small background in category theory and calculus, and I think the AI community understands how big this is, but I don't think normal people understand how big this is. So let me try to bridge the gap Instead of just shoving the same Millennium Prize news or hype",
+    "url": "https://x.com/ChrisGPT/status/2098194490590674980",
+    "views": 27000
+  },
+  {
+    "author": "ZenoJuhas48217",
+    "id": "2098159612801216888",
+    "likes": 2,
+    "replies": 1,
+    "retweets": 1,
+    "text": "**Free speech? Let’s talk about Elon.**\n\nThen America’s next 250 years can look like that.\n\nElon Musk is one of the rare people alive who keeps expanding what a civilization is allowed to attempt. Not as a mascot. As an engineer who puts his name, his companies, and his",
+    "url": "https://x.com/ZenoJuhas48217/status/2098159612801216888",
+    "views": 494
+  },
+  {
+    "author": "OxMecth",
+    "id": "2098283406883017034",
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "text": "they literally turned a fruit fly brain into a Bitcoin traderand it actually made money\n\n$1M → $1.043M in 1.5 days, beating the machine learning model it was tested against\n\nthe fly really went to Wall Street\n\n$BUZZFLY \n0xc31910d095f368c91b9718b971bd86259e954c29",
+    "url": "https://x.com/OxMecth/status/2098283406883017034",
+    "views": 128
+  }
+]

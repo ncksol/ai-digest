@@ -1,0 +1,92 @@
+[
+  {
+    "author": "IntCyberDigest",
+    "id": "2098149671957103005",
+    "likes": 7900,
+    "replies": 433,
+    "retweets": 1300,
+    "text": "‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\n\nTheir customers' sensitive data now is in Anthropic's hands. One",
+    "url": "https://x.com/IntCyberDigest/status/2098149671957103005",
+    "views": 1100000
+  },
+  {
+    "author": "0L81N",
+    "id": "2098213463277314079",
+    "likes": 40,
+    "replies": 3,
+    "retweets": 6,
+    "text": "Lets not forget that anthropic ceo, dario amodei, has priors with baidu. \n\n\"Baidu is indirectly affiliated with SASAC (Section 1260H(g)(2)(B)(i)(I)). Baidu is a\nmilitary-civil fusion contributor to the Chinese defense industrial base because it is\naffiliated with MIIT (Section",
+    "url": "https://x.com/0L81N/status/2098213463277314079",
+    "views": 13000
+  },
+  {
+    "author": "EMostaque",
+    "id": "2097986565565759632",
+    "likes": 313,
+    "replies": 60,
+    "retweets": 32,
+    "text": "Anthropic folk are pretty consistent on their p(Doom).\n\n@DarioAmodei is publicly at 25%\n\nI think the difference now is that post Navier-Stokes its really, really tough to say AI isn't/won't be smarter than us & can't do new things\n\nTipping point",
+    "url": "https://x.com/EMostaque/status/2097986565565759632",
+    "views": 24000
+  },
+  {
+    "author": "swapnakpanda",
+    "id": "2097936964540678318",
+    "likes": 589,
+    "replies": 41,
+    "retweets": 62,
+    "text": "Anthopic CEO Dario Amodei: Coders should now learn to plumb toilets as AI will take their jobs.",
+    "url": "https://x.com/swapnakpanda/status/2097936964540678318",
+    "views": 150000
+  },
+  {
+    "author": "tablefourthree",
+    "id": "2097858669547528561",
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "text": "\"What Anthropic has always tried to do, is create a race to the top. Do something good and that forces your competitors to do the same thing.\" - Dario Amodei, 2023\n\nhttps://youtube.com/watch?v=6vwdux7NL7I&t=1258s…",
+    "url": "https://x.com/tablefourthree/status/2097858669547528561",
+    "views": 1500
+  },
+  {
+    "author": "EngMoElgaraihy",
+    "id": "2098028502943428959",
+    "likes": 126,
+    "replies": 6,
+    "retweets": 8,
+    "text": "New Earthquake in Silicon Valley! 🚨🧠💥\n\nReports of a state of alert and concern for \"Dario Amodei\" (CEO of Anthropic) after DeepSeek V4.1 Flash, the open-source model, swept through all the advanced benchmarks and outperformed Opus 5—even though it's free and available for",
+    "url": "https://x.com/EngMoElgaraihy/status/2098028502943428959",
+    "views": 26000
+  },
+  {
+    "author": "SadAlbert10",
+    "id": "2098015735859818882",
+    "likes": 12,
+    "replies": 0,
+    "retweets": 1,
+    "text": "Dario Amodei watching this from his window:",
+    "url": "https://x.com/SadAlbert10/status/2098015735859818882",
+    "views": 1200
+  },
+  {
+    "author": "chddaniel",
+    "id": "2098253750653812919",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "BREAKING: Dario Amodei, CEO at @AnthropicAI:\n\n“I think we might be 6-12 months away from when Claude doing most or maybe all of what we do end to end”.\n\n> AI writes the code\n> AI designs the app\n> AI fixes the bugs\n> AI self-maintains it !???\n\nthis is f*king scary guys...",
+    "url": "https://x.com/chddaniel/status/2098253750653812919",
+    "views": 585
+  },
+  {
+    "author": "Mayhem4Markets",
+    "id": "2098221889114051071",
+    "likes": 65,
+    "replies": 6,
+    "retweets": 9,
+    "text": "Step 1) Pirate all of humanity's knowledge\n\nStep 2) Train your models on it extensively\n\nStep 3) Unironically claim that anyone using data from these models to train their own models is the thief here",
+    "url": "https://x.com/Mayhem4Markets/status/2098221889114051071",
+    "views": 9000
+  }
+]

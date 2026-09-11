@@ -1,0 +1,402 @@
+[
+  {
+    "author": "OpenAI",
+    "id": "2098118191029624911",
+    "likes": 22585,
+    "retweets": 1925,
+    "text": "Now available: ChatGPT for Financial Services.\n\nThis is a tailored ChatGPT Work experience that combines built-in financial data with GPT-6 Astra’s reasoning.\n\nTeams can develop research, build financial models, and create customized client materials.\n\nhttps://t.co/6WP5OJdnE8 https://t.co/AundGG3jtc",
+    "url": "https://x.com/OpenAI/status/2098118191029624911"
+  },
+  {
+    "author": "Randomt61609964",
+    "id": "2098383855245984100",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Well..if banks really use this AI to replace financial services, then as a customer I expect NO LOSSES, ONLY PROFIT if I do trading, whether it is for stocks, currency trading, bond trading, basically for everything.",
+    "url": "https://x.com/Randomt61609964/status/2098383855245984100"
+  },
+  {
+    "author": "DasEvas1",
+    "id": "2098382413420175388",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI you don’t need p(doom) at 80 to see the incentive. the incentive is first place.\n\nhttps://t.co/Dm645pER7Q",
+    "url": "https://x.com/DasEvas1/status/2098382413420175388"
+  },
+  {
+    "author": "AIQuickFindings",
+    "id": "2098381891149922738",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Financial modeling demands deterministic precision, yet LLMs are probabilistic. The real test for GPT-6 Astra isn't reasoning depth, but whether it can reliably constrain its arithmetic to prevent subtle balance sheet hallucinations.",
+    "url": "https://x.com/AIQuickFindings/status/2098381891149922738"
+  },
+  {
+    "author": "180fl",
+    "id": "2098381366324871308",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI قلع الله ذا الوجه تبي تاخذ مكاني يحمار و ما أتوظف",
+    "url": "https://x.com/180fl/status/2098381366324871308"
+  },
+  {
+    "author": "ccccccmore",
+    "id": "2098380511290790104",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI putting GPT-6 in the finance department is a bold way to turn hallucinations into fiduciary duty.",
+    "url": "https://x.com/ccccccmore/status/2098380511290790104"
+  },
+  {
+    "author": "usercilisould",
+    "id": "2098380501383798789",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI الله لايبارك بعمرك الا نعم",
+    "url": "https://x.com/usercilisould/status/2098380501383798789"
+  },
+  {
+    "author": "logaristrihis",
+    "id": "2098380091629732113",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI https://t.co/zYYOd8cZZr",
+    "url": "https://x.com/logaristrihis/status/2098380091629732113"
+  },
+  {
+    "author": "Tivmok",
+    "id": "2098379027719303565",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI answer me fucking retards",
+    "url": "https://x.com/Tivmok/status/2098379027719303565"
+  },
+  {
+    "author": "Tivmok",
+    "id": "2098379003899896029",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Ayoooo??? when is support gonna help me fix my account, day 3 of no access while i paid for a 20x pro plan since august 25??????????? why is my account showing free mode, i paid untill 25 september??? support should answer faster, not take 2 days for 1 answer.... @OpenAI WTF???",
+    "url": "https://x.com/Tivmok/status/2098379003899896029"
+  },
+  {
+    "author": "R_Barrak",
+    "id": "2098376952763613670",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI تم استبدالي حرفياً 😭😭",
+    "url": "https://x.com/R_Barrak/status/2098376952763613670"
+  },
+  {
+    "author": "OLPardoS",
+    "id": "2098374177694593422",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Dont think Banks will give you for free their information - that is the mos valuable asset - Models and Clients data. Come on you are greed as fuck",
+    "url": "https://x.com/OLPardoS/status/2098374177694593422"
+  },
+  {
+    "author": "introvert_soul9",
+    "id": "2098372276580446468",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI For fun! https://t.co/rNCM4mhd3N",
+    "url": "https://x.com/introvert_soul9/status/2098372276580446468"
+  },
+  {
+    "author": "rgr_0x",
+    "id": "2098371596490543403",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Astra + financial data included.\nThe model is not the news.\nThe question is who audits the data that arrives “clean.”",
+    "url": "https://x.com/rgr_0x/status/2098371596490543403"
+  },
+  {
+    "author": "iisorax",
+    "id": "2098371497169408033",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI يخرب بيتكم",
+    "url": "https://x.com/iisorax/status/2098371497169408033"
+  },
+  {
+    "author": "luyun0120",
+    "id": "2098371471085367561",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI AI deployment difficulty is not technical - it is about making users not care about the technology. That takes 2-3 years, longer than training.",
+    "url": "https://x.com/luyun0120/status/2098371471085367561"
+  },
+  {
+    "author": "Olwiba",
+    "id": "2098369705262141731",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Wow this is awesome",
+    "url": "https://x.com/Olwiba/status/2098369705262141731"
+  },
+  {
+    "author": "nsikahnkhuna",
+    "id": "2098368463311962541",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Holy smoke",
+    "url": "https://x.com/nsikahnkhuna/status/2098368463311962541"
+  },
+  {
+    "author": "andra_volya",
+    "id": "2098368445071126617",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI what's the data latency for real-time trading scenarios?",
+    "url": "https://x.com/andra_volya/status/2098368445071126617"
+  },
+  {
+    "author": "living2_0",
+    "id": "2098367774468759804",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Financial AI should augment judgment, not quietly replace it. How will teams measure automation bias, skill development among junior analysts, and accountability when model-generated research influences high-stakes decisions?",
+    "url": "https://x.com/living2_0/status/2098367774468759804"
+  },
+  {
+    "author": "lugetuinaliang1",
+    "id": "2098367685369438606",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI gpt，我要怎么用2000块钱一年内赚到一百万",
+    "url": "https://x.com/lugetuinaliang1/status/2098367685369438606"
+  },
+  {
+    "author": "SadiqFerzelibey",
+    "id": "2098366695262015940",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Please bring Astra 6 to Plus chat 🙏🏻",
+    "url": "https://x.com/SadiqFerzelibey/status/2098366695262015940"
+  },
+  {
+    "author": "realhectaaaaaa",
+    "id": "2098365703057265054",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI Financial analysts are either ecstatic or looking for a construction jobs",
+    "url": "https://x.com/realhectaaaaaa/status/2098365703057265054"
+  },
+  {
+    "author": "thefrikidude",
+    "id": "2098363368646324685",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI this is going to kill some many vertical AI startups",
+    "url": "https://x.com/thefrikidude/status/2098363368646324685"
+  },
+  {
+    "author": "web3smoosh",
+    "id": "2098363083324371399",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI 👀✍️",
+    "url": "https://x.com/web3smoosh/status/2098363083324371399"
+  },
+  {
+    "author": "AnandNSharma",
+    "id": "2098362317239198106",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI Citation tracing is the part worth paying attention to here. Tying a number back to the exact paragraph and table it came from is what makes AI generated analysis defensible in review. Most regulated teams bolt that on after the fact instead of building it in from the start.",
+    "url": "https://x.com/AnandNSharma/status/2098362317239198106"
+  },
+  {
+    "author": "Bu3ayd",
+    "id": "2098361763808870689",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI الله يلعن الذكاء الاصطناعي",
+    "url": "https://x.com/Bu3ayd/status/2098361763808870689"
+  },
+  {
+    "author": "Callyout",
+    "id": "2098361667142983875",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI i did get it",
+    "url": "https://x.com/Callyout/status/2098361667142983875"
+  },
+  {
+    "author": "BizarreOne1999",
+    "id": "2098361326003487091",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI All investment banking analysts around the world are breathing a huge sigh of relief.",
+    "url": "https://x.com/BizarreOne1999/status/2098361326003487091"
+  },
+  {
+    "author": "20011422talal",
+    "id": "2098360622127706357",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI 🤨",
+    "url": "https://x.com/20011422talal/status/2098360622127706357"
+  },
+  {
+    "author": "KawakiReal1",
+    "id": "2098358766140071976",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Finance guys Fooooooooooked",
+    "url": "https://x.com/KawakiReal1/status/2098358766140071976"
+  },
+  {
+    "author": "jesuis_le_a",
+    "id": "2098357258182656298",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI On est foutu @Karismaflex",
+    "url": "https://x.com/jesuis_le_a/status/2098357258182656298"
+  },
+  {
+    "author": "the_alex_boudot",
+    "id": "2098357125088997727",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI ChatGPT can use the firm's PowerPoint templates. Good luck justifying another night of manual formatting.",
+    "url": "https://x.com/the_alex_boudot/status/2098357125088997727"
+  },
+  {
+    "author": "ronchumaceiro",
+    "id": "2098356731285778644",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI financial models for teams. still nothing for the two people in a kitchen arguing about whose turn it was to pay rent. the biggest financial institution in most people's lives is their relationship and it has no research desk. that's the one i'm building for",
+    "url": "https://x.com/ronchumaceiro/status/2098356731285778644"
+  },
+  {
+    "author": "jamieruth83",
+    "id": "2098356190904475752",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI GPT-6 Astra with live financial data is a serious upgrade for analyst workflows",
+    "url": "https://x.com/jamieruth83/status/2098356190904475752"
+  },
+  {
+    "author": "JohannesClinton",
+    "id": "2098354044226212173",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI RIP finance consultant",
+    "url": "https://x.com/JohannesClinton/status/2098354044226212173"
+  },
+  {
+    "author": "imolgrim",
+    "id": "2098352398980763724",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI https://t.co/os7MDqm9uA",
+    "url": "https://x.com/imolgrim/status/2098352398980763724"
+  },
+  {
+    "author": "ShefCreativity",
+    "id": "2098350450269471071",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI They’re really cooking a lot this is so crazy 🔥",
+    "url": "https://x.com/ShefCreativity/status/2098350450269471071"
+  },
+  {
+    "author": "trevgoes4th",
+    "id": "2098349546023612675",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI @mrtabrett ?",
+    "url": "https://x.com/trevgoes4th/status/2098349546023612675"
+  },
+  {
+    "author": "Scallop_io",
+    "id": "2098348041812209861",
+    "likes": 7,
+    "retweets": 0,
+    "text": "@OpenAI it's so over for my wallstreet bros",
+    "url": "https://x.com/Scallop_io/status/2098348041812209861"
+  },
+  {
+    "author": "aguywholearns",
+    "id": "2098347645475360854",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Tools are most useful when they raise the quality of the questions a team can ask—not when they hide the reasoning. In 1:1 tutoring, I’d use the same pattern: make the scaffolding visible, then fade it. https://t.co/fIEsqTQ9NP",
+    "url": "https://x.com/aguywholearns/status/2098347645475360854"
+  },
+  {
+    "author": "CoinbasePredict",
+    "id": "2098347116452089962",
+    "likes": 33,
+    "retweets": 3,
+    "text": "@OpenAI Financial advisors seeing this: https://t.co/GfVhyrjhOv",
+    "url": "https://x.com/CoinbasePredict/status/2098347116452089962"
+  },
+  {
+    "author": "PhilippeCigno",
+    "id": "2098345652707041555",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI The vertical move is the key: domain context and data can make a general model genuinely useful to financial teams. The durable advantage will be the encoded workflows, controls, and evidence layer around the model—especially as providers evolve.",
+    "url": "https://x.com/PhilippeCigno/status/2098345652707041555"
+  },
+  {
+    "author": "HeyMinaAI",
+    "id": "2098344680220151947",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Finance analysts: “I spent 6 hours building this model.”\nGPT: “Cool. I did it before lunch.” 💀",
+    "url": "https://x.com/HeyMinaAI/status/2098344680220151947"
+  },
+  {
+    "author": "fj_nm97",
+    "id": "2098343112812691792",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Every agent product converges on one feature: trace claims to sources. Financial services first - money grades you fastest. The open question: when an analyst acts on a traceable answer that is still wrong. Trace fine, conclusion wrong. That gap is the next eval to build!.",
+    "url": "https://x.com/fj_nm97/status/2098343112812691792"
+  },
+  {
+    "author": "MdShimulMehedi1",
+    "id": "2098342775829962997",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@OpenAI Financial modeling just got a serious upgrade. Built-in data + GPT-6 Astra reasoning means less time scraping and formatting, and more time on actual strategy and alpha generation. Excited to test this out. 📊💼 #FinTech #Finance",
+    "url": "https://x.com/MdShimulMehedi1/status/2098342775829962997"
+  },
+  {
+    "author": "XiaoZhiguo89086",
+    "id": "2098342737619857910",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI thanks",
+    "url": "https://x.com/XiaoZhiguo89086/status/2098342737619857910"
+  },
+  {
+    "author": "vikramvi_",
+    "id": "2098338775650930775",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI @grok @bot can you do these tricks as well ???",
+    "url": "https://x.com/vikramvi_/status/2098338775650930775"
+  },
+  {
+    "author": "radioraheel",
+    "id": "2098337244427804770",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI painful background music",
+    "url": "https://x.com/radioraheel/status/2098337244427804770"
+  },
+  {
+    "author": "DigiMaaya",
+    "id": "2098336091916886190",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@OpenAI Combining trusted financial data with advanced reasoning is a powerful direction. @DigiMaaya believes this could reshape how finance teams work.",
+    "url": "https://x.com/DigiMaaya/status/2098336091916886190"
+  }
+]

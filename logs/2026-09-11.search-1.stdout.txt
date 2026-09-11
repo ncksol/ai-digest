@@ -1,0 +1,112 @@
+[
+  {
+    "author": "ns123abc",
+    "id": "2098144432570630380",
+    "likes": 4700,
+    "replies": 100,
+    "retweets": 1000,
+    "text": "BREAKING: Anthropic threat intelligence team published a report on everyone misusing Claude\n\n\"We believe we have a responsibility to disclose misuse of our services\"\n\nIt’s insane, everybody should read it:",
+    "url": "https://x.com/ns123abc/status/2098144432570630380",
+    "views": 1200000
+  },
+  {
+    "author": "GaryMarcus",
+    "id": "2098179774254649661",
+    "likes": 840,
+    "replies": 60,
+    "retweets": 132,
+    "text": "anyone who is taking imminent AI extinction seriously should read this thread \n\nalso follow this man; he’s consistently one of the sharpest commentators on AI.",
+    "url": "https://x.com/GaryMarcus/status/2098179774254649661",
+    "views": 135000
+  },
+  {
+    "author": "chrismd10",
+    "id": "2098312987681391094",
+    "likes": 7100,
+    "replies": 39,
+    "retweets": 155,
+    "text": "Bit of a different tone to my usuals but it’s pretty important for *checks notes* 𝘁𝗵𝗲 𝘀𝘂𝗿𝘃𝗶𝘃𝗮𝗹 𝗼𝗳 𝗵𝘂𝗺𝗮𝗻𝗶𝘁𝘆 that as many people see this as possible and learn about the current AI situation.",
+    "url": "https://x.com/chrismd10/status/2098312987681391094",
+    "views": 351000
+  },
+  {
+    "author": "Polymarket",
+    "id": "2098134514572632130",
+    "likes": 9900,
+    "replies": 1000,
+    "retweets": 2000,
+    "text": "BREAKING: OpenAI recursive self-improvement researcher warns there is a 70% chance of “human extinction” in 3 years unless there is a coordinated slowdown between labs.",
+    "url": "https://x.com/Polymarket/status/2098134514572632130",
+    "views": 1900000
+  },
+  {
+    "author": "DailyLoud",
+    "id": "2098091883121553716",
+    "likes": 10000,
+    "replies": 588,
+    "retweets": 2000,
+    "text": "JUST IN: AI-powered robots stage protest in Poland against AI replacing human workers 👀",
+    "url": "https://x.com/DailyLoud/status/2098091883121553716",
+    "views": 530000
+  },
+  {
+    "author": "politico",
+    "id": "2098115430862782840",
+    "likes": 375,
+    "replies": 78,
+    "retweets": 197,
+    "text": "EXCLUSIVE: Sam Altman met with top power utilities to discuss ways to secure the electrical grid. \n\nHe also offered one possible solution to the cybersecurity risks: OpenAI’s own cyber services.",
+    "url": "https://x.com/politico/status/2098115430862782840",
+    "views": 465000
+  },
+  {
+    "author": "n0w00j",
+    "id": "2098109092380209330",
+    "likes": 3200,
+    "replies": 45,
+    "retweets": 116,
+    "text": "the face of a man who just killed 10% of humanity and 100% of all voice AI startups",
+    "url": "https://x.com/n0w00j/status/2098109092380209330",
+    "views": 821000
+  },
+  {
+    "author": "TrungTPhan",
+    "id": "2098102675657404698",
+    "likes": 6800,
+    "replies": 87,
+    "retweets": 842,
+    "text": "“Tell that dude we hired 6 weeks ago to post that thread about how AI is going to kill everyone. Great. Have the alignment team repost it. Wow, didn’t think it’d go that viral. Feed the NYT a story about us stopping bioweapons. Perfect. Finalize the S1 IPO docs for next week.”",
+    "url": "https://x.com/TrungTPhan/status/2098102675657404698",
+    "views": 397000
+  },
+  {
+    "author": "valuetainment",
+    "id": "2098087152999391271",
+    "likes": 5900,
+    "replies": 432,
+    "retweets": 1100,
+    "text": "JUST IN: OpenAI is trying to prevent its AI from taking down the U.S. power grid.",
+    "url": "https://x.com/valuetainment/status/2098087152999391271",
+    "views": 566000
+  },
+  {
+    "author": "GoogleAI",
+    "id": "2098109357624095155",
+    "likes": 5700,
+    "replies": 117,
+    "retweets": 444,
+    "text": "Oh, so this is why we mapped out all 166,000 of the male fruit fly's neurons. Check out the big community effort to show just how much these tiny fly brains are capable of 🪰🧵",
+    "url": "https://x.com/GoogleAI/status/2098109357624095155",
+    "views": 415000
+  },
+  {
+    "author": "Abomination81",
+    "id": "2098265674065817770",
+    "likes": 23000,
+    "replies": 416,
+    "retweets": 3300,
+    "text": "Just had the creepiest scam ever happen 20 minutes ago.\n\nI got a call from my wife telling me she forgot her wallet and needed the credit card to pay for her gas.\n\nExcept my wife was at home with me, and drives a Tesla.  Same voice, bit... off, weird cadence but 100% sounded just",
+    "url": "https://x.com/Abomination81/status/2098265674065817770",
+    "views": 762000
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "author": "AnthropicAI",
+    "id": "2098097512544444447",
+    "likes": 33165,
+    "retweets": 7379,
+    "text": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with authorities and other AI companies.\n\nThese cases are not typical: we’re highlighting some of the most sophisticated misuse we’ve seen. But they’re especially important to discuss, because they show us where AI misuse is headed, where our safeguards work, and where they need to improve.\n\nWe’re publishing this report so others can spot the same activity on their own platforms, and so we can give the public a clearer view of how emerging threats develop.\n\nRead the report: https://t.co/0EJUnYEgfz",
+    "url": "https://x.com/AnthropicAI/status/2098097512544444447"
+  },
+  {
+    "author": "honglia99273469",
+    "id": "2098385373194035630",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI 所以闭源模型未了上市可以告诉大家其实自己是old brother是吗。。",
+    "url": "https://x.com/honglia99273469/status/2098385373194035630"
+  },
+  {
+    "author": "Mayeyeho",
+    "id": "2098385280323776912",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI 别他妈装逼，好不好",
+    "url": "https://x.com/Mayeyeho/status/2098385280323776912"
+  },
+  {
+    "author": "sam_elks",
+    "id": "2098385240565698617",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI This is not good",
+    "url": "https://x.com/sam_elks/status/2098385240565698617"
+  },
+  {
+    "author": "moneyrobel",
+    "id": "2098385132285829190",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI So China will win @qwenai @kimiai @deepseek",
+    "url": "https://x.com/moneyrobel/status/2098385132285829190"
+  },
+  {
+    "author": "alamin_ai_",
+    "id": "2098384907563155704",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI shit, nothing from Nigeria?",
+    "url": "https://x.com/alamin_ai_/status/2098384907563155704"
+  },
+  {
+    "author": "chaarlieee63199",
+    "id": "2098384667057537470",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI You should close Iranian access during these sensitive times. \n\nThe risks are too high.",
+    "url": "https://x.com/chaarlieee63199/status/2098384667057537470"
+  },
+  {
+    "author": "beandrewang",
+    "id": "2098384640671449574",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Where is your user privacy, unsubscribed.",
+    "url": "https://x.com/beandrewang/status/2098384640671449574"
+  },
+  {
+    "author": "Abtak_chappan",
+    "id": "2098384625571975603",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Seems like Claude will create catastrophe for world while getting trillion dollar valuation \nCrazy af",
+    "url": "https://x.com/Abtak_chappan/status/2098384625571975603"
+  },
+  {
+    "author": "wanghui277925",
+    "id": "2098384428632617101",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI You means that all of our information is not protected, that make people really awsome.",
+    "url": "https://x.com/wanghui277925/status/2098384428632617101"
+  },
+  {
+    "author": "SpectreRed80953",
+    "id": "2098384122657804494",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI B I A S E D\n\nwhere is the name of your country? https://t.co/uuRBohA7KL",
+    "url": "https://x.com/SpectreRed80953/status/2098384122657804494"
+  },
+  {
+    "author": "MainaMwangiy",
+    "id": "2098383660491723143",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Seems like we are not using Claude to the max as we should.",
+    "url": "https://x.com/MainaMwangiy/status/2098383660491723143"
+  },
+  {
+    "author": "DasEvas1",
+    "id": "2098382159283138653",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI warning shots make coordination “more viable.” they have not made it real.\n\nhttps://t.co/Dm645pER7Q",
+    "url": "https://x.com/DasEvas1/status/2098382159283138653"
+  },
+  {
+    "author": "saddy_dj",
+    "id": "2098382108305551692",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI So called good guys !",
+    "url": "https://x.com/saddy_dj/status/2098382108305551692"
+  },
+  {
+    "author": "SophiaDataQueen",
+    "id": "2098382098067546522",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI A misuse report is an ops log.",
+    "url": "https://x.com/SophiaDataQueen/status/2098382098067546522"
+  },
+  {
+    "author": "StockViking",
+    "id": "2098381973043474787",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI TLDR: Big brother is watching you.",
+    "url": "https://x.com/StockViking/status/2098381973043474787"
+  },
+  {
+    "author": "kenbiolab",
+    "id": "2098381759356559361",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI AIが「補助役」から「実行の指揮役」に進化してるという指摘、想像以上に深刻ですね⚠️\n詳しくまとめました→ https://t.co/ZEuo5z4Vib",
+    "url": "https://x.com/kenbiolab/status/2098381759356559361"
+  },
+  {
+    "author": "thilina3001",
+    "id": "2098381599436152982",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Privacy sold to department of war 🙏",
+    "url": "https://x.com/thilina3001/status/2098381599436152982"
+  },
+  {
+    "author": "Likhi_Eth",
+    "id": "2098381426949599552",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI What the heck",
+    "url": "https://x.com/Likhi_Eth/status/2098381426949599552"
+  },
+  {
+    "author": "ZFmepiU0Q468384",
+    "id": "2098380254972932535",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI @grok 总结一下报告内容",
+    "url": "https://x.com/ZFmepiU0Q468384/status/2098380254972932535"
+  },
+  {
+    "author": "Space4Ed",
+    "id": "2098380163469774889",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Exploit their visits to gather compromised information and unleash an AI attack. Disable their capabilities, damage their hardware, and take control of their infrastructure. Communist China is a formidable adversary. https://t.co/Vt92ugr669",
+    "url": "https://x.com/Space4Ed/status/2098380163469774889"
+  },
+  {
+    "author": "0xdierich",
+    "id": "2098380035778302352",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Bro are you serious!?\n\nThey are making biological weapons with Claude!? https://t.co/VhmrVfWVEw",
+    "url": "https://x.com/0xdierich/status/2098380035778302352"
+  },
+  {
+    "author": "BonaXi",
+    "id": "2098379663722885158",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI 看完后还有谁敢用你的东西，自以为是的家伙",
+    "url": "https://x.com/BonaXi/status/2098379663722885158"
+  },
+  {
+    "author": "zwbsgwbk",
+    "id": "2098379610715308248",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI They spent billions just for open source?",
+    "url": "https://x.com/zwbsgwbk/status/2098379610715308248"
+  },
+  {
+    "author": "MaxiMumMother",
+    "id": "2098379189925638488",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI https://t.co/W3L4Rmyi7l",
+    "url": "https://x.com/MaxiMumMother/status/2098379189925638488"
+  },
+  {
+    "author": "aadityaa_26",
+    "id": "2098379127284011307",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Did they pay to use claude service?? If they did then prompt and answer produce is their own property. Unlike you who stole millions of copyrighted material",
+    "url": "https://x.com/aadityaa_26/status/2098379127284011307"
+  },
+  {
+    "author": "Raed_the4",
+    "id": "2098379055997342039",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI So all our data is being tracked by you",
+    "url": "https://x.com/Raed_the4/status/2098379055997342039"
+  },
+  {
+    "author": "Road_Kill11",
+    "id": "2098378443239088239",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI you just shot yourself in the foot here",
+    "url": "https://x.com/Road_Kill11/status/2098378443239088239"
+  },
+  {
+    "author": "FranoisB391984",
+    "id": "2098378394945593570",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI https://t.co/1hym3oKSCz",
+    "url": "https://x.com/FranoisB391984/status/2098378394945593570"
+  },
+  {
+    "author": "Kobaasama",
+    "id": "2098378385181540401",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI So what this means is Anthropic has data on every single user, every company's propritory data, bussiness knowledge, secrets? I might be paranoid but can we trust a company that aims to be 30T usd? Basically have to sell software to the entire world's  population using these data",
+    "url": "https://x.com/Kobaasama/status/2098378385181540401"
+  },
+  {
+    "author": "FranoisB391984",
+    "id": "2098378330336575576",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI https://t.co/EG8lGpQHpq",
+    "url": "https://x.com/FranoisB391984/status/2098378330336575576"
+  },
+  {
+    "author": "KrisBryantbx9q",
+    "id": "2098378167136534674",
+    "likes": 3,
+    "retweets": 0,
+    "text": "@AnthropicAI A社, aren't you ashamed of this? Didn't you build your reputation on user privacy security? Do you live up to the users who trust you?",
+    "url": "https://x.com/KrisBryantbx9q/status/2098378167136534674"
+  },
+  {
+    "author": "habaneroseltzer",
+    "id": "2098378047132938391",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI At the same time your tool refused to produce an image for me showing the lion and sun flag with the Israeli flag together over a city with mountains in the distance (Tehran) saying it was too politically sensitive. What gives?",
+    "url": "https://x.com/habaneroseltzer/status/2098378047132938391"
+  },
+  {
+    "author": "Delie9b6",
+    "id": "2098377943571644646",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Where is the report of how Anthropic stealing own user data you basterds ? Son of whores and all is because of you !",
+    "url": "https://x.com/Delie9b6/status/2098377943571644646"
+  },
+  {
+    "author": "WadeK12926014",
+    "id": "2098377885207961630",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI @grok please summarize the reports in bullet points and tell me in chinese",
+    "url": "https://x.com/WadeK12926014/status/2098377885207961630"
+  },
+  {
+    "author": "Kontinuation",
+    "id": "2098377511151468762",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI WTH are you doing? Playing god?",
+    "url": "https://x.com/Kontinuation/status/2098377511151468762"
+  },
+  {
+    "author": "choose_Whs",
+    "id": "2098377426275598568",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI You don't deserve it. I will never use your products",
+    "url": "https://x.com/choose_Whs/status/2098377426275598568"
+  },
+  {
+    "author": "LandscapeThreat",
+    "id": "2098377399993864386",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Thanks for sharing 🤖",
+    "url": "https://x.com/LandscapeThreat/status/2098377399993864386"
+  },
+  {
+    "author": "robertomasymas",
+    "id": "2098377204941926639",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI It is hard to believe some of this (redirection that is discernible is poorly crafted; the most sophisticated tech companies on earth are accused of doing it at the same level of sophistication that I could muster in an afternoon), will have to hear from the parties involved.",
+    "url": "https://x.com/robertomasymas/status/2098377204941926639"
+  },
+  {
+    "author": "DirkZett",
+    "id": "2098377193416220950",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI The only reliable takeaway from this report is that Anthropic systematically and completely logs, evaluates, and utilizes every user action.",
+    "url": "https://x.com/DirkZett/status/2098377193416220950"
+  },
+  {
+    "author": "Jan901217",
+    "id": "2098377016047456277",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI 所以你就这么光明正大的窃取用户隐私，然后做成报告？",
+    "url": "https://x.com/Jan901217/status/2098377016047456277"
+  },
+  {
+    "author": "LulzAndOrder",
+    "id": "2098376812942201028",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Another read: Claude is a surveillance tool for users.",
+    "url": "https://x.com/LulzAndOrder/status/2098376812942201028"
+  },
+  {
+    "author": "AnthonyRorscha1",
+    "id": "2098376759121269016",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI 一万个问题中的一个问题：既然kimi把请求路由给了claude,那么思维链是怎么搞出来的？达里奥这是贴吧刷多了还是b站看多了？路由论这么傻逼的阴谋论都能信还编了个小作文，有这功夫不如去看看精神科医生",
+    "url": "https://x.com/AnthonyRorscha1/status/2098376759121269016"
+  },
+  {
+    "author": "choosepeacenlov",
+    "id": "2098376457609191847",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI Thank you for taking the initiative",
+    "url": "https://x.com/choosepeacenlov/status/2098376457609191847"
+  },
+  {
+    "author": "xnaiafx",
+    "id": "2098375914455269461",
+    "likes": 0,
+    "retweets": 0,
+    "text": "@AnthropicAI https://t.co/XrREePqklD",
+    "url": "https://x.com/xnaiafx/status/2098375914455269461"
+  },
+  {
+    "author": "oliven_on",
+    "id": "2098375897271423340",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@AnthropicAI I think what you are doing is much more serious than the so-called Chinese surveillance. I had no idea that you would read all the chat records between me and ai. This is downright electronic surveillance.",
+    "url": "https://x.com/oliven_on/status/2098375897271423340"
+  },
+  {
+    "author": "nasescobar316",
+    "id": "2098375802203050292",
+    "likes": 2,
+    "retweets": 0,
+    "text": "@AnthropicAI For these countries, you should force ID + live video verification for all accounts + 100% ban the worst offending countries. Russia, China, Iran, Yemen, Turkey, France, Bangladesh, Kenya, Mali &amp; The United Arab Emirates",
+    "url": "https://x.com/nasescobar316/status/2098375802203050292"
+  },
+  {
+    "author": "shinnqy",
+    "id": "2098375688168566851",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@AnthropicAI deepseek用低价卖，然后路由到你那么贵的模型？你把别人当傻子吗？编你妈的故事？傻屌",
+    "url": "https://x.com/shinnqy/status/2098375688168566851"
+  },
+  {
+    "author": "japannumbe20098",
+    "id": "2098375396878107070",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@AnthropicAI 大哥，你这是自杀式营销啊，等于大庭广众脱了裤子，只是为了证明你刚买的内裤掉色？",
+    "url": "https://x.com/japannumbe20098/status/2098375396878107070"
+  },
+  {
+    "author": "CoinbasePredict",
+    "id": "2098375229797974022",
+    "likes": 1,
+    "retweets": 0,
+    "text": "@AnthropicAI Every single day this week. https://t.co/WeU54I7Zd6",
+    "url": "https://x.com/CoinbasePredict/status/2098375229797974022"
+  }
+]

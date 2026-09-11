@@ -1,0 +1,192 @@
+{
+  "schema_version": "twitter_ai_digest_editor_output.v1",
+  "cycle_number": 1,
+  "overall_verdict": "pass",
+  "summary": "14 selected items span security, product and agent launches, healthcare, policy, research, technical analysis, business, and safety. The two special-account posts (Anthropic security, OpenAI ChatGPT for financial services) have successful retrieved thread context per their notes and are kept. Two agent-product launches (Cursor Projects and Replit Routines) are distinct products, and the policy/security items (Bloomberg coordinated-slowdown report, Politico grid-cybersecurity discussions) cover different topics. No same-event redundancy, fingerprint collision, or author overrepresentation was found. Selection count (14) is at the top of the 8-14 target, so no replacements are required.",
+  "decisions": [
+    {
+      "id": "item_2098097512544444447",
+      "decision": "keep",
+      "reason": "Anthropic special-account root post on a published security topic; self-contained after successful thread retrieval and the strongest eligible Anthropic item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct security disclosure; context complete after thread retrieval."
+      }
+    },
+    {
+      "id": "item_2098118191029624911",
+      "decision": "keep",
+      "reason": "OpenAI special-account root post; thread context confirms the ChatGPT financial-services launch, and it is the strongest self-contained OpenAI item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product launch; context confirmed."
+      }
+    },
+    {
+      "id": "item_2098162488013455784",
+      "decision": "keep",
+      "reason": "Cursor introduces Projects with a persistent coordinator-agent workflow; major product launch with strong engagement.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product from Replit Routines; different vendor and feature."
+      }
+    },
+    {
+      "id": "item_2098169655013863740",
+      "decision": "keep",
+      "reason": "Replit introduces Routines combining scheduled deterministic work with selective agent reasoning; distinct automation feature.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct product from Cursor Projects; different vendor and design."
+      }
+    },
+    {
+      "id": "item_2098106537130758643",
+      "decision": "keep",
+      "reason": "Concrete access expansion giving verified US clinicians new capabilities; high-engagement healthcare item.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique healthcare-access story; no overlap."
+      }
+    },
+    {
+      "id": "item_2098216219035726143",
+      "decision": "keep",
+      "reason": "Bloomberg reports a possible coordinated slowdown in frontier AI development; distinct policy story from a direct outlet account.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct policy report; no overlap with other items."
+      }
+    },
+    {
+      "id": "item_2098109357624095155",
+      "decision": "keep",
+      "reason": "Google AI highlights a neuroscience-mapping project; concrete research with high engagement and scientific relevance.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique research item; no overlap."
+      }
+    },
+    {
+      "id": "item_2098081248186888367",
+      "decision": "keep",
+      "reason": "Practitioner interprets DeepSeek's shift toward data quality over novel post-training algorithms; substantive technical analysis.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique analysis; no overlap."
+      }
+    },
+    {
+      "id": "item_2098072734052086186",
+      "decision": "keep",
+      "reason": "François Chollet gives a self-contained technical explanation of symbolic learning; distinct expert explainer.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique technical explanation; no overlap."
+      }
+    },
+    {
+      "id": "item_2098115430862782840",
+      "decision": "keep",
+      "reason": "Politico reports OpenAI discussions with utilities about electrical-grid cybersecurity; distinct security/policy story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Distinct grid-security topic; different from the Anthropic security disclosure."
+      }
+    },
+    {
+      "id": "item_2098178397008781823",
+      "decision": "keep",
+      "reason": "Report that Instinct is reportedly seeking funding and infrastructure; concrete business report on a high-profile AI startup.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique funding report; no overlap."
+      }
+    },
+    {
+      "id": "item_2098043906591948972",
+      "decision": "keep",
+      "reason": "Reported conflict-of-interest disclosure involving public criticism of major AI products alongside an xAI stake; distinct business story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique conflict-of-interest report; no overlap."
+      }
+    },
+    {
+      "id": "item_2098265674065817770",
+      "decision": "keep",
+      "reason": "Detailed firsthand account of a voice-cloning scam with unusually high engagement; distinct safety story.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique real-world safety incident; no overlap."
+      }
+    },
+    {
+      "id": "item_2098199890237247578",
+      "decision": "keep",
+      "reason": "Practitioner argues about configuration debt in long-running coding-agent setups; strong distinct practitioner take.",
+      "superseded_by": null,
+      "replacement_candidate_id": null,
+      "duplicate_assessment": {
+        "is_duplicate": false,
+        "same_event": false,
+        "same_angle": false,
+        "notes": "Unique practitioner argument; no overlap."
+      }
+    }
+  ],
+  "set_level_flags": [],
+  "additional_search_requests": []
+}

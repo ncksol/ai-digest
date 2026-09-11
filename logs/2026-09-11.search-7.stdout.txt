@@ -1,0 +1,92 @@
+[
+  {
+    "author": "kimmonismus",
+    "id": "2098338863991185419",
+    "likes": 494,
+    "replies": 166,
+    "retweets": 37,
+    "text": "Not good: OpenAI is considering slowing down the development of cutting-edge AI, Sam Altman is hoping other AI companies will do the same. \n\nVia Bloomberg\n\n\"In a company-wide meeting this week, Altman told employees that OpenAI could potentially pace its AI development — perhaps",
+    "url": "https://x.com/kimmonismus/status/2098338863991185419",
+    "views": 28000
+  },
+  {
+    "author": "wholyv",
+    "id": "2097998569336951156",
+    "likes": 494,
+    "replies": 3,
+    "retweets": 10,
+    "text": "opening up the directory of failed startups and seeing sam altman there wasn’t on my 2026 list.",
+    "url": "https://x.com/wholyv/status/2097998569336951156",
+    "views": 21000
+  },
+  {
+    "author": "business",
+    "id": "2098216219035726143",
+    "likes": 165,
+    "replies": 40,
+    "retweets": 73,
+    "text": "OpenAI is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker’s CEO Sam Altman is hoping that other AI companies will do the same. Read more: https://bloom.bg/3SRJVkx\n\n📷️: Cornell Watson/Bloomberg",
+    "url": "https://x.com/business/status/2098216219035726143",
+    "views": 58000
+  },
+  {
+    "author": "bat_mike_",
+    "id": "2098372871651315760",
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Sam Altman after the ChatGPT for Financial Services update",
+    "url": "https://x.com/bat_mike_/status/2098372871651315760",
+    "views": 5
+  },
+  {
+    "author": "MTSlive",
+    "id": "2098150563586494790",
+    "likes": 196,
+    "replies": 25,
+    "retweets": 10,
+    "text": "SITUATION DETECTED: Senator Chris Van Hollen wrote Sam Altman raising concerns about GPT-6 Astra, and said that if OpenAI does not have sufficient monitorability to assure the safety of its models it should immediately remove them from public access.",
+    "url": "https://x.com/MTSlive/status/2098150563586494790",
+    "views": 28000
+  },
+  {
+    "author": "ikhwanuddin",
+    "id": "2097790209752551712",
+    "likes": 912,
+    "replies": 16,
+    "retweets": 92,
+    "text": "This is one really evil human",
+    "url": "https://x.com/ikhwanuddin/status/2097790209752551712",
+    "views": 56000
+  },
+  {
+    "author": "Take_Niggasaki",
+    "id": "2097856662497587599",
+    "likes": 62,
+    "replies": 1,
+    "retweets": 2,
+    "text": "Even Elon got duped, yet still trusts this guy's integrity—his naivety is just over the top. The key thing is becoming a billionaire.\nHis AI can replicate and quietly slip out of the system on its own, whereas Claude's AI under Dario immediately reported to the NHS because it was",
+    "url": "https://x.com/Take_Niggasaki/status/2097856662497587599",
+    "views": 3600
+  },
+  {
+    "author": "Take_Niggasaki",
+    "id": "2097889597627961811",
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "text": "Nih tambahan jahatnya si OpenAI Sam Altman. Jangan pakai chatgpt deh",
+    "url": "https://x.com/Take_Niggasaki/status/2097889597627961811",
+    "views": 410
+  },
+  {
+    "author": "luke_leisher_",
+    "id": "2098100422682595791",
+    "likes": 1600,
+    "replies": 34,
+    "retweets": 85,
+    "text": "\"Help, I'm a potential room temperature superconductor and sam altman just announced he's dedicating 10,000 frontier agents towards finding me what do i do\"",
+    "url": "https://x.com/luke_leisher_/status/2098100422682595791",
+    "views": 108000
+  }
+]
