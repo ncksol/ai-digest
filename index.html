@@ -588,6 +588,10 @@
       }
 
       container.querySelectorAll("a").forEach((link) => {
+        // Older digests link sources through xcancel.com; send readers straight to X.
+        if (/^https?:\/\/(?:www\.)?xcancel\.com\//i.test(link.href)) {
+          link.href = link.href.replace(/^https?:\/\/(?:www\.)?xcancel\.com\//i, "https://x.com/");
+        }
         link.target = "_blank";
         link.rel = "noopener noreferrer";
       });
